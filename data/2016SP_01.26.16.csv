@@ -1,0 +1,777 @@
+Section Name,Title ,Term ,Location ,Instructional Method,Current Status,Section Capacity ,Active Student Count,Building ,Room,Days,Start Time ,End time ,Faculty First ,Faculty Last ,E-Mail address - Primary,Start Date,End Date,Cross Listed,Subject,Acad Level
+ACC-130-01,Financial Accounting,2016SP,,STN,A,24,12,CCM,444,"M, TH", 9:30 AM, 10:45 AM,Thane,Butt,butt@champlain.edu,1/18/2016,5/6/2016,,ACC,UG
+ACC-130-02,Financial Accounting,2016SP,,STN,A,24,7,"CCM, CCM","444, 444","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Thane,Butt,butt@champlain.edu,1/18/2016,5/6/2016,,ACC,UG
+ACC-140-01,Managerial Accounting,2016SP,,STN,A,24,24,JOYC,210,"M, TH", 11:00 AM, 12:15 PM,David,Mona,mona@champlain.edu,1/18/2016,5/6/2016,,ACC,UG
+ACC-140-02,Managerial Accounting,2016SP,,STN,A,24,17,"JOYC, JOYC","310, 310","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",David,Mona,mona@champlain.edu,1/18/2016,5/6/2016,,ACC,UG
+ACC-140-51,Managerial Accounting,2016SP,,STN,A,24,16,JOYC,310,"M, W", 5:00 PM, 6:15 PM,David,Mona,mona@champlain.edu,1/18/2016,5/6/2016,,ACC,UG
+ACC-231-01,Intermediate Accounting II,2016SP,,STN,A,24,22,JOYC,202,"T, TH", 12:30 PM, 1:45 PM,David,Mona,mona@champlain.edu,1/18/2016,5/6/2016,,ACC,UG
+ACC-350-71,Accounting Information Systems,2016SP,,HYBRD,A,24,9,WICK,101,M, 5:30 PM, 6:45 PM,Thomas,Connors,tconnors@champlain.edu,1/18/2016,5/6/2016,,ACC,UG
+ACC-370-01,Volunteer Income Tax Assistanc,2016SP,,FLD,A,24,16,,,,,,Nicole,Morris,nmorris@champlain.edu,1/18/2016,5/6/2016,,ACC,UG
+ACC-390-01,Accounting Internship,2016SP,,FLD,A,6,4,GBTC,17,"T, TH", 12:30 PM, 1:45 PM,Thomas,Myers,myers@champlain.edu,1/18/2016,5/6/2016,"ACC-390-01, INT-490-01, MKT-290-01, MKT-490-01",ACC,UG
+ACC-390-02,Accounting Internship,2016SP,,FLD,A,2,1,JOYC,304,"W, F", 2:00 PM, 3:15 PM,Thomas,Myers,myers@champlain.edu,1/18/2016,5/6/2016,"MGT-390-01, MGT-290-01, ACC-390-02",ACC,UG
+ACC-420-01,Auditing,2016SP,,STN,A,24,18,CCM,444,"M, TH", 8:00 AM, 9:15 AM,Thane,Butt,butt@champlain.edu,1/18/2016,5/6/2016,,ACC,UG
+ACCT-230-81,Intermediate Accounting I,2016SP,OL,ONL,A,25,14,,,,,,Christopher,Ellingwood,cellingwood@champlain.edu,1/18/2016,5/6/2016,,ACCT,UG
+ACCT-230-81A,Intermediate Accounting I,2016SP,OL,ONL,A,25,15,,,,,,Shamelda,Pete,spete@champlain.edu,1/18/2016,5/6/2016,,ACCT,UG
+ACCT-230-81B,Intermediate Accounting I,2016SP,OL,ONL,A,20,16,,,,,,Shamelda,Pete,spete@champlain.edu,1/18/2016,5/6/2016,,ACCT,UG
+ACCT-231-81,Intermediate Accounting II,2016SP,OL,ONL,A,25,23,,,,,,James,Monroe,jmonroe@champlain.edu,1/18/2016,5/6/2016,,ACCT,UG
+ACCT-310-81,Federal Taxes I,2016SP,OL,ONL,A,20,9,,,,,,Michelle,Worth,mworth@champlain.edu,1/18/2016,5/6/2016,,ACCT,UG
+ACCT-400-81,Advanced Accounting,2016SP,OL,ONL,A,20,5,,,,,,James,Monroe,jmonroe@champlain.edu,1/18/2016,5/6/2016,,ACCT,UG
+ACCT-410-81,Federal Taxes II,2016SP,OL,ONL,A,25,18,,,,,,Lisa,Hebert,lhebert@champlain.edu,1/18/2016,5/6/2016,,ACCT,UG
+ART-110-01,"Drawing, Introductory",2016SP,,STU,A,20,15,CCM,434,T, 12:30 PM, 3:15 PM,Gilbert,Church,Church@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-110-02,"Drawing, Introductory",2016SP,,STU,A,20,15,CCM,434,TH, 9:30 AM, 12:15 PM,Gilbert,Church,Church@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-115-01,"Photography, Introduction to",2016SP,,STU,A,15,15,JOYC,102,T, 9:30 AM, 12:15 PM,Jordan,Douglas,jdouglas@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-115-51,"Photography, Introduction to",2016SP,,STU,A,15,15,JOYC,102,W, 5:30 PM, 8:15 PM,Jordan,Douglas,jdouglas@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-120-01,Art History,2016SP,,STN,A,24,15,GBTC,114,"T, F", 11:00 AM, 12:15 PM,Marc,Nadel,nadel@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-120-02,Art History,2016SP,,STN,A,24,24,CCM,233,"T, TH", 3:30 PM, 4:45 PM,Gilbert,Church,Church@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-135-01,Anatomy & Perspective Drawing,2016SP,,STU,A,20,22,CCM,434,M, 9:30 AM, 12:15 PM,Anne,Fawkes,afawkes@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-135-02,Anatomy & Perspective Drawing,2016SP,,STU,A,20,19,CCM,434,T, 9:30 AM, 12:15 PM,Anne,Fawkes,afawkes@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-145-01,"Sculpture, Introduction to",2016SP,,STU,A,18,18,CCM,434,W, 9:30 AM, 12:15 PM,Alexander,Costantino,acostantino@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-181-01,Dance As Expression,2016SP,,STN,A,18,14,CCM,305,TH, 9:30 AM, 12:15 PM,Lida,Winfield,lwinfield@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-215-51,"Photography, Intermediate",2016SP,,STU,A,16,4,JOYC,102,T, 5:30 PM, 8:15 PM,Jordan,Douglas,jdouglas@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-220-201,Cultural Immersion/Fine Arts,2016SP,DUBL,STN,A,15,10,,,W, 9:30 AM, 12:15 PM,Jacinta,Kendrick,jkendrick@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-282-01,Sequential Art,2016SP,,STN,A,15,12,CCM,434,W, 12:30 PM, 3:15 PM,Marc,Nadel,nadel@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-312-01,Printmaking Studio,2016SP,,STN,A,10,9,MAUD,BCA,T, 1:00 PM, 4:30 PM,Katie,Loesel,kloesel@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-330-201,Ceol na hEireann:Cultural Imm,2016SP,DUBL,STN,A,15,12,,,M, 9:00 AM, 11:45 AM,Caroline,Elbay,celbay@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-339-51,Painting Other Worlds,2016SP,,STN,A,16,16,CCM,434,TH, 5:30 PM, 8:15 PM,Marc,Nadel,nadel@champlain.edu,1/18/2016,5/6/2016,"ART-339-51, EMM-5339ART-51",ART,UG
+ART-380-01,Art History:Book Illustration,2016SP,,STN,A,20,20,CCM,434,M, 12:30 PM, 3:15 PM,Toni-Lee,Sangastiano,sangastiano@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+ART-380-201,Adv. Art History:Spec. Topics,2016SP,DUBL,STN,A,15,11,,,T, 9:30 AM, 12:15 PM,Ian,Oliver,ioliver@champlain.edu,1/18/2016,5/6/2016,,ART,UG
+BLW-140-01,Business Law I,2016SP,,STN,A,24,23,"GBTC, GBTC","117, 117","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",James,Fry,fry@champlain.edu,1/18/2016,5/6/2016,,BLW,UG
+BLW-140-02,Business Law I,2016SP,,STN,A,24,9,"GBTC, GBTC","117, 117","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",James,Fry,fry@champlain.edu,1/18/2016,5/6/2016,,BLW,UG
+BLW-140-03,Business Law I,2016SP,,STN,A,24,23,GBTC,114,"T, TH", 12:30 PM, 1:45 PM,James,Fry,fry@champlain.edu,1/18/2016,5/6/2016,,BLW,UG
+BLW-140-51,Business Law I,2016SP,,STN,A,24,16,GBTC,112,TH, 5:30 PM, 8:15 PM,Lewis,Sussman,"lsussman@champlain.edu, rcooley@champlain.edu",1/18/2016,5/6/2016,,BLW,UG
+BLW-245-51,Business Law II,2016SP,,STN,A,24,8,GBTC,117,TH, 5:30 PM, 8:15 PM,James,Fry,fry@champlain.edu,1/18/2016,5/6/2016,,BLW,UG
+BUS-110-01,Business & Entrep. Mindset,2016SP,,STN,A,24,7,"GBTC, GBTC","206, 206","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Larry,Wood,lwood@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-115-01,Quantitative Lang. of Business,2016SP,,STN,A,24,16,"GBTC, GBTC","217, 217","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Larry,Wood,lwood@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-115-51,Quantitative Lang. of Business,2016SP,,STN,A,24,5,JOYC,212,TH, 5:30 PM, 8:15 PM,Hurley,Cavacas,hcavacas@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-120-01,Marketing & the Org. Mindset,2016SP,,STN,A,24,25,CCM,424,"T, TH", 12:30 PM, 1:45 PM,Robert,Bloch,rbloch@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-120-02,Marketing & the Org. Mindset,2016SP,,STN,A,24,22,GBTC,114,"W, F", 12:30 PM, 1:45 PM,Thomas,Myers,myers@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-120-03,Marketing & the Org. Mindset,2016SP,,STN,A,24,24,GBTC,114,"T, F", 9:30 AM, 10:45 AM,Thomas,Myers,myers@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-120-04,Marketing & the Org. Mindset,2016SP,,STN,A,24,24,CCM,232,"T, TH", 3:30 PM, 4:45 PM,Thomas,Myers,myers@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-210-01,Corporate Social Responsibil.,2016SP,,STN,A,24,7,GBTC,117,"W, F", 12:30 PM, 1:45 PM,William,Hancy,whancy@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-210-02,Corporate Social Responsibil.,2016SP,,STN,A,24,23,WICK,102,"M, TH", 9:30 AM, 10:45 AM,William,Hancy,whancy@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-210-03,Corporate Social Responsibil.,2016SP,,STN,A,24,21,GBTC,217,"W, F", 12:30 PM, 1:45 PM,Parthiv,Patel,ppatel@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-310-01,Int'l Bus. & Macroeconomics,2016SP,,STN,A,24,18,MIC,305/306,"T, TH", 12:30 PM, 1:45 PM,Parthiv,Patel,ppatel@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-310-02,Int'l Bus. & Macroeconomics,2016SP,,STN,A,24,19,MIC,305/306,"T, TH", 2:00 PM, 3:15 PM,Parthiv,Patel,ppatel@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+BUS-310-101,Int'l Bus. & Macroeconomics,2016SP,MONT,STN,A,24,4,,,W, 6:00 PM, 8:45 PM,Jamie,Ronson,,1/18/2016,5/6/2016,,BUS,UG
+BUS-310-201,Int'l Bus. & Macroeconomics,2016SP,DUBL,STN,A,15,8,,,M, 5:15 PM, 8:00 PM,Seamus,White,swhite@champlain.edu,1/18/2016,5/6/2016,,BUS,UG
+CCC-310-01,Integrative Film Practices,2016SP,,STN,A,25,14,CCM,233,T, 12:30 PM, 1:45 PM,Kerry,Noonan,knoonan@champlain.edu,1/18/2016,5/6/2016,,CCC,UG
+CCC-410-01,College Capstone: Psychology,2016SP,,STN,A,10,11,JOYC,201,TH, 9:30 AM, 12:15 PM,Bjarne,Holmes,"bmholmes@champlain.edu, kwright@champlain.edu",1/18/2016,5/6/2016,,CCC,UG
+CCC-410-02,College Capstone:Psychology,2016SP,,STN,A,10,11,JOYC,310,TH, 9:30 AM, 12:15 PM,Gary,Baker,"gbaker@champlain.edu, kwright@champlain.edu",1/18/2016,5/6/2016,"CCC-410-02, CCC-410-03",CCC,UG
+CCC-410-03,College Capstone: Psychology,2016SP,,STN,A,10,12,JOYC,310,TH, 9:30 AM, 12:15 PM,Barbara,Ferrante,"bcolombo@champlain.edu, kwright@champlain.edu",1/18/2016,5/6/2016,"CCC-410-02, CCC-410-03",CCC,UG
+CCC-410-04,College Capstone:Prof Writing,2016SP,,STN,A,16,14,"CCM, CCM","232, 232","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Warren,Baker,"baker@champlain.edu, eshonstrom@champlain.edu",1/18/2016,5/6/2016,,CCC,UG
+CCC-410-05,CollegeCapstone:CreativeMedia,2016SP,,STN,A,20,15,"GBTC, GBTC","217, 217","T, F"," 9:30 AM,  11:00 AM"," 12:15 PM,  12:15 PM",Kenneth,Howell,"khowell@champlain.edu, esckilse@champlain.edu",1/18/2016,5/6/2016,,CCC,UG
+CCC-410-07,College Capstone: Education,2016SP,,STN,A,25,25,GBTC,114,TH, 4:00 PM, 6:45 PM,Kathryn,Leo-Nyquist,"leo@champlain.edu, c.brandenburg@champlain.edu",1/18/2016,5/6/2016,,CCC,UG
+CCC-410-08,College Capstone: Education,2016SP,,STN,A,20,3,GBTC,206,TH, 4:00 PM, 6:45 PM,John,Stroup,jstroup@champlain.edu,1/18/2016,5/6/2016,,CCC,UG
+CCC-410-09,College Capstone: Env. Policy,2016SP,,STN,A,20,7,GBTC,201,TH, 2:00 PM, 4:45 PM,Valerie,Esposito,"vesposito@champlain.edu, kwolf@champlain.edu",1/18/2016,5/6/2016,,CCC,UG
+CCC-410-10,College Capstone: Business,2016SP,,STN,A,20,28,GBTC,217,T, 2:00 PM, 4:45 PM,Shane,Moser,"smoser@champlain.edu, wbalda@champlain.edu",1/18/2016,5/6/2016,,CCC,UG
+CCC-410-11,College Capstone: Accounting,2016SP,,STN,A,20,15,"JOYC, JOYC","211, 211","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Jennifer,Vincent,"jvincent@champlain.edu, butt@champlain.edu",1/18/2016,5/6/2016,,CCC,UG
+CCC-410-12,College Capstone: Marketing,2016SP,,STN,A,20,16,JOYC,305,W, 12:30 PM, 3:15 PM,Elaine,Young,"eyoung@champlain.edu, kite@champlain.edu",1/18/2016,5/6/2016,,CCC,UG
+CCC-410-13,College Capstone: Film,2016SP,,STN,A,18,18,"FOST, FOST","101, 101","T, TH"," 2:00 PM,  2:00 PM"," 4:45 PM,  3:15 PM",Julia,Swift,"jswift@champlain.edu, knoonan@champlain.edu",1/18/2016,5/6/2016,,CCC,UG
+CCC-410-14,CollegeCapstone:Prof. Writing,2016SP,,STN,A,16,14,"CCM, CCM","232, 232","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Warren,Baker,"baker@champlain.edu, eshonstrom@champlain.edu",1/18/2016,5/6/2016,,CCC,UG
+CCC-410MCM-01,Media Communication Capstone,2016SP,,STN,A,18,19,CCM,424,"M, TH", 11:00 AM, 12:15 PM,Nancy,Kerr,kerr@champlain.edu,1/18/2016,5/6/2016,,CCC,UG
+CCC-410MCM-02,Media Communication Capstone,2016SP,,STN,A,18,17,CCM,444,"M, TH", 11:00 AM, 12:15 PM,Kristen,Tripodi,ktripodi@champlain.edu,1/18/2016,5/6/2016,,CCC,UG
+CCC-410SWK-01,CC:Social Work FieldSeminar2,2016SP,,STN,A,15,11,JOYC,103,TH, 9:30 AM, 10:45 AM,Tarn,Foerg,tfoerg@champlain.edu,1/18/2016,5/6/2016,,CCC,UG
+CCC-412-01,ITS Capstone Senior Project,2016SP,,STN,A,20,16,MIC,308,F, 12:30 PM, 3:15 PM,Wei Kian,Chen,chen@champlain.edu,1/18/2016,5/6/2016,,CCC,UG
+CCC-412-02,ITS Capstone Senior Project,2016SP,,STN,A,20,18,FOST,100,"W, F", 2:00 PM, 3:15 PM,Yogeshkumar,Khatri,khatri@champlain.edu,1/18/2016,5/6/2016,,CCC,UG
+CCC-412-03,ITS Capstone Senior Project,2016SP,,STN,A,20,21,"JOYC, SKFA","311, 102","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",James,Hoag,jhoag@champlain.edu,1/18/2016,5/6/2016,,CCC,UG
+CCC-412-04,ITS Capstone Senior Project,2016SP,,STN,A,20,6,JOYC,304,"T, TH", 2:00 PM, 3:15 PM,Frank,Canovatchel,canovatchel@champlain.edu,1/18/2016,5/6/2016,,CCC,UG
+CFDI-450-81,Sr Sem /Digital Investigation,2016SP,OL,ONL,A,25,23,,,,,,Erin,Gruene,egruene@champlain.edu,1/18/2016,5/6/2016,,CFDI,UG
+CFDI-490-81,Forensics Internship,2016SP,OL,ONL,A,1,0,,,,,,Richard,Messier,rmessier@champlain.edu,1/18/2016,5/6/2016,,CFDI,UG
+CIT-130-01,"Networking & Security, Intro",2016SP,,STN,A,18,17,SKFA,100,"T, TH", 3:30 PM, 4:45 PM,Joseph,Williams,jwilliams@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-130-02,"Networking & Security, Intro",2016SP,,STN,A,15,9,SKFA,102,M, 12:30 PM, 3:15 PM,John,McHugh,jmchugh@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-135-01,"Computer Theory, Introduction",2016SP,,STN,A,24,22,FOST,104,"W, F", 12:30 PM, 1:45 PM,Frank,Canovatchel,canovatchel@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-135-02,"Computer Theory, Introduction",2016SP,,STN,A,24,20,WICK,101,"T, TH", 3:30 PM, 4:45 PM,Frank,Canovatchel,canovatchel@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-135-51,"Computer Theory, Introduction",2016SP,,STN,A,20,20,FOST,100,"M, W", 5:30 PM, 6:45 PM,Brian,Brumley,bbrumley@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-140-01,Systems Software,2016SP,,STN,A,14,14,SKFA,102,"M, TH", 11:00 AM, 12:15 PM,John,Rogate,rogate@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-140-02,Systems Software,2016SP,,STN,A,14,13,SKFA,100,"W, F", 12:30 PM, 1:45 PM,Joseph,Telensky,jtelensky@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-140-51,Systems Software,2016SP,,STN,A,20,19,SKFA,100,"M, W", 5:30 PM, 6:45 PM,David,Ginter,dginter@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-140-52,Systems Software,2016SP,,STN,A,20,17,SKFA,100,"M, W", 7:00 PM, 8:15 PM,David,Ginter,dginter@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-140-53,Systems Software,2016SP,,STN,A,20,14,SKFA,100,T, 5:30 PM, 8:15 PM,Eric,Shore,eshore@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-310-01,Database Systems,2016SP,,STN,A,24,11,WICK,101,"T, TH", 12:30 PM, 1:45 PM,Frank,Canovatchel,canovatchel@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CIT-365-01,MIS: Enterprise Architecture,2016SP,,STN,A,24,5,JOYC,310,"T, TH", 3:30 PM, 4:45 PM,Ean,Briere,ebriere@champlain.edu,1/18/2016,5/6/2016,,CIT,UG
+CMIT-410-81,Information Systems Design,2016SP,OL,ONL,A,20,2,,,,,,James,Antonakos,jantonakos@champlain.edu,1/18/2016,5/6/2016,,CMIT,UG
+CMIT-420-81,Info Systems Development,2016SP,OL,ONL,A,20,5,,,,,,James,Antonakos,jantonakos@champlain.edu,1/18/2016,5/6/2016,,CMIT,UG
+CMIT-450-81,Senior Seminar Project,2016SP,OL,ONL,A,20,7,,,,,,James,Antonakos,jantonakos@champlain.edu,1/18/2016,5/6/2016,,CMIT,UG
+COM-100-02,"Human Communication, Foundat.",2016SP,,STN,A,18,14,MIC,305/306,"W, F", 12:30 PM, 1:45 PM,Nicole,St. Louis,nstlouis@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-100-03,"Human Communication, Foundat.",2016SP,,STN,A,18,14,GBTC,206,"M, TH", 11:00 AM, 12:15 PM,Cheryl,Casey,ccasey@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-110-01,Public Speaking,2016SP,,STN,A,18,16,WICK,100,"T, F", 9:30 AM, 10:45 AM,Gael,Boardman,boardman@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-110-02,Public Speaking,2016SP,,STN,A,18,17,GBTC,206,"M, TH", 9:30 AM, 10:45 AM,Alexandra,Hudson,ahudson@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-220-01,Communication and Ethics,2016SP,,STN,A,21,19,GBTC,112,T, 2:00 PM, 4:45 PM,Genevieve,Jacobs,jacobs@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-220-02,Communication and Ethics,2016SP,,STN,A,21,22,CCM,232,"T, F", 11:00 AM, 12:15 PM,Genevieve,Jacobs,jacobs@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-230-01,Small Group Communication,2016SP,,STN,A,25,24,CCM,232,"T, F", 9:30 AM, 10:45 AM,Genevieve,Jacobs,jacobs@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-230-101,Small Group Communication,2016SP,MONT,STN,A,25,7,,,TH, 1:00 PM, 3:45 PM,Mark,Medicoff,mmedicoff@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-270-201,Intercultural Communication,2016SP,DUBL,STN,A,15,12,,,M, 5:15 PM, 8:00 PM,Caoimhghin,O Croidheain,cocroidheain@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-270-51,Intercultural Communication,2016SP,,STN,A,20,11,CCM,232,T, 5:30 PM, 8:15 PM,Helene,Guariglia,hguariglia@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-350-51,Conflict Management,2016SP,,STN,A,20,9,CCM,232,TH, 5:30 PM, 8:15 PM,Alfred,Mills,amills@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-360-71,Social Interaction/Digital Age,2016SP,,HYBRD,A,15,12,FREE,201,F, 9:30 AM, 10:45 AM,Rachael,Jurek,rjurek@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COM-401-51,Environmental Communication,2016SP,,STN,A,18,11,CCM,232,M, 5:30 PM, 8:15 PM,Trevien,Stanger,tstanger@champlain.edu,1/18/2016,5/6/2016,,COM,UG
+COR-110-01,Concepts of the Self,2016SP,,STN,A,20,7,JOYC,313,"W, F", 12:30 PM, 1:45 PM,Sanford,Zale,szale@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-115-01,Rhetoric of Self,2016SP,,STN,A,20,10,JOYC,304,"T, TH", 3:30 PM, 4:45 PM,Janice,Gohm Webster,websterj@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-01,Concepts of Community,2016SP,,STN,A,20,20,WICK,102,"T, F", 8:00 AM, 9:15 AM,Charles,Bashaw,cbashaw@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-02,Concepts of Community,2016SP,,STN,A,20,21,WICK,102,"T, F", 9:30 AM, 10:45 AM,Charles,Bashaw,cbashaw@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-03TVL,Concepts of Community,2016SP,,STN,A,20,16,"CCM, CCM","442, 442","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Cynthia,Brandenburg,c.brandenburg@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-04,Concepts of Community,2016SP,,STN,A,20,19,JOYC,212,"T, TH", 2:00 PM, 3:15 PM,Cynthia,Brandenburg,c.brandenburg@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-05,Concepts of Community,2016SP,,STN,A,20,20,JOYC,211,"T, TH", 12:30 PM, 1:45 PM,Cynthia,Brandenburg,c.brandenburg@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-06,Concepts of Community,2016SP,,STN,A,20,20,GBTC,17,"T, F", 9:30 AM, 10:45 AM,Ciaran,Buckley,cbuckley@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-07,Concepts of Community,2016SP,,STN,A,20,21,GBTC,17,"T, F", 11:00 AM, 12:15 PM,Ciaran,Buckley,cbuckley@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-08,Concepts of Community,2016SP,,STN,A,20,18,CCM,221,"T, F", 11:00 AM, 12:15 PM,Robert,Mayer,mayer@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-09,Concepts of Community,2016SP,,STN,A,20,19,GBTC,17,"T, TH", 5:00 PM, 6:15 PM,Brett,Sigurdson,bsigurdson@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-10,Concepts of Community,2016SP,,STN,A,20,21,CCM,221,"T, TH", 3:30 PM, 4:45 PM,Brett,Sigurdson,bsigurdson@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-11,Concepts of Community,2016SP,,STN,A,20,20,JOYC,203,"T, TH", 12:30 PM, 1:45 PM,Brett,Sigurdson,bsigurdson@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-12,Concepts of Community,2016SP,,STN,A,20,21,JOYC,305,"T, TH", 12:30 PM, 1:45 PM,Kristin,Novotny,knovotny@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-13,Concepts of Community,2016SP,,STN,A,20,20,JOYC,305,"T, TH", 2:00 PM, 3:15 PM,Kristin,Novotny,knovotny@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-14,Concepts of Community,2016SP,,STN,A,20,21,JOYC,311,"T, F", 9:30 AM, 10:45 AM,Frank,Robinson,frobinson@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-15,Concepts of Community,2016SP,,STN,A,20,20,JOYC,311,"T, F", 11:00 AM, 12:15 PM,Frank,Robinson,frobinson@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-16,Concepts of Community,2016SP,,STN,A,20,20,"JOYC, JOYC","102, 102","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",David,Mills,david.mills@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-17,Concepts of Community,2016SP,,STN,A,20,20,"JOYC, JOYC","102, 102","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",David,Mills,david.mills@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-18,Concepts of Community,2016SP,,STN,A,20,19,JOYC,311,"T, TH", 3:30 PM, 4:45 PM,David,Rous,rous@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-19,Concepts of Community,2016SP,,STN,A,20,17,JOYC,302,"T, TH", 5:00 PM, 6:15 PM,David,Rous,rous@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-20,Concepts of Community,2016SP,,STN,A,20,19,CCM,221,"W, F", 12:30 PM, 1:45 PM,Alfonso,Capone,capone@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-21,Concepts of Community,2016SP,,STN,A,20,20,CCM,232,"T, F", 8:00 AM, 9:15 AM,Alfonso,Capone,capone@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-22,Concepts of Community,2016SP,,STN,A,20,17,CCM,424,"T, F", 9:30 AM, 10:45 AM,Alfonso,Capone,capone@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-23,Concepts of Community,2016SP,,STN,A,20,17,CCM,232,"M, TH", 9:30 AM, 10:45 AM,Brian,Murphy,bmurphy@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-24,Concepts of Community,2016SP,,STN,A,20,19,CCM,232,"M, TH", 11:00 AM, 12:15 PM,Brian,Murphy,bmurphy@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-25,Concepts of Community,2016SP,,STN,A,20,20,"CCM, CCM","221, 221","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",David,Kite,kite@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-26,Concepts of Community,2016SP,,STN,A,20,20,"CCM, CCM","221, 221","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Edward,Cafferty,ecafferty@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-27,Concepts of Community,2016SP,,STN,A,20,16,CCM,232,"M, TH", 8:00 AM, 9:15 AM,Sanford,Zale,szale@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-120-28,Concepts of Community,2016SP,,STN,A,20,20,CCM,442,"M, TH", 11:00 AM, 12:15 PM,Sanford,Zale,szale@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-01,The Rhetoric of Community,2016SP,,STN,A,20,20,CCM,232,"W, F", 12:30 PM, 1:45 PM,Erik,Esckilsen,esckilse@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-02,The Rhetoric of Community,2016SP,,STN,A,20,21,CCM,233,"T, F", 8:00 AM, 9:15 AM,Joanne,Farrell,farrellj@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-03TVL,The Rhetoric of Community,2016SP,,STN,A,20,16,"CCM, CCM","442, 442","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Kelly,Thomas,thomas@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-04,The Rhetoric of Community,2016SP,,STN,A,20,19,JOYC,212,"T, F", 9:30 AM, 10:45 AM,Kelly,Thomas,thomas@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-05,The Rhetoric of Community,2016SP,,STN,A,20,20,JOYC,212,"T, F", 11:00 AM, 12:15 PM,Kelly,Thomas,thomas@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-06,The Rhetoric of Community,2016SP,,STN,A,20,20,"WICK, WICK","100, 1","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Patricia,Suozzi,suozzi@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-07,The Rhetoric of Community,2016SP,,STN,A,20,22,"WICK, WICK","100, 1","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Patricia,Suozzi,suozzi@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-08,The Rhetoric of Community,2016SP,,STN,A,20,19,"GBTC, GBTC","17, 017","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Erik,Kaarla,ekaarla@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-09,The Rhetoric of Community,2016SP,,STN,A,20,19,GBTC,17,"T, TH", 2:00 PM, 3:15 PM,Christine,Brooks,cbrooks@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-10,The Rhetoric of Community,2016SP,,STN,A,20,21,CCM,442,"T, TH", 12:30 PM, 1:45 PM,Christine,Brooks,cbrooks@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-11,The Rhetoric of Community,2016SP,,STN,A,20,20,JOYC,102,"T, TH", 3:30 PM, 4:45 PM,Christine,Brooks,cbrooks@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-12,The Rhetoric of Community,2016SP,,STN,A,20,21,CCM,221,"T, TH", 2:00 PM, 3:15 PM,Erik,Shonstrom,eshonstrom@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-13,The Rhetoric of Community,2016SP,,STN,A,20,20,CCM,221,"T, TH", 12:30 PM, 1:45 PM,Erik,Shonstrom,eshonstrom@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-14,The Rhetoric of Community,2016SP,,STN,A,20,21,CCM,424,"T, F", 11:00 AM, 12:15 PM,Michael,Kelly,mkelly@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-15,The Rhetoric of Community,2016SP,,STN,A,20,20,CCM,444,"T, F", 9:30 AM, 10:45 AM,Michael,Kelly,mkelly@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-16,The Rhetoric of Community,2016SP,,STN,A,20,20,JOYC,102,"M, TH", 9:30 AM, 10:45 AM,Emily,Banks,ebanks@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-17,The Rhetoric of Community,2016SP,,STN,A,20,20,JOYC,103,"M, TH", 11:00 AM, 12:15 PM,Emily,Banks,ebanks@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-18,The Rhetoric of Community,2016SP,,STN,A,20,18,JOYC,310,"W, F", 12:30 PM, 1:45 PM,Lionel,Beasley,lbeasley@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-19,The Rhetoric of Community,2016SP,,STN,A,20,18,GBTC,217,"W, F", 2:00 PM, 3:15 PM,Lionel,Beasley,lbeasley@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-20,The Rhetoric of Community,2016SP,,STN,A,20,19,CCM,442,"T, F", 9:30 AM, 10:45 AM,James,McGinniss,jmcginniss@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-21,The Rhetoric of Community,2016SP,,STN,A,20,20,CCM,442,"T, F", 11:00 AM, 12:15 PM,James,McGinniss,jmcginniss@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-22,The Rhetoric of Community,2016SP,,STN,A,20,16,CCM,444,"T, F", 8:00 AM, 9:15 AM,James,McGinniss,jmcginniss@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-23,The Rhetoric of Community,2016SP,,STN,A,20,17,JOYC,203,"W, F", 12:30 PM, 1:45 PM,Jeffrey,Haig,jhaig@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-24,The Rhetoric of Community,2016SP,,STN,A,20,17,JOYC,203,"W, F", 3:30 PM, 4:45 PM,Jeffrey,Haig,jhaig@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-25,The Rhetoric of Community,2016SP,,STN,A,20,20,CCM,442,"W, F", 2:00 PM, 3:15 PM,Rochelle,Parker,rparker@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-26,The Rhetoric of Community,2016SP,,STN,A,20,20,CCM,442,"W, F", 12:30 PM, 1:45 PM,Rochelle,Parker,rparker@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-27,The Rhetoric of Community,2016SP,,STN,A,20,17,JOYC,313,"W, F", 3:30 PM, 4:45 PM,Alice,Neiley,aneiley@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-125-28,The Rhetoric of Community,2016SP,,STN,A,20,20,"JOYC, JOYC","203, 203","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Janice,Gohm Webster,websterj@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-250-01TVL,Sec & Sacred: Zanzibar,2016SP,,STN,A,15,19,CCM,232,"W, F", 2:00 PM, 3:15 PM,Stephen,Wehmeyer,swehmeyer@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-250-02,Sec & Sacred: Montreal,2016SP,,STN,A,24,24,JOYC,304,"T, TH", 12:30 PM, 1:45 PM,Rowshan,Nemazee,rnemazee@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-250-03,The Secular and the Sacred,2016SP,,STN,A,24,23,JOYC,201,"T, F", 9:30 AM, 10:45 AM,Rowshan,Nemazee,rnemazee@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-250-04,The Secular and the Sacred,2016SP,,STN,A,24,24,"CCM, CCM","444, 444","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Rowshan,Nemazee,rnemazee@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-250-05,The Secular and the Sacred,2016SP,,STN,A,24,25,CCM,232,"W, F", 3:30 PM, 4:45 PM,Stephen,Wehmeyer,swehmeyer@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-250-06,The Secular and the Sacred,2016SP,,STN,A,24,26,GBTC,217,"M, TH", 8:00 AM, 9:15 AM,Charles,Bashaw,cbashaw@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-250-07,The Secular and the Sacred,2016SP,,STN,A,24,24,JOYC,304,"M, TH", 11:00 AM, 12:15 PM,Charles,Bashaw,cbashaw@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-250-08,Sec & Sacred:Rebel Prophets,2016SP,,STN,A,24,24,"CCM, CCM","233, 233","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Erik,Shonstrom,eshonstrom@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-250-10,The Secular and the Sacred,2016SP,,STN,A,24,16,JOYC,210,"T, F", 9:30 AM, 10:45 AM,Robert,Mayer,mayer@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-250-51,Sec & Sacred: State & Church,2016SP,,STN,A,24,23,CCM,444,"M, W", 5:00 PM, 6:15 PM,Maggie,Hunter,maggiehunter@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-260-01,Democracies: Who Dares?,2016SP,,STN,A,24,24,CCM,233,"W, F", 12:30 PM, 1:45 PM,Jeanne,Lieberman,jlieberman@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-260-02,Democracies: Who Dares?,2016SP,,STN,A,24,9,CCM,442,"W, F", 3:30 PM, 4:45 PM,Jeanne,Lieberman,jlieberman@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-260-03,Democracies,2016SP,,STN,A,24,22,JOYC,201,"T, TH", 12:30 PM, 1:45 PM,David,Rous,rous@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-260-05,Democracies,2016SP,,STN,A,24,24,JOYC,304,"M, TH", 9:30 AM, 10:45 AM,Edward,Cafferty,ecafferty@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-260-06,Democracies: 2016 Race,2016SP,,STN,A,24,18,CCM,444,"W, F", 2:00 PM, 3:15 PM,Arthur,Edelstein,edelstein@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-260-07,Democracies: 2016 Race,2016SP,,STN,A,24,20,CCM,444,"W, F", 12:30 PM, 1:45 PM,Arthur,Edelstein,edelstein@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-260-08,Democracies,2016SP,,STN,A,24,23,WICK,100,"T, TH", 12:30 PM, 1:45 PM,Alfonso,Capone,capone@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-260-09,Democracies,2016SP,,STN,A,24,14,CCM,221,"W, F", 3:30 PM, 4:45 PM,Sanford,Zale,szale@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-260-10,Democracies: #FEELTHEBERN,2016SP,,STN,A,24,24,WICK,100,"T, TH", 3:30 PM, 4:45 PM,Elizabeth,Allen-Pennebaker,eallen-pennebaker@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-260-51,Democracies: #FEELTHEBERN,2016SP,,STN,A,24,24,WICK,102,"T, TH", 5:00 PM, 6:15 PM,Elizabeth,Allen-Pennebaker,eallen-pennebaker@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-01,Heroines and Heroes,2016SP,,STN,A,24,25,FREE,201,"W, F", 2:00 PM, 3:15 PM,Erik,Esckilsen,esckilse@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-02,Heroines and Heroes,2016SP,,STN,A,24,23,FREE,201,"W, F", 3:30 PM, 4:45 PM,Erik,Esckilsen,esckilse@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-03,H&H: The Hobbit,2016SP,,STN,A,24,25,JOYC,305,"M, TH", 9:30 AM, 10:45 AM,Kerry,Noonan,knoonan@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-04,H&H: Tween Alliance,2016SP,,STN,A,24,24,CCM,444,"T, F", 11:00 AM, 12:15 PM,Kristin,Novotny,knovotny@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-05,H&H: Tween Alliance,2016SP,,STN,A,24,24,FREE,201,"M, TH", 11:00 AM, 12:15 PM,Kristin,Novotny,knovotny@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-06,H&H: YA Heroines,2016SP,,STN,A,24,24,WICK,100,"T, TH", 2:00 PM, 3:15 PM,Katheryn,Wright,kwright@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-07,H&H: YA Heroines,2016SP,,STN,A,24,24,WICK,102,"T, TH", 3:30 PM, 4:45 PM,Katheryn,Wright,kwright@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-08,H&H: Violence,2016SP,,STN,A,24,23,"CCM, CCM","233, 233","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Robert,Mayer,mayer@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-09,H&H: Violence,2016SP,,STN,A,24,23,"JOYC, JOYC","302, 302","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Robert,Mayer,mayer@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-10,H&H: Global Lenses,2016SP,,STN,A,24,18,JOYC,302,"M, TH", 8:00 AM, 9:15 AM,Gary,Scudder,scudder@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-11,H&H: Global Lenses,2016SP,,STN,A,24,23,JOYC,302,"M, TH", 9:30 AM, 10:45 AM,Gary,Scudder,scudder@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-12,Heroines and Heroes,2016SP,,STN,A,24,20,JOYC,211,"T, F", 9:30 AM, 10:45 AM,Brian,Murphy,bmurphy@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-270-13,Heroines and Heroes,2016SP,,STN,A,24,24,JOYC,211,"T, F", 11:00 AM, 12:15 PM,Brian,Murphy,bmurphy@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-280-01,Colonialism and Identity,2016SP,,STN,A,24,19,WICK,100,"M, TH", 9:30 AM, 10:45 AM,Craig,Pepin,cpepin@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-280-02,Colonialism and Identity,2016SP,,STN,A,24,24,WICK,100,"M, TH", 11:00 AM, 12:15 PM,Craig,Pepin,cpepin@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-280-05,Colonialism: Power/Identity,2016SP,,STN,A,24,23,"JOYC, JOYC","304, 304","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Michael,Lange,mlange@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-280-06,Colonialism: Power/Identity,2016SP,,STN,A,24,23,"JOYC, JOYC","304, 304","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Michael,Lange,mlange@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-280-07,Colonialism and Identity,2016SP,,STN,A,24,15,CCM,424,"M, TH", 8:00 AM, 9:15 AM,Faith,Yacubian,fyacubian@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-280-08,Colonialism: Borderlands,2016SP,,STN,A,24,22,FREE,201,"T, TH", 3:30 PM, 4:45 PM,Megan,LeMay,mlemay@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-280-51,Colonialism: Borderlands,2016SP,,STN,A,24,22,FREE,201,"T, TH", 5:00 PM, 6:15 PM,Megan,LeMay,mlemay@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-310-01,The Global Condition,2016SP,,STN,A,24,24,JOYC,301,"M, TH", 9:30 AM, 10:45 AM,Kristin,Wolf,kwolf@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-310-02,The Global Condition,2016SP,,STN,A,24,25,JOYC,313,"M, TH", 11:00 AM, 12:15 PM,Kristin,Wolf,kwolf@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-310-03,The Global Condition,2016SP,,STN,A,24,25,CCM,442,"M, TH", 8:00 AM, 9:15 AM,Signe,Daly,sdaly@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-310-04,The Global Condition,2016SP,,STN,A,24,26,CCM,442,"M, TH", 9:30 AM, 10:45 AM,Signe,Daly,sdaly@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-310-05,The Global Condition,2016SP,,STN,A,24,16,MIC,305/306,"T, F", 8:00 AM, 9:15 AM,Anson,Montgomery,amontgomery@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-310-06,The Global Condition,2016SP,,STN,A,24,25,"GBTC, GBTC","114, 114","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Katheryn,Wright,kwright@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-310-07,The Global Condition,2016SP,,STN,A,24,25,GBTC,117,"W, F", 3:30 PM, 4:45 PM,Lionel,Beasley,lbeasley@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-310-101,The Global Condition,2016SP,MONT,STN,A,10,3,,,T, 1:00 PM, 3:45 PM,Renaat,Verbruggen,rverbruggen@champlain.edu,1/18/2016,5/6/2016,"COR-310-201, COR-310-101",COR,UG
+COR-310-201,The Global Condition,2016SP,DUBL,STN,A,10,3,,,T, 6:00 PM, 8:45 PM,Renaat,Verbruggen,rverbruggen@champlain.edu,1/18/2016,5/6/2016,"COR-310-201, COR-310-101",COR,UG
+COR-320-01,Human Rights & Responsibility,2016SP,,STN,A,15,11,MIC,305/306,"M, TH", 11:00 AM, 12:15 PM,Robert,Williams,rwilliams@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-320-02,Human Rights & Responsibility,2016SP,,STN,A,24,18,GBTC,117,"M, TH", 11:00 AM, 12:15 PM,Naomi,Winterfalcon,nwinterfalcon@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-320-03,Human Rights & Responsibility,2016SP,,STN,A,24,21,"JOYC, JOYC","305, 305","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Naomi,Winterfalcon,nwinterfalcon@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-320-04,Human Rights & Responsibility,2016SP,,STN,A,24,23,"JOYC, JOYC","202, 202","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Naomi,Winterfalcon,nwinterfalcon@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-320-05,Human Rights & Responsibility,2016SP,,STN,A,24,13,JOYC,211,"W, F", 2:00 PM, 3:15 PM,Jeanne,Lieberman,jlieberman@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-320-06,Human Rights & Responsibility,2016SP,,STN,A,24,23,CCM,424,"W, F", 12:30 PM, 1:45 PM,Rowshan,Nemazee,rnemazee@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-320-07,Human Rights & Responsibility,2016SP,,STN,A,24,14,JOYC,302,"W, F", 2:00 PM, 3:15 PM,Rowshan,Nemazee,rnemazee@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-320-08,Human Rights & Responsibility,2016SP,,STN,A,24,14,GBTC,114,"M, TH", 9:30 AM, 10:45 AM,Marlee,Ford,marlee.ford@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-320-09,Human Rights & Responsibility,2016SP,,STN,A,24,23,GBTC,114,"M, TH", 11:00 AM, 12:15 PM,Marlee,Ford,marlee.ford@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-320-101,Human Rights & Responsibility,2016SP,MONT,STN,A,10,3,,,TH, 9:00 AM, 11:45 AM,Stephen,McMahon,smcmahon@champlain.edu,1/18/2016,5/6/2016,"COR-320-201, COR-320-101",COR,UG
+COR-320-201,Human Rights & Responsibility,2016SP,DUBL,STN,A,10,3,,,TH, 2:00 PM, 4:45 PM,Stephen,McMahon,smcmahon@champlain.edu,1/18/2016,5/6/2016,"COR-320-201, COR-320-101",COR,UG
+COR-330-01,"""Life"" in the Amazon",2016SP,,STN,A,16,16,CCM,442,"T, F", 8:00 AM, 9:15 AM,Kristin,Wolf,kwolf@champlain.edu,1/18/2016,5/6/2016,"COR-330-01, COR-330-01TVL",COR,UG
+COR-330-01TVL,"""Life"" in the Amazon",2016SP,,STN,A,8,7,CCM,442,"T, F", 8:00 AM, 9:15 AM,Kristin,Wolf,kwolf@champlain.edu,1/18/2016,5/6/2016,"COR-330-01, COR-330-01TVL",COR,UG
+COR-330-02,"Gods, Ghosts, and Ancestors",2016SP,,STN,A,25,25,"JOYC, JOYC","313, 313","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Kerry,Noonan,knoonan@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-03,"Gods, Ghosts, and Ancestors",2016SP,,STN,A,25,26,"GBTC, GBTC","114, 114","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Kerry,Noonan,knoonan@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-04,European Union: House Divided,2016SP,,STN,A,25,26,"GBTC, GBTC","17, 017","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Ciaran,Buckley,cbuckley@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-05,European Union: House Divided,2016SP,,STN,A,25,27,GBTC,17,"W, F", 12:30 PM, 1:45 PM,Ciaran,Buckley,cbuckley@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-06,Istanbul,2016SP,,STN,A,25,27,JOYC,310,"T, TH", 2:00 PM, 3:15 PM,David,Kite,kite@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-07,Istanbul,2016SP,,STN,A,25,26,JOYC,202,"T, TH", 3:30 PM, 4:45 PM,David,Kite,kite@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-08,Shaking the Spirit,2016SP,,STN,A,25,26,"JOYC, JOYC","202, 202","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Stephen,Wehmeyer,swehmeyer@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-09,Shaking the Spirit,2016SP,,STN,A,25,26,WICK,102,"M, TH", 11:00 AM, 12:15 PM,Stephen,Wehmeyer,swehmeyer@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-10,Identity and Independence,2016SP,,STN,A,25,25,JOYC,211,"M, TH", 9:30 AM, 10:45 AM,Michael,Lange,mlange@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-11,Identity and Independence,2016SP,,STN,A,25,25,JOYC,102,"M, TH", 11:00 AM, 12:15 PM,Michael,Lange,mlange@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-12,Central Asia:World Crossroads,2016SP,,STN,A,25,21,JOYC,202,"T, F", 8:00 AM, 9:15 AM,Gary,Scudder,scudder@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-13,Central Asia:World Crossroads,2016SP,,STN,A,25,27,JOYC,202,"T, F", 9:30 AM, 10:45 AM,Gary,Scudder,scudder@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-14,Irish Women and Drama,2016SP,,STN,A,25,24,JOYC,201,"W, F", 12:30 PM, 1:45 PM,Joanne,Farrell,farrellj@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-15,Irish Women and Drama,2016SP,,STN,A,25,23,JOYC,201,"W, F", 2:00 PM, 3:15 PM,Joanne,Farrell,farrellj@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-16,Minority Report,2016SP,,STN,A,25,26,JOYC,301,"T, TH", 12:30 PM, 1:45 PM,Kenneth,Wade,wade@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-17,Minority Report,2016SP,,STN,A,25,25,WICK,102,"T, TH", 2:00 PM, 3:15 PM,Kenneth,Wade,wade@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-18,Vienna:bridge Fr. West to East,2016SP,,STN,A,25,25,WICK,102,"T, TH", 12:30 PM, 1:45 PM,Elizabeth,Allen-Pennebaker,eallen-pennebaker@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+COR-330-51,Vienna:bridge Fr. West to East,2016SP,,STN,A,25,27,JOYC,202,"M, W", 5:00 PM, 6:15 PM,Elizabeth,Allen-Pennebaker,eallen-pennebaker@champlain.edu,1/18/2016,5/6/2016,,COR,UG
+CRE-100-01,Making Art,2016SP,,STN,A,12,13,CCM,305,TH, 12:30 PM, 3:15 PM,Lida,Winfield,lwinfield@champlain.edu,1/18/2016,5/6/2016,,CRE,UG
+CRE-100-02,Making Art,2016SP,,STN,A,12,12,MIC,305/306,W, 2:00 PM, 4:45 PM,Stella,Marrs,smarrs@champlain.edu,1/18/2016,5/6/2016,,CRE,UG
+CRE-100L-01,Making Art - Studio,2016SP,,STN,A,10,12,CCM,426,F, 2:00 PM, 4:00 PM,Alexander,Costantino,acostantino@champlain.edu,1/18/2016,5/6/2016,,CRE,UG
+CRE-100L-02,Making Art - Studio,2016SP,,STN,A,10,13,CCM,434,F, 2:00 PM, 4:00 PM,Alan,Larsen,alarsen@champlain.edu,1/18/2016,5/6/2016,,CRE,UG
+CRE-250-02,Creative Media Portfolio I,2016SP,,STN,A,12,10,CCM,232,T, 12:30 PM, 3:15 PM,Rebecca,Schwarz,rschwarz@champlain.edu,1/18/2016,5/6/2016,,CRE,UG
+CRE-250-51,Creative Media Portfolio I,2016SP,,STN,A,12,12,CCM,442,M, 5:30 PM, 8:15 PM,Peter,Gallo,pgallo@champlain.edu,1/18/2016,5/6/2016,,CRE,UG
+CRE-250L-01,Creative Media Port I- Studio,2016SP,,STN,A,12,12,BARN,200,F, 12:30 PM, 2:30 PM,Christopher,Thompson,cthompson@champlain.edu,1/18/2016,5/6/2016,"CRE-250L-01, CRE-350L-01",CRE,UG
+CRE-250L-02,Creative Media Port I- Studio,2016SP,,STN,A,12,10,BARN,200,F, 3:00 PM, 5:00 PM,Christopher,Thompson,cthompson@champlain.edu,1/18/2016,5/6/2016,"CRE-250L-02, CRE-350L-02",CRE,UG
+CRE-350-01,Creative Media Portfolio 2,2016SP,,STN,A,16,7,CCM,424,T, 2:00 PM, 4:45 PM,Mary,Zompetti,mzompetti@champlain.edu,1/18/2016,5/6/2016,,CRE,UG
+CRE-350L-01,Creative Media Port 2 - Studio,2016SP,,STU,A,10,3,BARN,200,F, 12:30 PM, 2:30 PM,Christopher,Thompson,cthompson@champlain.edu,1/18/2016,5/6/2016,"CRE-250L-01, CRE-350L-01",CRE,UG
+CRE-350L-02,Creative Media Port 2 - Studio,2016SP,,STU,A,10,4,BARN,200,F, 3:00 PM, 5:00 PM,Christopher,Thompson,cthompson@champlain.edu,1/18/2016,5/6/2016,"CRE-250L-02, CRE-350L-02",CRE,UG
+CRJ-121-01,Criminal Procedure,2016SP,,STN,A,24,15,JOYC,311,"T, TH", 12:30 PM, 1:45 PM,Phillip,Cykon,pcykon@champlain.edu,1/18/2016,5/6/2016,,CRJ,UG
+CRJ-121-02,Criminal Procedure,2016SP,,STN,A,24,14,JOYC,301,"M, TH", 11:00 AM, 12:15 PM,Edward,Cashman,ecashman@champlain.edu,1/18/2016,5/6/2016,,CRJ,UG
+CRJ-150-51,"American Correctional System,",2016SP,,STN,A,24,12,JOYC,304,W, 5:30 PM, 8:15 PM,Herbert,Sinkinson,hsinkinson@champlain.edu,1/18/2016,5/6/2016,,CRJ,UG
+CRJ-225-51,Digital Evidence: Law of,2016SP,,STN,A,24,24,JOYC,301,M, 5:30 PM, 8:15 PM,Thomas,Donovan,tdonovan@champlain.edu,1/18/2016,5/6/2016,,CRJ,UG
+CRJ-230-01,Criminal Investigation,2016SP,,STN,A,24,18,MIC,305/306,"T, F", 11:00 AM, 12:15 PM,John,Sonnick,sonnick@champlain.edu,1/18/2016,5/6/2016,,CRJ,UG
+CRJ-230-02,Criminal Investigation,2016SP,,STN,A,24,16,GBTC,217,TH, 2:00 PM, 4:45 PM,Shawn,Burke,shawn.burke@mymail.champlain.edu,1/18/2016,5/6/2016,,CRJ,UG
+CRJ-240-01,Family Violence,2016SP,,STN,A,24,21,JOYC,210,"W, F", 12:30 PM, 1:45 PM,Edward,Cafferty,ecafferty@champlain.edu,1/18/2016,5/6/2016,,CRJ,UG
+CRJ-290-01,CRJ Field Experience,2016SP,,FLD,A,24,1,WICK,100,W, 3:30 PM, 4:45 PM,Phillip,Cykon,pcykon@champlain.edu,1/18/2016,5/6/2016,,CRJ,UG
+CRJ-480-51,Crime Scene Investigation,2016SP,,STN,A,24,15,JOYC,211,W, 5:30 PM, 8:15 PM,Heidi,Barbic,,1/18/2016,5/6/2016,,CRJ,UG
+CRJ-490-01,Criminal Justice Field Exp,2016SP,,FLD,A,24,6,MIC,305/306,F, 9:30 AM, 10:45 AM,John,Sonnick,sonnick@champlain.edu,1/18/2016,5/6/2016,,CRJ,UG
+CRJ-495-01,VT Police Academy,2016SP,OFF,FLD,A,24,1,,,,,,John,Sonnick,sonnick@champlain.edu,1/18/2016,5/6/2016,,CRJ,UG
+CSI-140-01,Introduction to Programming,2016SP,,STN,A,20,19,"FOST, FOST","104, 104","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Sarah,Pettitt,pettitt@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-140-02,Introduction to Programming,2016SP,,STN,A,20,14,JOYC,101,"W, F", 12:30 PM, 1:45 PM,Geoffrey,Abbott,gabbott@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-140-52,Introduction to Programming,2016SP,,STN,A,20,21,MIC,308,"T, TH", 7:00 PM, 8:15 PM,Jonathan,Carter,jcarter@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-150-01,Java Programming,2016SP,,STN,A,20,13,"FOST, FOST","104, 104","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Sarah,Pettitt,pettitt@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-180-51,Innov I: Intro to Emerg. Tech,2016SP,,STN,A,20,18,MIC,308,"M, W", 5:30 PM, 6:45 PM,Stephan,Giles,sgiles@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-180-52,Innov I: Intro to Emerg. Tech,2016SP,,STN,A,20,14,MIC,308,"M, W", 7:00 PM, 8:15 PM,Stephan,Giles,sgiles@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-180-53,Innov I: Intro to Emerg. Tech,2016SP,,STN,A,20,12,WICK,101,"T, TH", 7:00 PM, 8:15 PM,James,Vincent,vincent@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-210-01,Introduction to Data Analytics,2016SP,,STN,A,18,18,MIC,308,"T, F", 9:30 AM, 10:45 AM,Narine,Hall,nhall@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-210-51,Introduction to Data Analytics,2016SP,,STN,A,20,11,JOYC,101,"T, TH", 5:30 PM, 6:45 PM,Narine,Hall,nhall@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-235-01,Network Programming,2016SP,,STN,A,20,9,MIC,308,"T, TH", 12:30 PM, 1:45 PM,Li Jun,Zhang,zhang@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-235-02,Network Programming,2016SP,,STN,A,20,17,MIC,308,"T, TH", 2:00 PM, 3:15 PM,Li Jun,Zhang,zhang@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-240-01,Advanced Programming,2016SP,,STN,A,20,13,MIC,308,"M, TH", 9:30 AM, 10:45 AM,Geoffrey,Abbott,gabbott@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-240-02,Advanced Programming,2016SP,,STN,A,20,19,MIC,308,"M, TH", 11:00 AM, 12:15 PM,Narine,Hall,nhall@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-240-03,Advanced Programming,2016SP,,STN,A,20,17,"MIC, MIC","308, 308","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Wei Kian,Chen,chen@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-240-04,Advanced Programming,2016SP,,STN,A,20,19,"MIC, MIC","308, 308","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Wei Kian,Chen,chen@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-240-06,Advanced Programming,2016SP,,STN,A,20,16,MIC,308,"T, F", 11:00 AM, 12:15 PM,Geoffrey,Abbott,gabbott@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-280-51,Innov II:Open Source Soft Dev,2016SP,,STN,A,20,20,WICK,101,"T, TH", 5:30 PM, 6:45 PM,Kevin,Thorley,kthorley@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-280-52,Innov II:Open Source Soft Dev,2016SP,,STN,A,20,19,JOYC,101,"T, TH", 7:00 PM, 8:15 PM,Kevin,Thorley,kthorley@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-281-51,Data Structures & Algorithms,2016SP,,STN,A,20,15,MIC,308,"T, TH", 5:30 PM, 6:45 PM,Jonathan,Carter,jcarter@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-300-01,Database Management Systems,2016SP,,STN,A,20,18,"WICK, WICK","101, 101","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Li Jun,Zhang,zhang@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-300-02,Database Management Systems,2016SP,,STN,A,20,18,"WICK, WICK","101, 101","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Li Jun,Zhang,zhang@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-330-02,Software Dev. Methodologies,2016SP,,STN,A,20,16,WICK,101,"T, F", 11:00 AM, 12:15 PM,Brian,Hall,hall@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-370-01,Computer Architecture,2016SP,,STN,A,20,19,WICK,101,"M, TH", 9:30 AM, 10:45 AM,Brian,Hall,hall@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-370-02,Computer Architecture,2016SP,,STN,A,20,20,WICK,101,"M, TH", 11:00 AM, 12:15 PM,Brian,Hall,hall@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-385-01,Operating Systems Architecture,2016SP,,STN,A,20,15,FOST,104,"T, TH", 12:30 PM, 1:45 PM,Ahmed,Hamed,ahamed@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-385-02,Operating Systems Architecture,2016SP,,STN,A,20,16,FOST,104,"T, TH", 2:00 PM, 3:15 PM,Ahmed,Hamed,ahamed@champlain.edu,1/18/2016,5/6/2016,,CSI,UG
+CSI-430-51,"Software Testing, QA & Secur.",2016SP,,STN,A,20,21,JOYC,101,M, 5:30 PM, 8:15 PM,Michael,Atwood,matwoodvtservices@yahoo.com,1/18/2016,5/6/2016,,CSI,UG
+DFS-510-90,Scripting for Digital Forensic,2016SP,OL,ONL,A,1,1,,,,,,,,,3/14/2016,5/7/2016,"DFS-510-85, DFS-510-90",DFS,UG
+DIM-500-90,Practice of Dig Investigations,2016SP,OL,ONL,A,3,2,,,,,,,,,1/11/2016,3/5/2016,"DIM-500-81, DIM-500-90",DIM,UG
+DIM-500-91,Practice of Dig Investigations,2016SP,OL,ONL,A,2,2,,,,,,,,,3/14/2016,5/7/2016,"DIM-500-85, DIM-500-91",DIM,UG
+DIM-580-90,Legal Issues for Management,2016SP,OL,ONL,A,1,1,,,,,,,,,3/14/2016,5/7/2016,"DIM-580-85, DIM-580-90",DIM,UG
+EBUS-411A-81,Search Engine Optimization,2016SP,OL,ONL,A,20,5,,,,,,Rebecca,Corneau,rcorneau@champlain.edu,1/18/2016,2/19/2016,,EBUS,UG
+EBUS-411B-81,IBT: Google AdWords,2016SP,OL,ONL,A,20,4,,,,,,Rebecca,Corneau,rcorneau@champlain.edu,2/22/2016,3/25/2016,,EBUS,UG
+EBUS-411C-81,IBT: Web Analytics,2016SP,OL,ONL,A,20,5,,,,,,Rebecca,Corneau,rcorneau@champlain.edu,3/28/2016,4/29/2016,,EBUS,UG
+ECN-110-01,"Economics, Survey of",2016SP,,STN,A,24,18,"JOYC, JOYC","211, 211","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Jennifer,Vincent,jvincent@champlain.edu,1/18/2016,5/6/2016,,ECN,UG
+ECN-255-01,Managerial Economics,2016SP,,STN,A,24,15,JOYC,304,"T, F", 9:30 AM, 10:45 AM,Jennifer,Vincent,jvincent@champlain.edu,1/18/2016,5/6/2016,,ECN,UG
+ECN-255-02,Managerial Economics,2016SP,,STN,A,24,22,JOYC,304,"T, F", 11:00 AM, 12:15 PM,Jennifer,Vincent,jvincent@champlain.edu,1/18/2016,5/6/2016,,ECN,UG
+ECN-255-03,Managerial Economics,2016SP,,STN,A,24,7,JOYC,212,"W, F", 12:30 PM, 1:45 PM,Jennifer,Vincent,jvincent@champlain.edu,1/18/2016,5/6/2016,,ECN,UG
+ECN-350-01,Financial & Economic Modeling,2016SP,,STN,A,24,17,MIC,308,W, 12:30 PM, 3:15 PM,Frederick,Burkhardt,fburkhardt@champlain.edu,1/18/2016,5/6/2016,,ECN,UG
+EDU-105-01,Found of Learning & Practicum,2016SP,,STN,A,24,20,JOYC,201,"T, TH", 2:00 PM, 3:15 PM,Nancy,Steeley,nsteeley@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-105L-01,Found of Learn. Practicum Lab,2016SP,,STN,A,12,11,JOYC,201,T, 3:15 PM, 5:30 PM,Nancy,Steeley,nsteeley@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-105L-02,Found of Learn. Practicum Lab,2016SP,,STN,A,12,9,JOYC,201,TH, 3:15 PM, 5:30 PM,Nancy,Steeley,nsteeley@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-112-01,Integrating Technology,2016SP,,STN,A,24,17,FREE,201,T, 12:30 PM, 3:15 PM,John,Stroup,jstroup@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-135-51,Teaching Diverse Learners,2016SP,,STN,A,24,24,"GBTC, GBTC","217, 206","T, T"," 5:30 PM,  5:30 PM"," 8:15 PM,  8:15 PM",Susan,Krasnow,skrasnow@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-160-01,Math & Science,2016SP,,STN,A,24,22,FREE,201,W, 11:00 AM, 1:45 PM,Nancy,Steeley,nsteeley@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-205-51,Infant/Toddler Sem &Practicum,2016SP,,"STN, FLD",A,10,9,"JOYC, ",203,"W, W"," 5:30 PM,  8:00 AM"," 8:15 PM,  12:00 PM",Kathi,Apgar,kapgar@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-250-01,Preschool Curriculum,2016SP,,STN,A,24,6,JOYC,201,M, 9:30 AM, 12:15 PM,Nancy,Steeley,nsteeley@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-251-01,Preschool Field Experience,2016SP,,FLD,A,24,6,,,"T, TH", 8:00 AM, 1:00 PM,Nancy,Steeley,nsteeley@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-255-01,Primary Curriculum,2016SP,,STN,A,24,9,FREE,201,M, 12:30 PM, 3:15 PM,Mary,Loiselle,mloiselle@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-256-01,Primary Field Experience,2016SP,,FLD,A,24,9,,,"T, TH", 8:00 AM, 3:15 PM,Mary,Loiselle,mloiselle@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-313-01,Elementary Social Studies Meth,2016SP,,STN,A,24,11,FREE,201,TH, 12:30 PM, 3:15 PM,John,Stroup,jstroup@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-430-01,Student Teaching Seminar,2016SP,,STN,A,1,1,,,,,,John,Stroup,jstroup@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-490-01,Integrated Curr & Student Teac,2016SP,,FLD,A,5,6,,,"M, T, W, TH, F", 8:00 AM, 3:30 PM,Kathryn,Leo-Nyquist,leo@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-490-02,Integrated Curr & Student Teac,2016SP,,FLD,A,5,5,,,"M, T, W, TH, F", 8:00 AM, 3:30 PM,John,Stroup,jstroup@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-490-03,Integrated Curr & Student Teac,2016SP,,FLD,A,5,3,,,"M, T, W, TH, F", 8:00 AM, 3:30 PM,David,Leo-Nyquist,dleonyquist@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-490-04,Integrated Curr & Student Teac,2016SP,,FLD,A,5,5,,,"M, T, W, TH, F", 8:00 AM, 3:30 PM,David,Leo-Nyquist,dleonyquist@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-490-05,Integrated Curr & Student Teac,2016SP,,FLD,A,5,4,,,"M, T, W, TH, F", 8:00 AM, 3:30 PM,Sharon,Wight,swight@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EDU-490-06,Integrated Curr & Student Teac,2016SP,,FLD,A,5,4,,,"M, T, W, TH, F", 8:00 AM, 3:30 PM,Mary,Loiselle,mloiselle@champlain.edu,1/18/2016,5/6/2016,,EDU,UG
+EGD-110-01,Introduction to Game Design,2016SP,,STN,A,20,20,CCM,224,"T, TH", 12:30 PM, 1:45 PM,Greg,Bemis,bemis@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-110-02,Introduction to Game Design,2016SP,,STN,A,20,18,CCM,224,"T, TH", 2:00 PM, 3:15 PM,John,Boyd,jboyd@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-110-03,Introduction to Game Design,2016SP,,STN,A,20,13,CCM,224,"T, F", 8:00 AM, 9:15 AM,Jonathan,Ferguson,jferguson@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-115-01,"Game Art and Animation, Intro",2016SP,,STN,A,16,11,CCM,1,T, 3:30 PM, 6:15 PM,Jo Ann,Patel,jpatel@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-115-02,"Game Art and Animation, Intro",2016SP,,STN,A,16,15,CCM,1,W, 2:00 PM, 4:45 PM,Jo Ann,Patel,jpatel@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-115-51,"Game Art and Animation, Intro",2016SP,,STN,A,16,11,CCM,1,TH, 5:30 PM, 8:15 PM,Christopher,Mendenhall,cmendenhall@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-202-51,Game Technology I,2016SP,,STN,A,20,17,CCM,224,T, 5:30 PM, 8:15 PM,Mark,Zelis,mzelis@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-202-52,Game Technology I,2016SP,,STN,A,20,16,CCM,224,M, 5:30 PM, 8:15 PM,Mark,Zelis,mzelis@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-202-53,Game Technology I,2016SP,,STN,A,20,17,CCM,224,W, 5:30 PM, 8:15 PM,Scott,Lewis,lewis@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-215-51,"3D Art, Introduction to",2016SP,,STN,A,20,11,CCM,1,W, 5:30 PM, 8:15 PM,Christopher,Mendenhall,cmendenhall@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-220-01AA,Game Production I,2016SP,,STN,A,8,8,CCM,224,"M, TH", 11:00 AM, 12:15 PM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-220-01AA, EGD-220-01GD, EGD-220-01MC, EGD-220-01PR",EGD,UG
+EGD-220-01GD,Game Production I,2016SP,,STN,A,8,8,CCM,224,"M, TH", 11:00 AM, 12:15 PM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-220-01AA, EGD-220-01GD, EGD-220-01MC, EGD-220-01PR",EGD,UG
+EGD-220-01MC,Game Production I,2016SP,,STN,A,2,2,CCM,224,"M, TH", 11:00 AM, 12:15 PM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-220-01AA, EGD-220-01GD, EGD-220-01MC, EGD-220-01PR",EGD,UG
+EGD-220-01PR,Game Production I,2016SP,,STN,A,6,4,CCM,224,"M, TH", 11:00 AM, 12:15 PM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-220-01AA, EGD-220-01GD, EGD-220-01MC, EGD-220-01PR",EGD,UG
+EGD-220-02AA,Game Production I,2016SP,,STN,A,7,8,CCM,224,"M, TH", 9:30 AM, 10:45 AM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-220-02AA, EGD-220-02GD, EGD-220-02MC, EGD-220-02PR",EGD,UG
+EGD-220-02GD,Game Production I,2016SP,,STN,A,7,5,CCM,224,"M, TH", 9:30 AM, 10:45 AM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-220-02AA, EGD-220-02GD, EGD-220-02MC, EGD-220-02PR",EGD,UG
+EGD-220-02MC,Game Production I,2016SP,,STN,A,2,2,CCM,224,"M, TH", 9:30 AM, 10:45 AM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-220-02AA, EGD-220-02GD, EGD-220-02MC, EGD-220-02PR",EGD,UG
+EGD-220-02PR,Game Production I,2016SP,,STN,A,6,6,CCM,224,"M, TH", 9:30 AM, 10:45 AM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-220-02AA, EGD-220-02GD, EGD-220-02MC, EGD-220-02PR",EGD,UG
+EGD-220-03AA,Game Production I,2016SP,,STN,A,7,5,CCM,222,"T, F", 9:30 AM, 10:45 AM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-03AA, EGD-220-03GD, EGD-220-03PR, EGD-220-03MC",EGD,UG
+EGD-220-03GD,Game Production I,2016SP,,STN,A,7,2,CCM,222,"T, F", 9:30 AM, 10:45 AM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-03AA, EGD-220-03GD, EGD-220-03PR, EGD-220-03MC",EGD,UG
+EGD-220-03MC,Game Production I,2016SP,,STN,A,2,0,CCM,222,"T, F", 9:30 AM, 10:45 AM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-03AA, EGD-220-03GD, EGD-220-03PR, EGD-220-03MC",EGD,UG
+EGD-220-03PR,Game Production I,2016SP,,STN,A,6,4,CCM,222,"T, F", 9:30 AM, 10:45 AM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-03AA, EGD-220-03GD, EGD-220-03PR, EGD-220-03MC",EGD,UG
+EGD-220-04AA,Game Production I,2016SP,,STN,A,7,5,CCM,222,"M, TH", 9:30 AM, 10:45 AM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-04AA, EGD-220-04GD, EGD-220-04MC, EGD-220-04PR",EGD,UG
+EGD-220-04GD,Game Production I,2016SP,,STN,A,7,5,CCM,222,"M, TH", 9:30 AM, 10:45 AM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-04AA, EGD-220-04GD, EGD-220-04MC, EGD-220-04PR",EGD,UG
+EGD-220-04MC,Game Production I,2016SP,,STN,A,2,0,CCM,222,"M, TH", 9:30 AM, 10:45 AM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-04AA, EGD-220-04GD, EGD-220-04MC, EGD-220-04PR",EGD,UG
+EGD-220-04PR,Game Production I,2016SP,,STN,A,6,3,CCM,222,"M, TH", 9:30 AM, 10:45 AM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-04AA, EGD-220-04GD, EGD-220-04MC, EGD-220-04PR",EGD,UG
+EGD-220-05AA,Game Production I,2016SP,,STN,A,7,7,CCM,222,"M, TH", 11:00 AM, 12:15 PM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-05AA, EGD-220-05GD, EGD-220-05MC, EGD-220-05PR",EGD,UG
+EGD-220-05GD,Game Production I,2016SP,,STN,A,7,7,CCM,222,"M, TH", 11:00 AM, 12:15 PM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-05AA, EGD-220-05GD, EGD-220-05MC, EGD-220-05PR",EGD,UG
+EGD-220-05MC,Game Production I,2016SP,,STN,A,2,2,CCM,222,"M, TH", 11:00 AM, 12:15 PM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-05AA, EGD-220-05GD, EGD-220-05MC, EGD-220-05PR",EGD,UG
+EGD-220-05PR,Game Production I,2016SP,,STN,A,6,4,CCM,222,"M, TH", 11:00 AM, 12:15 PM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,"EGD-220-05AA, EGD-220-05GD, EGD-220-05MC, EGD-220-05PR",EGD,UG
+EGD-220-06AA,Game Production I,2016SP,,STN,A,7,3,CCM,224,"W, F", 3:30 PM, 4:45 PM,Evan,Tetreault,etetreault@champlain.edu,1/18/2016,5/6/2016,"EGD-220-06AA, EGD-220-06GD, EGD-220-06MC, EGD-220-06PR",EGD,UG
+EGD-220-06GD,Game Production I,2016SP,,STN,A,7,6,CCM,224,"W, F", 3:30 PM, 4:45 PM,Evan,Tetreault,etetreault@champlain.edu,1/18/2016,5/6/2016,"EGD-220-06AA, EGD-220-06GD, EGD-220-06MC, EGD-220-06PR",EGD,UG
+EGD-220-06MC,Game Production I,2016SP,,STN,A,2,1,CCM,224,"W, F", 3:30 PM, 4:45 PM,Evan,Tetreault,etetreault@champlain.edu,1/18/2016,5/6/2016,"EGD-220-06AA, EGD-220-06GD, EGD-220-06MC, EGD-220-06PR",EGD,UG
+EGD-220-06PR,Game Production I,2016SP,,STN,A,6,4,CCM,224,"W, F", 3:30 PM, 4:45 PM,Evan,Tetreault,etetreault@champlain.edu,1/18/2016,5/6/2016,"EGD-220-06AA, EGD-220-06GD, EGD-220-06MC, EGD-220-06PR",EGD,UG
+EGD-230-01,Level Design,2016SP,,STN,A,20,18,CCM,222,M, 12:30 PM, 3:15 PM,Jonathan,Ferguson,jferguson@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-230-02,Level Design,2016SP,,STN,A,20,19,CCM,222,TH, 12:30 PM, 3:15 PM,Jonathan,Ferguson,jferguson@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-235-01,3D Modeling,2016SP,,STN,A,18,19,CCM,1,M, 12:30 PM, 3:15 PM,Jo Ann,Patel,jpatel@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-235-02,3D Modeling,2016SP,,STN,A,18,18,CCM,1,W, 11:00 AM, 1:45 PM,Nathan,Walpole,nwalpole@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-240-81,Creative Portfolio Tools,2016SP,OL,ONL,A,20,20,,,,,,Frederic,Marcoux,fmarcoux@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-240-82,Creative Portfolio Tools,2016SP,OL,ONL,A,20,20,,,,,,Frederic,Marcoux,fmarcoux@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-245-01,"Concept Painting, Foundations",2016SP,,STN,A,18,19,CCM,1,TH, 12:30 PM, 3:15 PM,Nathan,Walpole,nwalpole@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-245-02,"Concept Painting, Foundations",2016SP,,STN,A,18,19,CCM,1,F, 12:30 PM, 3:15 PM,Nathan,Walpole,nwalpole@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-315-01,3D Modeling II,2016SP,,STN,A,16,11,CCM,1,M, 9:30 AM, 12:15 PM,Joshua,Buck,jbuck@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-320-01AA,Game Production II,2016SP,,STN,A,6,6,CCM,222,"T, F", 11:00 AM, 12:15 PM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-320-01AA, EGD-320-01GD, EGD-320-01MC, EGD-320-01PR",EGD,UG
+EGD-320-01GD,Game Production II,2016SP,,STN,A,6,6,CCM,222,"T, F", 11:00 AM, 12:15 PM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-320-01AA, EGD-320-01GD, EGD-320-01MC, EGD-320-01PR",EGD,UG
+EGD-320-01MC,Game Production II,2016SP,,STN,A,3,3,CCM,222,"T, F", 11:00 AM, 12:15 PM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-320-01AA, EGD-320-01GD, EGD-320-01MC, EGD-320-01PR",EGD,UG
+EGD-320-01PR,Game Production II,2016SP,,STN,A,8,7,CCM,222,"T, F", 11:00 AM, 12:15 PM,Peter,Wehr,pwehr@champlain.edu,1/18/2016,5/6/2016,"EGD-320-01AA, EGD-320-01GD, EGD-320-01MC, EGD-320-01PR",EGD,UG
+EGD-320-02AA,Game Production II,2016SP,,STN,A,6,5,CCM,224,"T, F", 9:30 AM, 10:45 AM,Greg,Bemis,bemis@champlain.edu,1/18/2016,5/6/2016,"EGD-320-02AA, EGD-320-02GD, EGD-320-02PR, EGD-320-02MC",EGD,UG
+EGD-320-02GD,Game Production II,2016SP,,STN,A,6,6,CCM,224,"T, F", 9:30 AM, 10:45 AM,Greg,Bemis,bemis@champlain.edu,1/18/2016,5/6/2016,"EGD-320-02AA, EGD-320-02GD, EGD-320-02PR, EGD-320-02MC",EGD,UG
+EGD-320-02MC,Game Production II,2016SP,,STN,A,3,1,CCM,224,"T, F", 9:30 AM, 10:45 AM,Greg,Bemis,bemis@champlain.edu,1/18/2016,5/6/2016,"EGD-320-02AA, EGD-320-02GD, EGD-320-02PR, EGD-320-02MC",EGD,UG
+EGD-320-02PR,Game Production II,2016SP,,STN,A,8,7,CCM,224,"T, F", 9:30 AM, 10:45 AM,Greg,Bemis,bemis@champlain.edu,1/18/2016,5/6/2016,"EGD-320-02AA, EGD-320-02GD, EGD-320-02PR, EGD-320-02MC",EGD,UG
+EGD-320-03AA,Game Production II,2016SP,,STN,A,6,5,CCM,224,"T, F", 11:00 AM, 12:15 PM,John,Boyd,jboyd@champlain.edu,1/18/2016,5/6/2016,"EGD-320-03AA, EGD-320-03GD, EGD-320-03PR, EGD-320-03MC",EGD,UG
+EGD-320-03GD,Game Production II,2016SP,,STN,A,6,7,CCM,224,"T, F", 11:00 AM, 12:15 PM,John,Boyd,jboyd@champlain.edu,1/18/2016,5/6/2016,"EGD-320-03AA, EGD-320-03GD, EGD-320-03PR, EGD-320-03MC",EGD,UG
+EGD-320-03MC,Game Production II,2016SP,,STN,A,3,3,CCM,224,"T, F", 11:00 AM, 12:15 PM,John,Boyd,jboyd@champlain.edu,1/18/2016,5/6/2016,"EGD-320-03AA, EGD-320-03GD, EGD-320-03PR, EGD-320-03MC",EGD,UG
+EGD-320-03PR,Game Production II,2016SP,,STN,A,8,4,CCM,224,"T, F", 11:00 AM, 12:15 PM,John,Boyd,jboyd@champlain.edu,1/18/2016,5/6/2016,"EGD-320-03AA, EGD-320-03GD, EGD-320-03PR, EGD-320-03MC",EGD,UG
+EGD-320-04AA,Game Production II,2016SP,,STN,A,6,6,CCM,222,"T, TH", 3:30 PM, 4:45 PM,Evan,Tetreault,etetreault@champlain.edu,1/18/2016,5/6/2016,"EGD-320-04AA, EGD-320-04GD, EGD-320-04PR, EGD-320-04MC",EGD,UG
+EGD-320-04GD,Game Production II,2016SP,,STN,A,6,6,CCM,222,"T, TH", 3:30 PM, 4:45 PM,Evan,Tetreault,etetreault@champlain.edu,1/18/2016,5/6/2016,"EGD-320-04AA, EGD-320-04GD, EGD-320-04PR, EGD-320-04MC",EGD,UG
+EGD-320-04MC,Game Production II,2016SP,,STN,A,3,0,CCM,222,"T, TH", 3:30 PM, 4:45 PM,Evan,Tetreault,etetreault@champlain.edu,1/18/2016,5/6/2016,"EGD-320-04AA, EGD-320-04GD, EGD-320-04PR, EGD-320-04MC",EGD,UG
+EGD-320-04PR,Game Production II,2016SP,,STN,A,8,3,CCM,222,"T, TH", 3:30 PM, 4:45 PM,Evan,Tetreault,etetreault@champlain.edu,1/18/2016,5/6/2016,"EGD-320-04AA, EGD-320-04GD, EGD-320-04PR, EGD-320-04MC",EGD,UG
+EGD-320-101,Game Production II,2016SP,MONT,STN,A,24,18,,,T, 6:00 PM, 8:45 PM,Alexandre,Benoit,abenoit@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-320-102,Game Production II,2016SP,MONT,STN,A,24,9,,,T, 5:30 PM, 8:15 PM,Xaviere,Hardy,xhardy@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-340-01,Game Sys. & Experience Design,2016SP,,STN,A,20,20,CCM,222,W, 12:30 PM, 3:15 PM,John,Boyd,jboyd@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-345-01,3D Character Development,2016SP,,STN,A,16,3,CCM,1,TH, 9:30 AM, 12:15 PM,Joshua,Buck,jbuck@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-345-101,3D Character Development,2016SP,MONT,STN,A,24,7,,,M, 6:00 PM, 8:45 PM,Jacque,Choi,jchoi@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-375-01,3D Animation II,2016SP,,STN,A,16,8,CCM,1,T, 9:30 AM, 12:15 PM,Nathan,Walpole,nwalpole@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-380A-01,Adv Seminar: Art & Animation,2016SP,,STN,A,10,9,CCM,1,F, 9:30 AM, 12:15 PM,Joshua,Buck,jbuck@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-380A-101,Adv Seminar: Art & Animation,2016SP,MONT,STN,A,10,7,,,TH, 6:00 PM, 8:45 PM,,,,1/18/2016,5/6/2016,,EGD,UG
+EGD-380A-51,Adv Seminar: Art & Animation,2016SP,,STN,A,10,10,CCM,1,M, 5:30 PM, 8:15 PM,Matthew,Regnier,mregnier@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-380B-01,Advanced Seminar: Game Design,2016SP,,STN,A,10,9,CCM,222,T, 12:30 PM, 3:15 PM,Marc,Wilhelm,mwilhelm@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-380B-101,Advanced Seminar: Game Design,2016SP,MONT,STN,A,10,8,,,TH, 6:00 PM, 8:45 PM,Patrick,Fortier,pfortier@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-380P-101,Adv. Seminar:Game Programming,2016SP,MONT,STN,A,15,8,,,F, 10:00 AM, 12:45 PM,Guillaume,Langlois,glanglois@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-410-01,Senior Portfolio: Game Design,2016SP,,STN,A,12,7,CCM,224,M, 12:30 PM, 3:15 PM,Amanda,Fox,crispel@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-410-02,Senior Portfolio: Game Design,2016SP,,STN,A,12,12,CCM,224,W, 12:30 PM, 3:15 PM,Greg,Bemis,bemis@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-415-01,Sr Portfolio: Art & Animation,2016SP,,STN,A,16,15,CCM,1,T, 12:30 PM, 3:15 PM,Joshua,Buck,jbuck@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-420-01,Senior Production,2016SP,,STN,A,20,18,CCM,222,F, 12:30 PM, 3:15 PM,John,Boyd,jboyd@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-420-02,Senior Production,2016SP,,STN,A,20,21,CCM,222,W, 9:30 AM, 12:15 PM,Amanda,Fox,crispel@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-420-03,Senior Production,2016SP,,STN,A,20,19,CCM,224,F, 12:30 PM, 3:15 PM,Edmar,Mendizabal,emendizabal@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGD-420-04,Senior Production,2016SP,,STN,A,20,17,CCM,224,W, 9:30 AM, 12:15 PM,Rachel,Hooper,rhooper@champlain.edu,1/18/2016,5/6/2016,,EGD,UG
+EGP-300-01,Graphics/Game Engine Prog II,2016SP,,STN,A,20,14,JOYC,101,"M, TH", 9:30 AM, 10:45 AM,Saad,Khattak,skhattak@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EGP-300-02,Graphics/Game Engine Prog II,2016SP,,STN,A,20,13,JOYC,101,"M, TH", 11:00 AM, 12:15 PM,Saad,Khattak,skhattak@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EGP-300-101,Graphics/Game Engine Prog II,2016SP,MONT,STN,A,15,8,,,M, 5:30 PM, 8:15 PM,Adi,Bar-Lev,abar-lev@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EGP-310-01,Game Architecture,2016SP,,STN,A,20,6,JOYC,101,"W, F", 2:00 PM, 3:15 PM,Dean,Lawson,lawson@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EGP-310-02,Game Architecture,2016SP,,STN,A,20,17,"JOYC, JOYC","101, 101","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Dean,Lawson,lawson@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EGP-310-03,Game Architecture,2016SP,,STN,A,20,19,JOYC,101,"T, TH", 2:00 PM, 3:15 PM,Dean,Lawson,lawson@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EGP-310-101,Game Architecture,2016SP,MONT,STN,A,15,2,,,W, 6:30 PM, 9:15 PM,Jeff,Timanus,jtimanus@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EGP-420-01,Console Programming,2016SP,,STN,A,20,9,"JOYC, JOYC","101, 101","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Dean,Lawson,lawson@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EGP-420-02,Console Programming,2016SP,,STN,A,20,21,JOYC,101,"T, TH", 12:30 PM, 1:45 PM,Dean,Lawson,lawson@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EGP-425-01,Game Physics,2016SP,,STN,A,20,6,JOYC,101,"T, F", 9:30 AM, 10:45 AM,Saad,Khattak,skhattak@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EGP-425-02,Game Physics,2016SP,,STN,A,20,20,JOYC,101,"T, F", 11:00 AM, 12:15 PM,Saad,Khattak,skhattak@champlain.edu,1/18/2016,5/6/2016,,EGP,UG
+EHS-100-02,Making Connections,2016SP,,"STN, FLD",A,12,12,GBTC,217,W,3:30PM,4:45 PM,Kelly,Becker,kbecker@champlain.edu,3/21/2016,4/29/2016,,EHS,UG
+EHS-200-01,Hot Topics Seminar,2016SP,,"STN, FLD",A,12,9,GBTC,206,T,8:00 AM,9:15 AM,Melissa,Petrozza,mpetrozza@champlain.edu,1/25/2016,3/4/2016,,EHS,UG
+EHS-200-02,Hot Topics Seminar,2016SP,,"STN, FLD",A,12,12,GBTC,206,T,3:30 PM,4:45 PM,Kristine,Reynolds,kreynolds@champlain.edu,1/25/2016,3/4/2016,,EHS,UG
+EHS-200-03,Hot Topics Seminar,2016SP,,"STN, FLD",A,12,12,GBTC,217,W,3:30 PM,4:45 PM,Melissa,Petrozza,mpetrozza@champlain.edu,1/25/2016,3/4/2016,,EHS,UG
+EHS-200-51,Hot Topics Seminar,2016SP,,"STN, FLD",A,12,12,GBTC,206,M,5:00 PM,6:15 PM,Melody,Brook,mbrook@champlain.edu,1/25/2016,3/4/2016,,EHS,UG
+EHS-210-01,Social Justice Intensive,2016SP,,"STN, FLD",A,12,12,GBTC,206,T,3:30 PM,4:45 PM,Kristine,Reynolds,kreynolds@champlain.edu,3/21/2016,4/29/2016,,EHS,UG
+EHS-210-51,Social Justice Intensive,2016SP,,"STN, FLD",A,12,8,GBTC,206,M,5:00 PM,6:15 PM,Faith,Yacubian,fyacubian@champlain.edu,3/21/2016,4/29/2016,,EHS,UG
+EHS-210-52,Social Justice Intensive,2016SP,,"STN, FLD",A,12,8,JOYC,310,TH,5:00: PM,6:15 PM,Victor,Izzo,vizzo@champlain.edu,3/21/2016,4/29/2016,,EHS,UG
+EHS-300-201,Comm. Advoc. & Inquiry Abroad,2016SP,DUBL,STN,A,15,7,,,M, 9:45 AM,12:30 PM,Darren,Kelly,dkelly@champlain.edu,1/18/2016,5/6/2016,,EHS,UG
+EHS-390-71,EHS Internship Experience,2016SP,HYBRD,FLD,A,10,4,,,,,,Margaret,Sealey,meg.sealey@gmail.com,1/18/2016,5/6/2016,,EHS,UG
+EHS-495-71,Intl Svc Intnshp: The Gambia,2016SP,,HYBRD,A,10,9,,,,,,Bjarne,Holmes,bmholmes@champlain.edu,1/18/2016,5/6/2016,,EHS,UG
+ENG-112-01,Critical Read./Expos. Wrtg II,2016SP,,STN,A,20,13,JOYC,203,"W, F", 2:00 PM, 3:15 PM,Kathleen,Kleman,kkleman@champlain.edu,1/18/2016,5/6/2016,,ENG,UG
+ENG-215-51,Reading and Writing Fiction,2016SP,,STN,A,25,19,JOYC,202,TH, 5:30 PM, 8:15 PM,Alice,Neiley,aneiley@champlain.edu,1/18/2016,5/6/2016,,ENG,UG
+ENG-242-51,Brit Lit I: Mid Ages to 18th C,2016SP,,STN,A,25,10,JOYC,211,"T, TH", 5:00 PM, 6:15 PM,Nancy,Nahra,nahra@champlain.edu,1/18/2016,5/6/2016,,ENG,UG
+ENG-260-51,Survey of Drama,2016SP,,STN,A,25,25,JOYC,201,"M, W", 5:00 PM, 6:15 PM,Kathleen,Kleman,kkleman@champlain.edu,1/18/2016,5/6/2016,,ENG,UG
+ENG-335-201,Dublin Literary Experience,2016SP,DUBL,STN,A,15,10,,,W, 2:15 PM, 5:00 PM,Caroline,Elbay,celbay@champlain.edu,1/18/2016,5/6/2016,,ENG,UG
+ENG-360-51,Adaptations:Narrative to Film,2016SP,,STN,A,25,20,GBTC,117,M, 5:30 PM, 8:15 PM,Janice,Gohm Webster,websterj@champlain.edu,1/18/2016,5/6/2016,,ENG,UG
+ENG-361-01,Shakespearean Drama,2016SP,,STN,A,25,17,JOYC,305,"T, TH", 3:30 PM, 4:45 PM,Nellie,Haddad,nhaddad@champlain.edu,1/18/2016,5/6/2016,,ENG,UG
+ENP-150-01,Environmental History,2016SP,,STN,A,25,13,MIC,305/306,"M, TH", 9:30 AM, 10:45 AM,Robert,Williams,rwilliams@champlain.edu,1/18/2016,5/6/2016,,ENP,UG
+ENP-250-01,Env. Policy & Globalization,2016SP,,STN,A,25,12,JOYC,311,"M, TH", 11:00 AM, 12:15 PM,Valerie,Esposito,vesposito@champlain.edu,1/18/2016,5/6/2016,,ENP,UG
+ENP-270-51,Food Systems and Policy,2016SP,,STN,A,20,15,JOYC,311,"M, W", 5:00 PM, 6:15 PM,Victor,Izzo,vizzo@champlain.edu,1/18/2016,5/6/2016,,ENP,UG
+ENP-280-51,Intro GIS & Spatial Analysis,2016SP,,STN,A,20,16,WICK,101,W, 3:30 PM, 6:15 PM,Sebastian,Castro-Tanzi,scastrotanzi@champlain.edu,1/18/2016,5/6/2016,,ENP,UG
+ENP-300-01,Place-Based Environ. Policy,2016SP,,STN,A,16,11,JOYC,103,W, 9:30 AM, 12:15 PM,Valerie,Esposito,vesposito@champlain.edu,1/18/2016,5/6/2016,,ENP,UG
+ENP-420-01,Climate Change & Energy Policy,2016SP,,STN,A,15,7,JOYC,301,W, 12:30 PM, 3:15 PM,Salvatore,Spinosa,sspinosa@champlain.edu,1/18/2016,5/6/2016,,ENP,UG
+ENP-490-01,Environmental Pol. Internship,2016SP,,STN,A,24,5,MIC,305/306,"M, TH", 8:00 AM, 9:15 AM,Robert,Williams,rwilliams@champlain.edu,1/18/2016,5/6/2016,,ENP,UG
+EVT-240-01,Event Planning & Coordination,2016SP,,STN,A,24,7,JOYC,103,"T, TH", 2:00 PM, 3:15 PM,Peter,Straube,straube@champlain.edu,1/18/2016,5/6/2016,,EVT,UG
+EVT-340-01,Business of Event Management,2016SP,,STN,A,24,7,JOYC,102,"W, F", 3:30 PM, 4:45 PM,Sharon,Radtke,sradtke@champlain.edu,1/18/2016,5/6/2016,,EVT,UG
+FIN-240-01,Financial Management I,2016SP,,STN,A,24,12,GBTC,217,"M, TH", 9:30 AM, 10:45 AM,Frederick,Burkhardt,fburkhardt@champlain.edu,1/18/2016,5/6/2016,,FIN,UG
+FIN-240-02,Financial Management I,2016SP,,STN,A,24,14,"GBTC, GBTC","112, 112","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Shane,Moser,smoser@champlain.edu,1/18/2016,5/6/2016,,FIN,UG
+FIN-240-03,Financial Management I,2016SP,,STN,A,24,23,GBTC,217,"M, TH", 11:00 AM, 12:15 PM,Frederick,Burkhardt,fburkhardt@champlain.edu,1/18/2016,5/6/2016,,FIN,UG
+FIN-240-04,Financial Management I,2016SP,,STN,A,24,9,"GBTC, GBTC","112, 112","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Shane,Moser,smoser@champlain.edu,1/18/2016,5/6/2016,,FIN,UG
+FIN-300-01,Investments,2016SP,,STN,A,24,20,WICK,102,"W, F", 3:30 PM, 4:45 PM,Shane,Moser,smoser@champlain.edu,1/18/2016,5/6/2016,,FIN,UG
+FIN-340-01,Financial Management II,2016SP,,STN,A,24,14,GBTC,114,"T, TH", 2:00 PM, 3:15 PM,Frederick,Burkhardt,fburkhardt@champlain.edu,1/18/2016,5/6/2016,,FIN,UG
+FLM-100-51,Film Studies: Screenings,2016SP,,STN,A,55,51,CCM,221,W, 5:30 PM, 8:30 PM,Gordon,Glover,gglover@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-128-01,Screenwriting I,2016SP,,STN,A,16,17,CCM,233,M, 9:30 AM, 12:15 PM,Julia,Swift,jswift@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-128-02,Screenwriting I,2016SP,,STN,A,16,18,CCM,233,TH, 9:30 AM, 12:15 PM,Julia,Swift,jswift@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-128-51,Screenwriting I,2016SP,,STN,A,16,16,CCM,233,T, 5:30 PM, 8:15 PM,Joel,Klein,jklein@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-211-51,Film History II,2016SP,,STN,A,25,20,"CCM, WICK","221, 1","M, TH"," 5:30 PM,  5:30 PM"," 8:15 PM,  6:45 PM",Matthew,Parillo,mparillo@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-211-52,Film History II,2016SP,,STN,A,25,8,"CCM, WICK","221, 1","M, TH"," 5:30 PM,  7:00 PM"," 8:15 PM,  8:15 PM",Matthew,Parillo,mparillo@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-215-01,Filmmaking I,2016SP,,STN,A,18,8,"FOST, CCM","101, 101","M, M"," 9:30 AM,  9:30 AM"," 10:45 AM,  12:15 PM",Michael,Fisher,mfisher@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-215-51,Filmmaking I,2016SP,,STN,A,18,16,"FOST, CCM","101, 101","T, T"," 5:30 PM,  5:30 PM"," 8:15 PM,  8:15 PM",Michael,Fisher,mfisher@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-225-01,Cinematography and Lighting,2016SP,,STU,A,18,14,CCM,101,W, 2:00 PM, 4:45 PM,Calhan,Hopwood,cal.hopwood@gmail.com,1/18/2016,5/6/2016,,FLM,UG
+FLM-225-02,Cinematography and Lighting,2016SP,,STU,A,17,14,CCM,101,TH, 2:00 PM, 4:45 PM,Calhan,Hopwood,cal.hopwood@gmail.com,1/18/2016,5/6/2016,"FLM-225-02, EMM-5225FLM-01",FLM,UG
+FLM-225L-51,Cinematography & Light. Studio,2016SP,,STU,A,0,11,CCM,101,TH, 5:30 PM, 7:00 PM,Calhan,Hopwood,cal.hopwood@gmail.com,1/18/2016,5/6/2016,,FLM,UG
+FLM-225L-52,Cinematography & Light. Studio,2016SP,,STU,A,0,17,CCM,101,TH, 7:00 PM, 8:30 PM,Calhan,Hopwood,cal.hopwood@gmail.com,1/18/2016,5/6/2016,,FLM,UG
+FLM-260-01,Documentary Filmmaking,2016SP,,STN,A,18,18,FOST,101,T, 9:30 AM, 12:15 PM,Julia,Swift,jswift@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-260-02,Documentary Filmmaking,2016SP,,STN,A,18,17,FOST,101,F, 12:30 PM, 3:15 PM,Gordon,Glover,gglover@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-280-201,Irish Culture Through Film,2016SP,DUBL,STN,A,15,14,,,W, 2:30 PM, 5:15 PM,Seamus,White,swhite@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-281-101,Canadian Culture Through Films,2016SP,MONT,STN,A,15,21,,,T, 1:00 PM, 3:45 PM,Adam,Van Sertima,avansertima@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-285-01,Direct. & Act. for the Screen,2016SP,,STN,A,18,11,CCM,305,T, 9:30 AM, 12:15 PM,Robert,Harte,rharte@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-315-01,Filmmaking II,2016SP,,STN,A,15,12,FOST,101,W, 2:00 PM, 4:45 PM,Gordon,Glover,gglover@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-328-01,Screenwriting II,2016SP,,STN,A,18,15,CCM,233,W, 2:00 PM, 4:45 PM,Robert,Harte,rharte@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-383-01,Experimental Moving Image,2016SP,,STN,A,18,11,CCM,305,F, 9:30 AM, 12:15 PM,Gordon,Glover,gglover@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FLM-490-01,Filmmaking Internship,2016SP,,FLD,A,2,4,,,,,,Bryan,Agran,bagran@champlain.edu,1/18/2016,5/6/2016,,FLM,UG
+FOR-100-01,Cyber Crime-Crim & Civ Inves,2016SP,,STN,A,20,13,FOST,100,"T, TH", 12:30 PM, 1:45 PM,Alexander,Caron,acaron@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+FOR-190-01,Internship at the LCDI,2016SP,,FLD,A,16,9,,,,,,Mark,Zammuto,mzammuto@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+FOR-191-01,Internship at the LCDI,2016SP,,FLD,A,16,9,,,,,,Mark,Zammuto,mzammuto@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+FOR-240-51,Intro. to Digital Forensics,2016SP,,STN,A,20,21,FOST,100,"T, TH", 5:30 PM, 6:45 PM,Eric,Jollymore,ejollymore@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+FOR-260-01,Digital Forensic Tool Eval.,2016SP,,STN,A,20,20,"FOST, FOST","100, 1","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Jonathan,Rajewski,rajewski@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+FOR-270-01,Anti-Forensics&Netw Forensics,2016SP,,STN,A,20,20,"FOST, FOST","100, 1","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Jonathan,Rajewski,rajewski@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+FOR-270-02,Anti-Forensics&Netw Forensics,2016SP,,STN,A,24,17,FOST,100,"W, F", 3:30 PM, 4:45 PM,Yogeshkumar,Khatri,khatri@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+FOR-320-01,File System Forensics,2016SP,,STN,A,20,20,FOST,100,"M, TH", 9:30 AM, 10:45 AM,Yogeshkumar,Khatri,khatri@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+FOR-340-01,Operating System Forensics,2016SP,,STN,A,20,14,FOST,100,"W, F", 12:30 PM, 1:45 PM,Yogeshkumar,Khatri,khatri@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+FOR-340-02,Operating System Forensics,2016SP,,STN,A,20,19,FOST,100,"M, TH", 11:00 AM, 12:15 PM,Yogeshkumar,Khatri,khatri@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+FOR-490-01,Forensics Internship,2016SP,,FLD,A,15,5,,,,,,Jonathan,Rajewski,rajewski@champlain.edu,1/18/2016,5/6/2016,,FOR,UG
+GDD-111-01,Visual & Digital Fundamentals,2016SP,,STN,A,22,20,GBTC,14,M, 9:30 AM, 12:15 PM,Thomas,Barlow,tbarlow@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-111-02,Visual & Digital Fundamentals,2016SP,,STN,A,22,20,GBTC,14,T, 9:30 AM, 12:15 PM,Sheri,Bannister,sbannister@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-111-03,Visual & Digital Fundamentals,2016SP,,STN,A,22,17,GBTC,12,W, 9:30 AM, 12:15 PM,Sheri,Bannister,sbannister@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-115-01,The Digital Image,2016SP,,"STN, STU",A,20,20,"CCM, CCM","426, 426","TH, T"," 3:30 PM,  3:30 PM"," 6:45 PM,  4:45 PM",Robin,Perlah,rperlah@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-181-51,Design Solutions,2016SP,,STN,A,18,18,CCM,426,M, 5:30 PM, 8:15 PM,Jeremy,Smith,jsmith@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-201-01,Intro to Typography,2016SP,,"STN, STU",A,21,12,"CCM, BARN","426, 2","T, TH"," 12:30 PM,  1:30 PM"," 3:15 PM,  3:30 PM",Toni-Lee,Sangastiano,sangastiano@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-201-02,Intro to Typography,2016SP,,"STN, STU",A,21,18,"CCM, BARN","426, 2","TH, M"," 9:30 AM,  9:00 AM"," 12:15 PM,  11:00 AM",Toni-Lee,Sangastiano,sangastiano@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-202-01,Form and Space,2016SP,,"STN, STU",A,18,16,"CCM, CCM","434, 434","TH, T"," 12:30 PM,  3:30 PM"," 3:15 PM,  5:30 PM",David,Lustgarten,lustgarten@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-203-51,Form in Motion,2016SP,,"STN, STU",A,20,13,"GBTC, BARN","12, 2","TH, W"," 5:30 PM,  5:30 PM"," 8:15 PM,  7:30 PM",Kevin,Murakami,"kmurakami@champlain.edu, jsmith@champlain.edu",1/18/2016,5/6/2016,"GDD-203-51, EMM-5203GDD-51",GDD,UG
+GDD-205-01,Publication Design I,2016SP,,"STN, STU",A,20,19,"CCM, BARN","426, 2","M, W"," 12:30 PM,  9:00 AM"," 3:15 PM,  11:00 AM",David,Lustgarten,lustgarten@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-206-01,Web Design I,2016SP,,"STN, STU",A,18,18,"CCM, BARN","426, 2","M, M"," 9:30 AM,  5:30 PM"," 12:15 PM,  7:30 PM",Coberlin,Brownell,"cbrownell@champlain.edu, akunkle@champlain.edu",1/18/2016,5/6/2016,,GDD,UG
+GDD-206-02,Web Design I,2016SP,,"STN, STU",A,18,17,"CCM, BARN","426, 2","F, M"," 9:30 AM,  5:30 PM"," 12:15 PM,  7:30 PM",Alaina,Castillo-Kunkle,akunkle@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-220-01,Visual Creativity & Meaning,2016SP,,STN,A,24,26,CCM,221,"M, TH", 9:30 AM, 10:45 AM,David,Lustgarten,lustgarten@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-270-01,Intermediate Typography,2016SP,,"STN, STU",A,20,22,"CCM, BARN","426, 2","T, F"," 9:30 AM,  10:00 AM"," 12:15 PM,  12:00 PM",Suzanne,Glover,sglover@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-300-01,Projects in Graphic Design I,2016SP,,"STN, STU",A,18,10,"GBTC, BARN","14, 2","TH, T"," 2:00 PM,  12:30 PM"," 4:45 PM,  2:30 PM",Steven,Crafts,"scrafts@champlain.edu, cbrownell@champlain.edu",1/18/2016,5/6/2016,,GDD,UG
+GDD-301-01,Advanced Typography,2016SP,,"STN, STU",A,20,12,"CCM, BARN","426, 2","TH, F"," 12:30 PM,  10:00 AM"," 3:15 PM,  12:00 PM",Suzanne,Glover,sglover@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-305-51,Publication Design II,2016SP,,"STN, STU",A,20,12,"CCM, BARN","426, 2","W, W"," 5:30 PM,  11:00 AM"," 8:15 PM,  1:00 PM",Jonathan,Mikulak,"jmikulak@champlain.edu, lustgarten@champlain.edu",1/18/2016,5/6/2016,,GDD,UG
+GDD-307-51,Form in Motion II,2016SP,,"STN, STU",A,18,22,"GBTC, BARN","12, 2","M, W"," 5:30 PM,  7:30 PM"," 8:15 PM,  9:30 PM",Kevin,Murakami,"kmurakami@champlain.edu, jsmith@champlain.edu",1/18/2016,5/6/2016,,GDD,UG
+GDD-310-51,Graphic Print Production,2016SP,,STN,A,20,8,GBTC,14,W, 5:30 PM, 8:15 PM,Michael,Sealy,msealy@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-325-101,"Duality, Design & Dissent",2016SP,MONT,STN,A,20,8,,,W, 10:00 AM, 12:45 PM,Noe,Sardet,nsardet@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-400-01,Projects in Graphic Design II,2016SP,,"STN, STU",A,20,20,"CCM, BARN","426, 2","W, T"," 12:30 PM,  2:30 PM"," 3:15 PM,  4:30 PM",Coberlin,Brownell,cbrownell@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-400-02,Projects in Graphic Design II,2016SP,,"STN, STU",A,20,12,"GBTC, BARN","14, 2","F, T"," 2:00 PM,  2:30 PM"," 4:45 PM,  4:30 PM",Deborah,Kehoe-Yergeau,"dkehoeyergeau@champlain.edu, cbrownell@champlain.edu",1/18/2016,5/6/2016,,GDD,UG
+GDD-401-01,Sr Portfolio in Graphic Design,2016SP,,STN,A,22,9,GBTC,12,F, 9:30 AM, 12:15 PM,Deborah,Kehoe-Yergeau,dkehoeyergeau@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-401-02,Sr Portfolio in Graphic Design,2016SP,,STN,A,22,17,GBTC,14,F, 9:30 AM, 12:15 PM,Coberlin,Brownell,cbrownell@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+GDD-490-01,Apprenticeship/Graphic Design,2016SP,,FLD,A,22,13,,,,,,Deborah,Kehoe-Yergeau,dkehoeyergeau@champlain.edu,1/18/2016,5/6/2016,,GDD,UG
+HIS-111-01,American History II,2016SP,,STN,A,24,22,JOYC,302,"M, TH", 11:00 AM, 12:15 PM,Signe,Daly,sdaly@champlain.edu,1/18/2016,5/6/2016,,HIS,UG
+HIS-211-51,Legacy of World Civ II,2016SP,,STN,A,25,10,JOYC,304,M, 5:30 PM, 8:15 PM,Thomas,Jordan,jordan@champlain.edu,1/18/2016,5/6/2016,,HIS,UG
+HIS-315-201,Modern Irish Social History,2016SP,DUBL,STN,A,20,9,,,"TH, TH"," 12:30 PM,  2:30 PM"," 1:45 PM,  3:45 PM",Anthony,O'Halloran,aohalloran@champlain.edu,1/18/2016,5/6/2016,,HIS,UG
+HIS-316-201,Early History of Ireland,2016SP,DUBL,STN,A,20,10,,,W, 9:00 AM, 11:45 AM,Kelli,Maoileoin,kmaoileoin@champlain.edu,1/18/2016,5/6/2016,,HIS,UG
+HIS-415B-201,Northern Ireland,2016SP,DUBL,STN,A,20,7,,,T, 2:30 PM, 5:15 PM,Kelli,Maoileoin,kmaoileoin@champlain.edu,1/18/2016,5/6/2016,,HIS,UG
+INT-230-51,Import/Export,2016SP,,STN,A,24,24,JOYC,313,TH, 5:30 PM, 8:15 PM,William,Zuccareno,zuccareno@champlain.edu,1/18/2016,5/6/2016,,INT,UG
+INT-320-51,International Finance & Trade,2016SP,,STN,A,24,18,CCM,221,T, 5:30 PM, 8:15 PM,Ciaran,Buckley,cbuckley@champlain.edu,1/18/2016,5/6/2016,,INT,UG
+INT-330-01,International Relations,2016SP,,STN,A,24,20,CCM,424,W, 2:00 PM, 4:45 PM,Scott,Baker,shbaker@champlain.edu,1/18/2016,5/6/2016,,INT,UG
+INT-330-201,International Relations,2016SP,DUBL,STN,A,15,5,,,T, 2:30 PM, 5:15 PM,Seamus,White,swhite@champlain.edu,1/18/2016,5/6/2016,,INT,UG
+INT-362-51,Global Competitive Intelligenc,2016SP,,STN,A,24,6,GBTC,112,M, 5:30 PM, 8:15 PM,Chad,Stimson,cstimson@champlain.edu,1/18/2016,5/6/2016,,INT,UG
+INT-490-01,International Bus. Internship,2016SP,,FLD,A,6,7,GBTC,17,"T, TH", 12:30 PM, 1:45 PM,Thomas,Myers,myers@champlain.edu,1/18/2016,5/6/2016,"ACC-390-01, INT-490-01, MKT-290-01, MKT-490-01",INT,UG
+INV-310-01,Strat Mgmt Innovation & Tech,2016SP,,STN,A,24,6,GBTC,112,"M, TH", 9:30 AM, 10:45 AM,Donald,Haggerty,haggerty@champlain.edu,1/18/2016,5/6/2016,,INV,UG
+INV-410-01,Designing Innovative Orgs.,2016SP,,STN,A,24,11,GBTC,112,"M, TH", 11:00 AM, 12:15 PM,Donald,Haggerty,haggerty@champlain.edu,1/18/2016,5/6/2016,,INV,UG
+ITS-420-51,IT Management,2016SP,,STN,A,24,12,GBTC,217,W, 5:30 PM, 8:15 PM,Pamela,Lowe,plowe@champlain.edu,1/18/2016,5/6/2016,,ITS,UG
+IXD-200-51,Aesthetic Interactions,2016SP,,STN,A,18,18,FOST,101,W, 5:30 PM, 8:15 PM,Mark,Zelis,mzelis@champlain.edu,1/18/2016,5/6/2016,,IXD,UG
+LAN-110-01,French I,2016SP,,STN,A,18,10,JOYC,202,"T, F", 11:00 AM, 12:15 PM,Genevieve,Henry,ghenry@champlain.edu,1/18/2016,5/6/2016,,LAN,UG
+LAN-110-101,French I,2016SP,MONT,STN,A,18,7,,,"W, F", 2:00 PM, 3:15 PM,Carmen,Cristea,ccristea@champlain.edu,1/18/2016,5/6/2016,,LAN,UG
+LAN-140-01,Japanese I,2016SP,,STN,A,18,17,JOYC,301,"T, TH", 3:30 PM, 4:45 PM,Sinyoung,Evans,sevans@champlain.edu,1/18/2016,5/6/2016,,LAN,UG
+LAN-170-01,Chinese I,2016SP,,STN,A,18,12,JOYC,103,"W, F", 2:00 PM, 3:15 PM,Jennifer,Jang,jjang@champlain.edu,1/18/2016,5/6/2016,,LAN,UG
+LAN-210-01,French II,2016SP,,STN,A,18,8,JOYC,103,"W, F", 12:30 PM, 1:45 PM,Genevieve,Henry,ghenry@champlain.edu,1/18/2016,5/6/2016,,LAN,UG
+LAN-215-101,Conversational French,2016SP,MONT,STN,A,15,3,,,"M, W", 4:00 PM, 5:15 PM,Denis,Brault,dbrault@champlain.edu,1/18/2016,5/6/2016,,LAN,UG
+LAN-240-51,Japanese II,2016SP,,STN,A,18,12,JOYC,305,"T, TH", 5:00 PM, 6:15 PM,Sinyoung,Evans,sevans@champlain.edu,1/18/2016,5/6/2016,,LAN,UG
+LAN-249-01TVL,Japanese Lang & Culture Exp,2016SP,,STN,A,10,11,GBTC,201,W, 3:30 PM, 4:45 PM,Michiko,Oishi,moishi@champlain.edu,1/18/2016,5/6/2016,,LAN,UG
+LAN-310-01,French III,2016SP,,STN,A,18,6,GBTC,206,"T, F", 9:30 AM, 10:45 AM,Genevieve,Henry,ghenry@champlain.edu,1/18/2016,5/6/2016,,LAN,UG
+LAN-320-01,Spanish III,2016SP,,STN,A,15,8,JOYC,203,"T, F", 11:00 AM, 12:15 PM,April,Howard,ahoward@champlain.edu,1/18/2016,5/6/2016,,LAN,UG
+LEAD-100-01,Career Profile,2016SP,,STN,A,0,14,,,,,,,,,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-102-01,Engaged Citizen,2016SP,,STN,A,0,251,,,,,,,,,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-106-01,Financial Assessment,2016SP,,STN,A,0,14,,,,,,Jimena,Huaco,jhuaco@champlain.edu,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-108-01,Financial Sophistication Req.,2016SP,,STN,A,0,228,,,,,,Jimena,Huaco,jhuaco@champlain.edu,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-201-01,Sophomore Symposium,2016SP,,STN,A,0,6,,,,,,,,,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-202-CCM1,Strategically Mrktng Yourself,2016SP,,STN,A,0,12,GARD,103,TH, 3:30 PM, 5:00 PM,Kerry,Hill,khill@champlain.edu,1/21/2016,1/21/2016,,LEAD,SL
+LEAD-202-CCM2,Strategically Mrktng Yourself,2016SP,,STN,A,0,6,GARD,103,F, 2:00 PM, 3:30 PM,Kerry,Hill,khill@champlain.edu,1/22/2016,1/22/2016,,LEAD,SL
+LEAD-202-CCM3,Strategically Mrktng Yourself,2016SP,,STN,A,0,14,GARD,103,M, 3:30 PM, 5:00 PM,Kerry,Hill,khill@champlain.edu,1/25/2016,1/25/2016,,LEAD,SL
+LEAD-202-CCM4,Strategically Mrktng Yourself,2016SP,,STN,A,0,19,GARD,103,T, 2:00 PM, 3:30 PM,Kerry,Hill,khill@champlain.edu,1/26/2016,1/26/2016,,LEAD,SL
+LEAD-202-CCM5,Strategically Mrktng Yourself,2016SP,,STN,A,0,10,GARD,103,F, 1:00 PM, 2:30 PM,Kerry,Hill,khill@champlain.edu,1/29/2016,1/29/2016,,LEAD,SL
+LEAD-202-CCM6,Strategically Mrktng Yourself,2016SP,,STN,A,0,15,GARD,103,TH, 5:00 PM, 6:30 PM,Kerry,Hill,khill@champlain.edu,2/4/2016,2/4/2016,,LEAD,SL
+LEAD-202-CCM7,Strategically Mrktng Yourself,2016SP,,STN,A,0,13,GARD,103,M, 3:30 PM, 5:00 PM,Kerry,Hill,khill@champlain.edu,2/8/2016,2/8/2016,,LEAD,SL
+LEAD-202-EHS1,Strategically Mrktng Yourself,2016SP,,STN,A,0,12,GARD,103,F, 12:30 PM, 2:00 PM,,,,1/22/2016,1/22/2016,,LEAD,SL
+LEAD-202-EHS2,Strategically Mrktng Yourself,2016SP,,STN,A,0,7,GARD,103,M, 2:00 PM, 3:30 PM,,,,1/25/2016,1/25/2016,,LEAD,SL
+LEAD-202-EHS3,Strategically Mrktng Yourself,2016SP,,STN,A,0,8,GARD,103,T, 11:00 AM, 12:30 PM,,,,1/26/2016,1/26/2016,,LEAD,SL
+LEAD-202-EHS4,Strategically Mrktng Yourself,2016SP,,STN,A,0,7,GARD,103,M, 3:30 PM, 5:00 PM,,,,2/15/2016,2/15/2016,,LEAD,SL
+LEAD-202-EHS5,Strategically Mrktng Yourself,2016SP,,STN,A,0,3,GARD,103,M, 3:30 PM, 5:00 PM,,,,2/22/2016,2/22/2016,,LEAD,SL
+LEAD-202-GAME1,Strategically Mrktng Yourself,2016SP,,STN,A,0,18,GARD,103,T, 2:00 PM, 3:30 PM,Daphne,Walker,walkerd@champlain.edu,1/19/2016,1/19/2016,,LEAD,SL
+LEAD-202-GAME2,Strategically Mrktng Yourself,2016SP,,STN,A,0,16,GARD,103,T, 2:00 PM, 3:30 PM,Daphne,Walker,walkerd@champlain.edu,2/2/2016,2/2/2016,,LEAD,SL
+LEAD-202-GAME3,Strategically Mrktng Yourself,2016SP,,STN,A,0,21,CCM,444,M, 3:30 PM, 5:00 PM,Daphne,Walker,walkerd@champlain.edu,2/8/2016,2/8/2016,,LEAD,SL
+LEAD-202-GAME4,Strategically Mrktng Yourself,2016SP,,STN,A,0,18,CCM,442,M, 3:30 PM, 5:00 PM,Daphne,Walker,walkerd@champlain.edu,2/15/2016,2/15/2016,,LEAD,SL
+LEAD-202-GAME5,Strategically Mrktng Yourself,2016SP,,STN,A,0,0,CCM,442,M, 3:30 PM, 5:00 PM,Daphne,Walker,walkerd@champlain.edu,2/22/2016,2/22/2016,,LEAD,SL
+LEAD-206-01,Financial Sophistication Req.,2016SP,,STN,A,0,287,,,,,,Jimena,Huaco,jhuaco@champlain.edu,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-206-02,Financial Sophistication Req.,2016SP,,STN,A,0,0,,,,,,Jimena,Huaco,jhuaco@champlain.edu,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-301-01,Career Workshop Requirement,2016SP,,STN,A,0,190,,,,,,,,,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-301-02,Career Workshop Requirement,2016SP,,STN,A,0,0,,,,,,,,,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-306-01,Financial Sophistication Req.,2016SP,,STN,A,0,317,,,,,,Jimena,Huaco,jhuaco@champlain.edu,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-306-02,Financial Sophistication Req.,2016SP,,STN,A,0,0,,,,,,Jimena,Huaco,jhuaco@champlain.edu,1/18/2016,5/6/2016,,LEAD,SL
+LEAD-408-01,Financial Assessment,2016SP,,STN,A,0,0,,,,,,Jimena,Huaco,jhuaco@champlain.edu,1/18/2016,5/6/2016,,LEAD,SL
+LEG-160-01,Contracts,2016SP,,STN,A,25,10,CCM,221,"M, TH", 11:00 AM, 12:15 PM,Eric,Friedman,efriedman@champlain.edu,1/18/2016,5/6/2016,,LEG,UG
+LEG-170-01,Torts,2016SP,,STN,A,24,12,GBTC,117,"T, TH", 2:00 PM, 3:15 PM,Eric,Friedman,efriedman@champlain.edu,1/18/2016,5/6/2016,,LEG,UG
+LEG-260-01,Family Law,2016SP,,STN,A,24,14,JOYC,202,"W, F", 2:00 PM, 3:15 PM,Edward,Cashman,ecashman@champlain.edu,1/18/2016,5/6/2016,,LEG,UG
+LEG-270-51,Real Estate Law,2016SP,,STN,A,24,14,JOYC,310,T, 5:30 PM, 8:15 PM,Eric,Friedman,efriedman@champlain.edu,1/18/2016,5/6/2016,,LEG,UG
+LEG-310-01,"Wills, Trusts & Estates",2016SP,,STN,A,24,10,JOYC,311,"M, TH", 9:30 AM, 10:45 AM,Stephen,Miller,smiller@champlain.edu,1/18/2016,5/6/2016,,LEG,UG
+LEG-330-81,Business Organizations,2016SP,OL,STN,A,1,2,,,,,,Eric,Friedman,efriedman@champlain.edu,1/18/2016,5/6/2016,,LEG,UG
+LEG-390-01,Legal Studies Field Internship,2016SP,,FLD,A,5,1,,,,,,Eric,Friedman,efriedman@champlain.edu,1/18/2016,5/6/2016,,LEG,UG
+LEG-480-01,Law in Context Seminar,2016SP,,STN,A,10,5,GBTC,117,T, 11:00 AM, 1:45 PM,Eric,Friedman,efriedman@champlain.edu,1/18/2016,5/6/2016,,LEG,UG
+MATH-180-81,"Statistics, Introduction to",2016SP,OL,ONL,A,25,22,,,,,,James,Myers,jmyers@champlain.edu,1/18/2016,5/6/2016,,MATH,UG
+MATH-180-81A,"Statistics, Introduction to",2016SP,OL,ONL,A,25,23,,,,,,Robert,Green,green@champlain.edu,1/18/2016,5/6/2016,,MATH,UG
+MATH-270-81,Discrete Mathematics,2016SP,OL,ONL,A,20,4,,,,,,Diane,Yeoman,dyeoman@champlain.edu,1/18/2016,5/6/2016,,MATH,UG
+MCM-110-01,Video Storytelling,2016SP,,STN,A,20,6,"GBTC, GBTC","14, 014","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Keith,Oppenheim,koppenheim@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-110-02,Video Storytelling,2016SP,,STN,A,20,8,"GBTC, GBTC","14, 014","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Keith,Oppenheim,koppenheim@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-110-03,Video Storytelling,2016SP,,STN,A,18,18,GBTC,14,"T, TH", 12:30 PM, 1:45 PM,Keith,Oppenheim,koppenheim@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-120-01,Media and Society,2016SP,,STN,A,24,24,CCM,424,"M, TH", 9:30 AM, 10:45 AM,Cheryl,Casey,ccasey@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-120-02,Media and Society,2016SP,,STN,A,24,19,GBTC,114,"W, F", 3:30 PM, 4:45 PM,Sandrine,Dincki,sdincki@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-130-01,Audio Production,2016SP,,STN,A,14,14,GBTC,12,"W, F", 3:30 PM, 4:45 PM,Matthew,Grasso,mgrasso@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-130-02,Audio Production,2016SP,,STN,A,18,17,GBTC,12,"T, TH", 12:30 PM, 1:45 PM,Mitchell,Terricciano,mterricciano@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-130-51,Audio Production,2016SP,,STN,A,18,18,GBTC,14,"T, TH", 5:00 PM, 6:15 PM,Matthew,Grasso,mgrasso@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-130-52,Audio Production,2016SP,,STN,A,18,12,GBTC,14,TH, 6:30 PM, 9:15 PM,Robert,Ryan,rryan@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-135-01,Radio Practicum,2016SP,,FLD,A,10,8,GBTC,12,T, 2:00 PM, 3:15 PM,Mitchell,Terricciano,mterricciano@champlain.edu,1/18/2016,5/6/2016,"MCM-135-01, MCM-135B-01, MCM-135C-01",MCM,UG
+MCM-135B-01,Radio Practicum,2016SP,,FLD,A,8,2,GBTC,12,T, 2:00 PM, 3:15 PM,Mitchell,Terricciano,mterricciano@champlain.edu,1/18/2016,5/6/2016,"MCM-135-01, MCM-135B-01, MCM-135C-01",MCM,UG
+MCM-210-01,Principles of Public Relations,2016SP,,STN,A,24,10,"CCM, CCM","424, 424","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Nancy,Kerr,kerr@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-210-02,Principles of Public Relations,2016SP,,STN,A,24,13,"CCM, CCM","424, 424","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Nancy,Kerr,kerr@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-215-01,Business of Public Relations,2016SP,,STN,A,18,9,"GBTC, WICK","201, 101","T, TH"," 2:00 PM,  2:00 PM"," 3:15 PM,  3:15 PM",Rosalynne,Whitaker-Heck,rwhitakerheck@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-216-01,Electronic Media Writing,2016SP,,STN,A,18,15,GBTC,112,"T, F", 9:30 AM, 10:45 AM,Christine,Ianni,cianni@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-216-02,Electronic Media Writing,2016SP,,STN,A,18,18,GBTC,112,"T, F", 11:00 AM, 12:15 PM,Christine,Ianni,cianni@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-305-01,Creativity/Conceptual Develop.,2016SP,,STN,A,20,17,CCM,233,"T, F", 11:00 AM, 12:15 PM,Cinse,Bonino,bonino@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-315-51,Contemporary Media Issues,2016SP,,STN,A,24,18,CCM,233,"M, W", 5:30 PM, 6:45 PM,Lauren,Layn,llayn@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-330-51,"Audio Produc & Sound Des, Adv",2016SP,,STN,A,18,18,GBTC,14,T, 6:30 PM, 9:15 PM,Walter,Westinghouse,wwestinghouse@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-345-51,Streaming Media Production II,2016SP,,STN,A,24,22,GBTC,12,W, 5:30 PM, 8:15 PM,Bryan,Agran,bagran@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-355-01,Prof. Communication Practices,2016SP,,STN,A,20,24,GBTC,112,W, 12:30 PM, 1:45 PM,Kerry,Hill,khill@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-355-02,Prof. Communication Practices,2016SP,,STN,A,18,14,CCM,444,W, 3:30 PM, 4:45 PM,Kerry,Hill,khill@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-360-51,Legal Issues in Communication,2016SP,,STN,A,24,12,CCM,442,T, 5:30 PM, 8:15 PM,Cindy,Hill,chill@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-360-52,Legal Issues in Communication,2016SP,,STN,A,24,15,CCM,442,TH, 5:30 PM, 8:15 PM,Cindy,Hill,chill@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-370-01,Communication Field Practicum,2016SP,,FLD,A,1,1,,,,,,Nancy,Kerr,kerr@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-410-01,Broadcast Mgt & Programming,2016SP,,STN,A,24,15,GBTC,117,"T, TH", 3:30 PM, 4:45 PM,Matthew,Grasso,mgrasso@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MCM-450-01,Streaming Media Senior Project,2016SP,,STN,A,24,11,GBTC,12,W, 12:30 PM, 3:15 PM,Keith,Oppenheim,koppenheim@champlain.edu,1/18/2016,5/6/2016,,MCM,UG
+MED-503-90,Conflict Intervention Skills,2016SP,HYBRD,HYBRD,A,1,1,,,,,,Alice,Estey,aestey@champlain.edu,1/11/2016,3/5/2016,"MED-503-71, MED-503-90",MED,UG
+MGMT-470-81,Senior Seminar,2016SP,OL,ONL,A,20,5,,,,,,Martin,Engelken,engelken@champlain.edu,1/18/2016,5/6/2016,,MGMT,UG
+MGT-140-01,Intro to Game Develop. Mgmt,2016SP,,STN,A,18,14,CCM,222,"M, TH", 8:00 AM, 9:15 AM,Jonathan,Ferguson,jferguson@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-210-01,Mgmt & Organization Behavior,2016SP,,STN,A,24,5,GBTC,112,"W, F", 3:30 PM, 4:45 PM,William,Hancy,whancy@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-210-02,Mgmt & Organization Behavior,2016SP,,STN,A,24,15,JOYC,301,"T, TH", 2:00 PM, 3:15 PM,Lindsey,Godwin,godwin@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-260-51,Project Mgmt & Team Leadership,2016SP,,STN,A,24,24,JOYC,203,TH, 5:30 PM, 8:15 PM,Amy,Beattie,beattie@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-265-01,Information Systems for Mgmt,2016SP,,STN,A,24,16,GBTC,17,"M, TH", 11:00 AM, 12:15 PM,Charles,Nagelschmidt,nagelschmidt@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-265-02,Information Systems for Mgmt,2016SP,,STN,A,24,19,CCM,233,"T, TH", 2:00 PM, 3:15 PM,Charles,Nagelschmidt,nagelschmidt@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-265-03,Information Systems for Mgmt,2016SP,,STN,A,24,12,CCM,444,"T, TH", 3:30 PM, 4:45 PM,Charles,Nagelschmidt,nagelschmidt@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-290-01,Business Career Internship,2016SP,,FLD,A,4,1,JOYC,304,"W, F", 2:00 PM, 3:15 PM,Thomas,Myers,myers@champlain.edu,1/18/2016,5/6/2016,"MGT-390-01, MGT-290-01, ACC-390-02",MGT,UG
+MGT-320-51,Product/Operation Management,2016SP,,STN,A,24,13,GBTC,217,TH, 5:30 PM, 8:15 PM,Andrew,Langevin,alangevin@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-330-01,Human Resource Management I,2016SP,,STN,A,24,16,JOYC,210,"M, TH", 9:30 AM, 10:45 AM,Joseph,O'Grady,ogrady@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-330-02,Human Resource Management I,2016SP,,STN,A,24,15,JOYC,203,"T, TH", 2:00 PM, 3:15 PM,Joseph,O'Grady,ogrady@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-365-51,Entrepreneurship: New Venture,2016SP,,STN,A,22,8,JOYC,301,T, 5:30 PM, 8:15 PM,Charles,Nagelschmidt,nagelschmidt@champlain.edu,1/18/2016,5/6/2016,"MGT-365-51, EMM-5365MGT-51",MGT,UG
+MGT-390-01,Advanced Business Internship,2016SP,,FLD,A,18,15,JOYC,304,"W, F", 2:00 PM, 3:15 PM,Thomas,Myers,myers@champlain.edu,1/18/2016,5/6/2016,"MGT-390-01, MGT-290-01, ACC-390-02",MGT,UG
+MGT-425-01,Problem Analysis/Decision Mkg.,2016SP,,STN,A,24,5,JOYC,305,"T, F", 9:30 AM, 10:45 AM,Joseph,O'Grady,ogrady@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-425-02,Problem Analysis/Decision Mkg.,2016SP,,STN,A,24,10,JOYC,305,"T, F", 11:00 AM, 12:15 PM,Joseph,O'Grady,ogrady@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MGT-460-01,Business Policy/Strategic Mgt,2016SP,,STN,A,24,6,"GBTC, GBTC","217, 217","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Donald,Haggerty,haggerty@champlain.edu,1/18/2016,5/6/2016,,MGT,UG
+MKT-110-01,Marketing,2016SP,,STN,A,24,26,CCM,442,"T, TH", 3:30 PM, 4:45 PM,Kyle,Dodson,kdodson@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-110-51,Marketing,2016SP,,STN,A,24,26,GBTC,114,M, 5:30 PM, 8:15 PM,Charles,Adams,cadams@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-200-51,Customer Relationship Mgt/Sale,2016SP,,STN,A,24,14,CCM,424,M, 5:30 PM, 8:15 PM,Alison,Estey,estey@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-210-51,Consumer Behavior,2016SP,,STN,A,24,22,GBTC,114,W, 5:30 PM, 8:15 PM,Charles,Adams,cadams@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-230-02,Integrated Advertising,2016SP,,STN,A,24,9,GBTC,112,"T, F", 8:00 AM, 9:15 AM,Margo,Bartsch,bartsch@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-230-51,Integrated Advertising,2016SP,,STN,A,24,21,GBTC,112,W, 5:30 PM, 8:15 PM,Efe,Cimrin,ecimrin@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-255-01,Marketing Research,2016SP,,STN,A,24,22,WICK,100,W, 12:30 PM, 3:15 PM,Matthew,Dugan,mdugan@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-290-01,Marketing Internship,2016SP,,FLD,A,8,16,GBTC,17,"T, TH", 12:30 PM, 1:45 PM,Thomas,Myers,myers@champlain.edu,1/18/2016,5/6/2016,"ACC-390-01, INT-490-01, MKT-290-01, MKT-490-01",MKT,UG
+MKT-315-51,"Evt Publicity, Promo, Sponsor",2016SP,,STN,A,24,23,CCM,233,TH, 5:30 PM, 8:15 PM,Jennifer,Colman,colman@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-340-201,Nonprofit and Social Marketing,2016SP,DUBL,STN,A,15,9,,,W, 6:00 PM, 8:45 PM,,,,1/18/2016,5/6/2016,,MKT,UG
+MKT-340-51,Nonprofit and Social Marketing,2016SP,,STN,A,24,11,MIC,305/306,T, 5:30 PM, 8:15 PM,William,Zuccareno,zuccareno@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-350-01,Digital Marketing,2016SP,,STN,A,29,29,CCM,444,"T, TH", 12:30 PM, 1:45 PM,Elaine,Young,eyoung@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-350-201,Digital Marketing,2016SP,DUBL,STN,A,15,11,,,T, 9:00 AM, 11:45 AM,Keith,Feighery,kfeighery@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-360-01,Advanced Digital Marketing,2016SP,,STN,A,24,12,JOYC,201,W, 9:30 AM, 12:15 PM,Elaine,Young,eyoung@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-430-71,Strategic Community Mgt.,2016SP,,HYBRD,A,24,22,CCM,442,"T, TH", 2:00 PM, 3:15 PM,Elaine,Young,eyoung@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-440-01,Integrated Marketing Comm.,2016SP,,STN,A,25,29,GBTC,112,F, 12:30 PM, 3:15 PM,Matthew,Dugan,mdugan@champlain.edu,1/18/2016,5/6/2016,,MKT,UG
+MKT-490-01,Advanced Marketing Internship,2016SP,,FLD,A,4,0,GBTC,17,"T, TH", 12:30 PM, 1:45 PM,Thomas,Myers,myers@champlain.edu,1/18/2016,5/6/2016,"ACC-390-01, INT-490-01, MKT-290-01, MKT-490-01",MKT,UG
+MTH-115-01,Foundations of Mathematics,2016SP,,STN,A,25,25,JOYC,311,"W, F", 2:00 PM, 3:15 PM,Nichole,Caisse,ncaisse@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-115-02,Foundations of Mathematics,2016SP,,STN,A,25,13,JOYC,311,"W, F", 3:30 PM, 4:45 PM,Nichole,Caisse,ncaisse@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-120-01,College Algebra,2016SP,,STN,A,25,24,JOYC,301,"M, TH", 8:00 AM, 9:15 AM,John,Willard,jwillard@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-120-02,College Algebra,2016SP,,STN,A,25,20,JOYC,202,"M, TH", 9:30 AM, 10:45 AM,John,Willard,jwillard@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-180-01,"Statistics, Introduction to",2016SP,,STN,A,25,25,JOYC,211,"M, TH", 11:00 AM, 12:15 PM,James,Myers,jmyers@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-180-02,"Statistics, Introduction to",2016SP,,STN,A,25,24,JOYC,211,"T, TH", 2:00 PM, 3:15 PM,Warren,Sides,sides@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-180-03,"Statistics, Introduction to",2016SP,,STN,A,25,22,JOYC,211,"T, TH", 3:30 PM, 4:45 PM,Warren,Sides,sides@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-180-04,"Statistics, Introduction to",2016SP,,STN,A,25,23,JOYC,210,"W, F", 2:00 PM, 3:15 PM,Gary,Carlson,gcarlson@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-180-05,"Statistics, Introduction to",2016SP,,STN,A,25,12,JOYC,210,"W, F", 3:30 PM, 4:45 PM,Gary,Carlson,gcarlson@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-180-06,"Statistics, Introduction to",2016SP,,STN,A,25,14,"JOYC, JOYC","210, 210","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Michael,Opperman,mopperman@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-230-01,Calculus I,2016SP,,STN,A,25,22,"JOYC, JOYC","301, 301","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Erin,Milne,emilne@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-230-02,Calculus I,2016SP,,STN,A,25,7,"WICK, WICK","102, 102","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Erin,Milne,emilne@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-240-01,Calculus II,2016SP,,STN,A,25,11,JOYC,210,"T, TH", 2:00 PM, 3:15 PM,Melanie,Brown,mbrown@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-240-02,Calculus II,2016SP,,STN,A,25,16,JOYC,210,"T, TH", 3:30 PM, 4:45 PM,Melanie,Brown,mbrown@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-250-01,"Matrices, Vectors, and 3D Math",2016SP,,STN,A,24,10,FOST,104,"M, TH", 9:30 AM, 10:45 AM,Scott,Stevens,stevens@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-250-02,"Matrices, Vectors, and 3D Math",2016SP,,STN,A,24,20,FOST,104,"M, TH", 11:00 AM, 12:15 PM,Scott,Stevens,stevens@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-250-03,"Matrices, Vectors, and 3D Math",2016SP,,STN,A,24,22,FOST,104,"W, F", 2:00 PM, 3:15 PM,Scott,Stevens,stevens@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-270-01,Discrete Mathematics,2016SP,,STN,A,25,10,GBTC,217,"T, TH", 12:30 PM, 1:45 PM,Warren,Sides,sides@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-275-02,Mathematical Cryptography,2016SP,,STN,A,16,18,"JOYC, JOYC","301, 301","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Melanie,Brown,mbrown@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+MTH-280-01,Applied Statistics,2016SP,,STN,A,20,5,WICK,101,"W, F", 12:30 PM, 1:45 PM,Scott,Stevens,stevens@champlain.edu,1/18/2016,5/6/2016,,MTH,UG
+NET-215-01,TCP/IP,2016SP,,STN,A,20,20,SKFA,100,"T, TH", 12:30 PM, 1:45 PM,James,Hoag,jhoag@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+NET-215-02,TCP/IP,2016SP,,STN,A,14,14,SKFA,102,"T, TH", 3:30 PM, 4:45 PM,James,Hoag,jhoag@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+NET-225-01,Web Systems & Security,2016SP,,STN,A,14,18,"SKFA, SKFA","100, 1","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Patrick,Dunston,dunston@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+NET-225-02,Web Systems & Security,2016SP,,STN,A,20,20,SKFA,100,"T, TH", 2:00 PM, 3:15 PM,Patrick,Dunston,dunston@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+NET-255-51,Sysadmin & Net Services I,2016SP,,STN,A,14,14,SKFA,102,T, 5:30 PM, 8:15 PM,Spencer,Goddard,sgoddard@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+NET-265-01,Sysadmin & Net Services II,2016SP,,STN,A,18,18,SKFA,100,W, 2:00 PM, 4:45 PM,Devin,Paden,dpaden@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+NET-265-51,Sysadmin & Net Services II,2016SP,,STN,A,18,13,SKFA,100,TH, 5:30 PM, 8:15 PM,Aaron,Archambault,aarchambault@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+NET-300-01,Powershell for Admins,2016SP,,STN,A,15,8,SKFA,102,F, 9:30 AM, 12:15 PM,Patrick,Dunston,dunston@champlain.edu,1/18/2016,2/19/2016,,NET,UG
+NET-300-02,Unix Shell Scripting for Admn,2016SP,,STN,A,15,2,SKFA,102,F, 9:30 AM, 12:15 PM,Patrick,Dunston,dunston@champlain.edu,2/22/2016,4/1/2016,,NET,UG
+NET-300-03,Introduction to AIX,2016SP,,STN,A,15,2,SKFA,102,F, 9:30 AM, 12:15 PM,Patrick,Dunston,dunston@champlain.edu,4/4/2016,5/6/2016,,NET,UG
+NET-300-04,Networking&Security:Internshp,2016SP,,FLD,A,1,1,,,,,,James,Hoag,jhoag@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+NET-300-51,Arduinos,2016SP,,STN,A,15,7,FOST,100,"M, W", 7:00 PM, 8:15 PM,Brian,Brumley,bbrumley@champlain.edu,1/18/2016,2/19/2016,,NET,UG
+NET-300-52,Arduinos & Raspberry Pi's,2016SP,,STN,A,15,0,FOST,100,"M, W", 7:00 PM, 8:15 PM,Brian,Brumley,bbrumley@champlain.edu,2/22/2016,4/1/2016,,NET,UG
+NET-335-51,Routers,2016SP,,STN,A,10,10,SKFA,102,M, 5:30 PM, 8:15 PM,John,McHugh,jmchugh@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+NET-360-51,Linux/Unix Systems Admin II,2016SP,,STN,A,15,10,SKFA,102,TH, 5:30 PM, 8:15 PM,Marcantonio,Farnum Rendino,mfarnumrendino@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+NET-490-01,Internship,2016SP,,FLD,A,24,1,,,,,,James,Hoag,jhoag@champlain.edu,1/18/2016,5/6/2016,,NET,UG
+PSY-100-01,"Psychology, Introduction to",2016SP,,STN,A,20,13,JOYC,301,"T, F", 9:30 AM, 10:45 AM,Kelly,Faughnan,kfaughnan@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-100-02,"Psychology, Introduction to",2016SP,,STN,A,20,11,JOYC,301,"T, F", 11:00 AM, 12:15 PM,Kelly,Faughnan,kfaughnan@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-180-01,Positive Psychology,2016SP,,STN,A,28,25,GBTC,17,"T, TH", 3:30 PM, 4:45 PM,Kimberly,Quinn,kquinnsmith@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-202-01,Research Methods & Analysis II,2016SP,,STN,A,8,8,JOYC,103,"T, F", 11:00 AM, 12:15 PM,Gary,Baker,gbaker@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-202-02,Research Methods & Analysis II,2016SP,,STN,A,10,5,"JOYC, JOYC","203, 203","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Gary,Baker,gbaker@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-202-03,Research Methods & Analysis II,2016SP,,STN,A,8,9,JOYC,313,"T, TH", 2:00 PM, 3:15 PM,Barbara,Ferrante,bcolombo@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-210-01,Cognitive Psychology,2016SP,,STN,A,20,17,JOYC,302,"T, TH", 12:30 PM, 1:45 PM,Kimberly,Quinn,kquinnsmith@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-210-02,Cognitive Psychology,2016SP,,STN,A,20,15,JOYC,302,"T, TH", 2:00 PM, 3:15 PM,Kimberly,Quinn,kquinnsmith@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-220-01,Developmental Psychology,2016SP,,STN,A,20,19,JOYC,102,"W, F", 2:00 PM, 3:15 PM,Melissa,McDuffie,mmcduffie@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-220-51,Developmental Psychology,2016SP,,STN,A,20,18,JOYC,313,T, 5:30 PM, 8:15 PM,Melissa,McDuffie,mmcduffie@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-240-01,Social Psychology,2016SP,,STN,A,20,17,JOYC,203,"T, F", 9:30 AM, 10:45 AM,Gary,Baker,gbaker@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-240-51,Social Psychology,2016SP,,STN,A,20,12,JOYC,212,T, 5:30 PM, 8:15 PM,Paul,Norris,pnorris@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-310-01,Attach.& Close Relationships,2016SP,,STN,A,24,10,JOYC,310,W, 2:00 PM, 4:45 PM,Bjarne,Holmes,bmholmes@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-340-01,Behavioral Neuroscience,2016SP,,STN,A,24,7,"JOYC, JOYC","311, 311","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Barbara,Ferrante,bcolombo@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-360-01,Media Psychology,2016SP,,STN,A,24,20,"JOYC, JOYC","305, 305","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Katheryn,Wright,kwright@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-370-01,Health Psychology,2016SP,,STN,A,24,14,JOYC,313,"T, TH", 3:30 PM, 4:45 PM,Barbara,Ferrante,bcolombo@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-380-81,Multicultural Psychology,2016SP,OL,ONL,A,24,22,,,,,,Kelly,Faughnan,kfaughnan@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-395-01,Advanced Research Internship I,2016SP,,FLD,A,7,1,,,,,,Bjarne,Holmes,bmholmes@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-396-01,Advanced Research Internship 2,2016SP,,FLD,A,7,1,,,,,,Bjarne,Holmes,bmholmes@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-450-01,App. Psych.:Counseling Skills,2016SP,,STN,A,24,24,JOYC,304,"W, F", 12:30 PM, 1:45 PM,Melissa,McDuffie,mmcduffie@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-490-01,Applied Psych Internship I,2016SP,,FLD,A,15,4,,,,,,John,Meyer,jmeyer@champlain.edu,1/18/2016,5/6/2016,,PSY,UG
+PSY-491-01,Applied Psych Internship II,2016SP,,FLD,A,15,10,,,,,,Margaret,Sealey,meg.sealey@gmail.com,1/18/2016,5/6/2016,,PSY,UG
+RAD-150-01,Radiographic Procedures II,2016SP,,STN,A,18,12,GAL,100,W, 10:00 AM, 12:00 PM,Kathy,Whiting,whiting@champlain.edu,1/18/2016,5/6/2016,,RAD,UG
+RAD-151-01,Radiography Procedures II Lab,2016SP,,LAB,A,6,6,GAL,100,TH, 8:00 AM, 10:00 AM,Kathy,Whiting,whiting@champlain.edu,1/18/2016,5/6/2016,,RAD,UG
+RAD-151-02,Radiography Procedures II Lab,2016SP,,LAB,A,6,6,GAL,100,TH, 10:00 AM, 12:00 PM,Kathy,Whiting,whiting@champlain.edu,1/18/2016,5/6/2016,,RAD,UG
+RAD-190-01,Radiography Clinical Field Exp,2016SP,,FLD,A,23,12,,,"M, T", 8:00 AM, 5:00 PM,Kathy,Whiting,"whiting@champlain.edu, dees@champlain.edu",1/18/2016,5/6/2016,,RAD,UG
+RAD-240-01,"Imaging Modalities, Advanced",2016SP,,STN,A,23,15,GAL,100,M, 8:00 AM, 9:00 AM,Kathy,Whiting,whiting@champlain.edu,1/18/2016,5/6/2016,,RAD,UG
+RAD-270-01,Radiobiology,2016SP,,STN,A,23,15,GAL,100,M, 9:30 AM, 12:00 PM,Susyn,Dees,dees@champlain.edu,1/18/2016,5/6/2016,,RAD,UG
+RAD-295-01,Rad Field Exp III,2016SP,,FLD,A,23,15,,,"T, W, TH, F", 8:00 AM, 5:00 PM,Sarah,Malinowski,"smalinowski@champlain.edu, whiting@champlain.edu, dees@champlain.edu",1/18/2016,5/6/2016,,RAD,UG
+RAD-350-01,Radiography Seminar,2016SP,,STN,A,23,15,GAL,100,M, 12:30 PM, 2:00 PM,Susyn,Dees,dees@champlain.edu,1/18/2016,5/6/2016,,RAD,UG
+SAP-290-101,International Internship Exp.,2016SP,MONT,FLD,A,15,1,,,,,,,,,1/18/2016,5/6/2016,,SAP,UG
+SAP-290-201,International Internship Exp.,2016SP,DUBL,FLD,A,15,1,,,T, 6:00 PM, 8:00 PM,Darren,Kelly,dkelly@champlain.edu,1/18/2016,5/6/2016,,SAP,UG
+SAP-390-201,International Internship Exp.,2016SP,DUBL,FLD,A,15,2,,,,,,Darren,Kelly,dkelly@champlain.edu,1/19/2016,5/6/2016,,SAP,UG
+SCI-115-01,"Human Biology, Introduction to",2016SP,,"STN, LAB",A,16,16,"JOYC, JOYC, FREE","203, 203,105","M, TH, W"," 9:30 AM, 9:30 AM, 1:00 PM"," 10:45 AM, 10:45 AM, 3:00 PM",Robin,Abramson,abramson@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-115-51,"Human Biology, Introduction to",2016SP,,"STN, LAB",A,16,16,"JOYC, FREE","203, 105","T, TH"," 5:30 PM,  5:30 PM"," 8:15 PM,  7:30 PM",Brian,Keats,bkeats@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-115-71,"Human Biology, Introduction to",2016SP,,"HYBRD, LAB",A,16,10,FREE,105,W,9:30 AM,12:15 PM,Kathleen,Seiler,seiler@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-140-01,Nutrition & Fitness/Biology of,2016SP,,"STN, LAB",A,16,16,"JOYC, JOYC, FREE","203, 203, 102","M, TH, T","11:00 AM, 11:00 AM, 9:00 AM"," 12:15 PM, 12:15 PM,  11:00 AM",Robin,Abramson,abramson@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-140-02,Nutrition & Fitness/Biology of,2016SP,,"STN, LAB",A,16,16,"JOYC, JOYC, FREE","311, 311, 102","T, TH, W","2:00 PM, 2:00 PM, 10:00 AM"," 3:15 PM, 3:15 PM, 12:00 PM",Robin,Abramson,abramson@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-140-51,Nutrition & Fitness/Biology of,2016SP,,"STN, LAB",A,16,16,"JOYC, FREE","212, 102","M, W"," 5:30 PM,  5:30 PM"," 8:15 PM, 7:30 PM",Simonne,Eisenhardt,seisenhardt@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-150-01,Environmental Earth Sciences,2016SP,,"STN, LAB",A,16,16,"JOYC, JOYC, FREE","212, 212, 102","M, TH, F"," 9:30 AM, 9:30 AM, 10:00 AM"," 10:45 AM, 10:45 AM, 12:00 PM",Alexandra,Collins,rcollins@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-150-02,Environmental Earth Sciences,2016SP,,"STN, LAB",A,16,16,"JOYC, JOYC, FREE","212, 212, 102","M, TH, F"," 11:00 AM, 11:00 AM, 1:00 PM"," 12:15 PM, 12:15 PM, 3:00 PM",Alexandra,Collins,rcollins@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-150-51,Environmental Earth Sciences,2016SP,,"STN, LAB",A,16,16,"JOYC, FREE","203, 105","M, W"," 5:30 PM,  5:30 PM"," 8:15 PM,  7:30 PM",Sarah,Wittman,swittman@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-155-101,Global Environmental Earth Sci,2016SP,MONT,STN,A,24,4,,,TH, 5:00 PM, 6:45 PM,Shona,Watt,swatt@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-155-201,Global Environmental Earth Sci,2016SP,DUBL,STN,A,30,21,,,"M, T"," 3:30 PM,  12:45 PM"," 4:45 PM,  2:00 PM",Stephen,Robinson,srobinson@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-155L-101,Global Envir. Earth Sci. Lab,2016SP,MONT,LAB,A,15,0,,,F, 10:00 AM, 1:00 PM,Shona,Watt,swatt@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-155L-201,Global Envir. Earth Sci. Lab,2016SP,DUBL,LAB,A,15,0,,,M, 10:00 AM, 12:00 PM,Sojan,Mathew,,1/18/2016,5/6/2016,,SCI,UG
+SCI-155L-202,Global Envir. Earth Sci. Lab,2016SP,DUBL,LAB,A,15,0,,,M, 1:00 PM, 3:00 PM,Sojan,Mathew,,1/18/2016,5/6/2016,,SCI,UG
+SCI-170-01,"Forensic Science, Intro to",2016SP,,"STN, LAB",A,16,16,"JOYC, JOYC, FREE","313, 313, 102","T, F, TH"," 8:00 AM,  8:00 AM,  8:00 AM"," 9:15 AM, 9:15 AM, 10:00 AM",Allison,Dean,adean@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-170-02,"Forensic Science, Intro to",2016SP,,"STN, LAB",A,16,16,"JOYC, JOYC, FREE","313, 313, 102","T, F, T"," 9:30 AM, 9:30 AM, 12:00 PM"," 10:45 AM, 10:45 AM, 2:00 PM",Allison,Dean,adean@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-170-03,"Forensic Science, Intro to",2016SP,,"STN, LAB",A,16,16,"JOYC, JOYC, FREE","313, 313, 102","M, W, W"," 2:00 PM,  11:00 AM,  2:00 PM"," 3:15 PM,  12:15 PM,  4:00 PM",Alexandra,Collins,rcollins@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SCI-225-01,Anatomy & Physiology II,2016SP,,"STN, LAB",A,16,8,"JOYC, JOYC, FREE","302, 302, 105","W, F, F"," 12:30 PM,  9:30 AM,  12:00 PM"," 1:45 PM,  10:45 AM,  2:00 PM",Kathleen,Seiler,seiler@champlain.edu,1/18/2016,5/6/2016,,SCI,UG
+SDEV-250-81,Java Programming I,2016SP,OL,ONL,A,20,8,,,,,,Steven,Hickey,smhickey@champlain.edu,1/18/2016,5/6/2016,,SDEV,UG
+SDEV-300-81,Mobile Programming With Java,2016SP,OL,ONL,A,20,4,,,,,,Jason,McGoff,jmcgoff@champlain.edu,1/18/2016,5/6/2016,,SDEV,UG
+SDEV-340-81,C++ Programming II,2016SP,OL,ONL,A,20,9,,,,,,Muhammad,Aslam,maslam@champlain.edu,1/18/2016,5/6/2016,,SDEV,UG
+SDEV-350-81,Java Programming II,2016SP,OL,ONL,A,20,4,,,,,,Steven,Hickey,smhickey@champlain.edu,1/18/2016,5/6/2016,,SDEV,UG
+SDEV-360-81,Visual C# Programming II,2016SP,OL,ONL,A,20,3,,,,,,Gary,Savard,gSavard@champlain.edu,1/18/2016,5/6/2016,,SDEV,UG
+SEC-250-01,Computer & Network Security,2016SP,,STN,A,18,16,"SKFA, SKFA","100, 1","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Devin,Paden,dpaden@champlain.edu,1/18/2016,5/6/2016,,SEC,UG
+SEC-250-02,Computer & Network Security,2016SP,,STN,A,14,14,SKFA,102,"T, TH", 2:00 PM, 3:15 PM,Devin,Paden,dpaden@champlain.edu,1/18/2016,5/6/2016,,SEC,UG
+SEC-250-51,Computer & Network Security,2016SP,,STN,A,14,11,SKFA,102,W, 5:30 PM, 8:15 PM,Alan,Murray,amurray@champlain.edu,1/18/2016,5/6/2016,,SEC,UG
+SEC-345-01,Information Assurance,2016SP,,STN,A,24,26,MIC,308,"T, TH", 3:30 PM, 4:45 PM,Patrick,Dunston,dunston@champlain.edu,1/18/2016,5/6/2016,,SEC,UG
+SEC-350-01,Enterprise&Perimeter Security,2016SP,,STN,A,18,13,SKFA,100,T, 9:30 AM, 12:15 PM,Devin,Paden,dpaden@champlain.edu,1/18/2016,5/6/2016,,SEC,UG
+SEC-350-02,Enterprise&Perimeter Security,2016SP,,STN,A,14,8,SKFA,100,TH, 9:30 AM, 12:15 PM,Devin,Paden,dpaden@champlain.edu,1/18/2016,5/6/2016,,SEC,UG
+SEC-440-01,Systems Security,2016SP,,STN,A,15,15,SKFA,100,M, 9:30 AM, 12:15 PM,Patrick,Dunston,dunston@champlain.edu,1/18/2016,5/6/2016,,SEC,UG
+SOC-145-51,Social Deviance,2016SP,,STN,A,24,24,CCM,232,W, 5:30 PM, 8:15 PM,Fred,Koch,Koch@champlain.edu,1/18/2016,5/6/2016,,SOC,UG
+SON-120-01,Fundamentals of Digital Music,2016SP,,STN,A,18,18,FOST,101,"M, TH", 11:00 AM, 12:15 PM,Eric,Sample,sample@champlain.edu,1/18/2016,5/6/2016,,SON,UG
+SON-120-02,Fundamentals of Digital Music,2016SP,,STN,A,18,18,FOST,101,"T, TH", 12:30 PM, 1:45 PM,Eric,Sample,sample@champlain.edu,1/18/2016,5/6/2016,,SON,UG
+SON-282-01,Synthesis and Sound Design,2016SP,,STN,A,18,17,FOST,101,M, 12:30 PM, 3:15 PM,Eric,Sample,sample@champlain.edu,1/18/2016,5/6/2016,,SON,UG
+SON-440-51,Adv. Projects in Sonic Arts,2016SP,,STN,A,18,10,FOST,101,M, 5:30 PM, 8:15 PM,Malcolm,Francis,mfrancis@champlain.edu,1/18/2016,5/6/2016,,SON,UG
+SWK-100-01,"Social Work, Introduction to",2016SP,,STN,A,24,10,JOYC,305,"M, TH", 11:00 AM, 12:15 PM,Patricia,Aldredge,paldredge@champlain.edu,1/18/2016,5/6/2016,,SWK,UG
+SWK-140-51,Survey of Community Agencies,2016SP,,STN,A,24,16,JOYC,305,M, 5:30 PM, 8:15 PM,Aimee,Upchurch,aupchurch@champlain.edu,1/18/2016,5/6/2016,,SWK,UG
+SWK-210-51,"Substance Abuse Studies, Intro",2016SP,,STN,A,24,19,JOYC,304,T, 5:30 PM, 8:15 PM,Robert,Wolford,rwolford@champlain.edu,1/18/2016,5/6/2016,,SWK,UG
+SWK-230-01,LGBTQ Experiences,2016SP,,STN,A,24,12,JOYC,311,"W, F", 12:30 PM, 1:45 PM,Faith,Yacubian,fyacubian@champlain.edu,1/18/2016,5/6/2016,,SWK,UG
+SWK-235-01,Human Behav: Person-in-Envir.,2016SP,,STN,A,24,13,JOYC,202,"T, TH", 2:00 PM, 3:15 PM,Kristine,Reynolds,kreynolds@champlain.edu,1/18/2016,5/6/2016,,SWK,UG
+SWK-240-51,Family Violence,2016SP,,STN,A,18,11,GBTC,201,W, 5:30 PM, 8:15 PM,Jennifer,Jorgenson,jjorgenson@champlain.edu,1/18/2016,5/6/2016,,SWK,UG
+SWK-315-71,Generalist Practice II,2016SP,,HYBRD,A,24,10,GBTC,201,TH, 11:00 AM, 12:15 PM,Tarn,Foerg,tfoerg@champlain.edu,1/18/2016,5/6/2016,,SWK,UG
+SWK-430-51,Rural Social Work Practice,2016SP,,STN,A,24,12,JOYC,302,M, 5:30 PM, 8:15 PM,Sarah,Ward,sward@champlain.edu,1/18/2016,5/6/2016,,SWK,UG
+SWK-495-01,Social Wk Field Experience II,2016SP,,FLD,A,24,11,,,,,,Tarn,Foerg,tfoerg@champlain.edu,1/18/2016,5/6/2016,,SWK,UG
+SWK-495S-01,Int. Social Wk Field Seminar,2016SP,,STN,A,20,11,,,,,,Tarn,Foerg,tfoerg@champlain.edu,1/18/2016,5/6/2016,,SWK,UG
+THE-140-01,Fundamentals of Acting,2016SP,,STN,A,18,13,CCM,305,"W, F", 3:30 PM, 4:45 PM,Alexandra,Hudson,ahudson@champlain.edu,1/18/2016,5/6/2016,,THE,UG
+WEB-125-01,Web Development,2016SP,,STN,A,20,20,FOST,100,"T, TH", 3:30 PM, 4:45 PM,Sarah,Pettitt,pettitt@champlain.edu,1/18/2016,5/6/2016,,WEB,UG
+WEB-225-01,Intro. to Web Programming,2016SP,,STN,A,20,23,FOST,104,"T, F", 11:00 AM, 12:15 PM,Frank,Canovatchel,canovatchel@champlain.edu,1/18/2016,5/6/2016,,WEB,UG
+WEB-425-01,Web Services,2016SP,,STN,A,15,9,FOST,100,"T, TH", 2:00 PM, 3:15 PM,Sarah,Pettitt,pettitt@champlain.edu,1/18/2016,5/6/2016,,WEB,UG
+WRT-120-01,"Creative Writing, Introduction",2016SP,,STN,A,20,20,JOYC,102,TH, 12:30 PM, 3:15 PM,James,Ellefson,ellefson@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-120-02,"Creative Writing, Introduction",2016SP,,STN,A,18,18,JOYC,210,"T, F", 11:00 AM, 12:15 PM,Lawrence,Connolly,lconnolly@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-120-03,"Creative Writing, Introduction",2016SP,,STN,A,18,18,JOYC,102,"W, F", 12:30 PM, 1:45 PM,Lawrence,Connolly,lconnolly@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-180-51,"Songwriting, Introduction to",2016SP,,STN,A,12,12,GBTC,206,W, 5:30 PM, 8:15 PM,Shannon,Mariani,smariani@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-200-02,Fundamentals of Journalism,2016SP,,STN,A,20,20,CCM,424,TH, 2:00 PM, 4:45 PM,Benjamin,Dangl,bdangl@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-200-51,Fundamentals of Journalism,2016SP,,STN,A,20,20,JOYC,210,TH, 5:30 PM, 8:15 PM,Sujata,Gupta,sgupta@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-201-01,Prof Writing Portfolio I,2016SP,,STN,A,18,15,JOYC,313,T, 12:30 PM, 1:45 PM,Rachel,Carter,rachel.carter@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-201-02,Prof Writing Portfolio I,2016SP,,STN,A,18,6,JOYC,313,W, 2:00 PM, 3:15 PM,Alice,Neiley,aneiley@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-210-01,Literary Magazine II,2016SP,,LAB,A,20,3,,,,,,James,Ellefson,ellefson@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-220-51,"Creative Writing, Intermediate",2016SP,,STN,A,20,19,JOYC,103,M, 5:30 PM, 8:15 PM,James,Ellefson,ellefson@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-221-51,Intermediate Poetry Workshop,2016SP,,STN,A,10,10,CCM,444,TH, 5:30 PM, 8:15 PM,James,Ellefson,ellefson@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-226-01,Intermediate Fiction Workshop,2016SP,,STN,A,18,6,JOYC,212,"W, F", 2:00 PM, 3:15 PM,Rachel,Carter,rachel.carter@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-231-01,Technical Writing,2016SP,,STN,A,20,21,FOST,100,"T, F", 9:30 AM, 10:45 AM,Warren,Baker,baker@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-231-02,Technical Writing,2016SP,,STN,A,20,20,WICK,101,"W, F", 2:00 PM, 3:15 PM,Daniel,Hecht,dhecht@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-231-03,Technical Writing,2016SP,,STN,A,21,17,"WICK, WICK","102, 102","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Kimberly,MacQueen,kmacqueen@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-235-01,Writing Children's Literature,2016SP,,STN,A,20,15,CCM,444,"T, TH", 2:00 PM, 3:15 PM,Tanya,Stone,tstone@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-236-101,Writing About Food,2016SP,MONT,STN,A,18,19,,,TH, 10:00 AM, 12:45 PM,Susan,Semenak,ssemenak@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-237-01,Interm. Creative Non-Fiction,2016SP,,STN,A,18,14,CCM,233,"T, F", 9:30 AM, 10:45 AM,Lawrence,Connolly,lconnolly@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-301-01,Prof Writing Portfolio II,2016SP,,STN,A,18,8,JOYC,311,W, 11:00 AM, 12:15 PM,Rachel,Carter,rachel.carter@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-310-01,Grant Writing,2016SP,,STN,A,16,10,GBTC,206,"W, F", 12:30 PM, 1:45 PM,Daniel,Hecht,dhecht@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-324-01,Advanced Poetry Workshop,2016SP,,STN,A,12,13,JOYC,102,T, 12:30 PM, 3:15 PM,James,Ellefson,ellefson@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-325-01,Advanced Fiction Workshop,2016SP,,STN,A,1,1,,,,,,Timothy,Brookes,brookes@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-335-201,Writing the City,2016SP,DUBL,STN,A,20,18,,,TH, 9:00 AM, 11:45 AM,Stephen,McMahon,smcmahon@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-340-01,Adv Journalism Prac: Writing,2016SP,,STN,A,15,7,JOYC,211,"W, F", 12:30 PM, 1:45 PM,Warren,Baker,baker@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-345-01,Professional Copy Editing,2016SP,,STN,A,15,12,JOYC,313,"T, F", 11:00 AM, 12:15 PM,Katherine,Quimby Johnson,kjohnson@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-346-01,Publishing in 21st Century,2016SP,,STN,A,12,11,GBTC,206,"T, TH", 2:00 PM, 3:15 PM,Kimberly,MacQueen,kmacqueen@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-401-01,Prof Writing Portfolio III,2016SP,,STN,A,16,13,JOYC,103,M, 12:30 PM, 1:45 PM,Jessica,Nelson,jnelson@champlain.edu,1/18/2016,5/6/2016,,WRT,UG
+WRT-401-02,Prof Writing Portfolio III,2016SP,,STN,A,16,18,JOYC,313,TH, 12:30 PM, 1:45 PM,Jessica,Nelson,jnelson@champlain.edu,1/18/2016,5/6/2016,,WRT,UG

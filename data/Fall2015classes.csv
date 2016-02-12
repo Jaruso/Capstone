@@ -1,0 +1,758 @@
+Division,Section Name,Title ,Term ,Location ,Instructional Method,Current Status,Section Capacity ,Active Student Count,Building ,Room,Days,Start Time ,End time ,Faculty First ,Faculty Last ,Start Date,End Date,Cross Listed,Acad Level
+BUS,ACC-130-01,Financial Accounting,2015FA,,STN,A,24,24,"JOYC, JOYC","304, 304","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",David,Mona,8/31/2015,12/18/2015,,UG
+BUS,ACC-130-02,Financial Accounting,2015FA,,STN,A,24,19,"JOYC, JOYC","211, 211","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Thane,Butt,8/31/2015,12/18/2015,,UG
+BUS,ACC-130-04,Financial Accounting,2015FA,,STN,A,24,20,"JOYC, JOYC","211, 211","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Thane,Butt,8/31/2015,12/18/2015,,UG
+BUS,ACC-130-05,Financial Accounting,2015FA,,STN,A,24,22,"WICK, WICK","100, 100","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Alicia,Norris,8/31/2015,12/18/2015,,UG
+BUS,ACC-130-06,Financial Accounting,2015FA,,STN,A,24,19,JOYC,211,"M, TH", 9:30 AM, 10:45 AM,Thane,Butt,8/31/2015,12/18/2015,,UG
+BUS,ACC-140-01,Managerial Accounting,2015FA,,STN,A,24,18,JOYC,304,"T, TH", 2:00 PM, 3:15 PM,David,Mona,8/31/2015,12/18/2015,,UG
+BUS,ACC-140-02,Managerial Accounting,2015FA,,STN,A,24,12,JOYC,304,"T, TH", 3:30 PM, 4:45 PM,David,Mona,8/31/2015,12/18/2015,,UG
+BUS,ACC-230-01,Intermediate Accounting I,2015FA,,STN,A,24,21,GBTC,114,"T, TH", 12:30 PM, 1:45 PM,Nicole,Morris,8/31/2015,12/18/2015,,UG
+BUS,ACC-230-02,Intermediate Accounting I,2015FA,,STN,A,24,8,"GBTC, GBTC","112, 112","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Nicole,Morris,8/31/2015,12/18/2015,,UG
+BUS,ACC-310-01,Federal Taxes I,2015FA,,STN,A,24,20,CCM,232,"T, TH", 2:00 PM, 3:15 PM,Elizabeth,Weischedel,8/31/2015,12/18/2015,,UG
+BUS,ACC-340-01,Cost Accounting I,2015FA,,STN,A,24,13,JOYC,302,"M, TH", 11:00 AM, 12:15 PM,David,Mona,8/31/2015,12/18/2015,,UG
+BUS,ACC-390-01,Accounting Internship,2015FA,,FLD,A,6,1,FREE,201,"W, F", 3:30 PM, 4:45 PM,Thomas,Myers,8/31/2015,12/18/2015,"MGT-390-02, INT-490-01, ACC-390-01",UG
+BUS,ACC-400-01,Advanced Accounting,2015FA,,STN,A,24,15,CCM,442,"M, TH", 8:00 AM, 9:15 AM,Thane,Butt,8/31/2015,12/18/2015,,UG
+BUS,ACC-410-51,Federal Taxes II,2015FA,,STN,A,24,13,CCM,232,M, 5:30 PM, 8:15 PM,Debra,Trahan,8/31/2015,12/18/2015,,UG
+BUS,BLW-140-51,Business Law I,2015FA,,STN,A,24,16,JOYC,304,TH, 5:30 PM, 8:15 PM,Mark,Oettinger,8/31/2015,12/18/2015,,UG
+BUS,BLW-140-52,Business Law I,2015FA,,STN,A,24,13,JOYC,311,W, 5:30 PM, 8:15 PM,Lewis,Sussman,8/31/2015,12/18/2015,,UG
+BUS,BLW-245-51,Business Law II,2015FA,,STN,A,24,6,GBTC,117,T, 5:30 PM, 8:15 PM,David,Casier,8/31/2015,12/18/2015,,UG
+BUS,BLW-370-51,Employment Law,2015FA,,STN,A,24,5,FREE,201,T, 5:30 PM, 8:15 PM,Kerin,Stackpole,8/31/2015,12/18/2015,,UG
+BUS,BUS-110-01,Business & Entrep. Mindset,2015FA,,STN,A,24,19,CCM,442,"T, TH", 12:30 PM, 1:45 PM,Robert,Bloch,8/31/2015,12/18/2015,,UG
+BUS,BUS-110-02,Business & Entrep. Mindset,2015FA,,STN,A,24,17,"WICK, WICK","102, 102","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Nicole,Morris,8/31/2015,12/18/2015,,UG
+BUS,BUS-110-04,Business & Entrep. Mindset,2015FA,,STN,A,24,20,GBTC,217,"W, F", 2:00 PM, 3:15 PM,Parthiv,Patel,8/31/2015,12/18/2015,,UG
+BUS,BUS-110-05,Business & Entrep. Mindset,2015FA,,STN,A,24,17,JOYC,310,"T, TH", 12:30 PM, 1:45 PM,Parthiv,Patel,8/31/2015,12/18/2015,,UG
+BUS,BUS-110-06,Business & Entrep. Mindset,2015FA,,STN,A,24,17,GBTC,114,"T, TH", 3:30 PM, 4:45 PM,Parthiv,Patel,8/31/2015,12/18/2015,,UG
+BUS,BUS-110-07,Business & Entrep. Mindset,2015FA,,STN,A,24,20,GBTC,114,"M, TH", 9:30 AM, 10:45 AM,Nicole,Morris,8/31/2015,12/18/2015,,UG
+BUS,BUS-115-01,Quantitative Lang. of Business,2015FA,,STN,A,24,23,"GBTC, GBTC","114, 114","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Larry,Wood,8/31/2015,12/18/2015,,UG
+BUS,BUS-115-02,Quantitative Lang. of Business,2015FA,,STN,A,24,17,"GBTC, GBTC","114, 114","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Larry,Wood,8/31/2015,12/18/2015,,UG
+BUS,BUS-115-51,Quantitative Lang. of Business,2015FA,,STN,A,24,11,GBTC,117,M, 5:30 PM, 8:15 PM,Hurley,Cavacas,8/31/2015,12/18/2015,,UG
+BUS,BUS-115-52,Quantitative Lang. of Business,2015FA,,STN,A,24,19,GBTC,17,W, 5:30 PM, 8:15 PM,Hurley,Cavacas,8/31/2015,12/18/2015,,UG
+BUS,BUS-115-53,Quantitative Lang. of Business,2015FA,,STN,A,0,0,GBTC,112,M, 5:30 PM, 8:15 PM,,,8/31/2015,12/18/2015,,UG
+BUS,BUS-115-54,Quantitative Lang. of Business,2015FA,,STN,A,24,15,GBTC,217,TH, 5:30 PM, 8:15 PM,Hurley,Cavacas,8/31/2015,12/18/2015,,UG
+BUS,BUS-120-01,Marketing & the Org. Mindset,2015FA,,STN,A,24,16,WICK,102,"W, F", 3:30 PM, 4:45 PM,Diane,Ravenscroft,8/31/2015,12/18/2015,,UG
+BUS,BUS-210-01,Corporate Social Responsibil.,2015FA,,STN,A,24,23,"JOYC, JOYC","310, 310","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",William,Hancy,8/31/2015,12/18/2015,,UG
+BUS,BUS-210-02,Corporate Social Responsibil.,2015FA,,STN,A,24,23,MIC,305/306,"W, F", 3:30 PM, 4:45 PM,Parthiv,Patel,8/31/2015,12/18/2015,,UG
+BUS,BUS-210-03,Corporate Social Responsibil.,2015FA,,STN,A,24,23,WICK,102,"T, TH", 3:30 PM, 4:45 PM,Lindsey,Godwin,8/31/2015,12/18/2015,,UG
+BUS,BUS-310-01,Int'l Bus. & Macroeconomics,2015FA,,STN,A,24,23,CCM,444,"T, TH", 2:00 PM, 3:15 PM,Ciaran,Buckley,8/31/2015,12/18/2015,,UG
+BUS,BUS-310-02,Int'l Bus. & Macroeconomics,2015FA,,STN,A,24,24,CCM,232,"T, F", 9:30 AM, 10:45 AM,Thomas,Myers,8/31/2015,12/18/2015,,UG
+BUS,BUS-310-201,Int'l Bus. & Macroeconomics,2015FA,DUBL,STN,A,20,8,,,M, 3:00 PM, 5:45 PM,Seamus,White,8/31/2015,12/18/2015,,UG
+BUS,ECN-210-51,Macroeconomics,2015FA,,STN,A,24,7,CCM,442,"T, TH", 5:30 PM, 6:45 PM,Frank,Canovatchel,8/31/2015,12/18/2015,,UG
+BUS,ECN-255-01,Managerial Economics,2015FA,,STN,A,24,9,WICK,102,"T, F", 9:30 AM, 10:45 AM,Jennifer,Vincent,8/31/2015,12/18/2015,,UG
+BUS,ECN-255-02,Managerial Economics,2015FA,,STN,A,24,15,JOYC,310,"T, F", 11:00 AM, 12:15 PM,Jennifer,Vincent,8/31/2015,12/18/2015,,UG
+BUS,ECN-255-03,Managerial Economics,2015FA,,STN,A,24,21,"GBTC, GBTC","117, 117","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Jennifer,Vincent,8/31/2015,12/18/2015,,UG
+BUS,ECN-255-04,Managerial Economics,2015FA,,STN,A,24,16,JOYC,301,"W, F", 12:30 PM, 1:45 PM,Jennifer,Vincent,8/31/2015,12/18/2015,,UG
+BUS,EVT-125-01,Creating Event Experiences,2015FA,,STN,A,24,14,JOYC,301,"T, TH", 12:30 PM, 1:45 PM,Peter,Straube,8/31/2015,12/18/2015,,UG
+BUS,EVT-240-51,Event Planning & Coordination,2015FA,,STN,A,24,10,GBTC,114,M, 5:30 PM, 8:15 PM,Alan,Hebert,8/31/2015,12/18/2015,,UG
+BUS,EVT-340-51,Business of Event Management,2015FA,,STN,A,24,9,GBTC,17,"T, TH", 5:30 PM, 6:45 PM,Sharon,Radtke,8/31/2015,12/18/2015,,UG
+BUS,FIN-240-01,Financial Management I,2015FA,,STN,A,24,19,JOYC,301,"M, TH", 9:30 AM, 10:45 AM,Frederick,Burkhardt,8/31/2015,12/18/2015,,UG
+BUS,FIN-240-02,Financial Management I,2015FA,,STN,A,24,24,JOYC,301,"M, TH", 11:00 AM, 12:15 PM,Frederick,Burkhardt,8/31/2015,12/18/2015,,UG
+BUS,FIN-240-03,Financial Management I,2015FA,,STN,A,24,16,"GBTC, GBTC","117, 117","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Shane,Moser,8/31/2015,12/18/2015,,UG
+BUS,FIN-240-51,Financial Management I,2015FA,,STN,A,24,12,JOYC,203,TH, 5:30 PM, 8:15 PM,Shane,Moser,8/31/2015,12/18/2015,,UG
+BUS,FIN-310-01,Applied Regression Analysis,2015FA,,STN,A,24,8,MIC,305/306,"T, F", 11:00 AM, 12:15 PM,Shane,Moser,8/31/2015,12/18/2015,,UG
+BUS,FIN-340-01,Financial Management II,2015FA,,STN,A,24,16,JOYC,102,"T, TH", 2:00 PM, 3:15 PM,Frederick,Burkhardt,8/31/2015,12/18/2015,,UG
+BUS,FIN-410-01,Advanced Investment Topics,2015FA,,STN,A,24,2,"JOYC, JOYC","202, 202","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Frederick,Burkhardt,8/31/2015,12/18/2015,,UG
+BUS,INT-115-01,Exploring International Bus,2015FA,,STN,A,24,13,MIC,305/306,"T, F", 9:30 AM, 10:45 AM,Parthiv,Patel,8/31/2015,10/6/2015,,UG
+BUS,INT-260-51,International Marketing,2015FA,,STN,A,24,12,GBTC,117,TH, 5:30 PM, 8:15 PM,William,Zuccareno,8/31/2015,12/18/2015,,UG
+BUS,INT-490-01,International Bus. Internship,2015FA,,FLD,A,4,2,FREE,201,"W, F", 3:30 PM, 4:45 PM,Thomas,Myers,8/31/2015,12/18/2015,"MGT-390-02, INT-490-01, ACC-390-01",UG
+BUS,INV-210-01,Creativity & Innov. in Bus.,2015FA,,STN,A,24,15,GBTC,114,"T, F", 11:00 AM, 12:15 PM,Joseph,O'Grady,8/31/2015,12/18/2015,,UG
+BUS,INV-310-01,Strat Mgmt Innovation & Tech,2015FA,,STN,A,24,15,GBTC,114,"M, TH", 11:00 AM, 12:15 PM,Donald,Haggerty,8/31/2015,12/18/2015,,UG
+BUS,MGT-140-01,Intro to Game Develop. Mgmt,2015FA,,STN,A,18,13,CCM,222,"W, F", 2:00 PM, 3:15 PM,Jonathan,Ferguson,8/31/2015,12/18/2015,,UG
+BUS,MGT-210-01,Mgmt & Organization Behavior,2015FA,,STN,A,24,18,GBTC,112,"W, F", 3:30 PM, 4:45 PM,William,Hancy,8/31/2015,12/18/2015,,UG
+BUS,MGT-210-02,Mgmt & Organization Behavior,2015FA,,STN,A,24,24,MIC,305/306,"T, TH", 3:30 PM, 4:45 PM,William,Hancy,8/31/2015,12/18/2015,,UG
+BUS,MGT-220-51,Retail Management,2015FA,,STN,A,24,14,JOYC,305,M, 5:30 PM, 8:15 PM,Alison,Estey,8/31/2015,12/18/2015,,UG
+BUS,MGT-260-01,Project Mgmt & Team Leadership,2015FA,,STN,A,24,18,MIC,305/306,"T, TH", 2:00 PM, 3:15 PM,Amy,Beattie,8/31/2015,12/18/2015,,UG
+BUS,MGT-260-51,Project Mgmt & Team Leadership,2015FA,,STN,A,24,18,MIC,305/306,TH, 5:30 PM, 8:15 PM,Amy,Beattie,8/31/2015,12/18/2015,,UG
+BUS,MGT-265-01,Information Systems for Mgmt,2015FA,,STN,A,24,16,CCM,442,"T, TH", 2:00 PM, 3:15 PM,Charles,Nagelschmidt,8/31/2015,12/18/2015,,UG
+BUS,MGT-265-02,Information Systems for Mgmt,2015FA,,STN,A,24,13,CCM,442,"T, TH", 3:30 PM, 4:45 PM,Charles,Nagelschmidt,8/31/2015,12/18/2015,,UG
+BUS,MGT-265-03,Information Systems for Mgmt,2015FA,,STN,A,24,23,CCM,221,"M, TH", 11:00 AM, 12:15 PM,Charles,Nagelschmidt,8/31/2015,12/18/2015,,UG
+BUS,MGT-320-51,Product/Operation Management,2015FA,,STN,A,24,25,GBTC,217,T, 5:30 PM, 8:15 PM,Andrew,Langevin,8/31/2015,12/18/2015,,UG
+BUS,MGT-320-52,Product/Operation Management,2015FA,,STN,A,24,14,JOYC,310,TH, 5:30 PM, 8:15 PM,Andrew,Langevin,8/31/2015,12/18/2015,,UG
+BUS,MGT-330-01,Human Resource Management I,2015FA,,STN,A,24,24,JOYC,310,"M, TH", 9:30 AM, 10:45 AM,Joseph,O'Grady,8/31/2015,12/18/2015,,UG
+BUS,MGT-365-51,Entrepreneurship: New Venture,2015FA,,STN,A,24,8,JOYC,210,T, 5:30 PM, 8:15 PM,Charles,Nagelschmidt,8/31/2015,12/18/2015,,UG
+BUS,MGT-390-01,Advanced Business Internship,2015FA,,FLD,A,10,9,FREE,201,"T, F", 11:00 AM, 12:15 PM,Thomas,Myers,8/31/2015,12/18/2015,"MGT-390-01, MKT-290-01, MKT-490-01",UG
+BUS,MGT-390-02,Advanced Business Internship,2015FA,,FLD,A,14,7,FREE,201,"W, F", 3:30 PM, 4:45 PM,Thomas,Myers,8/31/2015,12/18/2015,"MGT-390-02, INT-490-01, ACC-390-01",UG
+BUS,MGT-390-101,Advanced Business Internship,2015FA,,FLD,A,24,2,,,,,,Adam,Van Sertima,8/31/2015,12/18/2015,,UG
+BUS,MGT-390-201,Advanced Business Internship,2015FA,DUBL,FLD,A,24,5,,,T, 6:30 PM, 8:30 PM,Darren,Kelly,8/31/2015,12/18/2015,,UG
+BUS,MGT-425-01,Problem Analysis/Decision Mkg.,2015FA,,STN,A,24,15,GBTC,112,"T, TH", 2:00 PM, 3:15 PM,Joseph,O'Grady,8/31/2015,12/18/2015,,UG
+BUS,MGT-425-02,Problem Analysis/Decision Mkg.,2015FA,,STN,A,24,22,GBTC,17,"T, F", 9:30 AM, 10:45 AM,Joseph,O'Grady,8/31/2015,12/18/2015,,UG
+BUS,MGT-460-01,Business Policy/Strategic Mgt,2015FA,,STN,A,24,13,JOYC,201,TH, 2:00 PM, 4:45 PM,Donald,Haggerty,8/31/2015,12/18/2015,,UG
+BUS,MKT-110-02,Marketing,2015FA,,STN,A,24,14,JOYC,202,"T, TH", 3:30 PM, 4:45 PM,Kyle,Dodson,8/31/2015,12/18/2015,,UG
+BUS,MKT-110-52,Marketing,2015FA,,STN,A,24,17,WICK,100,M, 5:30 PM, 8:15 PM,Charles,Adams,8/31/2015,12/18/2015,,UG
+BUS,MKT-210-01,Consumer Behavior,2015FA,,STN,A,24,23,GBTC,112,"W, F", 12:30 PM, 1:45 PM,Wesley,Balda,8/31/2015,12/18/2015,,UG
+BUS,MKT-210-02,Consumer Behavior,2015FA,,STN,A,24,16,GBTC,112,"W, F", 2:00 PM, 3:15 PM,Wesley,Balda,8/31/2015,12/18/2015,,UG
+BUS,MKT-210-51,Consumer Behavior,2015FA,,STN,A,24,23,GBTC,114,TH, 5:30 PM, 8:15 PM,Matthew,Dugan,8/31/2015,12/18/2015,,UG
+BUS,MKT-230-01,Integrated Advertising,2015FA,,STN,A,24,17,GBTC,112,"T, F", 8:00 AM, 9:15 AM,Margo,Bartsch,8/31/2015,12/18/2015,,UG
+BUS,MKT-230-51,Integrated Advertising,2015FA,,STN,A,24,23,GBTC,217,W, 5:30 PM, 8:15 PM,Efe,Cimrin,8/31/2015,12/18/2015,,UG
+BUS,MKT-255-01,Marketing Research,2015FA,,STN,A,24,11,GBTC,206,"T, TH", 12:30 PM, 1:45 PM,Matthew,Dugan,8/31/2015,12/18/2015,,UG
+BUS,MKT-290-01,Marketing Internship,2015FA,,FLD,A,12,6,FREE,201,"T, F", 11:00 AM, 12:15 PM,Thomas,Myers,8/31/2015,12/18/2015,"MGT-390-01, MKT-290-01, MKT-490-01",UG
+BUS,MKT-315-51,"Evt Publicity, Promo, Sponsor",2015FA,,STN,A,24,24,GBTC,112,TH, 5:30 PM, 8:15 PM,Jennifer,Colman,8/31/2015,12/18/2015,,UG
+BUS,MKT-330-01,Brand and Account Management,2015FA,,STN,A,24,23,GBTC,112,"T, F", 9:30 AM, 10:45 AM,Margo,Bartsch,8/31/2015,12/18/2015,,UG
+BUS,MKT-350-01,Digital Marketing,2015FA,,STN,A,24,17,CCM,233,"M, TH", 11:00 AM, 12:15 PM,Elaine,Young,8/31/2015,12/18/2015,,UG
+BUS,MKT-350-02,Digital Marketing,2015FA,,STN,A,24,22,CCM,232,"T, TH", 12:30 PM, 1:45 PM,Elaine,Young,8/31/2015,12/18/2015,,UG
+BUS,MKT-350-201,Digital Marketing,2015FA,DUBL,STN,A,12,9,,,W, 9:00 AM, 11:45 AM,Keith,Feighery,8/31/2015,12/18/2015,,UG
+BUS,MKT-355-01,Dgt. Mkt. Metrics & Analysis,2015FA,,STN,A,24,10,JOYC,102,W, 9:30 AM, 12:15 PM,Elaine,Young,8/31/2015,12/18/2015,,UG
+BUS,MKT-410-01,Advanced Advertising,2015FA,,STN,A,24,13,GBTC,206,F, 11:00 AM, 1:45 PM,Matthew,Dugan,8/31/2015,12/18/2015,,UG
+BUS,MKT-490-01,Advanced Marketing Internship,2015FA,,FLD,A,2,1,FREE,201,"T, F", 11:00 AM, 12:15 PM,Thomas,Myers,8/31/2015,12/18/2015,"MGT-390-01, MKT-290-01, MKT-490-01",UG
+CCM,ART-110-01,"Drawing, Introductory",2015FA,,STU,A,20,18,CCM,434,"T, TH", 3:30 PM, 4:45 PM,Gilbert,Church,8/31/2015,12/18/2015,,UG
+CCM,ART-110-02,"Drawing, Introductory",2015FA,,STU,A,20,16,CCM,434,M, 12:30 PM, 3:15 PM,Gilbert,Church,8/31/2015,12/18/2015,,UG
+CCM,ART-110-51,"Drawing, Introductory",2015FA,,STU,A,20,20,CCM,434,M, 5:30 PM, 8:15 PM,Marc,Nadel,8/31/2015,12/18/2015,,UG
+CCM,ART-110-52,"Drawing, Introductory",2015FA,,STU,A,20,17,CCM,434,TH, 5:30 PM, 8:15 PM,Jacquelyn,Liebman,8/31/2015,12/18/2015,,UG
+CCM,ART-115-01,"Photography, Introduction to",2015FA,,STU,A,15,12,JOYC,102,T, 9:30 AM, 12:15 PM,Mary,Zompetti,8/31/2015,12/18/2015,,UG
+CCM,ART-115-51,"Photography, Introduction to",2015FA,,STU,A,15,11,JOYC,102,T, 5:30 PM, 8:15 PM,Jordan,Douglas,8/31/2015,12/18/2015,,UG
+CCM,ART-120-01,Art History,2015FA,,STN,A,24,21,WICK,100,"T, TH", 12:30 PM, 1:45 PM,Gilbert,Church,8/31/2015,12/18/2015,,UG
+CCM,ART-120-03,Art History,2015FA,,STN,A,24,18,CCM,232,"M, TH", 8:00 AM, 9:15 AM,Marc,Nadel,8/31/2015,12/18/2015,,UG
+CCM,ART-145-01,"Sculpture, Introduction to",2015FA,,STU,A,19,18,CCM,434,W, 12:30 PM, 3:15 PM,Alexander,Costantino,8/31/2015,12/18/2015,,UG
+CCM,ART-220-201,Irish Culture Through Fine Art,2015FA,DUBL,STN,A,15,6,,,W, 9:30 AM, 12:15 PM,Jacinta,Kendrick,8/31/2015,12/18/2015,,UG
+CCM,ART-282-51,Sequential Art,2015FA,,STN,A,16,14,CCM,434,T, 5:30 PM, 8:15 PM,Marc,Nadel,8/31/2015,12/18/2015,"ART-282-51, EMM-5282ART-51",UG
+CCM,ART-312-01,Printmaking Studio,2015FA,,STN,A,10,5,MAUD,BCA,T, 1:00 PM, 4:30 PM,Katie,Loesel,8/31/2015,12/18/2015,,UG
+CCM,ART-330-201,Ceol na hEireann:Cultural Imm,2015FA,DUBL,STN,A,15,13,,,M, 9:30 AM, 12:15 PM,Caroline,Elbay,8/31/2015,12/18/2015,,UG
+CCM,ART-380-201,Adv. Art History:Spec. Topics,2015FA,DUBL,STN,A,15,9,,,T, 9:45 AM, 12:30 PM,Ian,Oliver,8/31/2015,12/18/2015,,UG
+CCM,CCC-410MCM-01,Media Communication Capstone,2015FA,,STN,A,0,13,CCM,424,"M, TH", 11:00 AM, 12:15 PM,Nancy,Kerr,8/31/2015,12/18/2015,,UG
+CCM,COM-100-01,"Human Communication, Foundat.",2015FA,,STN,A,19,18,MIC,305/306,"W, F", 12:30 PM, 1:45 PM,Nicole,St. Louis,8/31/2015,12/18/2015,,UG
+CCM,COM-100-02,"Human Communication, Foundat.",2015FA,,STN,A,19,17,MIC,305/306,"W, F", 2:00 PM, 3:15 PM,Nicole,St. Louis,8/31/2015,12/18/2015,,UG
+CCM,COM-100-03,"Human Communication, Foundat.",2015FA,,STN,A,19,18,"JOYC, JOYC","212, 212","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Cheryl,Casey,8/31/2015,12/18/2015,,UG
+CCM,COM-100-51,"Human Communication, Foundat.",2015FA,,STN,A,19,17,JOYC,203,T, 5:30 PM, 8:15 PM,Helene,Guariglia,8/31/2015,12/18/2015,,UG
+CCM,COM-110-01,Public Speaking,2015FA,,STN,A,18,12,JOYC,212,"T, F", 8:00 AM, 9:15 AM,Gael,Boardman,8/31/2015,12/18/2015,,UG
+CCM,COM-110-02,Public Speaking,2015FA,,STN,A,18,17,JOYC,212,"T, F", 9:30 AM, 10:45 AM,Gael,Boardman,8/31/2015,12/18/2015,,UG
+CCM,COM-110-03,Public Speaking,2015FA,,STN,A,18,16,JOYC,313,"T, TH", 3:30 PM, 4:45 PM,Cindy,Hill,8/31/2015,12/18/2015,,UG
+CCM,COM-110-04,Public Speaking,2015FA,,STN,A,18,18,JOYC,313,"W, F", 12:30 PM, 1:45 PM,Alexandra,Hudson,8/31/2015,12/18/2015,,UG
+CCM,COM-220-01,Communication and Ethics,2015FA,,STN,A,20,16,JOYC,301,"T, F", 9:30 AM, 10:45 AM,Genevieve,Jacobs,8/31/2015,12/18/2015,,UG
+CCM,COM-220-02,Communication and Ethics,2015FA,,STN,A,20,20,JOYC,302,"T, TH", 2:00 PM, 3:15 PM,Cindy,Hill,8/31/2015,12/18/2015,,UG
+CCM,COM-230-01,Small Group Communication,2015FA,,STN,A,25,18,GBTC,112,"T, F", 11:00 AM, 12:15 PM,Genevieve,Jacobs,8/31/2015,12/18/2015,,UG
+CCM,COM-230-02,Small Group Communication,2015FA,,STN,A,25,24,JOYC,305,"W, F", 3:30 PM, 4:45 PM,Eric,Ronis,8/31/2015,12/18/2015,,UG
+CCM,COM-230-101,Small Group Communication,2015FA,MONT,STN,A,25,4,,,TH, 1:00 PM, 3:45 PM,Mark,Medicoff,8/31/2015,12/18/2015,,UG
+CCM,COM-270-201,Intercultural Communication,2015FA,DUBL,STN,A,15,8,,,T, 3:00 PM, 5:45 PM,Caoimhghin,O Croidheain,8/31/2015,12/18/2015,,UG
+CCM,COM-270-51,Intercultural Communication,2015FA,,STN,A,25,8,WICK,102,TH, 5:30 PM, 8:15 PM,Helene,Guariglia,8/31/2015,12/18/2015,,UG
+CCM,COM-350-01,Conflict Management,2015FA,,STN,A,18,8,CCM,232,W, 2:00 PM, 4:45 PM,Ellen,Coogan,8/31/2015,12/18/2015,,UG
+CCM,COM-350-201,Conflict Management,2015FA,DUBL,STN,A,15,11,,,W, 2:00 PM, 4:45 PM,Geoffrey,Corry,8/31/2015,12/18/2015,,UG
+CCM,COM-360-01,Social Interaction/Digital Age,2015FA,,HYBRD,A,16,16,JOYC,102,F, 9:30 AM, 10:45 AM,Rachael,Jurek,8/31/2015,12/18/2015,,UG
+CCM,COM-360-02,Social Interaction/Digital Age,2015FA,,HYBRD,A,16,7,JOYC,102,F, 11:00 AM, 12:15 PM,Rachael,Jurek,8/31/2015,12/18/2015,,UG
+CCM,CRE-200-01,Creative Media Salon I,2015FA,,STN,A,16,13,CCM,232,M, 11:00 AM, 12:15 PM,Peter,Gallo,8/31/2015,12/18/2015,,UG
+CCM,CRE-200-02,Creative Media Salon I,2015FA,,STN,A,16,13,CCM,232,M, 12:30 PM, 1:45 PM,Peter,Gallo,8/31/2015,12/18/2015,,UG
+CCM,CRE-300-01,Creative Media Salon II,2015FA,,STN,A,16,16,CCM,232,F, 12:30 PM, 1:45 PM,Christina,Fearon,8/31/2015,12/18/2015,,UG
+CCM,CRE-300-51,Creative Media Salon II,2015FA,,STN,A,16,7,CCM,232,W, 5:30 PM, 6:45 PM,Gordon,Glover,8/31/2015,12/18/2015,,UG
+CCM,CRE-400-01,Creative Media Salon 3,2015FA,,STN,A,14,14,FREE,201,TH, 9:30 AM, 12:15 PM,Christopher,Thompson,8/31/2015,12/18/2015,"CRE-400-01, EMM-5400CRE-01",UG
+CCM,CRE-490-01,Creative Media Internship,2015FA,,FLD,A,1,1,,,,,,Eric,Ronis,8/31/2015,12/18/2015,,UG
+CCM,EGD-100-01,Game History and Development,2015FA,,STN,A,20,19,CCM,222,"M, TH", 9:30 AM, 10:45 AM,Jonathan,Ferguson,8/31/2015,12/18/2015,,UG
+CCM,EGD-100-02,Game History and Development,2015FA,,STN,A,20,20,CCM,222,"M, TH", 11:00 AM, 12:15 PM,Peter,Wehr,8/31/2015,12/18/2015,,UG
+CCM,EGD-100-03,Game History and Development,2015FA,,STN,A,20,19,CCM,222,"T, F", 9:30 AM, 10:45 AM,Greg,Bemis,8/31/2015,12/18/2015,,UG
+CCM,EGD-100-04,Game History and Development,2015FA,,STN,A,20,19,CCM,222,"T, F", 11:00 AM, 12:15 PM,Jonathan,Ferguson,8/31/2015,12/18/2015,,UG
+CCM,EGD-100-05,Game History and Development,2015FA,,STN,A,20,18,CCM,222,"T, TH", 12:30 PM, 1:45 PM,Greg,Bemis,8/31/2015,12/18/2015,,UG
+CCM,EGD-100-06,Game History and Development,2015FA,,STN,A,20,19,CCM,222,"W, F", 12:30 PM, 1:45 PM,Jonathan,Ferguson,8/31/2015,12/18/2015,,UG
+CCM,EGD-100-07,Game History and Development,2015FA,,STN,A,20,20,CCM,222,"T, TH", 2:00 PM, 3:15 PM,Peter,Wehr,8/31/2015,12/18/2015,,UG
+CCM,EGD-100-08,Game History and Development,2015FA,,STN,A,20,19,CCM,222,"W, F", 3:30 PM, 4:45 PM,Peter,Wehr,8/31/2015,12/18/2015,,UG
+CCM,EGD-105-02,Game Art Fundamentals,2015FA,,STN,A,20,19,CCM,1,"T, TH", 3:30 PM, 4:45 PM,Christopher,Mendenhall,8/31/2015,12/18/2015,,UG
+CCM,EGD-105-03,Game Art Fundamentals,2015FA,,STN,A,20,17,CCM,1,"W, F", 3:30 PM, 4:45 PM,Christopher,Mendenhall,8/31/2015,12/18/2015,,UG
+CCM,EGD-120-01,Visual Comm. for Game Design,2015FA,,STN,A,17,18,FOST,104,"T, TH", 12:30 PM, 1:45 PM,Marc,Wilhelm,8/31/2015,12/18/2015,,UG
+CCM,EGD-120-02,Visual Comm. for Game Design,2015FA,,STN,A,17,18,FOST,104,"W, F", 12:30 PM, 1:45 PM,Evan,Tetreault,8/31/2015,12/18/2015,,UG
+CCM,EGD-120-03,Visual Comm. for Game Design,2015FA,,STN,A,17,19,FOST,104,"T, TH", 3:30 PM, 4:45 PM,Marc,Wilhelm,8/31/2015,12/18/2015,,UG
+CCM,EGD-202-01,Game Technology I,2015FA,,STN,A,20,16,CCM,224,M, 9:30 AM, 12:15 PM,Joseph,Manley,8/31/2015,12/18/2015,,UG
+CCM,EGD-202-51,Game Technology I,2015FA,,STN,A,20,15,CCM,224,M, 5:30 PM, 8:15 PM,Mark,Zelis,8/31/2015,12/18/2015,,UG
+CCM,EGD-202-52,Game Technology I,2015FA,,STN,A,20,9,CCM,222,T, 5:30 PM, 8:15 PM,Mark,Zelis,8/31/2015,12/18/2015,,UG
+CCM,EGD-205-01,2D Game Art,2015FA,,STN,A,21,22,CCM,1,M, 12:30 PM, 3:15 PM,Jo Ann,Patel,8/31/2015,12/18/2015,,UG
+CCM,EGD-205-02,2D Game Art,2015FA,,STN,A,20,17,CCM,1,TH, 9:30 AM, 12:15 PM,Jo Ann,Patel,8/31/2015,12/18/2015,,UG
+CCM,EGD-212-01,Principles of Game Design,2015FA,,STN,A,22,20,CCM,224,"T, TH", 12:30 PM, 1:45 PM,John,Boyd,8/31/2015,12/18/2015,,UG
+CCM,EGD-212-02,Principles of Game Design,2015FA,,STN,A,22,19,CCM,224,"T, TH", 2:00 PM, 3:15 PM,Marc,Wilhelm,8/31/2015,12/18/2015,,UG
+CCM,EGD-215-01AA,"3D Art, Introduction to",2015FA,,STN,A,20,19,CCM,1,T, 12:30 PM, 3:15 PM,Joshua,Buck,8/31/2015,12/18/2015,,UG
+CCM,EGD-215-02AA,"3D Art, Introduction to",2015FA,,STN,A,20,15,CCM,1,TH, 12:30 PM, 3:15 PM,Nathan,Walpole,8/31/2015,12/18/2015,,UG
+CCM,EGD-215-03GD,"3D Art, Introduction to",2015FA,,STN,A,20,17,CCM,1,W, 12:30 PM, 3:15 PM,Nathan,Walpole,8/31/2015,12/18/2015,,UG
+CCM,EGD-215-04GD,"3D Art, Introduction to",2015FA,,STN,A,20,13,CCM,1,F, 12:30 PM, 3:15 PM,Nathan,Walpole,8/31/2015,12/18/2015,,UG
+CCM,EGD-225-01,Drawing for Game Development,2015FA,,STN,A,20,19,CCM,434,M, 9:30 AM, 12:15 PM,Anne,Fawkes,8/31/2015,12/18/2015,,UG
+CCM,EGD-225-02,Drawing for Game Development,2015FA,,STN,A,20,18,CCM,434,W, 9:30 AM, 12:15 PM,Anne,Fawkes,8/31/2015,12/18/2015,,UG
+CCM,EGD-235-51,3D Modeling,2015FA,,STN,A,15,14,CCM,1,TH, 5:30 PM, 8:15 PM,Jo Ann,Patel,8/31/2015,12/18/2015,,UG
+CCM,EGD-240-81,Creative Portfolio Tools,2015FA,OL,ONL,A,20,13,,,,,,Frederic,Marcoux,8/31/2015,12/18/2015,,UG
+CCM,EGD-300-01,Game Technology II,2015FA,,STN,A,16,18,CCM,224,F, 12:30 PM, 3:15 PM,Joseph,Manley,8/31/2015,12/18/2015,,UG
+CCM,EGD-300-101,Game Technology II,2015FA,MONT,STN,A,24,12,,,F, 10:00 AM, 12:45 PM,Guillaume,Langlois,8/31/2015,12/18/2015,,UG
+CCM,EGD-300-51,Game Technology II,2015FA,,STN,A,24,14,CCM,224,W, 5:30 PM, 8:15 PM,Joseph,Manley,8/31/2015,12/18/2015,,UG
+CCM,EGD-310-01,Interactive Storytelling,2015FA,,STN,A,15,15,CCM,224,W, 12:30 PM, 3:15 PM,Rachel,Hooper,8/31/2015,12/18/2015,,UG
+CCM,EGD-310-101,Interactive Storytelling,2015FA,MONT,STN,A,15,11,,,TH, 6:00 PM, 8:45 PM,Elie,Charest,8/31/2015,12/18/2015,,UG
+CCM,EGD-315-01,3D Modeling II,2015FA,,STN,A,20,14,CCM,1,M, 9:30 AM, 12:15 PM,Joshua,Buck,8/31/2015,12/18/2015,,UG
+CCM,EGD-315-101,3D Modeling II,2015FA,MONT,STN,A,15,6,,,W, 6:00 PM, 8:45 PM,Jacque,Choi,8/31/2015,12/18/2015,,UG
+CCM,EGD-335-01,3D Animation,2015FA,,STN,A,20,9,CCM,1,T, 9:30 AM, 12:15 PM,Nathan,Walpole,8/31/2015,12/18/2015,,UG
+CCM,EGD-335-101,3D Animation,2015FA,MONT,STN,A,15,0,,,,,,,,8/31/2015,12/18/2015,,UG
+CCM,EGD-355-01,Game Environments,2015FA,,STN,A,20,9,CCM,1,F, 9:30 AM, 12:15 PM,Joshua,Buck,8/31/2015,12/18/2015,,UG
+CCM,EGD-360-01,Level Design II,2015FA,,STN,A,20,11,CCM,224,F, 9:30 AM, 12:15 PM,John,Boyd,8/31/2015,12/18/2015,,UG
+CCM,EGD-365-01,Technical Art,2015FA,,STN,A,19,14,CCM,1,W, 9:30 AM, 12:15 PM,Joshua,Buck,8/31/2015,12/18/2015,"EGD-365-01, EMM-5365EGD-01",UG
+CCM,EGD-380A-101,Adv Seminar: Art & Animation,2015FA,MONT,STN,A,10,5,,,M, 6:00 PM, 8:45 PM,Vincent,Joyal,8/31/2015,12/18/2015,,UG
+CCM,EGD-380A-51,Adv Seminar: Art & Animation,2015FA,,STN,A,10,6,CCM,1,T, 5:30 PM, 8:15 PM,Matthew,Regnier,8/31/2015,12/18/2015,,UG
+CCM,EGD-380B-01,Advanced Seminar: Game Design,2015FA,,STN,A,10,7,CCM,224,T, 9:30 AM, 12:15 PM,Joseph,Manley,8/31/2015,12/18/2015,,UG
+CCM,EGD-380B-101,Advanced Seminar: Game Design,2015FA,MONT,STN,A,10,9,,,T, 6:30 PM, 9:15 PM,Rodolphe,Recca,8/31/2015,12/18/2015,,UG
+CCM,EGD-380P-101,Adv. Seminar:Game Programming,2015FA,MONT,STN,A,15,9,,,TH, 6:00 PM, 8:45 PM,Nicolas,Lewis,8/31/2015,12/18/2015,,UG
+CCM,EGD-390-81,Game Development Internship,2015FA,OL,FLD,A,24,2,,,,,,Greg,Bemis,8/31/2015,12/18/2015,,UG
+CCM,EMM-530-90,Causes of Emergence:Prog Lang,2015FA,,STU,A,1,1,MCLC,105A,W, 2:00 PM, 4:45 PM,Kenneth,Howell,8/31/2015,12/18/2015,"EMM-530-01, EMM-530-90",UG
+CCM,EMM-540-90,Technology As Disruptive Force,2015FA,,STN,A,1,1,MCLC,103A,T, 2:00 PM, 4:45 PM,Alan,Larsen,8/31/2015,12/18/2015,"EMM-540-01, EMM-540-90",UG
+CCM,EMM-550-90,Human Interfaces,2015FA,,STU,A,1,1,MCLC,101/102,T, 5:30 PM, 8:15 PM,Kevin,Murakami,8/31/2015,12/18/2015,"EMM-550-51, EMM-550-90",UG
+CCM,FLM-001-51,Film Screenings,2015FA,,STU,A,12,33,AUD,305,W, 5:30 PM, 8:15 PM,Robert,Harte,8/31/2015,12/18/2015,,UG
+CCM,FLM-100-51,Film Studies: Screenings,2015FA,,STN,A,60,36,AUD,305,W, 5:30 PM, 8:15 PM,Robert,Harte,8/31/2015,12/18/2015,,UG
+CCM,FLM-110-01,"Filmmaking, Intro to",2015FA,,STN,A,18,16,FOST,101,F, 2:00 PM, 4:45 PM,Julia,Swift,8/31/2015,12/18/2015,,UG
+CCM,FLM-110-02,"Filmmaking, Intro to",2015FA,,STN,A,18,16,FOST,101,W, 12:30 PM, 3:15 PM,Julia,Swift,8/31/2015,12/18/2015,,UG
+CCM,FLM-128-01,Screenwriting I,2015FA,,STN,A,18,10,WICK,101,W, 2:00 PM, 4:45 PM,Robert,Harte,8/31/2015,12/18/2015,,UG
+CCM,FLM-128-51,Screenwriting I,2015FA,,STN,A,18,10,WICK,102,M, 5:30 PM, 8:15 PM,Julia,Swift,8/31/2015,12/18/2015,,UG
+CCM,FLM-210-51,Film History,2015FA,,STN,A,24,17,"AUD, WICK","305, 100","M, TH"," 5:30 PM,  2:00 PM"," 8:15 PM,  3:15 PM",Ethan,De Seife,8/31/2015,12/18/2015,,UG
+CCM,FLM-210-52,Film History,2015FA,,STN,A,24,14,"AUD, WICK","305, 100","M, TH"," 5:30 PM,  3:30 PM"," 8:15 PM,  4:45 PM",Ethan,De Seife,8/31/2015,12/18/2015,,UG
+CCM,FLM-215-01,Filmmaking I,2015FA,,STN,A,18,14,FOST,101,M, 9:30 AM, 12:15 PM,Julia,Swift,8/31/2015,12/18/2015,,UG
+CCM,FLM-225-01,Cinematography and Lighting,2015FA,,STN,A,20,18,AUD,101,M, 12:30 PM, 3:15 PM,Michael,Fisher,8/31/2015,12/18/2015,,UG
+CCM,FLM-225-02,Cinematography and Lighting,2015FA,,STN,A,20,13,AUD,101,W, 9:30 AM, 12:15 PM,Michael,Fisher,8/31/2015,12/18/2015,,UG
+CCM,FLM-225L-51,Cinematography & Light. Studio,2015FA,,STU,A,0,19,AUD,101,T, 5:30 PM, 6:45 PM,Calhan,Hopwood,8/31/2015,12/18/2015,,UG
+CCM,FLM-225L-52,Cinematography & Light. Studio,2015FA,,STU,A,0,12,AUD,101,T, 7:00 PM, 8:15 PM,Calhan,Hopwood,8/31/2015,12/18/2015,,UG
+CCM,FLM-230-01,Audio & Video Editing,2015FA,,STN,A,20,12,FOST,101,TH, 9:30 AM, 12:15 PM,Gordon,Glover,8/31/2015,12/18/2015,,UG
+CCM,FLM-230-02,Audio & Video Editing,2015FA,,STN,A,20,12,FOST,101,F, 9:30 AM, 12:15 PM,Gordon,Glover,8/31/2015,12/18/2015,,UG
+CCM,FLM-230L-01,Audio & Video Editing Studio,2015FA,,STU,A,20,14,FOST,101,T, 3:30 PM, 4:45 PM,Calhan,Hopwood,8/31/2015,12/18/2015,,UG
+CCM,FLM-230L-02,Audio & Video Editing Studio,2015FA,,STU,A,20,10,FOST,101,W, 3:30 PM, 4:45 PM,Calhan,Hopwood,8/31/2015,12/18/2015,,UG
+CCM,FLM-250-01,Intro to Stop Motion Animation,2015FA,,STN,A,24,10,CCM,434,F, 2:00 PM, 4:45 PM,Kevin,Murakami,8/31/2015,12/18/2015,,UG
+CCM,FLM-280-201,Irish Culture Through Film,2015FA,DUBL,STN,A,15,9,,,T, 3:00 PM, 5:45 PM,Seamus,White,8/31/2015,12/18/2015,,UG
+CCM,FLM-281-101,Canadian Culture Through Films,2015FA,MONT,STN,A,15,16,,,M, 1:00 PM, 3:45 PM,Adam,Van Sertima,8/31/2015,12/18/2015,,UG
+CCM,FLM-320-51,The Business of Film,2015FA,,STN,A,18,14,FOST,101,TH, 5:30 PM, 8:15 PM,Mira,Niagolova,8/31/2015,12/18/2015,,UG
+CCM,FLM-325-51,Advanced Cinematography,2015FA,,STN,A,15,10,AUD,101,M, 5:30 PM, 8:15 PM,Michael,Fisher,8/31/2015,12/18/2015,,UG
+CCM,FLM-330-51,Video Comp & Special Effects,2015FA,,STN,A,18,14,FOST,101,T, 5:30 PM, 8:15 PM,Gordon,Glover,8/31/2015,12/18/2015,,UG
+CCM,FLM-410-01,Independent Film Project,2015FA,,STN,A,18,17,FOST,101,T, 9:30 AM, 12:15 PM,Mira,Niagolova,8/31/2015,12/18/2015,,UG
+CCM,GDD-003-01,Junior/Senior Studio,2015FA,,STN,A,30,16,BARN,200,TH, 3:00 PM, 5:00 PM,David,Lustgarten,8/31/2015,12/18/2015,,UG
+CCM,GDD-003-02,Junior/Senior Studio,2015FA,,STN,A,30,25,BARN,200,T, 3:00 PM, 5:00 PM,Coberlin,Brownell,8/31/2015,12/18/2015,,UG
+CCM,GDD-003-51,Junior/Senior Studio,2015FA,,STN,A,30,9,BARN,200,T, 5:30 PM, 7:30 PM,Roger,Earle,8/31/2015,12/18/2015,,UG
+CCM,GDD-003-52,Junior/Senior Studio,2015FA,,STN,A,30,6,BARN,200,TH, 5:30 PM, 7:30 PM,Jolee,Main,8/31/2015,12/18/2015,,UG
+CCM,GDD-100-01,Form and Color,2015FA,,"STN, STU",A,22,14,"CCM, CCM","434, 434","F, T"," 9:30 AM,  10:00 AM"," 12:15 PM,  12:00 PM",David,Lustgarten,8/31/2015,12/18/2015,,UG
+CCM,GDD-100-02,Form and Color,2015FA,,"STN, STU",A,22,14,"CCM, CCM","434, 434","T, TH"," 12:30 PM,  1:15 PM"," 3:15 PM,  3:15 PM",Toni-Lee,Sangastiano,8/31/2015,12/18/2015,,UG
+CCM,GDD-111-01,Visual & Digital Fundamentals,2015FA,,STN,A,24,14,GBTC,12,"W, F", 12:30 PM, 1:45 PM,Thomas,Barlow,8/31/2015,12/18/2015,,UG
+CCM,GDD-111-02,Visual & Digital Fundamentals,2015FA,,STN,A,24,20,GBTC,12,"T, F", 11:00 AM, 12:15 PM,Thomas,Barlow,8/31/2015,12/18/2015,,UG
+CCM,GDD-115-01,The Digital Image,2015FA,,STN,A,22,21,CCM,426,TH, 3:30 PM, 6:15 PM,Robin,Perlah,8/31/2015,12/18/2015,,UG
+CCM,GDD-115L-01,Digital Image - Studio,2015FA,,STN,A,22,21,CCM,426,T, 3:30 PM, 5:15 PM,Robin,Perlah,8/31/2015,12/18/2015,,UG
+CCM,GDD-181-01,Design Solutions,2015FA,,STN,A,22,14,CCM,426,W, 9:30 AM, 12:15 PM,Sheri,Bannister,8/31/2015,12/18/2015,,UG
+CCM,GDD-200-01,Design and Communication,2015FA,,"STN, STU",A,18,20,"CCM, BARN","426, 200","M, W"," 12:30 PM,  9:30 AM"," 3:15 PM,  11:30 AM",Toni-Lee,Sangastiano,8/31/2015,12/18/2015,,UG
+CCM,GDD-200-02,Design and Communication,2015FA,,"STN, STU",A,18,18,"CCM, BARN","426, 200","TH, M"," 9:30 AM,  9:30 AM"," 12:15 PM,  11:30 AM",Toni-Lee,Sangastiano,8/31/2015,12/18/2015,,UG
+CCM,GDD-203-51,Form in Motion,2015FA,,STN,A,22,23,GBTC,14,M, 5:30 PM, 8:15 PM,Kevin,Murakami,8/31/2015,12/18/2015,,UG
+CCM,GDD-203L-51,"Form, Motion-Studio Component",2015FA,,STN,A,22,21,BARN,200,W, 5:30 PM, 7:00 PM,Jolee,Main,8/31/2015,12/18/2015,,UG
+CCM,GDD-205-01,Publication Design I,2015FA,,STN,A,22,22,CCM,426,T, 12:30 PM, 3:15 PM,David,Lustgarten,8/31/2015,12/18/2015,,UG
+CCM,GDD-205L-01,Publication Design I-Studio,2015FA,,STU,A,22,22,BARN,200,TH, 1:00 PM, 3:00 PM,David,Lustgarten,8/31/2015,12/18/2015,,UG
+CCM,GDD-206-01,Web Design I,2015FA,,STN,A,22,21,CCM,426,W, 2:00 PM, 4:45 PM,Coberlin,Brownell,8/31/2015,12/18/2015,,UG
+CCM,GDD-206-02,Web Design I,2015FA,,STN,A,22,16,GBTC,14,F, 9:30 AM, 12:15 PM,Alaina,Castillo-Kunkle,8/31/2015,12/18/2015,,UG
+CCM,GDD-206L-01,Web Design I-Studio,2015FA,,STU,A,22,24,BARN,200,F, 12:30 PM, 2:30 PM,Coberlin,Brownell,8/31/2015,12/18/2015,,UG
+CCM,GDD-206L-51,Web Design I-Studio,2015FA,,STU,A,24,13,BARN,200,M, 5:30 PM, 7:30 PM,Alaina,Castillo-Kunkle,8/31/2015,12/18/2015,,UG
+CCM,GDD-220-01,Visual Creativity & Meaning,2015FA,,STN,A,36,20,CCM,221,"M, TH", 9:30 AM, 10:45 AM,David,Lustgarten,8/31/2015,12/18/2015,,UG
+CCM,GDD-270-01,Intermediate Typography,2015FA,,STN,A,22,14,CCM,426,M, 9:30 AM, 12:15 PM,Suzanne,Glover,8/31/2015,12/18/2015,,UG
+CCM,GDD-270L-01,Intermediate Type-Studio,2015FA,,STU,A,22,14,BARN,200,TH, 10:00 AM, 12:00 PM,Suzanne,Glover,8/31/2015,12/18/2015,,UG
+CCM,GDD-300-01,Projects in Graphic Design I,2015FA,,STU,A,20,19,GBTC,12,TH, 2:00 PM, 4:45 PM,Steven,Crafts,8/31/2015,12/18/2015,,UG
+CCM,GDD-300-51,Projects in Graphic Design I,2015FA,,STU,A,20,11,CCM,426,M, 5:30 PM, 8:15 PM,Jeremy,Smith,8/31/2015,12/18/2015,,UG
+CCM,GDD-301-01,Advanced Typography,2015FA,,STN,A,22,15,CCM,426,F, 9:30 AM, 12:15 PM,Suzanne,Glover,8/31/2015,12/18/2015,,UG
+CCM,GDD-302-01,Graphic Design/Objects&Spaces,2015FA,,STN,A,22,18,CCM,426,T, 9:30 AM, 12:15 PM,Coberlin,Brownell,8/31/2015,12/18/2015,,UG
+CCM,GDD-305-51,Publication Design II,2015FA,,STN,A,22,8,GBTC,12,W, 5:30 PM, 8:15 PM,Jonathan,Mikulak,8/31/2015,12/18/2015,,UG
+CCM,GDD-306-51,Web Design II,2015FA,,STN,A,20,12,CCM,426,T, 5:30 PM, 8:15 PM,Benjamin,Glassman,8/31/2015,12/18/2015,,UG
+CCM,GDD-310-51,Graphic Print Production,2015FA,,STN,A,22,12,CCM,426,W, 5:30 PM, 8:15 PM,Michael,Sealy,8/31/2015,12/18/2015,,UG
+CCM,GDD-325-101,"Duality, Design & Dissent",2015FA,MONT,STN,A,20,9,,,W, 10:00 AM, 12:45 PM,Noe,Sardet,8/31/2015,12/18/2015,,UG
+CCM,GDD-391-01,IS: Typographic Research,2015FA,,STN,A,1,1,,,,,,Suzanne,Glover,8/31/2015,12/18/2015,,UG
+CCM,GDD-400-01,Projects in Graphic Design II,2015FA,,STN,A,22,8,CCM,426,F, 2:00 PM, 4:45 PM,Deborah,Kehoe-Yergeau,8/31/2015,12/18/2015,,UG
+CCM,GDD-401-51,Sr Portfolio in Graphic Design,2015FA,,STN,A,22,8,GBTC,12,TH, 5:30 PM, 8:15 PM,Steven,Crafts,8/31/2015,12/18/2015,,UG
+CCM,GDD-490-01,Apprenticeship/Graphic Design,2015FA,OL,FLD,A,24,10,,,,,,Deborah,Kehoe-Yergeau,8/31/2015,12/18/2015,,UG
+CCM,IXD-100-01,Interaction Design I,2015FA,,STN,A,20,17,GBTC,12,"M, TH", 11:00 AM, 12:15 PM,Alan,Larsen,8/31/2015,12/18/2015,,UG
+CCM,IXD-200-51,Aesthetic Interactions,2015FA,,STN,A,20,17,FOST,104,W, 5:30 PM, 8:15 PM,Mark,Zelis,8/31/2015,12/18/2015,,UG
+CCM,IXD-350-01,Interaction Design Production,2015FA,,STN,A,18,10,GBTC,12,W, 2:00 PM, 4:45 PM,Alan,Larsen,8/31/2015,12/18/2015,,UG
+CCM,LAN-110-01,French I,2015FA,,STN,A,18,13,JOYC,305,"M, TH", 11:00 AM, 12:15 PM,Genevieve,Henry,8/31/2015,12/18/2015,,UG
+CCM,LAN-110-101,French I,2015FA,MONT,STN,A,18,13,,,"W, F", 2:00 PM, 3:15 PM,Carmen,Cristea,8/31/2015,12/18/2015,,UG
+CCM,LAN-120-01,Spanish I,2015FA,,STN,A,18,11,JOYC,311,"T, F", 9:30 AM, 10:45 AM,April,Howard,8/31/2015,12/18/2015,,UG
+CCM,LAN-140-01,Japanese I,2015FA,,STN,A,18,17,JOYC,302,"T, TH", 3:30 PM, 4:45 PM,Sinyoung,Evans,8/31/2015,12/18/2015,,UG
+CCM,LAN-210-01,French II,2015FA,,STN,A,18,5,"JOYC, JOYC","305, 305","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Genevieve,Henry,8/31/2015,12/18/2015,,UG
+CCM,LAN-215-101,Conversational French,2015FA,MONT,STN,A,15,3,,,"M, W", 4:00 PM, 5:15 PM,Denis,Brault,8/31/2015,12/18/2015,,UG
+CCM,LAN-220-01,Spanish II,2015FA,,STN,A,18,10,JOYC,311,"T, F", 11:00 AM, 12:15 PM,April,Howard,8/31/2015,12/18/2015,,UG
+CCM,LAN-240-51,Japanese II,2015FA,,STN,A,18,9,JOYC,302,"T, TH", 5:00 PM, 6:15 PM,Sinyoung,Evans,8/31/2015,12/18/2015,,UG
+CCM,LAN-320-01,Spanish III,2015FA,,STN,A,18,2,JOYC,103,"T, F", 9:30 AM, 10:45 AM,Maria Ursula,Georgeoglou Laxalde,8/31/2015,12/18/2015,,UG
+CCM,LAN-340-01,Japanese III,2015FA,,STN,A,18,6,JOYC,304,"W, F", 3:30 PM, 4:45 PM,Michiko,Oishi,8/31/2015,12/18/2015,,UG
+CCM,LAN-SP206-01,Fourth Semester Spanish,2015FA,OFF,STN,A,1,1,,,,,,,,8/31/2015,12/18/2015,,UG
+CCM,MCM-110-01,Video Storytelling,2015FA,,STN,A,18,12,"GBTC, GBTC","012, 012","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Keith,Oppenheim,8/31/2015,12/18/2015,,UG
+CCM,MCM-110-02,Video Storytelling,2015FA,,STN,A,18,14,"GBTC, GBTC","012, 012","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Keith,Oppenheim,8/31/2015,12/18/2015,,UG
+CCM,MCM-110-03,Video Storytelling,2015FA,,STN,A,18,15,GBTC,14,"W, F", 12:30 PM, 1:45 PM,Keith,Oppenheim,8/31/2015,12/18/2015,,UG
+CCM,MCM-120-01,Media and Society,2015FA,,STN,A,24,21,GBTC,112,"M, TH", 9:30 AM, 10:45 AM,Cheryl,Casey,8/31/2015,12/18/2015,,UG
+CCM,MCM-120-02,Media and Society,2015FA,,STN,A,24,25,GBTC,112,"M, TH", 11:00 AM, 12:15 PM,Cheryl,Casey,8/31/2015,12/18/2015,,UG
+CCM,MCM-120-03,Media and Society,2015FA,,STN,A,24,24,JOYC,310,"T, TH", 2:00 PM, 3:15 PM,Cheryl,Casey,8/31/2015,12/18/2015,,UG
+CCM,MCM-120-51,Media and Society,2015FA,,STN,A,24,23,JOYC,311,M, 5:30 PM, 8:15 PM,Jessica,Akey,8/31/2015,12/18/2015,,UG
+CCM,MCM-130-01,Audio Production,2015FA,,STN,A,18,17,GBTC,14,"T, TH", 3:30 PM, 4:45 PM,Matthew,Grasso,8/31/2015,12/18/2015,,UG
+CCM,MCM-130-02,Audio Production,2015FA,,STN,A,18,14,GBTC,12,"T, TH", 12:30 PM, 1:45 PM,Mitchell,Terricciano,8/31/2015,12/18/2015,,UG
+CCM,MCM-130-51,Audio Production,2015FA,,STN,A,18,8,GBTC,14,"T, TH", 5:00 PM, 6:15 PM,Matthew,Grasso,8/31/2015,12/18/2015,,UG
+CCM,MCM-135-01,Radio Practicum,2015FA,,FLD,A,10,5,GBTC,14,TH, 2:00 PM, 3:15 PM,Mitchell,Terricciano,8/31/2015,12/18/2015,"MCM-135-01, MCM-135B-01, MCM-135C-01",UG
+CCM,MCM-135B-01,Radio Practicum,2015FA,,FLD,A,10,1,GBTC,14,TH, 2:00 PM, 3:15 PM,Mitchell,Terricciano,8/31/2015,12/18/2015,"MCM-135-01, MCM-135B-01, MCM-135C-01",UG
+CCM,MCM-135C-01,Radio Practicum,2015FA,,FLD,A,10,0,GBTC,14,TH, 2:00 PM, 3:15 PM,Mitchell,Terricciano,8/31/2015,12/18/2015,"MCM-135-01, MCM-135B-01, MCM-135C-01",UG
+CCM,MCM-165-01,"Business of Music, the",2015FA,,STN,A,24,15,JOYC,212,"W, F", 3:30 PM, 4:45 PM,Matthew,Grasso,8/31/2015,12/18/2015,,UG
+CCM,MCM-210-01,Principles of Public Relations,2015FA,,STN,A,24,23,"CCM, CCM","424, 424","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Nancy,Kerr,8/31/2015,12/18/2015,,UG
+CCM,MCM-216-01,Electronic Media Writing,2015FA,,STN,A,18,18,WICK,101,"T, F", 9:30 AM, 10:45 AM,Christine,Ianni,8/31/2015,12/18/2015,,UG
+CCM,MCM-216-02,Electronic Media Writing,2015FA,,STN,A,18,16,WICK,101,"T, F", 11:00 AM, 12:15 PM,Christine,Ianni,8/31/2015,12/18/2015,,UG
+CCM,MCM-216-03,Electronic Media Writing,2015FA,,STN,A,18,9,"JOYC, GBTC","310, 014","M, TH"," 11:00 AM,  11:00 AM"," 12:15 PM,  12:15 PM",Kristen,Tripodi,8/31/2015,12/18/2015,,UG
+CCM,MCM-230-01,Social Media Production,2015FA,,STN,A,18,10,"GBTC, GBTC","014, 014","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Bryan,Agran,8/31/2015,12/18/2015,,UG
+CCM,MCM-230-02,Social Media Production,2015FA,,STN,A,18,17,"GBTC, GBTC","014, 014","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Bryan,Agran,8/31/2015,12/18/2015,,UG
+CCM,MCM-305-01,Creativity/Conceptual Develop.,2015FA,,STN,A,20,18,WICK,102,"T, F", 11:00 AM, 12:15 PM,Cinse,Bonino,8/31/2015,12/18/2015,,UG
+CCM,MCM-310-01,Writing for Public Relations,2015FA,,STN,A,18,16,"GBTC, GBTC","017, 012","M, TH"," 8:00 AM,  8:00 AM"," 9:15 AM,  9:15 AM",Elizabeth,Parent,8/31/2015,12/18/2015,,UG
+CCM,MCM-315-51,Contemporary Media Issues,2015FA,,STN,A,24,15,CCM,444,"M, W", 5:30 PM, 6:45 PM,Lauren,Layn,8/31/2015,12/18/2015,,UG
+CCM,MCM-330-51,"Audio Produc & Sound Des, Adv",2015FA,,STN,A,18,16,GBTC,14,T, 6:30 PM, 9:15 PM,Walter,Westinghouse,8/31/2015,12/18/2015,,UG
+CCM,MCM-335-01,Streaming Media Production I,2015FA,,STN,A,24,22,GBTC,14,"W, F", 2:00 PM, 3:15 PM,Keith,Oppenheim,8/31/2015,12/18/2015,,UG
+CCM,MCM-355-01,Prof. Communication Practices,2015FA,,STN,A,20,22,GBTC,112,TH, 12:30 PM, 1:45 PM,Kerry,Hill,8/31/2015,12/18/2015,,UG
+CCM,MCM-355-02,Prof. Communication Practices,2015FA,,STN,A,20,23,JOYC,310,TH, 11:00 AM, 12:15 PM,Kerry,Hill,8/31/2015,12/18/2015,,UG
+CCM,MCM-360-51,Legal Issues in Communication,2015FA,,STN,A,24,23,WICK,102,T, 5:30 PM, 8:15 PM,Cindy,Hill,8/31/2015,12/18/2015,,UG
+CCM,MCM-370-01,Communication Field Practicum,2015FA,,FLD,A,1,3,,,,,,Nancy,Kerr,8/31/2015,12/18/2015,,UG
+CCM,MCM-400-01,Public Relations Campaign Dev,2015FA,,STN,A,24,9,"CCM, CCM","424, 424","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Nancy,Kerr,8/31/2015,12/18/2015,,UG
+CCM,MCM-435-51,Streaming Media Production III,2015FA,,STN,A,24,6,GBTC,14,W, 5:30 PM, 8:15 PM,Bryan,Agran,8/31/2015,12/18/2015,,UG
+CCM,SON-120-01,Fundamentals of Digital Music,2015FA,,STN,A,18,18,FOST,101,"T, TH", 12:30 PM, 1:45 PM,Eric,Sample,8/31/2015,12/18/2015,,UG
+CCM,SON-120-02,Fundamentals of Digital Music,2015FA,,STN,A,18,12,FOST,101,"T, TH", 2:00 PM, 3:15 PM,Eric,Sample,8/31/2015,12/18/2015,,UG
+CCM,SON-131-01,History of Musical Innovation,2015FA,,STN,A,18,10,"JOYC, JOYC","304, 304","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Lois,Price,8/31/2015,12/18/2015,,UG
+CCM,SON-282-01,Synthesis and Sound Design,2015FA,,STN,A,18,16,FOST,101,W, 9:30 AM, 12:15 PM,Eric,Sample,8/31/2015,12/18/2015,,UG
+CCM,SON-340-01,Film Scoring,2015FA,,STN,A,18,18,FOST,101,M, 12:30 PM, 3:15 PM,Eric,Sample,8/31/2015,12/18/2015,,UG
+CCM,SON-440-51,Adv. Projects in Sonic Arts,2015FA,,STN,A,18,9,FOST,101,W, 5:30 PM, 8:15 PM,Malcolm,Francis,8/31/2015,12/18/2015,,UG
+CCM,THE-140-01,Fundamentals of Acting,2015FA,,STN,A,18,12,AUD,305,"W, F", 3:30 PM, 4:45 PM,Alexandra,Hudson,8/31/2015,12/18/2015,,UG
+CCM,THE-140-51,Fundamentals of Acting,2015FA,,STN,A,18,10,AUD,305,"T, TH", 5:30 PM, 6:45 PM,Alexandra,Hudson,8/31/2015,12/18/2015,,UG
+CCM,WRT-100-01,"Writing Profession, Intro.",2015FA,,STN,A,20,19,GBTC,217,"M, TH", 9:30 AM, 10:45 AM,Timothy,Brookes,8/31/2015,12/18/2015,,UG
+CCM,WRT-100-02,"Writing Profession, Intro.",2015FA,,STN,A,20,20,GBTC,217,"M, TH", 11:00 AM, 12:15 PM,Timothy,Brookes,8/31/2015,12/18/2015,,UG
+CCM,WRT-110-51,Literary Magazine I,2015FA,,LAB,A,10,7,WICK,100,TH, 5:30 PM, 7:00 PM,Rachel,Carter,8/31/2015,12/18/2015,"WRT-110-51, WRT-210-51",UG
+CCM,WRT-120-02,"Creative Writing, Introduction",2015FA,,STN,A,18,13,GBTC,114,"T, F", 9:30 AM, 10:45 AM,Kelly,Thomas,8/31/2015,12/18/2015,,UG
+CCM,WRT-120-03,"Creative Writing, Introduction",2015FA,,STN,A,18,10,JOYC,313,"W, F", 2:00 PM, 3:15 PM,Daniel,Hecht,8/31/2015,12/18/2015,,UG
+CCM,WRT-120-51,"Creative Writing, Introduction",2015FA,,STN,A,18,12,CCM,233,"M, W", 5:00 PM, 6:15 PM,Alison,Lanzetta,8/31/2015,12/18/2015,,UG
+CCM,WRT-200-01,Fundamentals of Journalism,2015FA,,STN,A,20,20,MIC,308,"M, TH", 9:30 AM, 10:45 AM,Warren,Baker,8/31/2015,12/18/2015,,UG
+CCM,WRT-205-51,Online Journalism,2015FA,,STN,A,18,11,WICK,101,TH, 5:30 PM, 8:15 PM,Benjamin,Dangl,8/31/2015,12/18/2015,,UG
+CCM,WRT-210-51,Literary Magazine II,2015FA,,LAB,A,10,4,WICK,100,TH, 5:30 PM, 7:00 PM,Rachel,Carter,8/31/2015,12/18/2015,"WRT-110-51, WRT-210-51",UG
+CCM,WRT-220-01,"Creative Writing, Intermediate",2015FA,,STN,A,20,17,GBTC,217,M, 12:30 PM, 3:15 PM,Angela,Palm,8/31/2015,12/18/2015,,UG
+CCM,WRT-220-51,"Creative Writing, Intermediate",2015FA,,STN,A,20,9,GBTC,217,M, 5:30 PM, 8:15 PM,Rachel,Carter,8/31/2015,12/18/2015,,UG
+CCM,WRT-226-01,Intermediate Fiction Workshop,2015FA,,STN,A,16,15,MIC,305/306,"T, TH", 12:30 PM, 1:45 PM,Jessica,Nelson,8/31/2015,12/18/2015,,UG
+CCM,WRT-231-01,Technical Writing,2015FA,,STN,A,21,21,FOST,100,"T, F", 11:00 AM, 12:15 PM,Warren,Baker,8/31/2015,12/18/2015,,UG
+CCM,WRT-231-02,Technical Writing,2015FA,,STN,A,21,20,FOST,100,"T, F", 9:30 AM, 10:45 AM,Warren,Baker,8/31/2015,12/18/2015,,UG
+CCM,WRT-231-201,Technical Writing,2015FA,DUBL,STN,A,15,14,,,TH, 1:15 PM, 4:00 PM,Stephen,McMahon,8/31/2015,12/18/2015,,UG
+CCM,WRT-236-101,Writing About Food,2015FA,MONT,STN,A,18,11,,,TH, 10:00 AM, 12:45 PM,Susan,Semenak,8/31/2015,12/18/2015,,UG
+CCM,WRT-280-01,Reading & Writing/Wilderness,2015FA,,STN,A,20,19,CCM,232,"T, TH", 3:30 PM, 4:45 PM,Trevien,Stanger,8/31/2015,12/18/2015,,UG
+CCM,WRT-301-01,Prof Writing Portfolio II,2015FA,,STN,A,18,15,JOYC,302,W, 2:00 PM, 3:15 PM,Angela,Palm,8/31/2015,12/18/2015,,UG
+CCM,WRT-325-01,Advanced Fiction Workshop,2015FA,,STN,A,14,13,JOYC,102,"W, F", 12:30 PM, 1:45 PM,Daniel,Hecht,8/31/2015,12/18/2015,,UG
+CCM,WRT-327-01,Seminar in Playwriting,2015FA,,STN,A,16,14,WICK,101,T, 2:00 PM, 4:45 PM,Seth,Jarvis,8/31/2015,12/18/2015,,UG
+CCM,WRT-335-201,Writing the City: Dublin,2015FA,DUBL,STN,A,20,15,,,TH, 9:00 AM, 11:45 AM,Stephen,McMahon,8/31/2015,12/18/2015,,UG
+CCM,WRT-337-01,"Creative Non-Fiction, Advanced",2015FA,,STN,A,18,12,JOYC,305,"T, F", 11:00 AM, 12:15 PM,Jericho,Parms,8/31/2015,12/18/2015,,UG
+CCM,WRT-346-01,Publishing in 21st Century,2015FA,,STN,A,12,13,GBTC,201,"T, TH", 2:00 PM, 3:15 PM,Timothy,Brookes,8/31/2015,12/18/2015,,UG
+CCM,WRT-401-01,Prof Writing Portfolio III,2015FA,,STN,A,1,2,,,,,,Timothy,Brookes,8/31/2015,12/18/2015,,UG
+CCM,WRT-470-01,Senior Seminar: Writing,2015FA,,STN,A,10,10,GBTC,201,W, 9:30 AM, 12:15 PM,Josie,Leavitt,8/31/2015,12/18/2015,,UG
+CCM,WRT-490-01,Professional Writing Internshp,2015FA,,FLD,A,25,29,CCM,232,TH, 11:00 AM, 12:15 PM,Warren,Baker,8/31/2015,12/18/2015,,UG
+COR,CCC-410L-06A,Capstone Studio,2015FA,,STN,A,20,15,BARN,200,M, 11:30 AM, 1:30 PM,Coberlin,Brownell,8/31/2015,12/18/2015,,UG
+COR,CCC-410L-06B,Capstone Studio,2015FA,,STN,A,20,21,BARN,200,M, 1:30 PM, 3:30 PM,Suzanne,Glover,8/31/2015,12/18/2015,,UG
+COR,CCC-411-01,ITS Capstone: Reflection,2015FA,,STN,A,24,15,GBTC,217,W, 9:30 AM, 10:20 AM,Charles,Bashaw,8/31/2015,12/18/2015,,UG
+COR,CCC-411-02,ITS Capstone: Reflection,2015FA,,STN,A,24,25,GBTC,217,W, 11:00 AM, 11:50 AM,Charles,Bashaw,8/31/2015,12/18/2015,,UG
+COR,CCC-411-03,ITS Capstone: Reflection,2015FA,,STN,A,24,25,CCM,232,W, 12:30 PM, 1:20 PM,Charles,Bashaw,8/31/2015,12/18/2015,,UG
+COR,COR-110-01,Concepts of the Self,2015FA,,STN,A,20,20,CCM,424,"W, F", 12:30 PM, 1:45 PM,Brian,Murphy,8/31/2015,12/18/2015,,UG
+COR,COR-110-02,Concepts of the Self,2015FA,,STN,A,20,20,JOYC,201,"W, F", 2:00 PM, 3:15 PM,Brian,Murphy,8/31/2015,12/18/2015,,UG
+COR,COR-110-03,Concepts of the Self,2015FA,,STN,A,20,19,GBTC,17,"M, TH", 11:00 AM, 12:15 PM,Stephen,Wehmeyer,8/31/2015,12/18/2015,,UG
+COR,COR-110-04,Concepts of the Self,2015FA,,STN,A,20,16,CCM,424,"T, TH", 12:30 PM, 1:45 PM,David,Rous,8/31/2015,12/18/2015,,UG
+COR,COR-110-05,Concepts of the Self,2015FA,,STN,A,20,21,JOYC,211,"T, TH", 3:30 PM, 4:45 PM,David,Rous,8/31/2015,12/18/2015,,UG
+COR,COR-110-06,Concepts of the Self,2015FA,,STN,A,20,18,JOYC,211,"T, TH", 5:00 PM, 6:15 PM,David,Rous,8/31/2015,12/18/2015,,UG
+COR,COR-110-07,Concepts of the Self,2015FA,,STN,A,20,20,GBTC,217,"M, TH", 8:00 AM, 9:15 AM,Charles,Bashaw,8/31/2015,12/18/2015,,UG
+COR,COR-110-08,Concepts of the Self,2015FA,,STN,A,20,20,WICK,102,"M, TH", 11:00 AM, 12:15 PM,Charles,Bashaw,8/31/2015,12/18/2015,,UG
+COR,COR-110-09,Concepts of the Self,2015FA,,STN,A,20,20,"GBTC, GBTC","017, 017","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Ciaran,Buckley,8/31/2015,12/18/2015,,UG
+COR,COR-110-10,Concepts of the Self,2015FA,,STN,A,20,20,JOYC,202,"T, F", 9:30 AM, 10:45 AM,Kristin,Novotny,8/31/2015,12/18/2015,,UG
+COR,COR-110-11,Concepts of the Self,2015FA,,STN,A,20,21,JOYC,202,"T, F", 11:00 AM, 12:15 PM,Kristin,Novotny,8/31/2015,12/18/2015,,UG
+COR,COR-110-12,Concepts of the Self,2015FA,,STN,A,20,20,GBTC,217,"T, F", 9:30 AM, 10:45 AM,Frank,Robinson,8/31/2015,12/18/2015,,UG
+COR,COR-110-13,Concepts of the Self,2015FA,,STN,A,20,20,GBTC,217,"T, F", 11:00 AM, 12:15 PM,Frank,Robinson,8/31/2015,12/18/2015,,UG
+COR,COR-110-14,Concepts of the Self,2015FA,,STN,A,20,20,JOYC,103,"M, TH", 11:00 AM, 12:15 PM,Alfonso,Capone,8/31/2015,12/18/2015,,UG
+COR,COR-110-15,Concepts of the Self,2015FA,,STN,A,20,19,"GBTC, GBTC","017, 017","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Stephen,Wehmeyer,8/31/2015,12/18/2015,,UG
+COR,COR-110-16,Concepts of the Self,2015FA,,STN,A,20,20,WICK,100,"W, F", 2:00 PM, 3:15 PM,Jeanne,Lieberman,8/31/2015,12/18/2015,,UG
+COR,COR-110-17,Concepts of the Self,2015FA,,STN,A,20,20,JOYC,103,"T, TH", 3:30 PM, 4:45 PM,Elizabeth,Allen-Pennebaker,8/31/2015,12/18/2015,,UG
+COR,COR-110-18,Concepts of the Self,2015FA,,STN,A,20,10,JOYC,103,"T, TH", 5:00 PM, 6:15 PM,Elizabeth,Allen-Pennebaker,8/31/2015,12/18/2015,,UG
+COR,COR-110-19,Concepts of the Self,2015FA,,STN,A,20,19,JOYC,103,"M, TH", 9:30 AM, 10:45 AM,Alfonso,Capone,8/31/2015,12/18/2015,,UG
+COR,COR-110-20,Concepts of the Self,2015FA,,STN,A,20,20,JOYC,212,"M, TH", 11:00 AM, 12:15 PM,Sanford,Zale,8/31/2015,12/18/2015,,UG
+COR,COR-110-21,Concepts of the Self,2015FA,,STN,A,20,20,GBTC,17,"T, TH", 3:30 PM, 4:45 PM,David,Kite,8/31/2015,12/18/2015,,UG
+COR,COR-110-22,Concepts of the Self,2015FA,,STN,A,20,19,JOYC,201,"T, TH", 12:30 PM, 1:45 PM,David,Kite,8/31/2015,12/18/2015,,UG
+COR,COR-110-23,Concepts of the Self,2015FA,,STN,A,20,20,CCM,233,"T, F", 9:30 AM, 10:45 AM,Rowshan,Nemazee,8/31/2015,12/18/2015,,UG
+COR,COR-110-24,Concepts of the Self,2015FA,,STN,A,20,20,CCM,233,"T, F", 11:00 AM, 12:15 PM,Rowshan,Nemazee,8/31/2015,12/18/2015,,UG
+COR,COR-110-25,Concepts of the Self,2015FA,,STN,A,20,21,"CCM, CCM","233, 233","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Kerry,Noonan,8/31/2015,12/18/2015,,UG
+COR,COR-110-26,Concepts of the Self,2015FA,,STN,A,20,20,"CCM, CCM","233, 233","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Kerry,Noonan,8/31/2015,12/18/2015,,UG
+COR,COR-110-27,Concepts of the Self,2015FA,,STN,A,20,19,JOYC,304,"T, F", 8:00 AM, 9:15 AM,Gary,Scudder,8/31/2015,12/18/2015,,UG
+COR,COR-110-28,Concepts of the Self,2015FA,,STN,A,20,19,JOYC,304,"T, F", 9:30 AM, 10:45 AM,Gary,Scudder,8/31/2015,12/18/2015,,UG
+COR,COR-110-29,Concepts of the Self,2015FA,,STN,A,20,16,JOYC,102,"T, TH", 12:30 PM, 1:45 PM,Kenneth,Wade,8/31/2015,12/18/2015,,UG
+COR,COR-110-30,Concepts of the Self,2015FA,,STN,A,20,13,JOYC,203,"T, TH", 3:30 PM, 4:45 PM,Kenneth,Wade,8/31/2015,12/18/2015,,UG
+COR,COR-110-31,Concepts of the Self,2015FA,,STN,A,20,13,JOYC,302,"M, TH", 8:00 AM, 9:15 AM,Sanford,Zale,8/31/2015,12/18/2015,,UG
+COR,COR-115-01,Rhetoric of Self,2015FA,,STN,A,20,20,JOYC,202,"M, TH", 9:30 AM, 10:45 AM,Michael,Kelly,8/31/2015,12/18/2015,,UG
+COR,COR-115-02,Rhetoric of Self,2015FA,,STN,A,20,20,JOYC,202,"M, TH", 11:00 AM, 12:15 PM,Michael,Kelly,8/31/2015,12/18/2015,,UG
+COR,COR-115-03,Rhetoric of Self,2015FA,,STN,A,20,19,GBTC,17,"T, F", 11:00 AM, 12:15 PM,Lara,Gentchos,8/31/2015,12/18/2015,,UG
+COR,COR-115-04,Rhetoric of Self,2015FA,,STN,A,20,16,CCM,221,"T, TH", 5:00 PM, 6:15 PM,Christine,Brooks,8/31/2015,12/18/2015,,UG
+COR,COR-115-05,Rhetoric of Self,2015FA,,STN,A,20,21,CCM,424,"T, TH", 2:00 PM, 3:15 PM,Christine,Brooks,8/31/2015,12/18/2015,,UG
+COR,COR-115-06,Rhetoric of Self,2015FA,,STN,A,20,18,CCM,424,"T, TH", 3:30 PM, 4:45 PM,Christine,Brooks,8/31/2015,12/18/2015,,UG
+COR,COR-115-07,Rhetoric of Self,2015FA,,STN,A,20,20,JOYC,202,"W, F", 2:00 PM, 3:15 PM,James,McGinniss,8/31/2015,12/18/2015,,UG
+COR,COR-115-08,Rhetoric of Self,2015FA,,STN,A,20,20,JOYC,202,"W, F", 3:30 PM, 4:45 PM,James,McGinniss,8/31/2015,12/18/2015,,UG
+COR,COR-115-09,Rhetoric of Self,2015FA,,STN,A,20,19,WICK,100,"W, F", 12:30 PM, 1:45 PM,Brett,Sigurdson,8/31/2015,12/18/2015,,UG
+COR,COR-115-10,Rhetoric of Self,2015FA,,STN,A,20,20,CCM,221,"T, F", 11:00 AM, 12:15 PM,Erik,Shonstrom,8/31/2015,12/18/2015,,UG
+COR,COR-115-11,Rhetoric of Self,2015FA,,STN,A,20,21,CCM,221,"T, F", 9:30 AM, 10:45 AM,Erik,Shonstrom,8/31/2015,12/18/2015,,UG
+COR,COR-115-12,Rhetoric of Self,2015FA,,STN,A,20,20,"CCM, CCM","442, 442","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Miriam,Horne,8/31/2015,12/18/2015,,UG
+COR,COR-115-13,Rhetoric of Self,2015FA,,STN,A,20,20,"CCM, CCM","442, 442","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Miriam,Horne,8/31/2015,12/18/2015,,UG
+COR,COR-115-14,Rhetoric of Self,2015FA,,STN,A,20,20,JOYC,211,"M, W", 5:00 PM, 6:15 PM,Janice,Gohm Webster,8/31/2015,12/18/2015,,UG
+COR,COR-115-15,Rhetoric of Self,2015FA,,STN,A,20,19,JOYC,313,"W, F", 3:30 PM, 4:45 PM,Erik,Kaarla,8/31/2015,12/18/2015,,UG
+COR,COR-115-16,Rhetoric of Self,2015FA,,STN,A,20,20,JOYC,313,"T, F", 11:00 AM, 12:15 PM,James,McGinniss,8/31/2015,12/18/2015,,UG
+COR,COR-115-17,Rhetoric of Self,2015FA,,STN,A,20,20,JOYC,103,"T, TH", 12:30 PM, 1:45 PM,Erik,Esckilsen,8/31/2015,12/18/2015,,UG
+COR,COR-115-18,Rhetoric of Self,2015FA,,STN,A,20,10,GBTC,17,"T, TH", 2:00 PM, 3:15 PM,Erik,Esckilsen,8/31/2015,12/18/2015,,UG
+COR,COR-115-19,Rhetoric of Self,2015FA,,STN,A,20,19,JOYC,103,"T, TH", 2:00 PM, 3:15 PM,Kelly,Thomas,8/31/2015,12/18/2015,,UG
+COR,COR-115-20,Rhetoric of Self,2015FA,,STN,A,20,20,GBTC,112,"T, TH", 3:30 PM, 4:45 PM,Alice,Neiley,8/31/2015,12/18/2015,,UG
+COR,COR-115-21,Rhetoric of Self,2015FA,,STN,A,20,20,JOYC,302,"T, F", 9:30 AM, 10:45 AM,Emily,Banks,8/31/2015,12/18/2015,,UG
+COR,COR-115-22,Rhetoric of Self,2015FA,,STN,A,20,19,CCM,232,"T, F", 11:00 AM, 12:15 PM,Emily,Banks,8/31/2015,12/18/2015,,UG
+COR,COR-115-23,Rhetoric of Self,2015FA,,STN,A,20,20,JOYC,305,"T, F", 8:00 AM, 9:15 AM,Joanne,Farrell,8/31/2015,12/18/2015,,UG
+COR,COR-115-24,Rhetoric of Self,2015FA,,STN,A,20,20,JOYC,305,"T, F", 9:30 AM, 10:45 AM,Joanne,Farrell,8/31/2015,12/18/2015,,UG
+COR,COR-115-25,Rhetoric of Self,2015FA,,STN,A,20,21,GBTC,114,"W, F", 2:00 PM, 3:15 PM,Patricia,Suozzi,8/31/2015,12/18/2015,,UG
+COR,COR-115-26,Rhetoric of Self,2015FA,,STN,A,20,21,GBTC,217,"W, F", 3:30 PM, 4:45 PM,Patricia,Suozzi,8/31/2015,12/18/2015,,UG
+COR,COR-115-27,Rhetoric of Self,2015FA,,STN,A,20,19,JOYC,310,"T, F", 9:30 AM, 10:45 AM,Miriam,Horne,8/31/2015,12/18/2015,,UG
+COR,COR-115-28,Rhetoric of Self,2015FA,,STN,A,20,19,JOYC,302,"T, F", 11:00 AM, 12:15 PM,Patricia,Suozzi,8/31/2015,12/18/2015,,UG
+COR,COR-115-29,Rhetoric of Self,2015FA,,STN,A,20,16,GBTC,17,"W, F", 12:30 PM, 1:45 PM,Rochelle,Parker,8/31/2015,12/18/2015,,UG
+COR,COR-115-30,Rhetoric of Self,2015FA,,STN,A,20,13,JOYC,103,"W, F", 2:00 PM, 3:15 PM,Rochelle,Parker,8/31/2015,12/18/2015,,UG
+COR,COR-115-31,Rhetoric of Self,2015FA,,STN,A,20,13,JOYC,301,"T, TH", 5:00 PM, 6:15 PM,Alice,Neiley,8/31/2015,12/18/2015,,UG
+COR,COR-210-01,Sci Rev: Original Version,2015FA,,STN,A,24,17,JOYC,301,"M, TH", 8:00 AM, 9:15 AM,Signe,Daly,8/31/2015,12/18/2015,,UG
+COR,COR-210-02,Sci Rev: Citizen Science,2015FA,,STN,A,24,13,JOYC,211,"T, F", 8:00 AM, 9:15 AM,Kristin,Wolf,8/31/2015,12/18/2015,,UG
+COR,COR-210-03,Sci Rev: Citizen Science,2015FA,,STN,A,24,24,WICK,100,"T, F", 9:30 AM, 10:45 AM,Kristin,Wolf,8/31/2015,12/18/2015,,UG
+COR,COR-210-04,Sci Rev:Resistance & Immunity,2015FA,,STN,A,24,8,WICK,102,"T, F", 8:00 AM, 9:15 AM,Cynthia,Brandenburg,8/31/2015,12/18/2015,,UG
+COR,COR-210-05,Sci Rev:Resistance & Immunity,2015FA,,STN,A,24,24,WICK,100,"T, F", 11:00 AM, 12:15 PM,Cynthia,Brandenburg,8/31/2015,12/18/2015,,UG
+COR,COR-210-06,Sci Rev: Trial of Galileo,2015FA,,STN,A,24,21,"CCM, CCM","444, 444","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Craig,Pepin,8/31/2015,12/18/2015,,UG
+COR,COR-210-07,Sci Rev: Original Version,2015FA,,STN,A,24,24,GBTC,117,"M, TH", 9:30 AM, 10:45 AM,Signe,Daly,8/31/2015,12/18/2015,,UG
+COR,COR-210-09,Sci Rev: Epistemology,2015FA,,STN,A,24,23,JOYC,103,"W, F", 12:30 PM, 1:45 PM,Michael,Lange,8/31/2015,12/18/2015,,UG
+COR,COR-210-10,Sci Rev: Science Friction,2015FA,,STN,A,24,24,GBTC,114,"W, F", 12:30 PM, 1:45 PM,Kenneth,Wade,8/31/2015,12/18/2015,,UG
+COR,COR-210-11,Sci Rev: Science Friction,2015FA,,STN,A,24,24,GBTC,17,"W, F", 3:30 PM, 4:45 PM,Kenneth,Wade,8/31/2015,12/18/2015,,UG
+COR,COR-220-01,Aesthetics: Global Lenses,2015FA,,STN,A,24,23,JOYC,202,"M, TH", 8:00 AM, 9:15 AM,Gary,Scudder,8/31/2015,12/18/2015,,UG
+COR,COR-220-02,Aesthetics: Global Lenses,2015FA,,STN,A,24,22,JOYC,201,"M, TH", 9:30 AM, 10:45 AM,Gary,Scudder,8/31/2015,12/18/2015,,UG
+COR,COR-220-03,Aesthetics: Original Version,2015FA,,STN,A,24,23,GBTC,217,"T, F", 8:00 AM, 9:15 AM,Charles,Bashaw,8/31/2015,12/18/2015,,UG
+COR,COR-220-04,Aesthetics: Original Version,2015FA,,STN,A,24,25,CCM,221,"T, TH", 3:30 PM, 4:45 PM,Stephen,Wehmeyer,8/31/2015,12/18/2015,,UG
+COR,COR-220-05,Aesthetics: Art Now,2015FA,,STN,A,24,24,CCM,442,"T, F", 11:00 AM, 12:15 PM,Matthew,LaRocca,8/31/2015,12/18/2015,,UG
+COR,COR-220-06,Aesthetics: Diasporic Beauty,2015FA,,STN,A,24,23,"WICK, WICK","100, 100","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Rowshan,Nemazee,8/31/2015,12/18/2015,,UG
+COR,COR-220-07,Aesthetics: Street Art,2015FA,,STN,A,24,26,JOYC,202,"W, F", 12:30 PM, 1:45 PM,David,Mills,8/31/2015,12/18/2015,,UG
+COR,COR-220-08,Aesthetics: Street Art,2015FA,,STN,A,24,26,JOYC,310,"W, F", 2:00 PM, 3:15 PM,David,Mills,8/31/2015,12/18/2015,,UG
+COR,COR-220-09,Aesthetics: Historical,2015FA,,STN,A,24,24,JOYC,310,"W, F", 12:30 PM, 1:45 PM,Sanford,Zale,8/31/2015,12/18/2015,,UG
+COR,COR-220-10,Aesthetics: Historical,2015FA,,STN,A,24,23,WICK,100,"W, F", 3:30 PM, 4:45 PM,Sanford,Zale,8/31/2015,12/18/2015,,UG
+COR,COR-220-11,Aesthetics: Theatre as Art,2015FA,,STN,A,24,24,CCM,233,"W, F", 2:00 PM, 3:15 PM,Joanne,Farrell,8/31/2015,12/18/2015,,UG
+COR,COR-220-12,Aesthetics: Countercultures,2015FA,,STN,A,24,23,CCM,424,"W, F", 2:00 PM, 3:15 PM,Brett,Sigurdson,8/31/2015,12/18/2015,,UG
+COR,COR-220-13,Aesthetics: Countercultures,2015FA,,STN,A,24,24,CCM,424,"W, F", 3:30 PM, 4:45 PM,Brett,Sigurdson,8/31/2015,12/18/2015,,UG
+COR,COR-230-02,Environment: Water,2015FA,,STN,A,24,23,WICK,100,"M, TH", 9:30 AM, 10:45 AM,Kristin,Wolf,8/31/2015,12/18/2015,,UG
+COR,COR-230-03,Environment: Water,2015FA,,STN,A,24,24,CCM,442,"M, TH", 11:00 AM, 12:15 PM,Kristin,Wolf,8/31/2015,12/18/2015,,UG
+COR,COR-230-04,Environment: What is Nature?,2015FA,,STN,A,24,25,FREE,201,"T, F", 9:30 AM, 10:45 AM,David,Kite,8/31/2015,12/18/2015,,UG
+COR,COR-230-05,Environment: Original Version,2015FA,,STN,A,24,23,GBTC,217,"W, F", 12:30 PM, 1:45 PM,Edward,Cafferty,8/31/2015,12/18/2015,,UG
+COR,COR-230-06,Environment: Original Version,2015FA,,STN,A,24,20,CCM,233,"W, F", 12:30 PM, 1:45 PM,Jeanne,Lieberman,8/31/2015,12/18/2015,,UG
+COR,COR-230-07,Environment: Original Version,2015FA,,STN,A,24,21,CCM,233,"W, F", 3:30 PM, 4:45 PM,Jeanne,Lieberman,8/31/2015,12/18/2015,,UG
+COR,COR-230-08,Environment: Original Version,2015FA,,STN,A,24,23,JOYC,311,"T, TH", 3:30 PM, 4:45 PM,Janice,Gohm Webster,8/31/2015,12/18/2015,,UG
+COR,COR-230-51,Environment: Orignial Version,2015FA,,STN,A,24,23,JOYC,311,"T, TH", 5:00 PM, 6:15 PM,Janice,Gohm Webster,8/31/2015,12/18/2015,,UG
+COR,COR-240-01,Bodies: Body Image,2015FA,,STN,A,24,24,CCM,232,"M, TH", 9:30 AM, 10:45 AM,Kristin,Novotny,8/31/2015,12/18/2015,,UG
+COR,COR-240-02,Bodies: Empowered Embodiment,2015FA,,STN,A,24,22,CCM,444,"M, TH", 11:00 AM, 12:15 PM,Faith,Yacubian,8/31/2015,12/18/2015,,UG
+COR,COR-240-03,Bodies: Body Image,2015FA,,STN,A,24,22,GBTC,117,"M, TH", 11:00 AM, 12:15 PM,Kristin,Novotny,8/31/2015,12/18/2015,,UG
+COR,COR-240-04,Bodies: Dance,2015FA,,STN,A,24,24,JOYC,305,"T, TH", 2:00 PM, 3:15 PM,Erik,Shonstrom,8/31/2015,12/18/2015,,UG
+COR,COR-240-05SL,Bodies: Mind Matters,2015FA,,STN,A,24,24,"CCM, CCM","232, 232","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Adele,Holoch,8/31/2015,12/18/2015,,UG
+COR,COR-240-06,Bodies: Dance,2015FA,,STN,A,24,24,JOYC,211,"T, TH", 12:30 PM, 1:45 PM,Erik,Shonstrom,8/31/2015,12/18/2015,,UG
+COR,COR-240-07,Bodies: Original Version,2015FA,,STN,A,24,17,JOYC,203,"W, F", 12:30 PM, 1:45 PM,Kelly,Thomas,8/31/2015,12/18/2015,,UG
+COR,COR-240-08,Bodies: Beauty,2015FA,,STN,A,24,21,CCM,444,"T, TH", 3:30 PM, 4:45 PM,Maggie,Hunter,8/31/2015,12/18/2015,,UG
+COR,COR-240-09,Bodies: Original Version,2015FA,,STN,A,24,25,GBTC,17,"W, F", 2:00 PM, 3:15 PM,Kelly,Thomas,8/31/2015,12/18/2015,,UG
+COR,COR-240-10SL,Bodies: Mind Matters,2015FA,,STN,A,24,23,"WICK, WICK","102, 102","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Adele,Holoch,8/31/2015,12/18/2015,,UG
+COR,COR-240-11,Bodies: Touch,2015FA,,STN,A,24,12,CCM,233,"M, TH", 9:30 AM, 10:45 AM,Katheryn,Wright,8/31/2015,12/18/2015,,UG
+COR,COR-240-13,Bodies: The Freakshow,2015FA,,STN,A,24,22,JOYC,311,"M, TH", 8:00 AM, 9:15 AM,Brian,Murphy,8/31/2015,12/18/2015,,UG
+COR,COR-240-14,Bodies: The Freakshow,2015FA,,STN,A,24,22,JOYC,311,"M, TH", 9:30 AM, 10:45 AM,Brian,Murphy,8/31/2015,12/18/2015,,UG
+COR,COR-240-51,Bodies: Beauty,2015FA,,STN,A,24,17,CCM,444,"T, TH", 5:00 PM, 6:15 PM,Maggie,Hunter,8/31/2015,12/18/2015,,UG
+COR,COR-310-01,The Global Condition,2015FA,,STN,A,24,23,CCM,424,"T, F", 9:30 AM, 10:45 AM,Ciaran,Buckley,8/31/2015,12/18/2015,,UG
+COR,COR-310-02,The Global Condition,2015FA,,STN,A,24,25,CCM,424,"T, F", 11:00 AM, 12:15 PM,Ciaran,Buckley,8/31/2015,12/18/2015,,UG
+COR,COR-310-03,The Global Condition,2015FA,,STN,A,24,25,CCM,442,"W, F", 12:30 PM, 1:45 PM,Arthur,Edelstein,8/31/2015,12/18/2015,,UG
+COR,COR-310-04,The Global Condition,2015FA,,STN,A,24,24,CCM,442,"W, F", 2:00 PM, 3:15 PM,Arthur,Edelstein,8/31/2015,12/18/2015,,UG
+COR,COR-310-05,The Global Condition,2015FA,,STN,A,24,23,CCM,444,"W, F", 2:00 PM, 3:15 PM,Michael,Lange,8/31/2015,12/18/2015,,UG
+COR,COR-310-06,The Global Condition,2015FA,,STN,A,24,20,CCM,444,"W, F", 3:30 PM, 4:45 PM,Michael,Lange,8/31/2015,12/18/2015,,UG
+COR,COR-310-07,The Global Condition,2015FA,,STN,A,24,25,JOYC,311,"M, TH", 11:00 AM, 12:15 PM,Signe,Daly,8/31/2015,12/18/2015,,UG
+COR,COR-310-08,The Global Condition,2015FA,,STN,A,24,25,CCM,444,"W, F", 12:30 PM, 1:45 PM,Lionel,Beasley,8/31/2015,12/18/2015,,UG
+COR,COR-310-09,The Global Condition,2015FA,,STN,A,24,24,JOYC,304,"W, F", 2:00 PM, 3:15 PM,Lionel,Beasley,8/31/2015,12/18/2015,,UG
+COR,COR-310-10,The Global Condition,2015FA,,STN,A,24,20,CCM,442,"W, F", 3:30 PM, 4:45 PM,Lionel,Beasley,8/31/2015,12/18/2015,,UG
+COR,COR-310-11,The Global Condition,2015FA,,STN,A,24,26,CCM,233,"T, TH", 12:30 PM, 1:45 PM,Katheryn,Wright,8/31/2015,12/18/2015,,UG
+COR,COR-310-12,The Global Condition,2015FA,,STN,A,24,24,"JOYC, JOYC","301, 301","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Ciaran,Buckley,8/31/2015,12/18/2015,,UG
+COR,COR-310-51,The Global Condition,2015FA,,STN,A,24,25,CCM,442,"M, W", 5:30 PM, 6:45 PM,Megan,LeMay,8/31/2015,12/18/2015,,UG
+COR,COR-310-52,The Global Condition,2015FA,,STN,A,24,22,CCM,232,"T, TH", 5:30 PM, 6:45 PM,Michael,Lange,8/31/2015,12/18/2015,,UG
+COR,COR-320-01,Human Rights & Responsibility,2015FA,,STN,A,24,24,JOYC,301,"T, F", 11:00 AM, 12:15 PM,Alfonso,Capone,8/31/2015,12/18/2015,,UG
+COR,COR-320-02,Human Rights & Responsibility,2015FA,,STN,A,24,21,CCM,442,"T, F", 9:30 AM, 10:45 AM,Alfonso,Capone,8/31/2015,12/18/2015,,UG
+COR,COR-320-03,Human Rights & Responsibility,2015FA,,STN,A,24,22,MIC,305/306,"M, TH", 8:00 AM, 9:15 AM,Robert,Williams,8/31/2015,12/18/2015,,UG
+COR,COR-320-04,Human Rights & Responsibility,2015FA,,STN,A,24,23,CCM,442,"M, TH", 9:30 AM, 10:45 AM,Naomi,Winterfalcon,8/31/2015,12/18/2015,,UG
+COR,COR-320-05,Human Rights & Responsibility,2015FA,,STN,A,24,25,JOYC,304,"M, TH", 11:00 AM, 12:15 PM,Naomi,Winterfalcon,8/31/2015,12/18/2015,,UG
+COR,COR-320-06,Human Rights & Responsibility,2015FA,,STN,A,24,22,CCM,444,"T, F", 9:30 AM, 10:45 AM,Marlee,Ford,8/31/2015,12/18/2015,,UG
+COR,COR-320-07,Human Rights & Responsibility,2015FA,,STN,A,24,24,CCM,444,"T, F", 11:00 AM, 12:15 PM,Marlee,Ford,8/31/2015,12/18/2015,,UG
+COR,COR-320-08,Human Rights & Responsibility,2015FA,,STN,A,24,24,"JOYC, JOYC","301, 301","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Anson,Montgomery,8/31/2015,12/18/2015,,UG
+COR,COR-320-09,Human Rights & Responsibility,2015FA,,STN,A,24,26,JOYC,305,"T, TH", 12:30 PM, 1:45 PM,Rowshan,Nemazee,8/31/2015,12/18/2015,,UG
+COR,COR-320-10,Human Rights & Responsibility,2015FA,,STN,A,24,24,GBTC,114,"T, TH", 2:00 PM, 3:15 PM,Rowshan,Nemazee,8/31/2015,12/18/2015,,UG
+COR,COR-320-11,Human Rights & Responsibility,2015FA,,STN,A,24,24,JOYC,202,"T, TH", 2:00 PM, 3:15 PM,Cynthia,Brandenburg,8/31/2015,12/18/2015,,UG
+COR,COR-320-12,Human Rights & Responsibility,2015FA,,STN,A,24,24,JOYC,301,"T, TH", 3:30 PM, 4:45 PM,Cynthia,Brandenburg,8/31/2015,12/18/2015,,UG
+COR,COR-320-13,Human Rights & Responsibility,2015FA,,STN,A,24,25,"CCM, CCM","444, 444","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Anson,Montgomery,8/31/2015,12/18/2015,,UG
+COR,COR-320-14,Human Rights & Responsibility,2015FA,,STN,A,24,20,JOYC,201,"T, F", 11:00 AM, 12:15 PM,Naomi,Winterfalcon,8/31/2015,12/18/2015,,UG
+COR,COR-330-02,Yemen,2015FA,,STN,A,24,16,JOYC,305,"T, TH", 3:30 PM, 4:45 PM,Gary,Scudder,8/31/2015,12/18/2015,,UG
+COR,COR-330-03,Jordan's Cultural Mosaic,2015FA,,STN,A,24,15,JOYC,301,"T, TH", 2:00 PM, 3:15 PM,Miriam,Horne,8/31/2015,12/18/2015,,UG
+COR,COR-330-04,Shaking the Spirit,2015FA,,STN,A,24,24,CCM,221,"W, F", 12:30 PM, 1:45 PM,Stephen,Wehmeyer,8/31/2015,12/18/2015,,UG
+COR,COR-330-05,"Gods, Ghosts, and Ancestors",2015FA,,STN,A,24,21,JOYC,304,"T, TH", 12:30 PM, 1:45 PM,Kerry,Noonan,8/31/2015,12/18/2015,,UG
+COR,COR-330-06,Shaking the Spirit,2015FA,,STN,A,24,8,CCM,221,"W, F", 2:00 PM, 3:15 PM,Stephen,Wehmeyer,8/31/2015,12/18/2015,,UG
+COR,COR-330-07,The Arab Spring,2015FA,,STN,A,24,25,MIC,305/306,"M, TH", 11:00 AM, 12:15 PM,Robert,Williams,8/31/2015,12/18/2015,,UG
+COR,COR-330-08,"Gods, Ghosts, and Ancestors",2015FA,,STN,A,24,19,CCM,221,"T, TH", 2:00 PM, 3:15 PM,Kerry,Noonan,8/31/2015,12/18/2015,,UG
+COR,COR-330-09,The Arab Spring,2015FA,,STN,A,24,10,MIC,305/306,"M, TH", 9:30 AM, 10:45 AM,Robert,Williams,8/31/2015,12/18/2015,,UG
+COR,COR-330-10,Vienna:Bridge West to East,2015FA,,STN,A,24,19,"JOYC, JOYC","302, 302","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Elizabeth,Allen-Pennebaker,8/31/2015,12/18/2015,,UG
+COR,COR-330-11,Box Office Borderlines,2015FA,,STN,A,24,24,CCM,424,"M, TH", 9:30 AM, 10:45 AM,Erik,Esckilsen,8/31/2015,12/18/2015,,UG
+COR,COR-330-51,VIenna:Bridge from West to Ea,2015FA,,STN,A,24,11,JOYC,212,"M, W", 5:00 PM, 6:15 PM,Elizabeth,Allen-Pennebaker,8/31/2015,12/18/2015,,UG
+COR,COR-330-52,Drawing Across Cultures,2015FA,,STN,A,24,17,CCM,434,W, 5:30 PM, 8:15 PM,Valerie,Hird,8/31/2015,12/18/2015,,UG
+COR,COR-470-01,Global Studies Senior Seminar,2015FA,,STN,A,24,10,JOYC,201,W, 11:00 AM, 1:45 PM,Katheryn,Wright,8/31/2015,12/18/2015,,UG
+"COR, CCM, ITS, EHS",CCC-410-01,CC: Game Development,2015FA,,STN,A,90,16,CCM,222,M, 12:30 PM, 3:15 PM,Greg,Bemis,8/31/2015,12/18/2015,,UG
+"COR, CCM, ITS, EHS",CCC-410-02,CC: Game Development,2015FA,,STN,A,0,16,CCM,224,M, 12:30 PM, 3:15 PM,John,Boyd,8/31/2015,12/18/2015,,UG
+"COR, CCM, ITS, EHS",CCC-410-03,CC: Game Development,2015FA,,STN,A,0,17,CCM,222,W, 9:30 AM, 12:15 PM,John,Boyd,8/31/2015,12/18/2015,,UG
+"COR, CCM, ITS, EHS",CCC-410-04,CC: Game Development,2015FA,,STN,A,0,16,CCM,224,W, 9:30 AM, 12:15 PM,Joseph,Manley,8/31/2015,12/18/2015,,UG
+"COR, CCM, ITS, EHS",CCC-410-05,CC: Game Development,2015FA,,STN,A,0,13,FOST,104,M, 12:30 PM, 3:15 PM,Marc,Wilhelm,8/31/2015,12/18/2015,,UG
+"COR, CCM, ITS, EHS",CCC-410-06A,CC:Graphic Design & Dig.Media,2015FA,,STN,A,20,18,CCM,221,W, 9:30 AM, 12:15 PM,Coberlin,Brownell,8/31/2015,12/18/2015,"CCC-410-06A, CCC-410-06B",UG
+"COR, CCM, ITS, EHS",CCC-410-06B,"CC:Graphic Design &Dig,Media",2015FA,,STN,A,20,19,CCM,221,W, 9:30 AM, 12:15 PM,Suzanne,Glover,8/31/2015,12/18/2015,"CCC-410-06A, CCC-410-06B",UG
+"COR, CCM, ITS, EHS",CCC-410-09,CC: Criminal Justice,2015FA,,STN,A,20,14,GBTC,217,"T, TH", 12:30 PM, 1:45 PM,Miriam,Horne,8/31/2015,12/18/2015,,UG
+"COR, CCM, ITS, EHS, BUS",CCC-410-08,College Capstone: Business,2015FA,,STN,A,20,20,WICK,100,T, 2:00 PM, 4:45 PM,Victor,Stone,8/31/2015,12/18/2015,,UG
+"COR, CCM, ITS, EHS, BUS",CCC-410-10,College Capstone: Marketing,2015FA,,STN,A,20,11,GBTC,117,W, 12:30 PM, 3:15 PM,David,Kite,8/31/2015,12/18/2015,,UG
+"COR, CCM, ITS, EHS, BUS",CCC-410-11,CC: International Business,2015FA,,STN,A,20,11,JOYC,301,W, 2:00 PM, 4:45 PM,Craig,Pepin,8/31/2015,12/18/2015,,UG
+EHS,CRJ-120-01,Criminal Law,2015FA,,STN,A,25,20,GBTC,217,"T, TH", 3:30 PM, 4:45 PM,Edward,Cashman,8/31/2015,12/18/2015,,UG
+EHS,CRJ-120-03,Criminal Law,2015FA,,STN,A,20,15,JOYC,304,"T, F", 11:00 AM, 12:15 PM,Edward,Cafferty,8/31/2015,12/18/2015,,UG
+EHS,CRJ-120-51,Criminal Law,2015FA,,STN,A,25,13,JOYC,304,W, 5:30 PM, 8:15 PM,Michael,Kupersmith,8/31/2015,12/18/2015,,UG
+EHS,CRJ-225-01,Digital Evidence: Law of,2015FA,,STN,A,24,22,FREE,201,"W, F", 2:00 PM, 3:15 PM,Edward,Miller,8/31/2015,12/18/2015,,UG
+EHS,CRJ-225-51,Digital Evidence: Law of,2015FA,,STN,A,24,20,JOYC,313,TH, 5:30 PM, 8:15 PM,Edward,Miller,8/31/2015,12/18/2015,,UG
+EHS,CRJ-240-51,Family Violence,2015FA,,STN,A,4,4,WICK,100,W, 5:30 PM, 8:15 PM,Edward,Cafferty,8/31/2015,12/18/2015,"CRJ-240-51, SWK-240-51",UG
+EHS,CRJ-270-01,Police Operations/Supervision,2015FA,,STN,A,24,16,WICK,100,"M, TH", 11:00 AM, 12:15 PM,John,Sonnick,8/31/2015,12/18/2015,,UG
+EHS,CRJ-290-01,CRJ Field Experience,2015FA,,FLD,A,4,0,,,,,,Phillip,Cykon,8/31/2015,12/18/2015,,UG
+EHS,CRJ-310-01,Investigative Interviewing,2015FA,,STN,A,24,19,JOYC,304,"W, F", 12:30 PM, 1:45 PM,Edward,Miller,8/31/2015,12/18/2015,,UG
+EHS,CRJ-490-01,Criminal Justice Field Exp,2015FA,,FLD,A,24,3,GBTC,201,F, 9:30 AM, 10:45 AM,John,Sonnick,8/31/2015,12/18/2015,,UG
+EHS,CRJ-495-01AS,VT Police Academy,2015FA,,FLD,A,24,0,,,,,,John,Sonnick,8/31/2015,12/18/2015,,UG
+EHS,EDU-115-01,Learning Theory,2015FA,,STN,A,24,11,WICK,102,T, 12:30 PM, 3:15 PM,John,Stroup,8/31/2015,12/18/2015,,UG
+EHS,EDU-125-01,Children's Lit&Expressive Art,2015FA,,STN,A,15,14,FREE,201,T, 2:00 PM, 4:45 PM,Kathryn,Leo-Nyquist,8/31/2015,12/18/2015,,UG
+EHS,EDU-125-02,Children's Lit&Expressive Art,2015FA,,STN,A,15,11,JOYC,201,T, 2:00 PM, 4:45 PM,Nancy,Steeley,8/31/2015,12/18/2015,,UG
+EHS,EDU-150-01,Reading & Language Development,2015FA,,STN,A,24,18,FREE,201,"W, F", 12:30 PM, 1:45 PM,Nancy,Steeley,8/31/2015,12/18/2015,,UG
+EHS,EDU-205-51,Infant/Toddler Sem &Practicum,2015FA,,"STN, FLD",A,12,5,"MIC, ","305/306, ","T, "," 5:30 PM,  8:00 AM"," 8:15 PM,  12:00 PM",Kathi,Apgar,8/31/2015,12/18/2015,,UG
+EHS,EDU-230-01,Content Literacy,2015FA,,STN,A,24,10,JOYC,201,"M, TH", 11:00 AM, 12:15 PM,Kathryn,Leo-Nyquist,8/31/2015,12/18/2015,,UG
+EHS,EDU-245-01,Service Learning,2015FA,,STN,A,24,5,JOYC,210,F, 12:30 PM, 3:15 PM,John,Stroup,8/31/2015,12/18/2015,,UG
+EHS,EDU-250-01,Preschool Curriculum,2015FA,,STN,A,12,10,FREE,201,M, 9:30 AM, 12:15 PM,Nancy,Steeley,8/31/2015,12/18/2015,,UG
+EHS,EDU-251-01,Preschool Field Experience,2015FA,,FLD,A,12,10,,,"T, TH", 8:00 AM, 12:00 PM,Nancy,Steeley,8/31/2015,12/18/2015,,UG
+EHS,EDU-255-01,Primary Curriculum,2015FA,,STN,A,15,6,FREE,201,M, 12:30 PM, 3:15 PM,Mary,Loiselle,8/31/2015,12/18/2015,,UG
+EHS,EDU-256-01,Primary Field Experience,2015FA,,FLD,A,15,6,,,"T, TH", 8:00 AM, 3:00 PM,Mary,Loiselle,8/31/2015,12/18/2015,,UG
+EHS,EDU-300-51,Classroom Management,2015FA,,STN,A,30,24,FREE,201,W, 5:00 PM, 7:45 PM,Charles,Adams,8/31/2015,12/18/2015,,UG
+EHS,EDU-311-01,Elementary Science Methods,2015FA,,STN,A,24,13,FREE,201,TH, 4:30 PM, 7:15 PM,Allison,Tinson,8/31/2015,12/18/2015,,UG
+EHS,EDU-312-51,Elementary Math Methods,2015FA,,STN,A,30,11,FREE,201,M, 5:00 PM, 7:45 PM,Thomas,Young,8/31/2015,12/18/2015,,UG
+EHS,EDU-312-52,Elementary Math Methods,2015FA,,STN,A,24,13,JOYC,310,M, 5:00 PM, 7:45 PM,Daniel,Greenleaf,8/31/2015,12/18/2015,,UG
+EHS,EDU-313-01,Elementary Social Studies Meth,2015FA,,"STN, FLD",A,30,24,"FREE, ","201, ","TH, W"," 12:30 PM,  8:00 AM"," 3:15 PM,  3:00 PM",John,Stroup,8/31/2015,12/18/2015,,UG
+EHS,EDU-315-01,Middle School Organization,2015FA,,STN,A,15,0,JOYC,201,W, 3:30 PM, 6:15 PM,David,Leo-Nyquist,8/31/2015,12/18/2015,,UG
+EHS,EDU-332-01,Secondary Teaching Methods,2015FA,,"STN, FLD",A,20,5,"JOYC, JOYC","210, 210","TüF, TüF"," 9:30 AM,  11:00 AM"," 10:45 AM,  12:15 PM",John,Stroup,8/31/2015,12/18/2015,,UG
+EHS,EDU-381-01,"Learning, Technology & Media",2015FA,,IND,A,1,1,,,,,,John,Stroup,8/31/2015,12/18/2015,,UG
+EHS,EHS-100-01,Making Connections,2015FA,,"STN, FLD",A,12,11,"GBTC, ","201, ","W, S"," 3:30 PM,  9:00 AM"," 4:45 PM,  5:00 PM",Kierstyn,Hunter,9/7/2015,10/23/2015,,UG
+EHS,EHS-100-02,Making Connections,2015FA,,"STN, FLD",A,12,10,"GBTC, ","206, ","W, S"," 3:30 PM,  9:00 AM"," 4:45 PM,  5:00 PM",Kelly,Becker,9/7/2015,10/23/2015,,UG
+EHS,EHS-100-03,Making Connections,2015FA,,"STN, FLD",A,12,13,"GBTC, ","201, ","T, S"," 8:00 AM,  9:00 AM"," 9:15 AM,  5:00 PM",Faith,Yacubian,9/7/2015,10/23/2015,,UG
+EHS,EHS-100-04,Making Connections,2015FA,,"STN, FLD",A,12,12,"GBTC, ","201, ","TH, S"," 8:00 AM,  9:00 AM"," 9:15 AM,  5:00 PM",Kierstyn,Hunter,9/7/2015,10/23/2015,,UG
+EHS,EHS-100-05,Making Connections,2015FA,,"STN, FLD",A,12,8,"GBTC, ","201, ","W, S"," 3:30 PM,  9:00 AM"," 4:45 PM,  5:00 PM",Kristine,Reynolds,10/26/2015,12/11/2015,,UG
+EHS,EHS-100-06,Making Connections,2015FA,,"STN, FLD",A,12,7,"GBTC, ","206, ","W, S"," 3:30 PM,  9:00 AM"," 4:45 PM,  5:00 PM",Kelly,Becker,10/26/2015,12/11/2015,,UG
+EHS,EHS-100-07,Making Connections,2015FA,,"STN, FLD",A,12,12,"GBTC, ","201, ","T, S"," 8:00 AM,  9:00 AM"," 9:15 AM,  5:00 PM",Melody,Brook,10/26/2015,12/11/2015,,UG
+EHS,EHS-100-08,Making Connections,2015FA,,"STN, FLD",A,12,11,"GBTC, ","201, ","TH, S"," 8:00 AM,  9:00 AM"," 9:15 AM,  5:00 PM",Lauren,Bruneau,10/26/2015,12/11/2015,,UG
+EHS,EHS-100-09,Making Connections,2015FA,,"STN, FLD",A,12,8,"GBTC, ","114, ","W, S"," 3:30 PM,  9:00 AM"," 4:45 PM,  5:00 PM",Magdalene,Melvin,10/26/2015,12/11/2015,,UG
+EHS,EHS-200-01,Hot Topics Seminar,2015FA,,STN,A,12,11,"GBTC, ","114, ","W, S"," 3:30 PM,  9:00 AM"," 4:45 PM,  5:00 PM",Melody,Brook,9/7/2015,10/23/2015,,UG
+EHS,EHS-200-02,Hot Topics Seminar,2015FA,,STN,A,12,10,"GBTC, ","206, ","T, S"," 8:00 AM,  9:00 AM"," 9:15 AM,  5:00 PM",Jeffrey,Bukowski,9/7/2015,10/23/2015,,UG
+EHS,EHS-200-03,Hot Topics Seminar,2015FA,,STN,A,12,12,"GBTC, ","206, ","TH, S"," 8:00 AM,  9:00 AM"," 9:15 AM,  5:00 PM",Faith,Yacubian,9/7/2015,10/23/2015,,UG
+EHS,EHS-200-51,Hot Topics Seminar,2015FA,,STN,A,12,12,"GBTC, ","206, ","W, S"," 5:30 PM,  9:00 AM"," 6:45 PM,  5:00 PM",Kristine,Reynolds,9/7/2015,10/17/2015,,UG
+EHS,EHS-200-52,Hot Topics Seminar,2015FA,,STN,A,12,12,"GBTC, ","201, ","TH, S"," 5:30 PM,  9:00 AM"," 6:45 PM,  5:00 PM",Melissa,Petrozza,9/7/2015,10/17/2015,,UG
+EHS,EHS-210-01,Social Justice Intensive,2015FA,,"STN, FLD",A,12,11,"GBTC, ","117, ","W, S"," 3:30 PM,  9:00 AM"," 4:45 PM,  5:00 PM",Kierstyn,Hunter,10/26/2015,12/11/2015,,UG
+EHS,EHS-210-02,Social Justice Intensive,2015FA,,"STN, FLD",A,12,12,"GBTC, ","206, ","T, S"," 8:00 AM,  9:00 AM"," 9:15 AM,  5:00 PM",Melissa,Petrozza,10/26/2015,12/11/2015,,UG
+EHS,EHS-210-03,Social Justice Intensive,2015FA,,"STN, FLD",A,12,12,"GBTC, ","206, ","TH, S"," 8:00 AM,  9:00 AM"," 9:15 AM,  5:00 PM",Victor,Izzo,10/26/2015,12/11/2015,,UG
+EHS,EHS-210-201,Social Justice Intensive,2015FA,DUBL,"STN, FLD",A,12,9,", ",", ","M, S"," 3:00 PM,  9:00 AM"," 5:10 PM,  5:00 PM",Siobham,Lynam,9/7/2015,10/10/2015,,UG
+EHS,EHS-210-51,Social Justice Intensive,2015FA,,STN,A,12,10,"GBTC, ","201, ","M, S"," 5:30 PM,  9:00 AM"," 6:45 PM,  5:00 PM",Melissa,Petrozza,10/26/2015,12/5/2015,,UG
+EHS,EHS-300-201,Comm. Advoc. & Inquiry Abroad,2015FA,DUBL,STN,A,15,10,,,M, 9:30 AM, 12:15 PM,Darren,Kelly,8/31/2015,12/18/2015,,UG
+EHS,EHS-390-01,EHS Internship Experience,2015FA,,FLD,A,2,2,,,,,,Eric,Friedman,8/31/2015,12/18/2015,,UG
+EHS,ENG-111-01,Critical Read./Expos. Wrtg I,2015FA,,STN,A,20,6,"JOYC, JOYC","313, 313","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Cameron,Webster,8/31/2015,12/18/2015,,UG
+EHS,ENG-241-01,American Literature II,2015FA,,STN,A,25,15,"GBTC, GBTC","112, 112","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Janice,Gohm Webster,8/31/2015,12/18/2015,,UG
+EHS,ENG-250-01,Reading & Writing Poetry,2015FA,,STN,A,20,13,JOYC,212,"T, TH", 2:00 PM, 3:15 PM,Cameron,Webster,8/31/2015,12/18/2015,,UG
+EHS,ENG-270-01,Introduction to the Novel,2015FA,,STN,A,24,9,"JOYC, JOYC","313, 313","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Cameron,Webster,8/31/2015,12/18/2015,,UG
+EHS,ENG-335-201,Dublin Literary Experience,2015FA,DUBL,STN,A,15,9,,,W, 9:30 AM, 12:15 PM,Caroline,Elbay,8/31/2015,12/18/2015,,UG
+EHS,ENG-350-01,Literature Seminar,2015FA,,STN,A,18,14,JOYC,202,"T, TH", 12:30 PM, 1:45 PM,Nancy,Nahra,8/31/2015,12/18/2015,,UG
+EHS,ENP-100-01,"Environmental Issues, Intro to",2015FA,,STN,A,25,11,GBTC,206,"T, TH", 2:00 PM, 3:15 PM,Valerie,Esposito,8/31/2015,12/18/2015,,UG
+EHS,ENP-200-51,Sustainability & Env. Policy,2015FA,,STN,A,25,19,JOYC,202,"M, W", 5:30 PM, 6:45 PM,Kevin,Doering,8/31/2015,12/18/2015,,UG
+EHS,ENP-310-01,Environmental Justice,2015FA,,STN,A,24,14,FREE,201,W, 9:30 AM, 12:15 PM,Valerie,Esposito,8/31/2015,12/18/2015,,UG
+EHS,ENP-400-51,Env. Pol. Assess.& Developmt.,2015FA,,STN,A,25,6,JOYC,301,"M, W", 5:30 PM, 6:45 PM,Victor,Izzo,8/31/2015,12/18/2015,,UG
+EHS,ENP-410-01,Ecological Economics,2015FA,,STN,A,24,7,GBTC,206,"T, TH", 3:30 PM, 4:45 PM,Valerie,Esposito,8/31/2015,12/18/2015,,UG
+EHS,ENP-450-51,Environmental Decision Making,2015FA,,STN,A,25,7,GBTC,206,"T, TH", 6:15 PM, 7:30 PM,Eric,Garza,8/31/2015,12/18/2015,,UG
+EHS,HIS-110-51,American History I,2015FA,,STN,A,24,16,GBTC,112,T, 5:30 PM, 8:15 PM,Willard,Randall,8/31/2015,12/18/2015,,UG
+EHS,HIS-210-51,Legacy of World Civ I,2015FA,,STN,A,25,14,JOYC,210,W, 5:30 PM, 8:15 PM,Thomas,Jordan,8/31/2015,12/18/2015,,UG
+EHS,HIS-315-201,Modern Irish Social History,2015FA,DUBL,STN,A,20,9,", ",", ","TH, TH"," 12:30 PM,  2:45 PM"," 1:45 PM,  4:00 PM",Anthony,O'Halloran,8/31/2015,12/18/2015,,UG
+EHS,HIS-316-201,Early History of Ireland,2015FA,DUBL,STN,A,20,16,,,T, 9:00 AM, 11:45 AM,Niall,Colfer,8/31/2015,12/18/2015,,UG
+EHS,HIS-415A-101,Canadian American Relations,2015FA,MONT,STN,A,20,7,,,T, 1:00 PM, 3:45 PM,Jimmy,Manson,8/31/2015,12/18/2015,,UG
+EHS,HIS-415B-201,Northern Ireland,2015FA,DUBL,STN,A,15,17,,,T, 3:00 PM, 5:45 PM,Ciaran,O'Rourke,8/31/2015,12/18/2015,,UG
+EHS,LEG-100-01,American National Government,2015FA,,STN,A,25,9,JOYC,211,"T, TH", 2:00 PM, 3:15 PM,David,White,8/31/2015,12/18/2015,,UG
+EHS,LEG-110-51,Introduction to Law,2015FA,,STN,A,25,9,CCM,424,M, 5:30 PM, 8:15 PM,Lauren,Bowerman,8/31/2015,12/18/2015,,UG
+EHS,LEG-140-01,Criminal Law,2015FA,,STN,A,25,14,JOYC,305,"M, TH", 9:30 AM, 10:45 AM,Eric,Friedman,8/31/2015,12/18/2015,,UG
+EHS,LEG-210-01,Civil Litigation,2015FA,,STN,A,24,9,JOYC,310,"W, F", 3:30 PM, 4:45 PM,Edward,Cashman,8/31/2015,12/18/2015,,UG
+EHS,LEG-240-51,Legal Research & Writing,2015FA,,STN,A,24,6,JOYC,302,W, 5:30 PM, 8:15 PM,Bonnie,Barnes,8/31/2015,12/18/2015,,UG
+EHS,LEG-330-81,Business Organizations,2015FA,OL,ONL,A,24,11,,,,,,Eric,Friedman,8/31/2015,12/18/2015,,UG
+EHS,LEG-340-01,Legal Ethics,2015FA,,STN,A,25,11,GBTC,206,"M, TH", 11:00 AM, 12:15 PM,Edward,Cashman,8/31/2015,12/18/2015,,UG
+EHS,LEG-360-01,Environmental Law,2015FA,,STN,A,25,14,JOYC,210,W, 12:30 PM, 3:15 PM,Salvatore,Spinosa,8/31/2015,12/18/2015,,UG
+EHS,LEG-370-01,Evidence,2015FA,,STN,A,25,11,GBTC,206,"M, TH", 9:30 AM, 10:45 AM,Stephen,Miller,8/31/2015,12/18/2015,,UG
+EHS,LEG-390-02,Legal Studies Field Internship,2015FA,,FLD,A,24,5,,,,,,Stephen,Miller,8/31/2015,12/18/2015,,UG
+EHS,LEG-410-01,US Constitutional Law,2015FA,,STN,A,25,7,GBTC,201,"T, TH", 3:30 PM, 4:45 PM,Phillip,Cykon,8/31/2015,12/18/2015,,UG
+EHS,PSY-100-01,"Psychology, Introduction to",2015FA,,STN,A,24,11,JOYC,311,T, 12:30 PM, 3:15 PM,Bjarne,Holmes,8/31/2015,12/18/2015,,UG
+EHS,PSY-100-02,"Psychology, Introduction to",2015FA,,STN,A,24,9,JOYC,302,"M, TH", 9:30 AM, 10:45 AM,Gary,Baker,8/31/2015,12/18/2015,,UG
+EHS,PSY-100-03,"Psychology, Introduction to",2015FA,,STN,A,24,9,JOYC,302,"W, F", 12:30 PM, 1:45 PM,Melissa,McDuffie,8/31/2015,12/18/2015,,UG
+EHS,PSY-105-01,The Learning Curve,2015FA,,STN,A,15,7,GBTC,117,"T, F", 9:30 AM, 10:45 AM,Kelly,Faughnan,8/31/2015,12/18/2015,,UG
+EHS,PSY-105-02,The Learning Curve,2015FA,,STN,A,15,9,GBTC,117,"T, F", 11:00 AM, 12:15 PM,Kelly,Faughnan,8/31/2015,12/18/2015,,UG
+EHS,PSY-105-03,The Learning Curve,2015FA,,STN,A,15,9,GBTC,206,W, 9:30 AM, 12:15 PM,Kelly,Faughnan,8/31/2015,12/18/2015,,UG
+EHS,PSY-110-01,"Applied Psychology, Intro to",2015FA,,STN,A,15,7,CCM,233,"T, TH", 2:00 PM, 3:15 PM,Kimberly,Quinn,8/31/2015,12/18/2015,,UG
+EHS,PSY-110-02,"Applied Psychology, Intro to",2015FA,,STN,A,15,8,CCM,233,"T, TH", 3:30 PM, 4:45 PM,Kimberly,Quinn,8/31/2015,12/18/2015,,UG
+EHS,PSY-110-51,"Applied Psychology, Intro to",2015FA,,STN,A,15,8,CCM,233,"T, TH", 5:00 PM, 6:15 PM,Kimberly,Quinn,8/31/2015,12/18/2015,,UG
+EHS,PSY-120-01,Adolescent Psychology,2015FA,,STN,A,24,25,JOYC,210,"M, TH", 11:00 AM, 12:15 PM,Linda,Janes,8/31/2015,12/18/2015,,UG
+EHS,PSY-131-01,Child Psychology,2015FA,,STN,A,24,12,JOYC,212,"M, TH", 9:30 AM, 10:45 AM,Linda,Janes,8/31/2015,12/18/2015,,UG
+EHS,PSY-131-02,Child Psychology,2015FA,,STN,A,24,15,JOYC,102,"W, F", 2:00 PM, 3:15 PM,Melissa,McDuffie,8/31/2015,12/18/2015,,UG
+EHS,PSY-201-01,Research Methods & Analysis I,2015FA,,STN,A,13,12,JOYC,203,"T, TH", 12:30 PM, 1:45 PM,Gary,Baker,8/31/2015,12/18/2015,,UG
+EHS,PSY-201-02,Research Methods & Analysis I,2015FA,,STN,A,15,9,JOYC,103,"T, F", 11:00 AM, 12:15 PM,Gary,Baker,8/31/2015,12/18/2015,,UG
+EHS,PSY-201-03,Research Methods & Analysis I,2015FA,,STN,A,15,11,"JOYC, JOYC","103, 103","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Barbara,Ferrante,8/31/2015,12/18/2015,,UG
+EHS,PSY-205-51,Abnormal Psychology,2015FA,,STN,A,24,20,JOYC,310,T, 5:30 PM, 8:15 PM,Melissa,McDuffie,8/31/2015,12/18/2015,,UG
+EHS,PSY-310-01,Attach.& Close Relationships,2015FA,,STN,A,24,23,JOYC,311,TH, 12:30 PM, 3:15 PM,Bjarne,Holmes,8/31/2015,12/18/2015,,UG
+EHS,PSY-320-51,Personality Theories,2015FA,,STN,A,24,26,JOYC,305,T, 5:30 PM, 8:15 PM,Paul,Norris,8/31/2015,12/18/2015,,UG
+EHS,PSY-330-01,Psychology and Law,2015FA,,STN,A,24,21,"JOYC, JOYC","201, 201","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Gary,Baker,8/31/2015,12/18/2015,,UG
+EHS,PSY-340-01,Behavioral Neuroscience,2015FA,,STN,A,24,24,JOYC,210,"M, TH", 9:30 AM, 10:45 AM,Barbara,Ferrante,8/31/2015,12/18/2015,,UG
+EHS,PSY-340-02,Behavioral Neuroscience,2015FA,,STN,A,24,14,GBTC,217,"T, TH", 2:00 PM, 3:15 PM,Barbara,Ferrante,8/31/2015,12/18/2015,,UG
+EHS,PSY-395-01,Advanced Research Internship I,2015FA,,STN,A,7,1,,,,,,Bjarne,Holmes,8/31/2015,12/18/2015,,UG
+EHS,PSY-396-01,Advanced Research Internship 2,2015FA,,FLD,A,7,1,,,,,,Bjarne,Holmes,8/31/2015,12/18/2015,,UG
+EHS,PSY-430-01,Applied Psy:Healthy Aging,2015FA,,STN,A,24,14,JOYC,212,"T, TH", 12:30 PM, 1:45 PM,Barbara,Ferrante,8/31/2015,12/18/2015,,UG
+EHS,PSY-460-01,App.Psy:Healthy Organizations,2015FA,,STN,A,24,19,JOYC,310,"T, TH", 3:30 PM, 4:45 PM,Diane,Ravenscroft,8/31/2015,12/18/2015,,UG
+EHS,PSY-490-81,Applied Psych Internship I,2015FA,OL,FLD,A,10,8,,,,,,John,Meyer,8/31/2015,12/18/2015,,UG
+EHS,PSY-490-82,Applied Psych Internship I,2015FA,OL,FLD,A,10,9,,,,,,John,Meyer,8/31/2015,12/18/2015,,UG
+EHS,PSY-490-83,Applied Psych Internship I,2015FA,OL,FLD,A,10,10,,,,,,John,Meyer,8/31/2015,12/18/2015,,UG
+EHS,PSY-491-81,Applied Psych Internship II,2015FA,OL,FLD,A,15,0,,,,,,Margaret,Sealey,8/31/2015,12/18/2015,,UG
+EHS,SOC-110-51,"Sociology, Introduction to",2015FA,,STN,A,24,11,JOYC,203,W, 5:30 PM, 8:15 PM,Fred,Koch,8/31/2015,12/18/2015,,UG
+EHS,SWK-100-01,"Social Work, Introduction to",2015FA,,STN,A,24,15,JOYC,302,"T, TH", 12:30 PM, 1:45 PM,Patricia,Aldredge,8/31/2015,12/18/2015,,UG
+EHS,SWK-130-51,Differently Abled,2015FA,,STN,A,25,20,GBTC,114,T, 5:30 PM, 8:15 PM,Nicola,Wayer,8/31/2015,12/18/2015,,UG
+EHS,SWK-210-51,"Substance Abuse Studies, Intro",2015FA,,STN,A,25,19,JOYC,304,T, 5:30 PM, 8:15 PM,Robert,Wolford,8/31/2015,12/18/2015,,UG
+EHS,SWK-220-01,Human Life Span Development,2015FA,,STN,A,18,17,JOYC,201,"T, F", 9:30 AM, 10:45 AM,Tarn,Foerg,8/31/2015,12/18/2015,,UG
+EHS,SWK-240-51,Family Violence,2015FA,,STN,A,10,8,WICK,100,W, 5:30 PM, 8:15 PM,Edward,Cafferty,8/31/2015,12/18/2015,"CRJ-240-51, SWK-240-51",UG
+EHS,SWK-280-01,Research Methods Social Work,2015FA,,STN,A,24,8,JOYC,301,"T, F", 8:00 AM, 9:15 AM,Gary,Baker,8/31/2015,12/18/2015,,UG
+EHS,SWK-300-01,Policy Pract.:Local to Global,2015FA,,STN,A,24,10,JOYC,212,"T, F", 11:00 AM, 12:15 PM,Patricia,Aldredge,8/31/2015,12/18/2015,,UG
+EHS,SWK-305-01,Social Injustice/Diverse Socty,2015FA,,STN,A,26,19,WICK,102,"M, TH", 9:30 AM, 10:45 AM,Faith,Yacubian,8/31/2015,12/18/2015,,UG
+EHS,SWK-310-01,Generalist Practice I,2015FA,,STN,A,24,9,GBTC,206,"T, F", 9:30 AM, 10:45 AM,Kristine,Reynolds,8/31/2015,12/18/2015,,UG
+EHS,SWK-410-51,Social Wk Practice With Elders,2015FA,,STN,A,15,11,JOYC,302,M, 5:30 PM, 8:15 PM,Carolyn,Shamel,8/31/2015,12/18/2015,,UG
+EHS,SWK-470-01,International Social Work,2015FA,,STN,A,24,11,JOYC,313,"M, TH", 11:00 AM, 12:15 PM,Patricia,Aldredge,8/31/2015,12/18/2015,,UG
+EHS,SWK-490-01,Social Wk Field Experience I,2015FA,,FLD,A,10,11,,,,,,Tarn,Foerg,8/31/2015,12/18/2015,,UG
+EHS,SWK-490S-01,Int. Social Wk Field Seminar I,2015FA,,STN,A,15,11,GBTC,201,TH, 9:30 AM, 10:45 AM,Tarn,Foerg,8/31/2015,12/18/2015,,UG
+"EHS, ITS",ENG-112-01,Critical Read./Expos. Wrtg II,2015FA,,STN,A,20,6,GBTC,206,"W, F", 2:00 PM, 3:15 PM,Nancy,Nahra,8/31/2015,12/18/2015,,UG
+"EHS, ITS",ENG-112-51,Critical Read./Expos. Wrtg II,2015FA,,STN,A,20,8,JOYC,103,"M, W", 5:00 PM, 6:15 PM,Nancy,Nahra,8/31/2015,12/18/2015,,UG
+ITS,CCC-410ITS-01,Capstone Design: CSI & CIT,2015FA,,STN,A,24,18,WICK,101,F, 12:30 PM, 2:30 PM,Wei Kian,Chen,8/31/2015,12/18/2015,,UG
+ITS,CCC-410ITS-02,"Capstone Design: Dig,forensics",2015FA,,STN,A,24,18,FOST,100,W, 3:30 PM, 4:45 PM,Yogeshkumar,Khatri,8/31/2015,12/18/2015,,UG
+ITS,CCC-410ITS-03,Capstone Design: Networking,2015FA,,STN,A,24,22,SKFA,100,M, 12:30 PM, 1:45 PM,James,Hoag,8/31/2015,12/18/2015,,UG
+ITS,CCC-410ITS-04,Capstone Design: CIT,2015FA,,STN,A,24,6,SKFA,102,F, 2:00 PM, 2:50 PM,James,Hoag,8/31/2015,12/18/2015,,UG
+ITS,CIT-130-01,"Networking & Security, Intro",2015FA,,STN,A,18,16,SKFA,100,"T, TH", 3:30 PM, 4:45 PM,Joseph,Williams,8/31/2015,12/18/2015,,UG
+ITS,CIT-130-03,"Networking & Security, Intro",2015FA,,STN,A,20,19,SKFA,100,"M, TH", 11:00 AM, 12:15 PM,Joseph,Telensky,8/31/2015,12/18/2015,,UG
+ITS,CIT-130-51,"Networking & Security, Intro",2015FA,,STN,A,18,15,SKFA,100,"M, W", 5:30 PM, 6:45 PM,David,Ginter,8/31/2015,12/18/2015,,UG
+ITS,CIT-130-52,"Networking & Security, Intro",2015FA,,STN,A,18,15,SKFA,100,"M, W", 7:00 PM, 8:15 PM,David,Ginter,8/31/2015,12/18/2015,,UG
+ITS,CIT-130-53,"Networking & Security, Intro",2015FA,,STN,A,18,13,SKFA,100,T, 5:30 PM, 8:15 PM,Pamela,Lowe,8/31/2015,12/18/2015,,UG
+ITS,CIT-135-01,"Computer Theory, Introduction",2015FA,,STN,A,24,22,MIC,308,"M, TH", 11:00 AM, 12:15 PM,Sarah,Pettitt,8/31/2015,12/18/2015,,UG
+ITS,CIT-135-02,"Computer Theory, Introduction",2015FA,,STN,A,24,16,MIC,308,"T, TH", 3:30 PM, 4:45 PM,Sarah,Pettitt,8/31/2015,12/18/2015,,UG
+ITS,CIT-135-51,"Computer Theory, Introduction",2015FA,,STN,A,24,14,WICK,101,M, 5:30 PM, 8:15 PM,Brian,Brumley,8/31/2015,12/18/2015,,UG
+ITS,CIT-200-01,Relational Database/Web Applic,2015FA,,STN,A,24,15,"FOST, FOST","100, 100","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Frank,Canovatchel,8/31/2015,12/18/2015,,UG
+ITS,CIT-265-01,Information Systems,2015FA,,STN,A,24,10,JOYC,210,"T, TH", 12:30 PM, 1:45 PM,Frank,Canovatchel,8/31/2015,12/18/2015,,UG
+ITS,CSI-120-01,Intro to Mobile Development,2015FA,,STN,A,20,18,WICK,101,"M, TH", 9:30 AM, 10:45 AM,Li Jun,Zhang,8/31/2015,12/18/2015,,UG
+ITS,CSI-120-02,Intro to Mobile Development,2015FA,,STN,A,20,18,WICK,101,"M, TH", 11:00 AM, 12:15 PM,Li Jun,Zhang,8/31/2015,12/18/2015,,UG
+ITS,CSI-120-51,Intro to Mobile Development,2015FA,,STN,A,20,16,JOYC,101,"M, W", 5:30 PM, 6:45 PM,Frank,Canovatchel,8/31/2015,12/18/2015,,UG
+ITS,CSI-140-01,Introduction to Programming,2015FA,,STN,A,20,19,"MIC, MIC","308, 308","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Brian,Hall,8/31/2015,12/18/2015,,UG
+ITS,CSI-140-02,Introduction to Programming,2015FA,,STN,A,20,18,WICK,101,"T, TH", 12:30 PM, 1:45 PM,Wei Kian,Chen,8/31/2015,12/18/2015,,UG
+ITS,CSI-140-03,Introduction to Programming,2015FA,,STN,A,20,20,MIC,308,"W, F", 12:30 PM, 1:45 PM,Dean,Lawson,8/31/2015,12/18/2015,,UG
+ITS,CSI-140-04,Introduction to Programming,2015FA,,STN,A,20,17,MIC,308,"T, F", 11:00 AM, 12:15 PM,Narine,Hall,8/31/2015,12/18/2015,,UG
+ITS,CSI-140-05,Introduction to Programming,2015FA,,STN,A,20,20,MIC,308,"T, F", 9:30 AM, 10:45 AM,Dean,Lawson,8/31/2015,12/18/2015,,UG
+ITS,CSI-140-06,Introduction to Programming,2015FA,,STN,A,20,20,MIC,308,"T, TH", 2:00 PM, 3:15 PM,Wei Kian,Chen,8/31/2015,12/18/2015,,UG
+ITS,CSI-140-51,Introduction to Programming,2015FA,,STN,A,20,19,MIC,308,"T, TH", 5:00 PM, 6:15 PM,Sarah,Pettitt,8/31/2015,12/18/2015,,UG
+ITS,CSI-230-101,Linux/Unix Programming,2015FA,MONT,STN,A,24,7,,,T, 6:00 PM, 8:45 PM,Serguei,Mokhov,8/31/2015,12/18/2015,,UG
+ITS,CSI-230-51,Linux/Unix Programming,2015FA,,STN,A,20,27,MIC,308,"M, W", 5:30 PM, 6:45 PM,Stephan,Giles,8/31/2015,12/18/2015,,UG
+ITS,CSI-230-52,Linux/Unix Programming,2015FA,,STN,A,20,27,MIC,308,"M, W", 7:00 PM, 8:15 PM,Stephan,Giles,8/31/2015,12/18/2015,,UG
+ITS,CSI-230-53,Linux/Unix Programming,2015FA,,STN,A,20,16,FOST,100,T, 5:30 PM, 8:15 PM,Stephan,Giles,8/31/2015,12/18/2015,,UG
+ITS,CSI-240-51,Advanced Programming,2015FA,,STN,A,20,10,JOYC,101,"T, TH", 7:00 PM, 8:15 PM,Jonathan,Carter,8/31/2015,12/18/2015,,UG
+ITS,CSI-240-52,Advanced Programming,2015FA,,STN,A,20,15,JOYC,101,"T, TH", 5:30 PM, 6:45 PM,Jonathan,Carter,8/31/2015,12/18/2015,,UG
+ITS,CSI-281-01,Data Structures & Algorithms,2015FA,,STN,A,20,14,JOYC,101,"T, F", 9:30 AM, 10:45 AM,Narine,Hall,8/31/2015,12/18/2015,,UG
+ITS,CSI-281-02,Data Structures & Algorithms,2015FA,,STN,A,20,18,JOYC,101,"M, TH", 9:30 AM, 10:45 AM,Wei Kian,Chen,8/31/2015,12/18/2015,,UG
+ITS,CSI-281-03,Data Structures & Algorithms,2015FA,,STN,A,20,19,JOYC,101,"M, TH", 11:00 AM, 12:15 PM,Wei Kian,Chen,8/31/2015,12/18/2015,,UG
+ITS,CSI-281-05,Data Structures & Algorithms,2015FA,,STN,A,20,16,"JOYC, JOYC","101, 101","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Narine,Hall,8/31/2015,12/18/2015,,UG
+ITS,CSI-319-01,Programming for Mobile Devices,2015FA,,STN,A,20,18,JOYC,101,"T, F", 11:00 AM, 12:15 PM,Li Jun,Zhang,8/31/2015,12/18/2015,,UG
+ITS,CSI-319-02,Programming for Mobile Devices,2015FA,,STN,A,18,9,MIC,308,"T, TH", 12:30 PM, 1:45 PM,Li Jun,Zhang,8/31/2015,12/18/2015,,UG
+ITS,CSI-320-01,Global IT & Ethics,2015FA,,STN,A,24,20,"JOYC, JOYC","302, 302","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Brian,Hall,8/31/2015,12/18/2015,,UG
+ITS,CSI-320-201,Global IT & Ethics,2015FA,DUBL,STN,A,15,14,,,W, 2:00 PM, 4:45 PM,Renaat,Verbruggen,8/31/2015,12/18/2015,,UG
+ITS,CSI-335-201,Software Sys Analysis & Desig,2015FA,DUBL,STN,A,15,5,,,W, 9:30 AM, 12:15 PM,Renaat,Verbruggen,8/31/2015,12/18/2015,,UG
+ITS,CSI-335-51,Software Sys Analysis & Desig,2015FA,,STN,A,18,16,FOST,104,T, 5:30 PM, 8:15 PM,Zachary,Filan,8/31/2015,12/18/2015,,UG
+ITS,DFS-500-90,Digital Forensic Science,2015FA,OL,ONL,A,1,0,,,,,,Timothy,Wedge,8/24/2015,10/16/2015,"DFS-500-81, DFS-500-90",UG
+ITS,DFS-510-90,Scripting for Digital Forensic,2015FA,OL,ONL,A,1,1,,,,,,Chester,Hosmer,8/24/2015,10/16/2015,"DFS-510-81, DFS-510-90",UG
+ITS,DIM-500-90,Practice of Dig Investigations,2015FA,OL,ONL,A,1,1,,,,,,Ryan,Pittman,8/24/2015,10/16/2015,"DIM-500-81, DIM-500-90",UG
+ITS,DIM-530-90,Leg Princ of Dig Investigation,2015FA,OL,ONL,A,1,1,,,,,,Robert,Simpson,8/24/2015,10/16/2015,"DIM-530-81, DIM-530-90",UG
+ITS,EGP-200-01,Graphics/Game Engine Prog I,2015FA,,STN,A,20,15,FOST,104,T, 9:30 AM, 12:15 PM,Saad,Khattak,8/31/2015,12/18/2015,,UG
+ITS,EGP-200-02,Graphics/Game Engine Prog I,2015FA,,STN,A,20,18,JOYC,101,T, 12:30 PM, 3:15 PM,Dean,Lawson,8/31/2015,12/18/2015,,UG
+ITS,EGP-200-03,Graphics/Game Engine Prog I,2015FA,,STN,A,20,11,FOST,104,W, 9:30 AM, 12:15 PM,Saad,Khattak,8/31/2015,12/18/2015,,UG
+ITS,EGP-405-01,Networking for Online Games,2015FA,,STN,A,20,18,JOYC,101,TH, 12:30 PM, 3:15 PM,Saad,Khattak,8/31/2015,12/18/2015,,UG
+ITS,EGP-405-02,Networking for Online Games,2015FA,,STN,A,20,20,JOYC,101,F, 12:30 PM, 3:15 PM,Saad,Khattak,8/31/2015,12/18/2015,,UG
+ITS,EGP-410-01,AI For Games,2015FA,,STN,A,20,10,FOST,104,"M, TH", 9:30 AM, 10:45 AM,Dean,Lawson,8/31/2015,12/18/2015,,UG
+ITS,EGP-410-02,AI For Games,2015FA,,STN,A,20,20,FOST,104,"M, TH", 11:00 AM, 12:15 PM,Dean,Lawson,8/31/2015,12/18/2015,,UG
+ITS,EGP-410-101,AI For Games,2015FA,MONT,STN,A,15,8,,,M, 6:00 PM, 8:45 PM,Adi,Bar-Lev,8/31/2015,12/18/2015,,UG
+ITS,FOR-100-01,Cyber Crime-Crim & Civ Inves,2015FA,,STN,A,20,15,FOST,100,"M, TH", 9:30 AM, 10:45 AM,Jonathan,Rajewski,8/31/2015,12/18/2015,,UG
+ITS,FOR-100-02,Cyber Crime-Crim & Civ Inves,2015FA,,STN,A,24,15,FOST,100,"W, F", 12:30 PM, 1:45 PM,William,Crane,8/31/2015,12/18/2015,,UG
+ITS,FOR-100-51,Cyber Crime-Crim & Civ Inves,2015FA,,STN,A,20,15,FOST,100,TH, 5:30 PM, 8:15 PM,Alexander,Caron,8/31/2015,12/18/2015,,UG
+ITS,FOR-190-01,Internship at the LCDI,2015FA,,FLD,A,16,7,,,,,,Mark,Zammuto,8/31/2015,12/18/2015,,UG
+ITS,FOR-240-01,Intro. to Digital Forensics,2015FA,,STN,A,20,19,FOST,100,"T, TH", 2:00 PM, 3:15 PM,Yogeshkumar,Khatri,8/31/2015,12/18/2015,,UG
+ITS,FOR-240-02,Intro. to Digital Forensics,2015FA,,STN,A,20,19,FOST,100,"T, TH", 3:30 PM, 4:45 PM,Yogeshkumar,Khatri,8/31/2015,12/18/2015,,UG
+ITS,FOR-240-51,Intro. to Digital Forensics,2015FA,,STN,A,20,20,FOST,100,M, 5:30 PM, 8:15 PM,Yogeshkumar,Khatri,8/31/2015,12/18/2015,,UG
+ITS,FOR-310-01,Mobile Device Forensics,2015FA,,STN,A,23,19,FOST,100,"M, TH", 11:00 AM, 12:15 PM,Jonathan,Rajewski,8/31/2015,12/18/2015,,UG
+ITS,FOR-310-201,Mobile Device Forensics,2015FA,DUBL,STN,A,15,8,,,M, 6:15 PM, 9:00 PM,John-Michael,Harkness,8/31/2015,12/18/2015,,UG
+ITS,FOR-350-51,White-Collar Crime,2015FA,,STN,A,24,23,JOYC,310,W, 5:30 PM, 8:15 PM,Thomas,Donovan,8/31/2015,12/18/2015,,UG
+ITS,FOR-420-01,E-Discovery and Data Analysis,2015FA,,STN,A,20,17,FOST,100,"W, F", 2:00 PM, 3:15 PM,William,Crane,8/31/2015,12/18/2015,,UG
+ITS,FOR-430-01,Adv Tech Digital Investigation,2015FA,,STN,A,20,17,"FOST, FOST","100, 100","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Yogeshkumar,Khatri,8/31/2015,12/18/2015,,UG
+ITS,MIT-510-90,Convergence of Telecom & Busin,2015FA,OL,ONL,A,1,1,,,,,,David,Cambio,10/26/2015,12/20/2015,"MIT-510-81, MIT-510-90",UG
+ITS,MIT-540-90,Managing Innovation,2015FA,OL,ONL,A,1,1,,,,,,John,Rogate,8/24/2015,10/16/2015,"MIT-540-81, MIT-540-90",UG
+ITS,MTH-115-01,Foundations of Mathematics,2015FA,,STN,A,25,22,JOYC,311,"W, F", 12:30 PM, 1:45 PM,Michael,Weinberg,8/31/2015,12/18/2015,,UG
+ITS,MTH-115-02,Foundations of Mathematics,2015FA,,STN,A,25,21,JOYC,311,"W, F", 2:00 PM, 3:15 PM,Michael,Weinberg,8/31/2015,12/18/2015,,UG
+ITS,MTH-115-03,Foundations of Mathematics,2015FA,,STN,A,25,16,JOYC,311,"W, F", 3:30 PM, 4:45 PM,Michael,Weinberg,8/31/2015,12/18/2015,,UG
+ITS,MTH-115-04,Foundations of Mathematics,2015FA,,STN,A,25,9,JOYC,212,"T, TH", 3:30 PM, 4:45 PM,Susan,McAuliffe,8/31/2015,12/18/2015,,UG
+ITS,MTH-120-01,College Algebra,2015FA,,STN,A,25,11,JOYC,210,"W, F", 3:30 PM, 4:45 PM,John,Willard,8/31/2015,12/18/2015,,UG
+ITS,MTH-125-51,Algebra & Trigonometry,2015FA,,STN,A,25,24,JOYC,202,"T, TH", 5:30 PM, 6:45 PM,Nichole,Caisse,8/31/2015,12/18/2015,,UG
+ITS,MTH-180-01,"Statistics, Introduction to",2015FA,,STN,A,25,13,JOYC,304,"M, TH", 8:00 AM, 9:15 AM,Scott,Stevens,8/31/2015,12/18/2015,,UG
+ITS,MTH-180-02,"Statistics, Introduction to",2015FA,,STN,A,25,24,JOYC,304,"M, TH", 9:30 AM, 10:45 AM,Scott,Stevens,8/31/2015,12/18/2015,,UG
+ITS,MTH-180-03,"Statistics, Introduction to",2015FA,,STN,A,25,24,JOYC,211,"W, F", 12:30 PM, 1:45 PM,Scott,Stevens,8/31/2015,12/18/2015,,UG
+ITS,MTH-180-04,"Statistics, Introduction to",2015FA,,STN,A,25,23,JOYC,211,"W, F", 2:00 PM, 3:15 PM,Gary,Carlson,8/31/2015,12/18/2015,,UG
+ITS,MTH-180-05,"Statistics, Introduction to",2015FA,,STN,A,25,23,JOYC,211,"T, F", 11:00 AM, 12:15 PM,James,Myers,8/31/2015,12/18/2015,,UG
+ITS,MTH-180-06,"Statistics, Introduction to",2015FA,,STN,A,25,22,JOYC,211,"T, F", 9:30 AM, 10:45 AM,Miriam,Dash,8/31/2015,12/18/2015,,UG
+ITS,MTH-180-07,"Statistics, Introduction to",2015FA,,STN,A,25,18,JOYC,211,"W, F", 3:30 PM, 4:45 PM,Gary,Carlson,8/31/2015,12/18/2015,,UG
+ITS,MTH-230-01,Calculus I,2015FA,,STN,A,25,9,"JOYC, JOYC","210, 210","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Erin,Milne,8/31/2015,12/18/2015,,UG
+ITS,MTH-230-02,Calculus I,2015FA,,STN,A,25,16,"JOYC, JOYC","210, 210","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Erin,Milne,8/31/2015,12/18/2015,,UG
+ITS,MTH-230-03,Calculus I,2015FA,,STN,A,25,11,JOYC,210,"T, TH", 2:00 PM, 3:15 PM,Melanie,Brown,8/31/2015,12/18/2015,,UG
+ITS,MTH-230-04,Calculus I,2015FA,,STN,A,25,17,JOYC,210,"T, TH", 3:30 PM, 4:45 PM,Erin,Milne,8/31/2015,12/18/2015,,UG
+ITS,MTH-230-05,Calculus I,2015FA,,STN,A,25,11,JOYC,305,"W, F", 2:00 PM, 3:15 PM,Michael,Opperman,8/31/2015,12/18/2015,,UG
+ITS,MTH-230-06,Calculus I,2015FA,,STN,A,25,12,JOYC,305,"W, F", 12:30 PM, 1:45 PM,Michael,Opperman,8/31/2015,12/18/2015,,UG
+ITS,MTH-270-01,Discrete Mathematics,2015FA,,STN,A,25,17,GBTC,117,"T, TH", 2:00 PM, 3:15 PM,Warren,Sides,8/31/2015,12/18/2015,,UG
+ITS,MTH-270-02,Discrete Mathematics,2015FA,,STN,A,25,24,GBTC,117,"T, TH", 3:30 PM, 4:45 PM,Warren,Sides,8/31/2015,12/18/2015,,UG
+ITS,MTH-270-03,Discrete Mathematics,2015FA,,STN,A,25,23,GBTC,117,"T, TH", 12:30 PM, 1:45 PM,Warren,Sides,8/31/2015,12/18/2015,,UG
+ITS,MTH-270-04,Discrete Mathematics,2015FA,,STN,A,25,24,"JOYC, JOYC","311, 311","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Michael,Opperman,8/31/2015,12/18/2015,,UG
+ITS,MTH-280-01,Applied Statistics,2015FA,,STN,A,20,7,MIC,308,"W, F", 3:30 PM, 4:45 PM,Scott,Stevens,8/31/2015,12/18/2015,,UG
+ITS,MTH-310-01,Linear Algebra,2015FA,,STN,A,17,14,"JOYC, JOYC","311, 311","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Melanie,Brown,8/31/2015,12/18/2015,,UG
+ITS,MTH-310-02,Linear Algebra,2015FA,,STN,A,17,17,JOYC,211,"M, TH", 11:00 AM, 12:15 PM,Melanie,Brown,8/31/2015,12/18/2015,,UG
+ITS,NET-120-51,Computers & Telecommunications,2015FA,,STN,A,24,23,WICK,101,T, 5:30 PM, 8:15 PM,Brian,Brumley,8/31/2015,12/18/2015,,UG
+ITS,NET-215-01,TCP/IP,2015FA,,STN,A,20,20,SKFA,100,"W, F", 12:30 PM, 1:45 PM,James,Hoag,8/31/2015,12/18/2015,,UG
+ITS,NET-255-01,Sysadmin & Net Services I,2015FA,,STN,A,20,20,SKFA,100,TH, 12:30 PM, 3:15 PM,Devin,Paden,8/31/2015,12/18/2015,,UG
+ITS,NET-255-51,Sysadmin & Net Services I,2015FA,,STN,A,20,20,SKFA,100,TH, 5:30 PM, 8:15 PM,Spencer,Goddard,8/31/2015,12/18/2015,,UG
+ITS,NET-265-01,Sysadmin & Net Services II,2015FA,,STN,A,20,16,SKFA,100,W, 2:00 PM, 4:45 PM,Patrick,Dunston,8/31/2015,12/18/2015,,UG
+ITS,NET-300-01,Cyber Community,2015FA,,STN,A,15,8,,,,,,Patrick,Dunston,8/31/2015,12/18/2015,,UG
+ITS,NET-300-02,Topics in N&S: Honeypots,2015FA,,STN,A,4,5,,,,,,James,Hoag,10/19/2015,12/18/2015,,UG
+ITS,NET-320-01,Network Systems Programming,2015FA,,STN,A,13,7,"SKFA, SKFA","102, 102","M, W"," 12:30 PM,  9:30 AM"," 1:45 PM,  10:45 AM",Patrick,Dunston,8/31/2015,12/18/2015,,UG
+ITS,NET-320-02,Network Systems Programming,2015FA,,STN,A,13,12,"SKFA, SKFA","102, 102","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Patrick,Dunston,8/31/2015,12/18/2015,,UG
+ITS,NET-330-01,Network Design,2015FA,,STN,A,15,11,SKFA,100,T, 12:30 PM, 3:15 PM,James,Hoag,8/31/2015,12/18/2015,,UG
+ITS,NET-350-51,Windows Server Systems Admin.,2015FA,,STN,A,14,9,SKFA,102,T, 5:30 PM, 8:15 PM,Alan,Murray,8/31/2015,12/18/2015,,UG
+ITS,RAD-100-01,"Allied Health, Introduction to",2015FA,,STN,A,24,12,JOYC,212,W, 11:00 AM, 12:00 PM,Margaret,Overman,8/31/2015,12/18/2015,,UG
+ITS,RAD-100L-01,Allied Health Lab,2015FA,,LAB,A,12,0,JOYC,102,TH, 10:00 AM, 12:00 PM,Margaret,Overman,8/31/2015,12/18/2015,,UG
+ITS,RAD-100L-02,Allied Health Lab,2015FA,,LAB,A,12,12,JOYC,102,TH, 8:00 AM, 10:00 AM,Margaret,Overman,8/31/2015,12/18/2015,,UG
+ITS,RAD-105-01,Medical Terminology,2015FA,,HYBRD,A,23,13,GAL,100,,,,Kathy,Whiting,8/31/2015,12/18/2015,,UG
+ITS,RAD-110-01,"Radiography, Introduction to",2015FA,,"STN, FLD",A,23,11,"GAL, ","100, ","W, F"," 12:30 PM,  8:30 AM"," 1:30 PM,  4:30 PM",Kathy,Whiting,8/31/2015,12/18/2015,,UG
+ITS,RAD-120-01,Radiographic Procedures I,2015FA,,STN,A,23,13,GAL,100,M, 8:00 AM, 10:00 AM,Mary,Trepanier,8/31/2015,12/18/2015,,UG
+ITS,RAD-121-03,Radiographic Procedures I Lab,2015FA,,LAB,A,6,7,GAL,100,M, 10:00 AM, 12:00 PM,Mary,Trepanier,8/31/2015,12/18/2015,,UG
+ITS,RAD-121-04,Radiographic Procedures I Lab,2015FA,,LAB,A,6,6,GAL,100,M, 1:00 PM, 3:00 PM,Mary,Trepanier,8/31/2015,12/18/2015,,UG
+ITS,RAD-130-01,Radiographic Science I,2015FA,,STN,A,23,13,"GAL, GAL","100, 100","T, W"," 8:00 AM,  2:00 PM"," 10:00 AM,  4:00 PM",Roger,Weeden,8/31/2015,12/18/2015,,UG
+ITS,RAD-220-01,Radiographic Pathology,2015FA,,STN,A,23,15,JOYC,102,M, 8:00 AM, 10:00 AM,Sarah,Malinowski,8/31/2015,12/18/2015,,UG
+ITS,RAD-230-01,Radiographic Science II,2015FA,,STN,A,23,15,"JOYC, GAL","102, 100","M, F"," 11:00 AM,  8:00 AM"," 12:40 PM,  9:40 AM",Roger,Weeden,8/31/2015,12/18/2015,,UG
+ITS,RAD-250-01,Radiographic Procedures III,2015FA,,STN,A,23,15,JOYC,102,M, 1:00 PM, 3:00 PM,Kathy,Whiting,8/31/2015,12/18/2015,,UG
+ITS,RAD-251-01,Positioning Lab III,2015FA,,LAB,A,6,5,GAL,100,F, 10:00 AM, 12:00 PM,Kathy,Whiting,8/31/2015,12/18/2015,,UG
+ITS,RAD-251-02,Positioning Lab III,2015FA,,LAB,A,6,6,GAL,100,F, 12:30 PM, 2:30 PM,Kathy,Whiting,8/31/2015,12/18/2015,,UG
+ITS,RAD-251-03,Positioning Lab III,2015FA,,LAB,A,6,4,GAL,100,F, 2:30 PM, 4:30 PM,Kathy,Whiting,8/31/2015,12/18/2015,,UG
+ITS,RAD-290-01,Radiog Clinical Field Exp II,2015FA,,FLD,A,23,15,,,"T, W, TH", 8:00 AM, 4:30 PM,Kathy,Whiting,8/31/2015,12/18/2015,,UG
+ITS,SCI-115-01,"Human Biology, Introduction to",2015FA,,"STN, LAB",A,16,6,"JOYC, FREE","203, 105","TüF, W"," 9:30 AM,  10:00 AM"," 10:45 AM,  12:00 PM",Kathleen,Seiler,8/31/2015,12/18/2015,,UG
+ITS,SCI-115-02,"Human Biology, Introduction to",2015FA,,"STN, LAB",A,16,8,"JOYC, FREE","203, 105","TüF, W"," 11:00 AM,  1:00 PM"," 12:15 PM,  3:00 PM",Kathleen,Seiler,8/31/2015,12/18/2015,,UG
+ITS,SCI-115-51,"Human Biology, Introduction to",2015FA,,"STN, LAB",A,16,14,"JOYC, FREE","102, 105","M, W"," 5:30 PM,  5:30 PM"," 8:15 PM,  7:30 PM",Simonne,Eisenhardt,8/31/2015,12/18/2015,,UG
+ITS,SCI-140-01,Nutrition & Fitness/Biology of,2015FA,,"STN, LAB",A,16,14,"JOYC, FREE","203, 102","MüTH, T"," 9:30 AM,  10:00 AM"," 10:45 AM,  12:00 PM",Robin,Abramson,8/31/2015,12/18/2015,,UG
+ITS,SCI-140-02,Nutrition & Fitness/Biology of,2015FA,,"STN, LAB",A,16,10,"JOYC, FREE","203, 102","MüTH, W"," 11:00 AM,  10:00 AM"," 12:15 PM,  12:00 PM",Robin,Abramson,8/31/2015,12/18/2015,,UG
+ITS,SCI-140-03,Nutrition & Fitness/Biology of,2015FA,,"STN, LAB",A,16,15,"JOYC, FREE","203, 102","TüTH, W"," 2:00 PM,  1:00 PM"," 3:15 PM,  3:00 PM",Robin,Abramson,8/31/2015,12/18/2015,,UG
+ITS,SCI-150-01,Environmental Earth Sciences,2015FA,,"STN, LAB",A,16,15,"JOYC, JOYC, FREE","203, 203, 105","M, W, F"," 12:30 PM,  9:30 AM,  10:00 AM"," 1:45 PM,  10:45 AM,  12:00 PM",Alexandra,Collins,8/31/2015,12/18/2015,,UG
+ITS,SCI-150-02,Environmental Earth Sciences,2015FA,,"STN, LAB",A,16,16,"JOYC, JOYC, FREE","203, 203, 105","M, W, F"," 2:00 PM,  11:00 AM,  1:00 PM"," 3:15 PM,  12:15 PM,  3:00 PM",Alexandra,Collins,8/31/2015,12/18/2015,,UG
+ITS,SCI-150-51,Environmental Earth Sciences,2015FA,,"STN, LAB",A,16,16,"JOYC, FREE","203, 102","M, W"," 5:30 PM,  5:30 PM"," 8:15 PM,  7:30 PM",Sarah,Wittman,8/31/2015,12/18/2015,,UG
+ITS,SCI-155-101,Global Environmental Earth Sci,2015FA,MONT,STN,A,24,5,,,TH, 5:00 PM, 6:45 PM,Shona,Watt,8/31/2015,12/18/2015,,UG
+ITS,SCI-155-201,Global Environmental Earth Sci,2015FA,DUBL,STN,A,25,22,", ",", ","M, T"," 1:00 PM,  1:00 PM"," 2:30 PM,  2:00 PM",Stephen,Robinson,8/31/2015,12/18/2015,,UG
+ITS,SCI-155L-101,Global Envir. Earth Sci. Lab,2015FA,MONT,LAB,A,15,0,,,F, 10:00 AM, 1:00 PM,Shona,Watt,8/31/2015,12/18/2015,,UG
+ITS,SCI-155L-201,Global Envir. Earth Sci. Lab,2015FA,DUBL,LAB,A,15,0,,,M, 10:00 AM, 12:00 PM,Sojan,Mathew,8/31/2015,12/18/2015,,UG
+ITS,SCI-155L-202,Global Envir. Earth Sci. Lab,2015FA,DUBL,LAB,A,15,0,,,T, 10:00 AM, 12:00 PM,Sojan,Mathew,8/31/2015,12/18/2015,,UG
+ITS,SCI-170-01,"Forensic Science, Intro to",2015FA,,"STN, LAB",A,16,10,"JOYC, FREE","313, 102","TüF, TH"," 8:00 AM,  8:00 AM"," 9:15 AM,  10:00 AM",Allison,Dean,8/31/2015,12/18/2015,,UG
+ITS,SCI-170-02,"Forensic Science, Intro to",2015FA,,"STN, LAB",A,16,15,"JOYC, FREE","313, 102","TüF, TH"," 9:30 AM,  11:00 AM"," 10:45 AM,  1:00 PM",Allison,Dean,8/31/2015,12/18/2015,,UG
+ITS,SCI-170-03,"Forensic Science, Intro to",2015FA,,"STN, LAB",A,16,15,"JOYC, FREE","313, 102","MüTH, TH"," 9:30 AM,  2:00 PM"," 10:45 AM,  4:00 PM",Alexandra,Collins,8/31/2015,12/18/2015,,UG
+ITS,SCI-210-01,Foundations of Ecology,2015FA,,"STN, LAB",A,16,12,"JOYC, FREE","313, 105","TüTH, TH"," 12:30 PM,  2:00 PM"," 1:45 PM,  4:00 PM",Hillary,Emick,8/31/2015,12/18/2015,,UG
+ITS,SCI-220-01,Anatomy & Physiology I,2015FA,,"STN, LAB",A,16,8,"JOYC, FREE","313, 105","TüTH, TH"," 2:00 PM,  10:00 AM"," 3:15 PM,  12:00 PM",Kathleen,Seiler,8/31/2015,12/18/2015,,UG
+ITS,SCI-250-01,Physics I,2015FA,,"STN, LAB",A,16,14,"JOYC, FREE","302, 102","WüF, F"," 3:30 PM,  1:00 PM"," 4:45 PM,  3:00 PM",Owen,Myers,8/31/2015,12/18/2015,,UG
+ITS,SCI-250-51,Physics I,2015FA,,"STN, LAB",A,16,15,"JOYC, FREE","313, 102","T, TH"," 5:30 PM,  5:30 PM"," 8:15 PM,  7:30 PM",Owen,Myers,8/31/2015,12/18/2015,,UG
+ITS,SEC-250-01,Computer & Network Security,2015FA,,STN,A,18,9,SKFA,102,"M, TH", 11:00 AM, 12:15 PM,Devin,Paden,8/31/2015,12/18/2015,,UG
+ITS,SEC-335-01,Eth. Hacking & Pen. Testing,2015FA,,STN,A,18,17,SKFA,100,F, 9:30 AM, 12:15 PM,Patrick,Dunston,8/31/2015,12/18/2015,,UG
+ITS,SEC-350-01,Enterprise&Perimeter Security,2015FA,,STN,A,12,14,SKFA,100,T, 9:30 AM, 12:15 PM,Devin,Paden,8/31/2015,12/18/2015,,UG
+ITS,WEB-125-51,Web Development,2015FA,,STN,A,24,18,"WICK, WICK","101, 101","M, W"," 2:00 PM,  11:00 AM"," 3:15 PM,  12:15 PM",Mark,Carter,8/31/2015,12/18/2015,,UG
+ITS,WEB-320-01,Server-Side Application Dev.,2015FA,,STN,A,15,14,FOST,100,"T, TH", 12:30 PM, 1:45 PM,Sarah,Pettitt,8/31/2015,12/18/2015,,UG
+ITS,WEB-340-01,"Middleware, XML",2015FA,,STN,A,14,8,SKFA,102,"M, TH", 9:30 AM, 10:45 AM,Frank,Canovatchel,8/31/2015,12/18/2015,,UG
