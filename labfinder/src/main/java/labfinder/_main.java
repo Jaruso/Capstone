@@ -122,14 +122,6 @@ public class _main {
                     }
                 }
 
-                //final List<String> timestrings = new ArrayList<String>();
-                //timestrings.add("9:30 AM");
-
-                //final List<String> daystrings = new ArrayList<String>();
-                //daystrings.add("T");
-
-
-               // Bson classfilter = generateClassFilter(
 
                 final ArrayList<Bson> filterlist = new ArrayList<Bson>();
                 //Bson roomfilter = null;
@@ -280,23 +272,16 @@ public class _main {
     public static BasicDBObject generateRoomFilter(List<String> list) {
 
         BasicDBList or = new BasicDBList();
-
         BasicDBObject tmpObj;
 
-
         for(String str : list){
-            System.out.println(str);
             tmpObj = new BasicDBObject("Room", str );
             or.add(tmpObj);
         }
 
-
-        //System.out.println(or);
-       // System.out.println("  -- { $and : { Room: { $eq : [ that ] } } } ---");
-
         BasicDBObject filter = new BasicDBObject("$nor", or);
 
-    return filter;
+        return filter;
     }
 
 
@@ -315,141 +300,24 @@ public class _main {
     }
 
 
+    public static BasicDBObject generateImgFilter(List<String> list) {
+
+        BasicDBList or = new BasicDBList();
+
+        BasicDBObject tmpObj;
 
 
-    public static Bson generateImgFilter(List<String> list)
-    {
-        int size = list.size();
-
-        Bson filter;
-
-
-        switch(size){
-            case 0:
-                filter = null;
-                break;
-            case 1:
-                filter = eq("Image", list.get(0));
-                break;
-            case 2:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1)));
-                break;
-            case 3:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)));
-                break;
-            case 4:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3)));
-                break;
-            case 5:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)));
-                break;
-            case 6:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5)));
-                break;
-            case 7:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5))
-                        ,eq("Image", list.get(6)));
-                break;
-            case 8:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5))
-                        ,eq("Image", list.get(6)),eq("Image", list.get(7)));
-                break;
-            case 9:
-                filter = or(eq("Image", list.get(0)), eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)), eq("Image", list.get(3)),
-                        eq("Image", list.get(4)), eq("Image", list.get(5)),
-                        eq("Image", list.get(6)), eq("Image", list.get(7)),
-                        eq("Image", list.get(8)));
-                break;
-            case 10:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5))
-                        ,eq("Image", list.get(6)),eq("Image", list.get(7))
-                        ,eq("Image", list.get(8)),eq("Image", list.get(9)));
-                break;
-            case 11:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5))
-                        ,eq("Image", list.get(6)),eq("Image", list.get(7))
-                        ,eq("Image", list.get(8)),eq("Image", list.get(9))
-                        ,eq("Image", list.get(10)));
-                break;
-            case 12:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5))
-                        ,eq("Image", list.get(6)),eq("Image", list.get(7))
-                        ,eq("Image", list.get(8)),eq("Image", list.get(9))
-                        ,eq("Image", list.get(10)),eq("Image", list.get(11)));
-                break;
-            case 13:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5))
-                        ,eq("Image", list.get(6)),eq("Image", list.get(7))
-                        ,eq("Image", list.get(8)),eq("Image", list.get(9))
-                        ,eq("Image", list.get(10)),eq("Image", list.get(11))
-                        ,eq("Image", list.get(12)));
-                break;
-            case 14:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5))
-                        ,eq("Image", list.get(6)),eq("Image", list.get(7))
-                        ,eq("Image", list.get(8)),eq("Image", list.get(9))
-                        ,eq("Image", list.get(10)),eq("Image", list.get(11))
-                        ,eq("Image", list.get(12)),eq("Image", list.get(13)));
-                break;
-            case 15:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5))
-                        ,eq("Image", list.get(6)),eq("Image", list.get(7))
-                        ,eq("Image", list.get(8)),eq("Image", list.get(9))
-                        ,eq("Image", list.get(10)),eq("Image", list.get(11))
-                        ,eq("Image", list.get(12)),eq("Image", list.get(13))
-                        ,eq("Image", list.get(14)));
-                break;
-            case 16:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5))
-                        ,eq("Image", list.get(6)),eq("Image", list.get(7))
-                        ,eq("Image", list.get(8)),eq("Image", list.get(9))
-                        ,eq("Image", list.get(10)),eq("Image", list.get(11))
-                        ,eq("Image", list.get(12)),eq("Image", list.get(13))
-                        ,eq("Image", list.get(14)),eq("Image", list.get(15)));
-                break;
-            case 17:
-                filter = or(eq("Image", list.get(0)),eq("Image", list.get(1))
-                        ,eq("Image", list.get(2)),eq("Image", list.get(3))
-                        ,eq("Image", list.get(4)),eq("Image", list.get(5))
-                        ,eq("Image", list.get(6)),eq("Image", list.get(7))
-                        ,eq("Image", list.get(10)),eq("Image", list.get(11))
-                        ,eq("Image", list.get(12)),eq("Image", list.get(13))
-                        ,eq("Image", list.get(14)),eq("Image", list.get(15))
-                        ,eq("Image", list.get(16)));
-                break;
-            default:
-                filter =  eq("Image", new BasicDBObject("$exists", true));
-                break;
+        for(String str : list){
+            tmpObj = new BasicDBObject("Image", str );
+            or.add(tmpObj);
         }
 
+        BasicDBObject filter = new BasicDBObject("$or", or);
 
         return filter;
     }
+
+    //TODO  fix hardware filter
 
     public static Bson generateHardfilter(ArrayList<String> hardstrings, ArrayList<String> extrastrings){
 

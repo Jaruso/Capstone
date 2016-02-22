@@ -152,8 +152,9 @@ public class MongoAccess {
         for(Document doc : all)
         {
             tmp.copyFrom(doc);
-
             if(tmp.software.containsAll(myCol)){
+                //TODO remove test line
+                System.out.println(doc.toString());
                 list.add(tmp.name);
             }
         }
