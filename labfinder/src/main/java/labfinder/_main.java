@@ -132,9 +132,9 @@ public class _main {
                 if(!softstrings.isEmpty()) {
                     filterlist.add(generateImgFilter(MongoAccess.getImgList(softstrings)));
                 }
-                //if(!hardstrings.isEmpty()) {
-                //    filterlist.add(generateHardfilter(hardstrings, extrastrings));
-                //}
+                if(!hardstrings.isEmpty()) {
+                    filterlist.add(generateHardfilter(hardstrings));
+                }
 
                 StringWriter writer = new StringWriter();
                 try {
@@ -319,52 +319,55 @@ public class _main {
 
     //TODO  fix hardware filter
 
-    public static Bson generateHardfilter(ArrayList<String> hardstrings, ArrayList<String> extrastrings){
+    public static Bson generateHardfilter(ArrayList<String> list){
 
-        hardstrings.addAll(extrastrings);
+        BasicDBList and = new BasicDBList();
 
-        int size = hardstrings.size();
-        Bson filter;
+        BasicDBObject tmpObj;
 
-        switch(size){
-            case 0:
-                filter = null;
-                break;
-            case 1:
-                filter = eq(hardstrings.get(0), 1);
-                break;
-            case 2:
-                filter = and(eq(hardstrings.get(0), 1), eq(hardstrings.get(1), 1));
-                break;
-            case 3:
-                filter = and(eq(hardstrings.get(0), 1), eq(hardstrings.get(1), 1)
-                        , eq(hardstrings.get(2), 1));
-                break;
-            case 4:
-                filter = and(eq(hardstrings.get(0), 1), eq(hardstrings.get(1), 1)
-                        , eq(hardstrings.get(2), 1), eq(hardstrings.get(3), 1));
-                break;
-            case 5:
-                filter = and(eq(hardstrings.get(0), 1), eq(hardstrings.get(1), 1)
-                        , eq(hardstrings.get(2), 1), eq(hardstrings.get(3), 1)
-                        , eq(hardstrings.get(4), 1));
-                break;
-            case 6:
-                filter = and(eq(hardstrings.get(0), 1), eq(hardstrings.get(1), 1)
-                        , eq(hardstrings.get(2), 1), eq(hardstrings.get(3), 1)
-                        , eq(hardstrings.get(4), 1), eq(hardstrings.get(5), 1));
-                break;
-            case 7:
-                filter = and(eq(hardstrings.get(0), 1), eq(hardstrings.get(1), 1)
-                        , eq(hardstrings.get(2), 1), eq(hardstrings.get(3), 1)
-                        ,eq(hardstrings.get(4), 1), eq(hardstrings.get(5), 1)
-                        , eq(hardstrings.get(6), 1));
-                break;
-            default:
-                filter = null;
-                break;
+        for(String str : list){
+
+            if(str.equals("Printer")){
+                tmpObj = new BasicDBObject("Printer", true );
+                and.add(tmpObj);
+            }
+            else if(str.equals("Projector")){
+                tmpObj = new BasicDBObject("Projector", new BasicDBObject("$exists", true) );
+                and.add(tmpObj);
+            }
+            else if(str.equals("TVs")){ //TODO This will not work
+                tmpObj = new BasicDBObject("TVs", true );
+                and.add(tmpObj);
+            }
+            else if(str.equals("Scanner")){
+                tmpObj = new BasicDBObject("Scanner", new BasicDBObject("$exists", true) );
+                and.add(tmpObj);
+            }
+            else if(str.equals("Dual Monitors")){
+                tmpObj = new BasicDBObject("Dual_monitors", new BasicDBObject("$exists", true) );
+                and.add(tmpObj);
+            }
+            else if(str.equals("Sound Equipment")){
+                tmpObj = new BasicDBObject("Sound_equipment", new BasicDBObject("$exists", true) );
+                and.add(tmpObj);
+            }
+            else if(str.equals("Photo Equipment")){
+                tmpObj = new BasicDBObject("Photo_equipment", new BasicDBObject("$exists", true) );
+                and.add(tmpObj);
+            }
+            else if(str.equals("Windows")){
+                    //TODO  ????
+            }
+            else if(str.equals("Apple")){
+                //TODO  ????
+            }
+            else if(str.equals("Chromebooks")){
+                //TODO  ????
+            }
+
         }
 
+        BasicDBObject filter = new BasicDBObject("$and", and);
         return filter;
     }
 
