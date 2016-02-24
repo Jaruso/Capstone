@@ -34,8 +34,8 @@ public class Room {
         room = newD.getString("Room");
         num = newD.get("Number", Object.class);
         building = newD.getString("Building");
-        numPC = newD.get("NumPCs", Object.class);
-        numMAC = newD.get("NumMacs", Object.class);
+        numPC = newD.get("NumPCs");
+        numMAC = newD.get("NumMacs");
         Image = newD.getString("Image");
         TV = newD.get("TVs", Object.class);
         projector = newD.get("Projector", Object.class);
@@ -49,13 +49,26 @@ public class Room {
 
     }
 
+
     public String toString()
     {
         String s =   name + ", " + num + ", " + building + ", " + numPC + ", " + numMAC + ", " + Image + ", " +
                 TV + ", " + projector + ", " + printer + ", " + whiteboard + ", " + soundeq + ", " +
                 dualMon + ", " + studyRoom + ", " + scanner + ", " + photoeq + ".\n";
 
-        String str = name + ": " + numPC + " PC(s), " + numMAC + " Mac(s)";
+        // String str = name + ": " + numPC + " PC(s), " + numMAC + " Mac(s)";
+
+        String str = "<label for=\"" + name + "\">" + name + "</label>" ;
+
+        if(numPC.equals("1")) {
+
+        }
+        else if(!numPC.equals("0")){
+            str += " <img src=\"http://www.iconarchive.com/download/i45768/tatice/operating-systems/Windows.ico\" width=\"25\" height=\"25\">";
+        }
+        if(!numMAC.equals("0")){
+            str += " <img src=\"http://icons.iconarchive.com/icons/kyo-tux/phuzion/256/System-Mac-icon.png\" width=\"25\" height=\"25\">";
+        }
 
         return str;
     }

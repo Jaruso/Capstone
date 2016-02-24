@@ -5,17 +5,17 @@
     <title>Search for Classses</title>
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
     <style type="text/css">
-	#homepage{
-	
-	
-		
-	}
+        #homepage{
+
+
+
+        }
         #wrapper {
-	width: auto;
-	border: 1px solid black;
-	overflow: hidden;
-	font-style: normal;
-	text-align: left;
+        width: auto;
+        border: 1px solid black;
+        overflow: hidden;
+        font-style: normal;
+        text-align: left;
         }
         #filter {
         font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -36,12 +36,12 @@
 
         }
         #left{
-	    width: 125px;
+        width: 125px;
         float:left;
         margin-bottom: 10px;
         }
         #right{
-	    margin-left: 125 px;
+        margin-left: 125 px;
         }
         #test1{
         width: 125px;
@@ -74,7 +74,7 @@
     <div id="homepage">
         <div id="header" class="top">
             <h1>
-                <a href="."><img src="https://upload.wikimedia.org/wikipedia/en/1/19/Champlain_College_Burlington_Vermont_Logo.png" width="239" height="32" title="LabFinder"></a>
+                <a href="/"><img src="https://upload.wikimedia.org/wikipedia/en/1/19/Champlain_College_Burlington_Vermont_Logo.png" width="239" height="32" title="LabFinder"></a>
             </h1>
         </div>
         <div id="content_area" >
@@ -92,20 +92,20 @@
 
                             <div data-role="collapsible">
                                 <h5>Time</h5>
-                                        <p >
-                                            <#list timeoptions as time>
-                                                <label><input type="checkbox" id="timefilter" name="timeFilter[]" value="${time}" autocomplete="off" >${time}</label>
-                                            </#list>
-                                        </p>
+                                <p >
+                                    <#list timeoptions as time>
+                                        <label><input type="checkbox" name="timeFilter[]" value="${time}" autocomplete="off" >${time}</label>
+                                    </#list>
+                                </p>
 
-                                </div>
+                            </div>
                             <div data-role="collapsible">
                                 <h5>Days</h5>
-                                        <p >
-                                            <#list dayoptions as day>
-                                                <label><input type="checkbox" id="dayfilter" name="dayFilter[]" value="${day}" autocomplete="off">${day}</label>
-                                            </#list>
-                                        </p>
+                                <p >
+                                    <#list dayoptions as day>
+                                        <label><input type="checkbox" name="dayFilter[]" value="${day}" autocomplete="off">${day}</label>
+                                    </#list>
+                                </p>
 
                             </div>
 
@@ -157,7 +157,9 @@
                     <h1> Results </h1>
                     <ul data-role="listview" >
                         <#list body as room>
-                            <li><a href="#">${room}</a></li>
+                            <li><a href="#">${room}
+                            </a></li>
+
                         </#list>
                     </ul>
                 </div>
