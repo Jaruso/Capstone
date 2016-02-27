@@ -2,67 +2,12 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Search for Classses</title>
+    <title>Search for Classes</title>
+    <link rel="stylesheet" type="text/css" href="/resources/lab.css">
+    <% if (false) {%>
+    <link href="../../resources/lab.css" rel="stylesheet" type="text/css" />
+    <% } %>
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
-    <style type="text/css">
-	#homepage{
-	
-	
-		
-	}
-        #wrapper {
-	width: auto;
-	border: 1px solid black;
-	overflow: hidden;
-	font-style: normal;
-	text-align: left;
-        }
-        #filter {
-        font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-        float:left;
-        border: 1px solid blue;
-        font-style: normal;
-        width: 250px;
-        }
-
-        #results {
-        font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-        overflow: hidden;
-        border: 3px solid red;
-        padding: 10px;
-        float: left;
-        }
-        #title {
-
-        }
-        #left{
-	    width: 125px;
-        float:left;
-        margin-bottom: 10px;
-        }
-        #right{
-	    margin-left: 125 px;
-        }
-        #test1{
-        width: 125px;
-        float: left;
-        }
-        #test2{
-        float: right;
-        }
-
-        .top {
-
-        }
-        .tftextinput {
-
-        }
-        .tfbutton {
-
-        }
-        }
-    </style>
-    <link rel="stylesheet" type="text/css" media="all" href="http://classlist.champlain.edu/common/css/main.css?v=2" />
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 </head>
@@ -74,7 +19,7 @@
     <div id="homepage">
         <div id="header" class="top">
             <h1>
-                <a href="."><img src="https://upload.wikimedia.org/wikipedia/en/1/19/Champlain_College_Burlington_Vermont_Logo.png" width="239" height="32" title="LabFinder"></a>
+                <a href="/"><img src="https://upload.wikimedia.org/wikipedia/en/1/19/Champlain_College_Burlington_Vermont_Logo.png" width="239" height="32" title="LabFinder"></a>
             </h1>
         </div>
         <div id="content_area" >
@@ -85,27 +30,27 @@
 
                     <form action="/" method="POST">
 
-                        <input type="text" name="search" class="tftextinput" name="q" size="21" maxlength="120" >
+                        <input type="text" name="search" class="tftextinput" size="21" maxlength="120" >
                         <input type="submit" value="Search" class="tfbutton">
 
                         <div data-role="content">
 
                             <div data-role="collapsible">
                                 <h5>Time</h5>
-                                        <p >
-                                            <#list timeoptions as time>
-                                                <label><input type="checkbox" id="timefilter" name="timeFilter[]" value="${time}" autocomplete="off" >${time}</label>
-                                            </#list>
-                                        </p>
+                                <p >
+                                    <#list timeoptions as time>
+                                        <label><input type="checkbox" name="timeFilter[]" value="${time}" autocomplete="off" >${time}</label>
+                                    </#list>
+                                </p>
 
-                                </div>
+                            </div>
                             <div data-role="collapsible">
                                 <h5>Days</h5>
-                                        <p >
-                                            <#list dayoptions as day>
-                                                <label><input type="checkbox" id="dayfilter" name="dayFilter[]" value="${day}" autocomplete="off">${day}</label>
-                                            </#list>
-                                        </p>
+                                <p >
+                                    <#list dayoptions as day>
+                                        <label><input type="checkbox" name="dayFilter[]" value="${day}" autocomplete="off">${day}</label>
+                                    </#list>
+                                </p>
 
                             </div>
 
@@ -157,7 +102,9 @@
                     <h1> Results </h1>
                     <ul data-role="listview" >
                         <#list body as room>
-                            <li><a href="#">${room}</a></li>
+                            <li><a href="#">${room}
+                            </a></li>
+
                         </#list>
                     </ul>
                 </div>

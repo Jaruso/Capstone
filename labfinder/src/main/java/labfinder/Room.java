@@ -58,8 +58,11 @@ public class Room {
 
         // String str = name + ": " + numPC + " PC(s), " + numMAC + " Mac(s)";
 
-        String str = "<label for=\"" + name + "\">" + name + "</label>" ;
+       // String str = "<label for=\"" + name + "\">" + name + "</label>" ;
 
+        String str = name;
+
+        str += "<div id = \"icons\">";
         if(numPC.equals("1")) {
 
         }
@@ -69,7 +72,15 @@ public class Room {
         if(!numMAC.equals("0")){
             str += " <img src=\"http://icons.iconarchive.com/icons/kyo-tux/phuzion/256/System-Mac-icon.png\" width=\"25\" height=\"25\">";
         }
-
+        //System.out.println(whiteboard.toString());
+        if(whiteboard!=null){
+        str += " <img src=\"http://icons.iconseeker.com/png/fullsize/battlestar-galactica-vol-3/lauras-whiteboard.png\" width=\"25\" height=\"25\">";
+        }
+       // System.out.println(studyRoom.toString());
+        if(studyRoom!=null){
+            str += " <img src=\"http://library.tulane.edu/sites/library.tulane.edu/files/styles/thumbnail/public/sites/default/files/img/icons/icon_28130.png?itok=If_YflCC\" width=\"25\" height=\"25\">";
+        }
+        str += "</div>";
         return str;
     }
 }

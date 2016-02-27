@@ -53,17 +53,13 @@ public class _main {
 
                     List<Room> rooms = MongoAccess.getAllRooms();
 
-                    String[] dayoptions = getDayOptions();
-                    String[] timeoptions = getTimeOptions();
-                    String[] softwareoptions = getSoftwareOptions();
-                    String[] hardwareoptions = getHardwareOptions();
-                    String[] extraoptions = getExtraOptions();
+                    //generate page content
 
-                    thisMap.put("dayoptions", dayoptions);
-                    thisMap.put("timeoptions", timeoptions);
-                    thisMap.put("softwareoptions", softwareoptions);
-                    thisMap.put("hardwareoptions", hardwareoptions);
-                    thisMap.put("extraoptions", extraoptions);
+                    thisMap.put("dayoptions", getDayOptions());
+                    thisMap.put("timeoptions", getTimeOptions());
+                    thisMap.put("softwareoptions", getSoftwareOptions());
+                    thisMap.put("hardwareoptions", getHardwareOptions());
+                    thisMap.put("extraoptions", getExtraOptions());
                     thisMap.put("body", rooms);
 
                     try
@@ -86,10 +82,20 @@ public class _main {
         Spark.post("/", new Route() {
 
             public Object handle(final Request request, final Response response) {
+
+                // search bar input
                 final String searchstring = request.queryParams("search");
 
-                //MongoAccess.setMongoRooms();
-                //MongoAccess.setMongoDays();
+
+                // Database manipulation functions
+                /*
+                MongoAccess.setMongoRooms();
+                MongoAccess.setMongoDays();
+                */
+
+
+
+                // Request input to various filter items
 
                 final ArrayList<String> daystrings = new ArrayList<String>();
                 if (request.queryParamsValues("dayFilter[]") != null) {
@@ -123,8 +129,9 @@ public class _main {
                 }
 
 
+                // Will combine all input
                 final ArrayList<Bson> filterlist = new ArrayList<Bson>();
-                //Bson roomfilter = null;
+
 
                 if((!timestrings.isEmpty())&&(!daystrings.isEmpty())){
                     filterlist.add(generateRoomFilter(MongoAccess.getRoomList(timestrings, daystrings)));
@@ -136,34 +143,29 @@ public class _main {
                     filterlist.add(generateHardfilter(hardstrings));
                 }
 
+
+                // prepare to write
                 StringWriter writer = new StringWriter();
                 try {
 
-
+                    //  specify the html and set up map
                     Template thisTemplate = configuration.getTemplate("RoomSearch.html");
                     Map<String, Object> thisMap = new HashMap<String, Object>();
 
-
-
+                    // Query MongoDB for rooms
                     List<Room> rooms = MongoAccess.getSomeRooms(combineFilter(filterlist));
 
-                    //List<Room> rooms = MongoAccess.getSomeRooms(generateRoomFilter(MongoAccess.getRoomList(timestrings, daystrings)));
 
-                    //List<Room> rooms = MongoAccess.getSomeRooms(generateImgFilter(MongoAccess.getImgList(softstrings)));
+                    //generate page content
 
-                    String[] dayoptions = getDayOptions();
-                    String[] timeoptions = getTimeOptions();
-                    String[] softwareoptions = getSoftwareOptions();
-                    String[] hardwareoptions = getHardwareOptions();
-                    String[] extraoptions = getExtraOptions();
-
-                    thisMap.put("dayoptions", dayoptions);
-                    thisMap.put("timeoptions", timeoptions);
-                    thisMap.put("softwareoptions", softwareoptions);
-                    thisMap.put("hardwareoptions", hardwareoptions);
-                    thisMap.put("extraoptions", extraoptions);
+                    thisMap.put("dayoptions", getDayOptions());
+                    thisMap.put("timeoptions", getTimeOptions());
+                    thisMap.put("softwareoptions", getSoftwareOptions());
+                    thisMap.put("hardwareoptions", getHardwareOptions());
+                    thisMap.put("extraoptions", getExtraOptions());
                     thisMap.put("body", rooms);
                     thisMap.put("str", searchstring);
+
 
                     try {
                         thisTemplate.process(thisMap, writer);
