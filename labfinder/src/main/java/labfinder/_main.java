@@ -53,6 +53,7 @@ public class _main {
 
                     List<Room> rooms = MongoAccess.getAllRooms();
 
+
                     //generate page content
 
                     thisMap.put("dayoptions", getDayOptions());
@@ -60,7 +61,7 @@ public class _main {
                     thisMap.put("softwareoptions", getSoftwareOptions());
                     thisMap.put("hardwareoptions", getHardwareOptions());
                     thisMap.put("extraoptions", getExtraOptions());
-                    thisMap.put("body", rooms);
+                    thisMap.put("rooms", rooms);
 
                     try
                     {
@@ -163,7 +164,7 @@ public class _main {
                     thisMap.put("softwareoptions", getSoftwareOptions());
                     thisMap.put("hardwareoptions", getHardwareOptions());
                     thisMap.put("extraoptions", getExtraOptions());
-                    thisMap.put("body", rooms);
+                    thisMap.put("rooms", rooms);
                     thisMap.put("str", searchstring);
 
 

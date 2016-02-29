@@ -50,19 +50,12 @@ public class Room {
     }
 
 
-    public String toString()
+    public String toString() // toHtml, for freeMarker
     {
-        String s =   name + ", " + num + ", " + building + ", " + numPC + ", " + numMAC + ", " + Image + ", " +
-                TV + ", " + projector + ", " + printer + ", " + whiteboard + ", " + soundeq + ", " +
-                dualMon + ", " + studyRoom + ", " + scanner + ", " + photoeq + ".\n";
 
-        // String str = name + ": " + numPC + " PC(s), " + numMAC + " Mac(s)";
-
-       // String str = "<label for=\"" + name + "\">" + name + "</label>" ;
-
-        String str = name;
-
-        str += "<div id = \"icons\">";
+        String str = "<h3> ";
+        str += name;
+        str += " <div class = \"icons\">";
         if(numPC.equals("1")) {
 
         }
@@ -72,15 +65,43 @@ public class Room {
         if(!numMAC.equals("0")){
             str += " <img src=\"http://icons.iconarchive.com/icons/kyo-tux/phuzion/256/System-Mac-icon.png\" width=\"25\" height=\"25\">";
         }
-        //System.out.println(whiteboard.toString());
         if(whiteboard!=null){
         str += " <img src=\"http://icons.iconseeker.com/png/fullsize/battlestar-galactica-vol-3/lauras-whiteboard.png\" width=\"25\" height=\"25\">";
         }
-       // System.out.println(studyRoom.toString());
         if(studyRoom!=null){
             str += " <img src=\"http://library.tulane.edu/sites/library.tulane.edu/files/styles/thumbnail/public/sites/default/files/img/icons/icon_28130.png?itok=If_YflCC\" width=\"25\" height=\"25\">";
         }
         str += "</div>";
+        str += "</h3>";
+        str += toFullString();
+
         return str;
     }
+
+    public String toFullString() {
+        String s;
+
+        //TODo get specific images
+
+       // if (Image != null) {
+       //     s = " <img src= \"" + Image + " width=\"25\" height=\"25\">";
+       // } else {
+            s = "<div> <img src= \"" + "http://www.champlain.edu/Images/Academic-Affairs/CampusMap2015.png" + "\" width=\"200px\" height=\"150px\">";
+
+        // String str = name + ": " + numPC + " PC(s), " + numMAC + " Mac(s)";
+
+        // String str = "<label for=\"" + name + "\">" + name + "</label>" ;
+
+
+        //ToDO make description
+        s += "<p>";
+        s += "The description of the room. ";
+        s += "</p>";
+
+        s += "</div>";
+     //   }
+        return s;
+    }
+
+
 }

@@ -4,7 +4,17 @@
     <meta charset="utf-8">
     <title>Search for Classes</title>
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" href="https://www.champlain.edu/assets/prebuilt/css/normalize.css?v=3" />
+
+    <!-- <link rel="stylesheet" href="/assets/prebuilt/css/champ_common.css?v=3" /> -->
     <link rel="stylesheet" href="https://www.champlain.edu/assets/prebuilt/css/champ_common.css?v=3" />
+
+    <!-- <link rel="stylesheet" href="/assets/prebuilt/css/champ_print.css?v=3" media="print" /> -->
+    <link rel="stylesheet" href="https://www.champlain.edu/assets/prebuilt/css/champ_print.css?v=3" media="print" />
+
+
+    <link rel="stylesheet" href="https://www.champlain.edu/assets/prebuilt/css/champ_level.css?v=3" />
+
     <style type="text/css">
         #body {
         margin: 0;
@@ -15,9 +25,6 @@
         }
 
         #main {
-        background: url(http://classlist.champlain.edu//common/imgs/main-bg.gif) top center repeat-y;
-        background-color:#FFF;
-        margin: 0 auto;
         font-size: 0.8125em; /* 13 */
         }
         .icons{
@@ -25,11 +32,11 @@
         }
 
         #homepage {
-        background: url(http://classlist.champlain.edu//common/imgs/main-upper2.png) top center no-repeat;
+
         }
 
         #header {
-        height: 131px;
+        height: 101px;
         }
 
         #header h1 {
@@ -40,17 +47,12 @@
         margin-bottom: 0;
         margin-left: 19px;
         }
-
-        #content_main {
-        margin-left: 29px;
-        width: 933px;
-        float: none;
+        #content_area{
+        background-color:#FFF;
+        margin: 0 auto;
         }
-
-        #homepage #content_main {
-        height: 520px;
-        }
-        #homepage #content_area #content_main {
+        #content {
+            width:950px;
         }
 
         #footer {
@@ -66,9 +68,6 @@
         color: #347513;
         }
         #homepage{
-
-
-
         }
         .wrapper {
         width: auto;
@@ -79,22 +78,26 @@
         #filter {
         font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
         float:left;
-        border: 1px solid blue;
         font-style: normal;
         width: 300px;
         }
 
         #results {
         font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        width:500px;
         overflow: hidden;
-        border: 3px solid red;
         padding: 10px;
         float: left;
+        }
+        .room{
+        float:left;
+        width:220px;
+        margin-left:10px;
+        margin-right:10px;
         }
 		#key {
         font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
         overflow: hidden;
-        border: 3px solid green;
         padding: 10px;
         float: left;
         }
@@ -104,15 +107,12 @@
         #time{
         width: 125px;
         float:left;
-        border: 3px solid orange;
         margin-bottom: 10px;
         }
         #day{
         margin-left: 125 px;
         float:right;
-        border: 3px solid purple;
-        float:top;
-        length:
+		width: 75px;
         }
         #test1{
         width: 125px;
@@ -132,11 +132,6 @@
 
         }
     </style>
-    <script>
-    $(function() {
-    $( "#accordion" ).accordion();
-    });
-    </script>
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
     <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
@@ -151,11 +146,11 @@
     <div id="homepage">
         <div id="header" class="top">
             <h1>
-                <a href="/"><img src="https://upload.wikimedia.org/wikipedia/en/1/19/Champlain_College_Burlington_Vermont_Logo.png" width="239" height="32" title="LabFinder"></a>
+                <a href="/"><img src="https://vtcolleges.org/images/color_logos/champlain_logo_color.png" width="375" height="75" title="LabFinder"></a>
             </h1>
         </div>
-        <div id="content_area" >
-            <div id="content_main">
+        <div id="inner-container" class="level">
+            <div id="content">
                 <div id="filter" class="ui-content" data-role="main">
 
 
@@ -168,16 +163,17 @@
                         <div data-role="content">
 
                             <div data-role="collapsible">
-                                <h5>Time and Day</h5>
+                                <h4>Time and Day</h4>
                                 <div id="timeday" class="wrapper">
                                 <div id="time">
+
                                         <p >
                                             <#list timeoptions as time>
                                                 <label><input type="checkbox" name="timeFilter[]" value="${time}" autocomplete="off" >${time}</label>
                                             </#list>
                                         </p>
 
-                                    </div>
+                                </div>
 
 
                                 <div id="day">
@@ -236,17 +232,13 @@
 
                 <div  id="results" class="result">
                         <h1> Results </h1>
-                        <ul data-role="listview">
                             <#list rooms as room>
-                            <li>
-                            <div data-role="collapsible">
+                            <div data-role="collapsible" class="room">
 
                             ${room}
 
                             </div>
-                            </li>
                             </#list>
-                            </ul>
 
                 </div>
                 
@@ -267,7 +259,7 @@
 
 
         <div id="footer">
-            Content for  class "bottom" id "footer" Goes Here
+             LabFinder produced for the benefit of Champlain College students and faculty. Created by Joe Caruso.
         </div>
 
     </div>

@@ -2,21 +2,83 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Search for Classses</title>
-    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <title>Search for Classes</title>
+    <link rel="stylesheet" href="https://www.champlain.edu/assets/prebuilt/css/champ_common.css?v=3" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <link rel="stylesheet" href="/resources/demos/style.css">
     <style type="text/css">
-        #wrapper {
-        width:auto;
-        border: 1px solid black;
+        #body {
+        margin: 0;
+        padding: 0;
+        background: #f6ebc2;
+        font-size: 100%;
+        font-family: Arial, Helvetica, Verdana, sans-serif;
+        }
 
+        #main {
+        background: url(http://classlist.champlain.edu//common/imgs/main-bg.gif) top center repeat-y;
+        background-color:#FFF;
+        margin: 0 auto;
+        font-size: 0.8125em; /* 13 */
+        }
+        .icons{
+        float: right;
+        }
+
+        #homepage {
+        background: url(http://classlist.champlain.edu//common/imgs/main-upper2.png) top center no-repeat;
+        }
+
+        #header {
+        height: 131px;
+        }
+
+        #header h1 {
+        display: inline;
+        float: left;
+        margin-top: 15px;
+        margin-right: 0;
+        margin-bottom: 0;
+        margin-left: 19px;
+        }
+
+        #content_main {
+        margin-left: 29px;
+        width:1000px;
+        float: none;
+        }
+
+        #footer {
+        background: #F6EBC2 url(http://classlist.champlain.edu//common/imgs/main-lower.gif) top center no-repeat;
+        padding-top: 12px;
+        clear: both;
+        color: #347513;
+        text-align: center;
+        font-size: 0.8462em; /* 11 */
+        }
+
+        #footer a {
+        color: #347513;
+        }
+        #homepage{
+
+
+
+        }
+        .wrapper {
+        width: auto;
         overflow: hidden;
+        font-style: normal;
+        text-align: left;
         }
         #filter {
         font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
         float:left;
         border: 1px solid blue;
         font-style: normal;
-        width: 250px;
+        width: 300px;
         }
 
         #results {
@@ -26,9 +88,34 @@
         padding: 10px;
         float: left;
         }
+        #key {
+        font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        overflow: hidden;
+        border: 3px solid green;
+        padding: 10px;
+        float: left;
+        }
         #title {
 
         }
+        #day{
+        width: 125px;
+        float:left;
+        margin-bottom: 10px;
+        }
+        #time{
+        margin-left: 125 px;
+        float:right;
+        width: 75px;
+        }
+        #test1{
+        width: 125px;
+        float: left;
+        }
+        #test2{
+        float: right;
+        }
+
         .top {
 
         }
@@ -38,11 +125,22 @@
         .tfbutton {
 
         }
-        }
     </style>
-    <link rel="stylesheet" type="text/css" media="all" href="http://classlist.champlain.edu/common/css/main.css?v=2" />
-    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script>
+  $(function() {
+    $( "#slider" ).slider({
+      value:100,
+      orientation:"vertical",
+      min: 0,
+      max: 10,
+      step: 1,
+      slide: function( event, ui ) {
+        $( "#amount" ).val( "$" + ui.value );
+      }
+    });
+    $( "#amount" ).val( "$" + $( "#slider" ).slider( "value" ) );
+  });
+  </script>
 </head>
 
 
@@ -55,77 +153,24 @@
                 <a href="."><img src="https://upload.wikimedia.org/wikipedia/en/1/19/Champlain_College_Burlington_Vermont_Logo.png" width="239" height="32" title="LabFinder"></a>
             </h1>
         </div>
-        <div id="content_area" >
-            <div id="content_main">
-                <div id="filter" class="ui-content" data-role="main">
+        <div id="filter" class="ui-content" data-role="main">
+
+
+            <form action="/test" method="POST">
 
 
 
-                    <form action="/test" method="POST">
+                <p>
+                    <label for="amount">Donation amount ($50 increments):</label>
+                    <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+                </p>
 
-                        <input type="text" name="str" class="tftextinput" name="q" size="21" maxlength="120" >
-                        <input type="submit" value="Search" class="tfbutton">
-
-                        <div data-role="collapsible">
-                            <h4>Days</h4>
-
-                                <#list dayoptions as day>
-                                     <input type="checkbox" id="dayfilter" name="dayFilter[]" value="${day}" autocomplete="off" >${day}
-                                </#list>
-
-                        </div>
-
-                        <div data-role="collapsible">
-                            <h4>Times</h4>
-                            <#list timeoptions as time>
-                                <input type="checkbox" id="timefilter" name="timeFilter[]" value="${time}" autocomplete="off" >${time}
-                            </#list>
-                        </div>
+                <div id="slider"></div>
 
 
-                        <div data-role="collapsible">
-                            <h4>Software</h4>
-
-                            <ul data-role="listview" >
-                                <#list softwareoptions as software>
-                                    <li> <input type="checkbox" id="softwarefilter" name="softwareFilter[]" value="${software}" autocomplete="off" >${software}</li>
-                                </#list>
-                            </ul>
-
-                        </div>
+            </form>
 
 
-
-                        <div data-role="collapsible">
-                            <h4>Hardware</h4>
-
-                            <ul data-role="listview">
-                                <#list hardwareoptions as hardware>
-                                    <input type="checkbox" id="hardwarefilter" name="hardwareFilter[]" value="${hardware}" autocomplete="off" >${hardware}
-                                </#list>
-                            </ul>
-
-
-                        </div>
-
-                        <div data-role="collapsible">
-                            <h4>Extras</h4>
-
-                            <ul data-role="listview">
-                                <#list extraoptions as extra>
-                                    <input type="checkbox" id="extrafilter" name="extraFilter[]" value="${extra}" autocomplete="off" >${extra}
-                                </#list>
-                            </ul>
-
-                        </div>
-
-
-                    </form>
-
-                </div>
-
-
-            </div>
 
 
 
@@ -134,7 +179,7 @@
 
 
 
-</div>
     </div>
+</div>
 </body>
 </html>
