@@ -3,8 +3,143 @@
 <head>
     <meta charset="utf-8">
     <title>Search for Classes</title>
-    <link rel="stylesheet" type="text/css" href="/resources/lab.css">
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" href="https://www.champlain.edu/assets/prebuilt/css/champ_common.css?v=3" />
+    <style type="text/css">
+        #body {
+        margin: 0;
+        padding: 0;
+        background: #f6ebc2;
+        font-size: 100%;
+        font-family: Arial, Helvetica, Verdana, sans-serif;
+        }
+
+        #main {
+        background: url(http://classlist.champlain.edu//common/imgs/main-bg.gif) top center repeat-y;
+        background-color:#FFF;
+        margin: 0 auto;
+        font-size: 0.8125em; /* 13 */
+        }
+        .icons{
+        float: right;
+        }
+
+        #homepage {
+        background: url(http://classlist.champlain.edu//common/imgs/main-upper2.png) top center no-repeat;
+        }
+
+        #header {
+        height: 131px;
+        }
+
+        #header h1 {
+        display: inline;
+        float: left;
+        margin-top: 15px;
+        margin-right: 0;
+        margin-bottom: 0;
+        margin-left: 19px;
+        }
+
+        #content_main {
+        margin-left: 29px;
+        width: 933px;
+        float: none;
+        }
+
+        #homepage #content_main {
+        height: 520px;
+        }
+        #homepage #content_area #content_main {
+        }
+
+        #footer {
+        background: #F6EBC2 url(http://classlist.champlain.edu//common/imgs/main-lower.gif) top center no-repeat;
+        padding-top: 12px;
+        clear: both;
+        color: #347513;
+        text-align: center;
+        font-size: 0.8462em; /* 11 */
+        }
+
+        #footer a {
+        color: #347513;
+        }
+        #homepage{
+
+
+
+        }
+        .wrapper {
+        width: auto;
+        overflow: hidden;
+        font-style: normal;
+        text-align: left;
+        }
+        #filter {
+        font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        float:left;
+        border: 1px solid blue;
+        font-style: normal;
+        width: 300px;
+        }
+
+        #results {
+        font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        overflow: hidden;
+        border: 3px solid red;
+        padding: 10px;
+        float: left;
+        }
+		#key {
+        font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        overflow: hidden;
+        border: 3px solid green;
+        padding: 10px;
+        float: left;
+        }
+        #title {
+
+        }
+        #time{
+        width: 125px;
+        float:left;
+        border: 3px solid orange;
+        margin-bottom: 10px;
+        }
+        #day{
+        margin-left: 125 px;
+        float:right;
+        border: 3px solid purple;
+        float:top;
+        length:
+        }
+        #test1{
+        width: 125px;
+        float: left;
+        }
+        #test2{
+        float: right;
+        }
+
+        .top {
+
+        }
+        .tftextinput {
+
+        }
+        .tfbutton {
+
+        }
+    </style>
+    <script>
+    $(function() {
+    $( "#accordion" ).accordion();
+    });
+    </script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 </head>
@@ -33,32 +168,36 @@
                         <div data-role="content">
 
                             <div data-role="collapsible">
-                                <h5>Time</h5>
-                                <p >
-                                    <#list timeoptions as time>
-                                        <label><input type="checkbox" name="timeFilter[]" value="${time}" autocomplete="off" >${time}</label>
-                                    </#list>
-                                </p>
+                                <h5>Time and Day</h5>
+                                <div id="timeday" class="wrapper">
+                                <div id="time">
+                                        <p >
+                                            <#list timeoptions as time>
+                                                <label><input type="checkbox" name="timeFilter[]" value="${time}" autocomplete="off" >${time}</label>
+                                            </#list>
+                                        </p>
+
+                                    </div>
+
+
+                                <div id="day">
+                                        <p >
+                                            <#list dayoptions as day>
+                                                <label><input type="checkbox" name="dayFilter[]" value="${day}" autocomplete="off">${day}</label>
+                                            </#list>
+                                        </p>
+                                </div>
+                                </div>
+
 
                             </div>
-                            <div data-role="collapsible">
-                                <h5>Days</h5>
-                                <p >
-                                    <#list dayoptions as day>
-                                        <label><input type="checkbox" name="dayFilter[]" value="${day}" autocomplete="off">${day}</label>
-                                    </#list>
-                                </p>
-
-                            </div>
-
-
 
                             <div data-role="collapsible">
                                 <h4>Software</h4>
 
                                 <ul data-role="listview" >
                                     <#list softwareoptions as software>
-                                        <li><label><input type="checkbox" id="softwarefilter" name="softwareFilter[]" value="${software}" autocomplete="off" >${software}</label></li>
+                                        <li><label><input type="checkbox" name="softwareFilter[]" value="${software}" autocomplete="off" >${software}</label></li>
                                     </#list>
                                 </ul>
 
@@ -71,7 +210,7 @@
 
                                 <ul data-role="listview">
                                     <#list hardwareoptions as hardware>
-                                        <li><label><input type="checkbox" id="hardwarefilter" name="hardwareFilter[]" value="${hardware}" autocomplete="off" >${hardware}</label></li>
+                                        <li><label><input type="checkbox" name="hardwareFilter[]" value="${hardware}" autocomplete="off" >${hardware}</label></li>
                                     </#list>
                                 </ul>
 
@@ -83,7 +222,7 @@
 
                                 <ul data-role="listview">
                                     <#list extraoptions as extra>
-                                        <li><label><input type="checkbox" id="extrafilter" name="extraFilter[]" value="${extra}" autocomplete="off" >${extra}</label></li>
+                                        <li><label><input type="checkbox" name="extraFilter[]" value="${extra}" autocomplete="off" >${extra}</label></li>
                                     </#list>
                                 </ul>
 
@@ -96,17 +235,29 @@
                 </div>
 
                 <div  id="results" class="result">
-                    <h1> Results </h1>
-                    <ul data-role="listview" >
-                        <#list body as room>
-                            <li><a href="#">${room}
-                            </a></li>
+                        <h1> Results </h1>
+                        <ul data-role="listview">
+                            <#list rooms as room>
+                            <li>
+                            <div data-role="collapsible">
 
-                        </#list>
-                    </ul>
+                            ${room}
+
+                            </div>
+                            </li>
+                            </#list>
+                            </ul>
+
                 </div>
-
-
+                
+              <div class="keybox" id="key">
+              <h2> Key </h2>
+                  <img src="http://www.iconarchive.com/download/i45768/tatice/operating-systems/Windows.ico" width="25" height="25"> Windows <br>
+                  <img src="http://icons.iconarchive.com/icons/kyo-tux/phuzion/256/System-Mac-icon.png" width="25" height="25">  Macs <br>
+                  <img src="http://icons.iconseeker.com/png/fullsize/battlestar-galactica-vol-3/lauras-whiteboard.png" width="25" height="25"> Whiteboard <br>
+                  <img src="http://library.tulane.edu/sites/library.tulane.edu/files/styles/thumbnail/public/sites/default/files/img/icons/icon_28130.png?itok=If_YflCC" width="25" height="25"> Study Rooms <br>
+              
+              </div>
             </div>
 
 
