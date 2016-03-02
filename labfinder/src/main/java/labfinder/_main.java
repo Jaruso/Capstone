@@ -50,12 +50,10 @@ public class _main {
                     Template thisTemplate =  configuration.getTemplate("RoomSearch.html");
                     Map<String, Object> thisMap = new HashMap<String, Object>();
 
-
-                    List<Room> rooms = MongoAccess.getAllRooms();
-
-
                     //generate page content
+                    List rooms = new ArrayList<String>();
 
+                    thisMap.put("error", "");
                     thisMap.put("dayoptions", getDayOptions());
                     thisMap.put("timeoptions", getTimeOptions());
                     thisMap.put("softwareoptions", getSoftwareOptions());
@@ -85,6 +83,7 @@ public class _main {
             public Object handle(final Request request, final Response response) {
 
                 // search bar input
+                final String errstring = "Invalid input.";
                 final String searchstring = request.queryParams("search");
 
 
@@ -132,53 +131,88 @@ public class _main {
 
                 // Will combine all input
                 final ArrayList<Bson> filterlist = new ArrayList<Bson>();
+                boolean search = false;
 
 
                 if((!timestrings.isEmpty())&&(!daystrings.isEmpty())){
+                    search = true;
                     filterlist.add(generateRoomFilter(MongoAccess.getRoomList(timestrings, daystrings)));
                 }
                 if(!softstrings.isEmpty()) {
+                    search = true;
                     filterlist.add(generateImgFilter(MongoAccess.getImgList(softstrings)));
                 }
                 if(!hardstrings.isEmpty()) {
+                    search = true;
                     filterlist.add(generateHardfilter(hardstrings));
                 }
 
 
                 // prepare to write
                 StringWriter writer = new StringWriter();
-                try {
-
-                    //  specify the html and set up map
-                    Template thisTemplate = configuration.getTemplate("RoomSearch.html");
-                    Map<String, Object> thisMap = new HashMap<String, Object>();
-
-                    // Query MongoDB for rooms
-                    List<Room> rooms = MongoAccess.getSomeRooms(combineFilter(filterlist));
-
-
-                    //generate page content
-
-                    thisMap.put("dayoptions", getDayOptions());
-                    thisMap.put("timeoptions", getTimeOptions());
-                    thisMap.put("softwareoptions", getSoftwareOptions());
-                    thisMap.put("hardwareoptions", getHardwareOptions());
-                    thisMap.put("extraoptions", getExtraOptions());
-                    thisMap.put("rooms", rooms);
-                    thisMap.put("str", searchstring);
-
-
+                if(search) {
                     try {
-                        thisTemplate.process(thisMap, writer);
-                    } catch (TemplateException e) {
+
+                        //  specify the html and set up map
+                        Template thisTemplate = configuration.getTemplate("RoomSearch.html");
+                        Map<String, Object> thisMap = new HashMap<String, Object>();
+
+                        // Query MongoDB for rooms
+                        List<Room> rooms = MongoAccess.getSomeRooms(combineFilter(filterlist));
+
+
+                        //generate page content
+
+                        thisMap.put("error", "");
+                        thisMap.put("dayoptions", getDayOptions());
+                        thisMap.put("timeoptions", getTimeOptions());
+                        thisMap.put("softwareoptions", getSoftwareOptions());
+                        thisMap.put("hardwareoptions", getHardwareOptions());
+                        thisMap.put("extraoptions", getExtraOptions());
+                        thisMap.put("rooms", rooms);
+
+
+                        try {
+                            thisTemplate.process(thisMap, writer);
+                        } catch (TemplateException e) {
+                            e.printStackTrace();
+                        }
+
+                    } catch (IOException e) {
+                        // halt(500);
                         e.printStackTrace();
                     }
-
-                } catch (IOException e) {
-                    // halt(500);
-                    e.printStackTrace();
                 }
+                else //invalid search criteria
+                {
+                    try {
 
+                        //  specify the html and set up map
+                        Template thisTemplate = configuration.getTemplate("RoomSearch.html");
+                        Map<String, Object> thisMap = new HashMap<String, Object>();
+
+                        //generate page content
+                        List rooms = new ArrayList<String>();
+
+                        thisMap.put("error", errstring);
+                        thisMap.put("dayoptions", getDayOptions());
+                        thisMap.put("timeoptions", getTimeOptions());
+                        thisMap.put("softwareoptions", getSoftwareOptions());
+                        thisMap.put("hardwareoptions", getHardwareOptions());
+                        thisMap.put("extraoptions", getExtraOptions());
+                        thisMap.put("rooms", rooms);
+
+                        try {
+                            thisTemplate.process(thisMap, writer);
+                        } catch (TemplateException e) {
+                            e.printStackTrace();
+                        }
+
+                    } catch (IOException e) {
+                        // halt(500);
+                        e.printStackTrace();
+                    }
+                }
                 return writer;
             }
 

@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="https://www.champlain.edu/assets/prebuilt/css/normalize.css?v=3" />
 
     <!-- <link rel="stylesheet" href="/assets/prebuilt/css/champ_common.css?v=3" /> -->
-    <link rel="stylesheet" href="https://www.champlain.edu/assets/prebuilt/css/champ_common.css?v=3" />
 
     <!-- <link rel="stylesheet" href="/assets/prebuilt/css/champ_print.css?v=3" media="print" /> -->
     <link rel="stylesheet" href="https://www.champlain.edu/assets/prebuilt/css/champ_print.css?v=3" media="print" />
@@ -52,7 +51,7 @@
         margin: 0 auto;
         }
         #content {
-        width:1000px;
+        width:1050px;
         }
 
         #footer {
@@ -75,19 +74,44 @@
         font-style: normal;
         text-align: left;
         }
+        #left-container{
+        float:left;
+        width: 350px;
+        }
+        #school-logo{
+
+        }
+        #logo{
+        width: 345px;
+        }
         #filter {
         font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-        float:left;
+        background-color:#FFFFFF;
         font-style: normal;
-        width: 300px;
+        margin: 8px;
+        border-radius: 5px 5px 5px 5px;
+        -moz-border-radius: 5px 5px 5px 5px;
+        -webkit-border-radius: 5px 5px 5px 5px;
+        -webkit-box-shadow: 2px 2px 15px -5px rgba(0,0,0,0.5);
+        -moz-box-shadow: 2px 2px 15px -5px rgba(0,0,0,0.5);
+        box-shadow: 2px 2px 15px -5px rgba(0,0,0,0.5);
         }
 
         #results {
         font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
         width:500px;
+        background-color: #FFFFFF;
         overflow: hidden;
         padding: 10px;
+        padding-top: 0px;
+        margin: 8px;
         float: left;
+        border-radius: 5px 5px 5px 5px;
+        -moz-border-radius: 5px 5px 5px 5px;
+        -webkit-border-radius: 5px 5px 5px 5px;
+        -webkit-box-shadow: 2px 2px 15px -5px rgba(0,0,0,0.5);
+        -moz-box-shadow: 2px 2px 15px -5px rgba(0,0,0,0.5);
+        box-shadow: 2px 2px 15px -5px rgba(0,0,0,0.5);
         }
         .room{
         float:left;
@@ -98,31 +122,30 @@
         #key {
         font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
         overflow: hidden;
+        background-color: #FFFFFF;
         padding: 10px;
         padding-top: 0px;
-        margin-right: 25px;
-        margin-top: 25px;
-        float: right;
-        border-radius: 10px 10px 10px 10px;
-        -moz-border-radius: 10px 10px 10px 10px;
-        -webkit-border-radius: 10px 10px 10px 10px;
-        border: 5px solid #d4d4d4;
-        -webkit-box-shadow: 0px 10px 40px -5px rgba(0,0,0,1);
-        -moz-box-shadow: 0px 10px 40px -5px rgba(0,0,0,1);
-        box-shadow: 0px 10px 40px -5px rgba(0,0,0,1);
+        margin: 8px;
+        float: left;
+        border-radius: 5px 5px 5px 5px;
+        -moz-border-radius: 5px 5px 5px 5px;
+        -webkit-border-radius: 5px 5px 5px 5px;
+        -webkit-box-shadow: 2px 2px 15px -5px rgba(0,0,0,0.5);
+        -moz-box-shadow: 2px 2px 15px -5px rgba(0,0,0,0.5);
+        box-shadow: 2px 2px 15px -5px rgba(0,0,0,0.5);
         }
         #title {
 
         }
         #time{
-        width: 125px;
+        width: 150px;
         float:left;
         margin-bottom: 10px;
         }
         #day{
-        margin-left: 125 px;
+        margin-left: 150 px;
         float:right;
-        width: 75px;
+        width: 100px;
         }
         #test1{
         width: 125px;
@@ -131,7 +154,43 @@
         #test2{
         float: right;
         }
-
+        #header {
+        background-color: #231f20;
+        color: #fff;
+        height: 101px;
+        -moz-box-shadow: 0 0 10px #000;
+        -webkit-box-shadow: 0 0 10px #000;
+        box-shadow: 0 0 10px #000;
+        width: 100%;
+        z-index: 4000;
+        position: relative;
+        }
+        #inner-container.level, #inner-container.landing {
+        background-color: #ECECEC;
+        }
+        #inner-container {
+        height: 100%;
+        width: 100%;
+        margin: auto;
+        max-width: 1600px;
+        min-height: 500px;
+        overflow: hidden;
+        position: relative;
+        }
+        #content {
+        overflow: auto;
+        width: 1190px;
+        margin: 50px auto;
+        color: #57585a;
+        position: relative;
+        z-index: 2;
+        min-height: 550px;
+        }
+        #error-message p {
+        margin-left: 36%;
+        color: #FF0000;
+        font-size: large;
+        }
         .top {
 
         }
@@ -156,84 +215,97 @@
 <div id="main">
     <div id="homepage">
         <div id="header" class="top">
-            <h1>
-                <a href="/"><img src="https://vtcolleges.org/images/color_logos/champlain_logo_color.png" width="370" height="75" title="LabFinder"></a>
-            </h1>
+
+
+
         </div>
         <div id="inner-container" class="level">
             <div id="content">
-                <div id="filter" class="ui-content" data-role="main">
+
+                <div id="left-container">
+
+                    <div id="school-logo">
+                        <h1>
+                            <a href="/"><img id="logo" src="https://vtcolleges.org/images/color_logos/champlain_logo_color.png" title="LabFinder"></a>
+                        </h1>
+                    </div>
 
 
+                    <div id="filter" class="ui-content" data-role="main">
 
-                    <form action="/" method="POST">
+                        <form action="/" method="POST">
 
-                        <input type="text" name="search" class="tftextinput" size="21" maxlength="120" >
-                        <input type="submit" value="Search" class="tfbutton">
+                            <input type="text" name="search" class="tftextinput" size="21" maxlength="120" >
+                            <input type="submit" value="Search" class="tfbutton">
 
-                        <div data-role="content">
-
-                            <div data-role="collapsible">
-                                <h4>Time and Day</h4>
-                                <div id="timeday" class="wrapper">
-                                <div id="time">
-
-                                        <p >
-                                            <#list timeoptions as time>
-                                                <label><input type="checkbox" name="timeFilter[]" value="${time}" autocomplete="off" >${time}</label>
-                                            </#list>
-                                        </p>
-
-                                </div>
-
-
-                                <div id="day">
-                                        <p >
-                                            <#list dayoptions as day>
-                                                <label><input type="checkbox" name="dayFilter[]" value="${day}" autocomplete="off">${day}</label>
-                                            </#list>
-                                        </p>
-                                </div>
-                                </div>
-
-
+                            <div id="error-message">
+                                <p>${error}</p>
                             </div>
 
-                            <div data-role="collapsible">
-                                <h4>Software</h4>
+                            <div data-role="content">
+
+                                <div data-role="collapsible">
+                                    <h4>Time and Day</h4>
+                                    <div id="timeday" class="wrapper">
+                                        <div id="time">
+
+                                            <p >
+                                                <#list timeoptions as time>
+                                                    <label><input type="checkbox" name="timeFilter[]" value="${time}" autocomplete="off" >${time}</label>
+                                                </#list>
+                                            </p>
+
+                                        </div>
+
+
+                                        <div id="day">
+                                            <p >
+                                                <#list dayoptions as day>
+                                                    <label><input type="checkbox" name="dayFilter[]" value="${day}" autocomplete="off">${day}</label>
+                                                </#list>
+                                            </p>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+
+                                <div data-role="collapsible">
+                                    <h4>Software</h4>
 
                                     <#list softwareoptions as software>
                                         <label><input type="checkbox" name="softwareFilter[]" value="${software}" autocomplete="off" >${software}</label>
                                     </#list>
 
 
-                            </div>
+                                </div>
 
 
 
-                            <div data-role="collapsible">
-                                <h4>Hardware</h4>
+                                <div data-role="collapsible">
+                                    <h4>Hardware</h4>
 
                                     <#list hardwareoptions as hardware>
                                         <label><input type="checkbox" name="hardwareFilter[]" value="${hardware}" autocomplete="off" >${hardware}</label>
                                     </#list>
 
 
-                            </div>
+                                </div>
 
-                            <div data-role="collapsible">
-                                <h4>Extras</h4>
+                                <div data-role="collapsible">
+                                    <h4>Extras</h4>
 
                                     <#list extraoptions as extra>
                                         <label><input type="checkbox" name="extraFilter[]" value="${extra}" autocomplete="off" >${extra}</label>
                                     </#list>
 
+                                </div>
+
                             </div>
 
-                        </div>
+                        </form>
 
-                    </form>
-
+                    </div>
                 </div>
 
                 <div  id="results" class="result">
