@@ -28,11 +28,6 @@ public class MongoAccess {
 
         MongoCollection<Document> classCol = db.getCollection("classes");
 
-        //Find one test//
-       // Document first = classCol.find().first();
-       // String str = first.getString("name");
-       // System.out.println(str);
-
         List<Document> all = classCol.find().into(new ArrayList<Document>());
 
         List<Course> courses = new ArrayList<Course>();
@@ -53,11 +48,6 @@ public class MongoAccess {
         MongoDatabase db = client.getDatabase("spring2016").withReadPreference(ReadPreference.secondary());
 
         MongoCollection<Document> classCol = db.getCollection("Rooms");
-
-        //Find one test//
-        // Document first = classCol.find().first();
-        // String str = first.getString("name");
-        // System.out.println(str);
 
         List<Document> all = classCol.find().into(new ArrayList<Document>());
 
@@ -153,8 +143,6 @@ public class MongoAccess {
         {
             tmp.copyFrom(doc);
             if(tmp.software.containsAll(myCol)){
-                //TODO remove test line
-                System.out.println(doc.toString());
                 list.add(tmp.name);
             }
         }
@@ -180,7 +168,6 @@ public class MongoAccess {
         BasicDBObject tmplistObj;
 
         for(String str : timeCol){
-            //System.out.println(str);
             tmplistObj = new BasicDBObject("Start Time", str );
             timelist.add(tmplistObj);
         }
@@ -192,7 +179,7 @@ public class MongoAccess {
         BasicDBList daylist = new BasicDBList();
 
         for(String str : dayCol){
-            //System.out.println(str);
+            System.out.println(str);
             tmplistObj = new BasicDBObject("Day", str );
             daylist.add(tmplistObj);
         }
@@ -200,12 +187,6 @@ public class MongoAccess {
         Bson dayfilter = new BasicDBObject("$and", daylist );
 
 
-
-        System.out.println(dayfilter);
-        System.out.println("dayfilter ");
-
-        System.out.println(timefilter);
-        System.out.println("timefilter");
 
         //List<Document> all = courseCol.find(and(new Document("Days", "T"), new Document("Start Time", "9:30 AM"))).into(new ArrayList<Document>());
         List<Document> all = courseCol.find(or(dayfilter, timefilter)).into(new ArrayList<Document>());
@@ -232,15 +213,11 @@ public class MongoAccess {
                 }
                 else {
 
-                    System.out.println(doc.toString());
-                    System.out.println("in if");
 
                     for (String str : tmp.Days) {
                         if ((timeCol.contains(tmp.StartTime.get(0))) && (dayCol.contains(str))) {
                             if (!list.contains(tmp.Room.get(0))) {
 
-                                System.out.println(doc.toString());
-                                System.out.println("About to add");
                                 list.add(tmp.Room.get(0));
                             }
                         }
@@ -324,12 +301,6 @@ public class MongoAccess {
                     tmpRoomname.add(i, tmpBuilding.get(i).trim() + " " + tmpRoom.get(i).trim());
                     i++;
                 }
-
-                System.out.println("Roomname = " + tmpRoomname);
-                System.out.println("Building = " + tmpBuilding);
-                System.out.println("RoomNum = " + tmpRoom);
-                System.out.println("Start Time = " + tmpStart);
-                System.out.println("End Time = " + tmpEnd);
 
                 Document temp = new Document("Section Name", doc.get("Section Name"))
                         .append("Term", doc.get("Term"))

@@ -88,10 +88,10 @@ public class _main {
 
 
                 // Database manipulation functions
-                /*
+
                 MongoAccess.setMongoRooms();
                 MongoAccess.setMongoDays();
-                */
+
 
 
 
@@ -483,7 +483,7 @@ public class _main {
         Options[0] = "M";
         Options[1] = "T";
         Options[2] = "W";
-        Options[3] = "Th";
+        Options[3] = "TH";
         Options[4] = "F";
 
         return Options;
