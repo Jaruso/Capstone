@@ -33,7 +33,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.labfinder.main</mainClass>
+                            <mainClass>com.labfinder.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

@@ -18,12 +18,12 @@ import java.io.IOException;
 import java.io.StringWriter;
 import java.util.*;
 
-public class main {
+public class Main {
 
     public static void main(String[] args){
 
         final Configuration configuration = new Configuration();
-        configuration.setClassForTemplateLoading( main.class, "/");
+        configuration.setClassForTemplateLoading( Main.class, "/");
 
         Spark.get("/", new Route() {
 
