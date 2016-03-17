@@ -31,8 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <addClasspath>false</addClasspath>
-                            <classpathPrefix>lib/</classpathPrefix>
+                            <addClasspath>true</addClasspath>
                             <mainClass>com.labfinder.Main</mainClass>
                         </manifest>
                     </archive>
