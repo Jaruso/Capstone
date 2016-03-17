@@ -4,7 +4,6 @@ package labfinder;
  * Created by Joe on 1/3/2016.
  */
 
-import com.mongodb.*;
 import org.bson.conversions.Bson;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
@@ -33,7 +32,7 @@ public class Main {
                 try {
 
 
-                    Template thisTemplate =  configuration.getTemplate("RoomSearch.html");
+                    Template thisTemplate =  configuration.getTemplate("RoomSearch.ftl");
                     Map<String, Object> thisMap = new HashMap<String, Object>();
 
                     //generate page content
@@ -140,7 +139,7 @@ public class Main {
                     try {
 
                         //  specify the html and set up map
-                        Template thisTemplate = configuration.getTemplate("RoomSearch.html");
+                        Template thisTemplate = configuration.getTemplate("RoomSearch.ftl");
                         Map<String, Object> thisMap = new HashMap<String, Object>();
 
                         // Query MongoDB for rooms
@@ -174,7 +173,7 @@ public class Main {
                     try {
 
                         //  specify the html and set up map
-                        Template thisTemplate = configuration.getTemplate("RoomSearch.html");
+                        Template thisTemplate = configuration.getTemplate("RoomSearch.ftl");
                         Map<String, Object> thisMap = new HashMap<String, Object>();
 
                         //generate page content
