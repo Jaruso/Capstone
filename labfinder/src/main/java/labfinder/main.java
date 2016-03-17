@@ -5,39 +5,25 @@ package labfinder;
  */
 
 import com.mongodb.*;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoDatabase;
-import com.mongodb.client.model.Filters;
-import org.bson.BsonArray;
-import org.bson.BsonDocument;
-import org.bson.BsonValue;
-import org.bson.codecs.configuration.CodecRegistry;
 import org.bson.conversions.Bson;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
-import org.bson.Document;
-import static com.mongodb.client.model.Filters.*;
 import spark.Request;
-import spark.Request.*;
-import spark.*;
 import spark.Response;
 import spark.Route;
 import spark.Spark;
 
-import javax.management.Query;
 import java.io.IOException;
 import java.io.StringWriter;
-import java.lang.reflect.Array;
 import java.util.*;
-import java.util.logging.Filter;
 
-public class _main {
+public class main {
 
     public static void main(String[] args){
 
         final Configuration configuration = new Configuration();
-        configuration.setClassForTemplateLoading( _main.class, "/");
+        configuration.setClassForTemplateLoading( main.class, "/");
 
         Spark.get("/", new Route() {
 
