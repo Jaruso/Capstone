@@ -32,7 +32,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.labfinder.Main</mainClass>
+                            <mainClass>labfinder.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -61,6 +61,11 @@
             <groupId>org.freemarker</groupId>
             <artifactId>freemarker</artifactId>
             <version>2.3.23</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sparkjava</groupId>
+            <artifactId>spark-template-freemarker</artifactId>
+            <version>2.3</version>
         </dependency>
         <dependency>
             <groupId>commons-collections</groupId>
