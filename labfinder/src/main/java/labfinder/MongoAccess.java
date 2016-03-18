@@ -3,17 +3,16 @@ package labfinder;
 import com.mongodb.*;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
-import com.mongodb.client.model.Filters;
-import org.bson.BSON;
-import org.bson.BsonArray;
-import org.bson.BsonDocument;
 import org.bson.Document;
 import org.bson.conversions.Bson;
-import static com.mongodb.client.model.Filters.*;
 
-import java.lang.reflect.Array;
-import java.text.CollationElementIterator;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.List;
+
+import static com.mongodb.client.model.Filters.and;
+import static com.mongodb.client.model.Filters.or;
 
 /**
  * Created by Joe on 1/4/2016.

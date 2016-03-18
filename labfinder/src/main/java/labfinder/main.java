@@ -4,10 +4,10 @@ package labfinder;
  * Created by Joe on 1/3/2016.
  */
 
-import org.bson.conversions.Bson;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
+import org.bson.conversions.Bson;
 import spark.Request;
 import spark.Response;
 import spark.Route;
@@ -32,7 +32,7 @@ public class Main {
                 try {
 
 
-                    Template thisTemplate =  configuration.getTemplate("RoomSearch.ftl");
+                    Template thisTemplate = configuration.getTemplate("RoomSearch.ftl");
                     Map<String, Object> thisMap = new HashMap<String, Object>();
 
                     //generate page content
@@ -41,16 +41,14 @@ public class Main {
                     thisMap.put("error", "");
                     thisMap.put("dayoptions", Functions.getDayOptions());
                     thisMap.put("timeoptions", Functions.getTimeOptions());
-                    thisMap.put("softwareoptions",Functions.getSoftwareOptions());
+                    thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                     thisMap.put("hardwareoptions", Functions.getHardwareOptions());
                     thisMap.put("extraoptions", Functions.getExtraOptions());
                     thisMap.put("rooms", rooms);
 
-                    try
-                    {
+                    try {
                         thisTemplate.process(thisMap, writer);
-                    } catch (TemplateException e)
-                    {
+                    } catch (TemplateException e) {
                         e.printStackTrace();
                     }
 

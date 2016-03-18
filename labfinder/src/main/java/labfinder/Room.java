@@ -1,8 +1,6 @@
 package labfinder;
 
-import org.bson.BsonDocument;
 import org.bson.Document;
-import org.bson.conversions.Bson;
 
 
 /**
