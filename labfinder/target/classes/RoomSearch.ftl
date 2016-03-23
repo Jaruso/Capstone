@@ -14,6 +14,8 @@
 
     <link rel="stylesheet" href="https://www.champlain.edu/assets/prebuilt/css/champ_level.css?v=3" />
 
+    <link rel="stylesheet" href="http://www.monkeyphysics.com/moo/datepicker/datepicker_vista/datepicker_vista.css?1242375714" />
+
     <style rel="stylesheet">
         #body {
         margin: 0;
@@ -200,13 +202,22 @@
         .tfbutton {
 
         }
+
     </style>
 
-    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
-    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+    <script type="text/javascript">
+    $(function() {
+        $( "#datepicker" ).datepicker();
+    });
+    </script>
+
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
 </head>
 
 
@@ -238,9 +249,12 @@
                             <input type="text" name="search" class="tftextinput" size="21" maxlength="120" >
                             <input type="submit" value="Search" class="tfbutton">
 
+                            <p>Date: <input type="text" id="datepicker" class="hasDatepicker"></p>
+
                             <div id="error-message">
                                 <p>${error}</p>
                             </div>
+
 
                             <div data-role="content">
 
@@ -337,6 +351,7 @@
 
 
         </div>
+
 
 
         <div id="footer">

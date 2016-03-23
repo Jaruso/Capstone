@@ -72,8 +72,8 @@ public class Main {
 
                 // Database manipulation functions
 
-                MongoAccess.setMongoRooms();
-                MongoAccess.setMongoDays();
+              //  MongoAccess.setMongoRooms();
+              //  MongoAccess.setMongoDays();
 
 
 
