@@ -1,0 +1,116 @@
+
+        #body {
+        margin: 0;
+        padding: 0;
+        background: #f6ebc2;
+        font-size: 100%;
+        font-family: Arial, Helvetica, Verdana, sans-serif;
+        }
+
+        #main {
+        font-size: 0.8125em; /* 13 */
+        }
+        .icons{
+        float: right;
+        }
+
+        #homepage {
+
+        }
+
+        #header {
+        height: 101px;
+        }
+
+        #header h1 {
+        display: inline;
+        float: left;
+        margin-top: 15px;
+        margin-right: 0;
+        margin-bottom: 0;
+        margin-left: 19px;
+        }
+        #content_area{
+        background-color:#FFF;
+        margin: 0 auto;
+        }
+        #content {
+            width:950px;
+        }
+
+        #footer {
+        background: #F6EBC2 url(http://classlist.champlain.edu//common/imgs/main-lower.gif) top center no-repeat;
+        padding-top: 12px;
+        clear: both;
+        color: #347513;
+        text-align: center;
+        font-size: 0.8462em; /* 11 */
+        }
+
+        #footer a {
+        color: #347513;
+        }
+        #homepage{
+        }
+        .wrapper {
+        width: auto;
+        overflow: hidden;
+        font-style: normal;
+        text-align: left;
+        }
+        #filter {
+        font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        float:left;
+        font-style: normal;
+        width: 300px;
+        }
+
+        #results {
+        font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        width:500px;
+        overflow: hidden;
+        padding: 10px;
+        float: left;
+        }
+        .room{
+        float:left;
+        width:220px;
+        margin-left:10px;
+        margin-right:10px;
+        }
+		#key {
+        font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        overflow: hidden;
+        padding: 10px;
+        float: left;
+        }
+        #title {
+
+        }
+        #time{
+        width: 125px;
+        float:left;
+        margin-bottom: 10px;
+        }
+        #day{
+        margin-left: 125 px;
+        float:right;
+		width: 75px;
+        }
+        #test1{
+        width: 125px;
+        float: left;
+        }
+        #test2{
+        float: right;
+        }
+
+        .top {
+
+        }
+        .tftextinput {
+
+        }
+        .tfbutton {
+
+        }
