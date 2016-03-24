@@ -139,16 +139,6 @@
         #title {
 
         }
-        #time{
-        width: 150px;
-        float:left;
-        margin-bottom: 10px;
-        }
-        #day{
-        margin-left: 150 px;
-        float:right;
-        width: 100px;
-        }
         #test1{
         width: 125px;
         float: left;
@@ -205,18 +195,37 @@
 
     </style>
 
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
 
-    <script type="text/javascript">
+    <script>
     $(function() {
         $( "#datepicker" ).datepicker();
     });
     </script>
 
-    <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
-    <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script>
+  $(function() {
+    var select = $( "#timeslider" );
+    var slider = $( "<div id='slider'></div>" ).insertAfter( select ).slider({
+      min: 1,
+      max: 10,
+      range: "min",
+      value: select[ 0 ].selectedIndex + 1,
+      slide: function( event, ui ) {
+        select[ 0 ].selectedIndex = ui.value - 1;
+      }
+    });
+    $( "#timeslider" ).change(function() {
+      slider.slider( "value", this.selectedIndex + 1 );
+    });
+  });
+  </script>
 
 </head>
 
@@ -246,43 +255,28 @@
 
                         <form action="/" method="POST">
 
-                            <input type="text" name="search" class="tftextinput" size="21" maxlength="120" >
-                            <input type="submit" value="Search" class="tfbutton">
-
-                            <p>Date: <input type="text" id="datepicker" class="hasDatepicker"></p>
-
                             <div id="error-message">
                                 <p>${error}</p>
                             </div>
 
+                            <input type="submit" value="Search" class="tfbutton">
+
+                            <p><input name="dayFilter" type="text" id="datepicker" placeholder="xx-xx-xxxx"></p>
+
+                            <select name="timeFilter" id="timeslider">
+                                <option>Before 8:00AM</option>
+                                <option>8:00AM - 9:15AM</option>
+                                <option>9:30AM - 10:45AM</option>
+                                <option>11:00AM - 12:15PM</option>
+                                <option>12:30PM - 1:45PM</option>
+                                <option>2:00PM - 3:15PM</option>
+                                <option>3:30PM - 4:45PM</option>
+                                <option>5:00PM - 6:15PM</option>
+                                <option>5:30PM - 8:15PM</option>
+                                <option>After 8:15PM</option>
+                            </select>
 
                             <div data-role="content">
-
-                                <div data-role="collapsible">
-                                    <h4>Time and Day</h4>
-                                    <div id="timeday" class="wrapper">
-                                        <div id="time">
-
-                                            <p >
-                                                <#list timeoptions as time>
-                                                    <label><input type="checkbox" name="timeFilter[]" value="${time}" autocomplete="off" >${time}</label>
-                                                </#list>
-                                            </p>
-
-                                        </div>
-
-
-                                        <div id="day">
-                                            <p >
-                                                <#list dayoptions as day>
-                                                    <label><input type="checkbox" name="dayFilter[]" value="${day}" autocomplete="off">${day}</label>
-                                                </#list>
-                                            </p>
-                                        </div>
-                                    </div>
-
-
-                                </div>
 
                                 <div data-role="collapsible">
                                     <h4>Software</h4>
@@ -291,9 +285,7 @@
                                         <label><input type="checkbox" name="softwareFilter[]" value="${software}" autocomplete="off" >${software}</label>
                                     </#list>
 
-
                                 </div>
-
 
 
                                 <div data-role="collapsible">

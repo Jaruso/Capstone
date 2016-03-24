@@ -39,8 +39,8 @@ public class Main {
                     List rooms = new ArrayList<String>();
 
                     thisMap.put("error", "");
-                    thisMap.put("dayoptions", Functions.getDayOptions());
-                    thisMap.put("timeoptions", Functions.getTimeOptions());
+                    //thisMap.put("dayoptions", Functions.getDayOptions());
+                   // thisMap.put("timeoptions", Functions.getTimeOptions());
                     thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                     thisMap.put("hardwareoptions", Functions.getHardwareOptions());
                     thisMap.put("extraoptions", Functions.getExtraOptions());
@@ -80,18 +80,16 @@ public class Main {
 
                 // Request input to various filter items
 
-                final ArrayList<String> daystrings = new ArrayList<String>();
-                if (request.queryParamsValues("dayFilter[]") != null) {
-                    for (String str : request.queryParamsValues("dayFilter[]")) {
-                        daystrings.add(str);
-                    }
+                String dayString = "";
+                if (request.queryParams("dayFilter") != null) {
+                    dayString = Functions.convertDay(request.queryParams("dayFilter"));
                 }
-                final ArrayList<String> timestrings = new ArrayList<String>();
-                if (request.queryParamsValues("timeFilter[]") != null) {
-                    for (String str : request.queryParamsValues("timeFilter[]")) {
-                        timestrings.add(str);
-                    }
+                System.out.println(dayString);
+                String timeString = "";
+                if (request.queryParamsValues("timeFilter") != null) {
+                    timeString = Functions.convertTime(request.queryParams("timeFilter"));
                 }
+                System.out.println(timeString);
                 final Collection<String> softstrings = new ArrayList<String>();
                 if (request.queryParamsValues("softwareFilter[]")!= null) {
                     for (String str : request.queryParamsValues("softwareFilter[]")) {
@@ -117,9 +115,9 @@ public class Main {
                 boolean search = false;
 
 
-                if((!timestrings.isEmpty())&&(!daystrings.isEmpty())){
+                if((timeString != "")&&(dayString != "")){
                     search = true;
-                    filterlist.add(Functions.generateRoomFilter(MongoAccess.getRoomList(timestrings, daystrings)));
+                    filterlist.add(Functions.generateRoomFilter(MongoAccess.getRoomList(timeString, dayString)));
                 }
                 if(!softstrings.isEmpty()) {
                     search = true;
@@ -147,8 +145,8 @@ public class Main {
                         //generate page content
 
                         thisMap.put("error", "");
-                        thisMap.put("dayoptions", Functions.getDayOptions());
-                        thisMap.put("timeoptions", Functions.getTimeOptions());
+                       // thisMap.put("dayoptions", Functions.getDayOptions());
+                       // thisMap.put("timeoptions", Functions.getTimeOptions());
                         thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                         thisMap.put("hardwareoptions", Functions.getHardwareOptions());
                         thisMap.put("extraoptions", Functions.getExtraOptions());
@@ -178,8 +176,8 @@ public class Main {
                         List rooms = new ArrayList<String>();
 
                         thisMap.put("error", errstring);
-                        thisMap.put("dayoptions", Functions.getDayOptions());
-                        thisMap.put("timeoptions", Functions.getTimeOptions());
+                       // thisMap.put("dayoptions", Functions.getDayOptions());
+                      //  thisMap.put("timeoptions", Functions.getTimeOptions());
                         thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                         thisMap.put("hardwareoptions", Functions.getHardwareOptions());
                         thisMap.put("extraoptions", Functions.getExtraOptions());

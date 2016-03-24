@@ -4,7 +4,11 @@ import com.mongodb.BasicDBList;
 import com.mongodb.BasicDBObject;
 import org.bson.conversions.Bson;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -182,30 +186,76 @@ public class Functions {
 
         return Options;
     }
-    public static String[] getDayOptions(){
+    public static String[] getDays(){
 
-        String[] Options = new String[5];
+        String[] Options = new String[7];
 
-        Options[0] = "M";
-        Options[1] = "T";
-        Options[2] = "W";
-        Options[3] = "TH";
-        Options[4] = "F";
+        Options[0] = "S";
+        Options[1] = "M";
+        Options[2] = "T";
+        Options[3] = "W";
+        Options[4] = "TH";
+        Options[5] = "F";
+        Options[6] = "St";
+
 
         return Options;
     }
     public static String[] getTimeOptions(){
 
-        String[] Options = new String[8];
+        String[] Options = new String[10];
 
-        Options[0] = "8:00 AM";
-        Options[1] = "9:30 AM";
-        Options[2] = "11:00 AM";
-        Options[3] = "12:30 PM";
-        Options[4] = "2:00 PM";
-        Options[5] = "3:30 PM";
-        Options[6] = "5:00 PM";
-        Options[7] = "5:30 PM";
+        Options[0] = "pre";
+        Options[1] = "8:00 AM";
+        Options[2] = "9:30 AM";
+        Options[3] = "11:00 AM";
+        Options[4] = "12:30 PM";
+        Options[5] = "2:00 PM";
+        Options[6] = "3:30 PM";
+        Options[7] = "5:00 PM";
+        Options[8] = "5:30 PM";
+        Options[9] = "post";
+
+        return Options;
+    }
+
+    public static String convertDay(String date){
+
+        Date d = null;
+        String day;
+        try {
+            d = new SimpleDateFormat("dd/M/yyyy").parse(date);
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+        Calendar c = Calendar.getInstance();
+        c.setTime(d);
+        String[] Options = getDays();
+        System.out.println(c.get(Calendar.DAY_OF_WEEK));
+        day = Options[c.get(Calendar.DAY_OF_WEEK)];
+
+        return day;
+    }
+
+    public static String convertTime(String timestr){
+        return getTimeOptions()[getTimes().indexOf(timestr)];
+    }
+
+
+    public static List<String> getTimes(){
+
+        List<String> Options = new ArrayList<String>();
+
+        Options.add("Before 8:00AM");
+        Options.add("8:00AM - 9:15AM");
+        Options.add("9:30AM - 10:45AM");
+        Options.add("11:00AM - 12:15PM");
+        Options.add("12:30AM - 1:45PM");
+        Options.add("2:00PM - 3:15PM");
+        Options.add("3:30PM - 4:45PM");
+        Options.add("5:00PM - 6:15PM");
+        Options.add("5:30PM - 8:15PM");
+        Options.add("After 8:15PM");
 
         return Options;
     }

@@ -149,9 +149,9 @@ public class MongoAccess {
         return list;
     }
 
-    public static List<String> getRoomList(List<String> timeCol, List<String> dayCol){
+    public static List<String> getRoomList(String time, String day){
 
-        if ((timeCol.isEmpty())||(dayCol.isEmpty()))
+        if ((time == "")||(day == ""))
         {
             return null;
         }
@@ -166,28 +166,21 @@ public class MongoAccess {
         BasicDBList timelist = new BasicDBList();
         BasicDBObject tmplistObj;
 
-        for(String str : timeCol){
-            tmplistObj = new BasicDBObject("Start Time", str );
-            timelist.add(tmplistObj);
-        }
+
+        tmplistObj = new BasicDBObject("Start Time", time );
+        timelist.add(tmplistObj);
 
         Bson timefilter = new BasicDBObject("$and", timelist );
 
 
-
         BasicDBList daylist = new BasicDBList();
 
-        for(String str : dayCol){
-            System.out.println(str);
-            tmplistObj = new BasicDBObject("Day", str );
-            daylist.add(tmplistObj);
-        }
+        tmplistObj = new BasicDBObject("Day", day );
+        daylist.add(tmplistObj);
 
         Bson dayfilter = new BasicDBObject("$and", daylist );
 
 
-
-        //List<Document> all = courseCol.find(and(new Document("Days", "T"), new Document("Start Time", "9:30 AM"))).into(new ArrayList<Document>());
         List<Document> all = courseCol.find(or(dayfilter, timefilter)).into(new ArrayList<Document>());
 
 
@@ -201,20 +194,17 @@ public class MongoAccess {
 
                 if(tmp.StartTime.size()>1){
                     for(int i = 0; i < tmp.StartTime.size(); i++){
-                        if((timeCol.contains(tmp.StartTime.get(i)))&&(dayCol.contains(tmp.Days.get(i)))){
+                        if((time == (tmp.StartTime.get(i)))&&(day == (tmp.Days.get(i)))){
                             if(!list.contains(tmp.Room.get(i)))
                             {
-
                                 list.add(tmp.Room.get(i));
                             }
                         }
                     }
                 }
                 else {
-
-
                     for (String str : tmp.Days) {
-                        if ((timeCol.contains(tmp.StartTime.get(0))) && (dayCol.contains(str))) {
+                        if ((time == (tmp.StartTime.get(0))) && (day == str)) {
                             if (!list.contains(tmp.Room.get(0))) {
 
                                 list.add(tmp.Room.get(0));
