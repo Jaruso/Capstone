@@ -79,17 +79,12 @@ public class Main {
 
 
                 // Request input to various filter items
-
-                String dayString = "";
-                if (request.queryParams("dayFilter") != null) {
-                    dayString = Functions.convertDay(request.queryParams("dayFilter"));
-                }
+                final String dayString = Functions.convertDay(request.queryParams("dayFilter"));
                 System.out.println(dayString);
-                String timeString = "";
-                if (request.queryParamsValues("timeFilter") != null) {
-                    timeString = Functions.convertTime(request.queryParams("timeFilter"));
-                }
+
+                final String timeString = Functions.convertTime(request.queryParams("timeFilter"));
                 System.out.println(timeString);
+
                 final Collection<String> softstrings = new ArrayList<String>();
                 if (request.queryParamsValues("softwareFilter[]")!= null) {
                     for (String str : request.queryParamsValues("softwareFilter[]")) {

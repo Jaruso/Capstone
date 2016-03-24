@@ -221,10 +221,13 @@ public class Functions {
 
     public static String convertDay(String date){
 
+        if(date =="")
+            return "";
+
         Date d = null;
         String day;
         try {
-            d = new SimpleDateFormat("dd/M/yyyy").parse(date);
+            d = new SimpleDateFormat("MM/dd/yyyy").parse(date);
         } catch (ParseException e) {
             e.printStackTrace();
         }
@@ -232,7 +235,7 @@ public class Functions {
         c.setTime(d);
         String[] Options = getDays();
         System.out.println(c.get(Calendar.DAY_OF_WEEK));
-        day = Options[c.get(Calendar.DAY_OF_WEEK)];
+        day = Options[c.get(Calendar.DAY_OF_WEEK)-1];// minus 1 since DAY_OF_WEEK starts at 1 not 0
 
         return day;
     }
@@ -250,7 +253,7 @@ public class Functions {
         Options.add("8:00AM - 9:15AM");
         Options.add("9:30AM - 10:45AM");
         Options.add("11:00AM - 12:15PM");
-        Options.add("12:30AM - 1:45PM");
+        Options.add("12:30PM - 1:45PM");
         Options.add("2:00PM - 3:15PM");
         Options.add("3:30PM - 4:45PM");
         Options.add("5:00PM - 6:15PM");

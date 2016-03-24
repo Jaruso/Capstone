@@ -153,6 +153,7 @@ public class MongoAccess {
 
         if ((time == "")||(day == ""))
         {
+            System.out.println("How did i get in here?");
             return null;
         }
 
@@ -163,38 +164,22 @@ public class MongoAccess {
 
         MongoCollection<Document> courseCol = db.getCollection("Classes");
 
-        BasicDBList timelist = new BasicDBList();
-        BasicDBObject tmplistObj;
+        Bson timeObj = new BasicDBObject("Start Time", time );
+        Bson dayObj = new BasicDBObject("Day", day );
 
 
-        tmplistObj = new BasicDBObject("Start Time", time );
-        timelist.add(tmplistObj);
-
-        Bson timefilter = new BasicDBObject("$and", timelist );
-
-
-        BasicDBList daylist = new BasicDBList();
-
-        tmplistObj = new BasicDBObject("Day", day );
-        daylist.add(tmplistObj);
-
-        Bson dayfilter = new BasicDBObject("$and", daylist );
-
-
-        List<Document> all = courseCol.find(or(dayfilter, timefilter)).into(new ArrayList<Document>());
-
-
-
+        List<Document> all = courseCol.find(or(dayObj, timeObj)).into(new ArrayList<Document>());
         List<String> list = new ArrayList<String>();
 
         for(Document doc : all)
         {
             Course tmp = new Course(doc);
 
+               // System.out.println(tmp.Room.get(0));
 
-                if(tmp.StartTime.size()>1){
+                if(tmp.StartTime.size()>1){ //multiple class times
                     for(int i = 0; i < tmp.StartTime.size(); i++){
-                        if((time == (tmp.StartTime.get(i)))&&(day == (tmp.Days.get(i)))){
+                        if((time.equals(tmp.StartTime.get(i)))&&(day.equals(tmp.Days.get(i)))){
                             if(!list.contains(tmp.Room.get(i)))
                             {
                                 list.add(tmp.Room.get(i));
@@ -202,21 +187,17 @@ public class MongoAccess {
                         }
                     }
                 }
-                else {
+                else { //One start time
                     for (String str : tmp.Days) {
-                        if ((time == (tmp.StartTime.get(0))) && (day == str)) {
+                        if ((time.equals(tmp.StartTime.get(0))) && (day.equals(str))) {
                             if (!list.contains(tmp.Room.get(0))) {
-
                                 list.add(tmp.Room.get(0));
                             }
                         }
                     }
                 }
-
         }
-
         return list;
-
     }
 
     public static void setMongoDays(){
