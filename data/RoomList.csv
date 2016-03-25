@@ -1,86 +1,87 @@
-Name,Number,Building,Num_PC,Num_mac,Image,TVs,Projector,Printer,Whiteboard,Sound_equipment,Dual_monitors,Study_rooms,Scanner,Photo_equipment
-Wick 100,100,WICK,1,0,,0,1,,1,,,,,
-Wick 101,101,WICK,25,0,WICK1,0,1,,1,,,,,
-Wick 102,102,WICK,1,0,,2,1,,1,,,,,
-Joyce 100,100,JOYC,1,0,,0,,,,,,,,
-Joyce 101,101,JOYC,25,0,WICK1,6,1,,0,,1,,,
-Joyce 102,102,JOYC,1,0,,0,1,,,,,,,1
-Joyce 103,103,JOYC,1,0,,0,1,,,,,,,
-Joyce 200,200,JOYC,1,0,,0,1,,,,,,,
-Joyce 201,201,JOYC,1,0,,0,1,,,,,,,
-Joyce 202,202,JOYC,1,0,,0,1,,,,,,,
-Joyce 203,203,JOYC,1,0,,0,1,,,,,,,
-Joyce 204,204,JOYC,1,0,,0,1,,,,,,,
-Joyce 205,205,JOYC,1,0,,0,1,,,,,,,
-Joyce 206,206,JOYC,1,0,,0,1,,,,,,,
-Joyce 207,207,JOYC,1,0,,0,1,,,,,,,
-Joyce 208,208,JOYC,1,0,,0,1,,,,,,,
-Joyce 209,209,JOYC,1,0,,0,1,,,,,,,
-Joyce 210,210,JOYC,1,0,,0,1,,,,,,,
-Joyce 211,211,JOYC,1,0,,0,1,,,,,,,
-Joyce 212,212,JOYC,1,0,,0,1,,,,,,,
-Joyce 300,300,JOYC,1,0,,0,1,,,,,,,
-Joyce 301,301,JOYC,1,0,,0,1,,,,,,,
-Joyce 302,302,JOYC,1,0,,0,1,,,,,,,
-Joyce 303,303,JOYC,1,0,,0,1,,,,,,,
-Joyce 304,304,JOYC,1,0,,0,1,,,,,,,
-Joyce 305,305,JOYC,1,0,,0,1,,,,,,,
-Joyce 306,306,JOYC,1,0,,0,1,,,,,,,
-Joyce 307,307,JOYC,1,0,,0,1,,,,,,,
-Joyce 308,308,JOYC,1,0,,0,1,,,,,,,
-Joyce 309,309,JOYC,1,0,,0,1,,,,,,,
-Joyce 310,310,JOYC,1,0,,0,1,,,,,,,
-Joyce 311,311,JOYC,1,0,,0,1,,,,,,,
-Joyce 312,312,JOYC,1,0,,0,1,,,,,,,
-Joyce 313,313,JOYC,1,0,,0,1,,,0,,,,
-Foster 100,100,FOST,22,0,FOST1,2,1,,1,,,,,
-Foster 101,101,FOST,0,21,FOSTM,1,1,,1,1,,,,
-Foster 104,104,FOST,25,0,FOST4,2,1,,1,,,,,
-Foster 200,200,FOST,10,0,FOST4,0,,,,,1,,,
-Foster 2nd Floor,2,FOST,0,4,FOSTM,0,,,,,,,,
-MIC 308,308,MIC,27,0,MIC8,0,1,,1,,,,,
-MIC 305/306,305/306,MIC,1,0,MIC3,0,1,,1,,,,,
-MIC 3rd Floor,3,MIC,6,0,MIC3,0,,1,,,,3,,
-MIC 2nd Floor,2,MIC,32,0,MIC2,0,,1,,,,4,,
-MIC 1st Floor,1,MIC,8,0,MIC1,0,,1,,,,,1,
-MIC Stand,S,MIC,4,0,MICS,0,,1,,,,,,
-MIC Ground,0,MIC,6,0,MIC1,0,,1,,,,5,,
-MIC Kurzweil,K,MIC,1,0,MICK,0,,1,,,,,1,
-MIC Vista Room,V,MIC,0,0,,0,,,1,,,,,
-CCM 001,001,CCM,24,0,CCM1,3,2,,,,1,,,
-CCM 101,101,CCM,1,0,,0,,,,,,,,
-CCM 212,212,CCM,0,0,,1,,,1,,,,,
-CCM 221,221,CCM,1,0,,1,,,,,,,,
-CCM 222,222,CCM,30,0,CCM1,0,,,,,,,,
-CCM 224,224,CCM,25,0,CCM2,0,,,,,,,,
-CCM 232,232,CCM,1,0,,2,1,,1,,,,,
-CCM 233,233,CCM,1,0,,4,1,,1,,,,,
-CCM 305,305,CCM,1,0,,0,,,,,,,,
-CCM 424,424,CCM,1,0,,0,,,,,,,,
-CCM 426,426,CCM,0,20,CCMM,0,,,,,,,,
-CCM 434,434,CCM,1,0,,0,,,,,,,,
-CCM 436,436,CCM,1,0,,0,,,,,,,,
-CCM 442,442,CCM,1,0,,0,,,,,,,,
-CCM 444,444,CCM,1,0,,0,,,,,,,,
-West 101,L,WEST,3,1,,0,,,,,1,,,
-Coolidge 300,300,COOL,4,0,,1,,,1,,,,,
-Garden 1st Floor,1,GARD,2,0,,0,,,,,,,,
-Garden 103,103,GARD,8,0,,0,1,,,,,,,
-Skiff 100,100,SKFA,28,0,SKIF1,0,1,,,,,,,
-Skiff 102,102,SKFA,16,0,SKIF2,0,1,,,,,,,
-Ireland 012,012,GBTC,0,26,IRELM,0,,,,,,,,
-Ireland 014,014,GBTC,0,25,IRELM,0,,,,,,,,
-Ireland 015,015,GBTC,0,19,IRELM,0,,,,,,,,
-Ireland 017,017,GBTC,1,0,,0,,,,,,,,
-Ireland 112,112,GBTC,1,0,,0,,,,,,,,
-Ireland 114,114,GBTC,1,0,,0,,,,,,,,
-Ireland 117,117,GBTC,1,0,,0,,,,,,,,
-Ireland 201,201,GBTC,1,0,,0,,,,,,,,
-Ireland 206,206,GBTC,1,0,,0,,,,,,,,
-Ireland 217,217,GBTC,1,0,,0,,,,,,,,
-Ireland Cart,C,GBTC,6,0,IRELC,0,,,,,,,,
-Studio Barn Lab,200,BARN,0,20,METZ,0,,,,,,,,
-Freeman 102,102,FREE,0,0,,0,,,,,,,,
-Freeman 105,105,FREE,0,0,,0,,,,,,,,
-Freeman 201,201,FREE,0,0,,0,,,,,,,,
-Freeman 203,203,FREE,0,0,,0,,,,,,,,
+Name,Number,Building,Num_PC,Num_mac,Image,TVs,Projector,Printer,Whiteboard,Sound_equipment,Dual_monitors,Study_rooms,Scanner,Photo_equipment,Description
+Wick 100,100,WICK,1,0,,0,1,,1,,,,,,An average sized classroom. Contains several tables with 2-3 chairs each. Contains a podium and a computer with a projector set up.
+Wick 101,101,WICK,25,0,WICK1,0,1,1,1,,,,,,"An average sized lab space. Contains 25 computers running Windows, a podium and a computer with a projector."
+Wick 102,102,WICK,1,0,,2,1,,1,,,,,,"A larger classroom. Contains several tables with 2-3 chairs each, several mobile whiteboards, and a computer with a projector and 2 HD TVs."
+Joyce 100,100,JOYC,1,0,,0,,,,,,,,,"A larger classroom. Contains several tables with 2-3 chairs each, and a computer with a projector."
+Joyce 101,101,JOYC,25,0,WICK1,6,1,,0,,1,,,,"A large lab space. Contains 25 computers running Windows with dual moniters, a podium and a computer with a projector and 6 HD TVs."
+Joyce 102,102,JOYC,1,0,,0,1,,,,,,,1,"A larger classroom. Contains several tables with 2-3 chairs each, access to photography equipment, and a computer with a projector."
+Joyce 103,103,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 200,200,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 201,201,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 202,202,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 203,203,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 204,204,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 205,205,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 206,206,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 207,207,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 208,208,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 209,209,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 210,210,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 211,211,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 212,212,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 300,300,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 301,301,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 302,302,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 303,303,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 304,304,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 305,305,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 306,306,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 307,307,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 308,308,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 309,309,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 310,310,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 311,311,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 312,312,JOYC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Joyce 313,313,JOYC,1,0,,0,1,,,0,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Foster 100,100,FOST,22,0,FOST1,2,1,,1,,,,,,"An average sized lab space. Contains 22 computers running Windows, a podium and a computer with a projector and 2 HD TVS."
+Foster 101,101,FOST,0,21,FOSTM,1,1,,1,1,,,,,"A large lab space. Contains 25 computers with audio equipment running iOS 10, a podium and a computer with a projector and an HD TV."
+Foster 104,104,FOST,25,0,FOST4,2,1,,1,,,,,,"A large lab space. Contains 25 computers running Windows, a podium and a computer with a projector and 2 HD TVS."
+Foster 200,200,FOST,10,0,FOST4,0,,,,,1,,,,"A small lab space. Contains 10 computers running Windows with dual monitors, some portable whiteboards, and printer access."
+Foster 2nd Floor,2,FOST,0,4,FOSTM,0,,,,,,,,,A small lab space. This is the open area on the second floor of Foster. Contains 4 computers running iOS 10.
+MIC 308,308,MIC,27,0,MIC8,0,1,,1,,,,,,"A large lab space. Contains 27 laptops with running Windows, a podium and a computer with a projector."
+MIC 305/306,305/306,MIC,1,0,MIC3,0,1,,1,,,,,,"An average sized classroom. Contains one large table which seats around 20 people, a mobile whiteboard, a podium and a computer with a projector."
+MIC 3rd Floor,3,MIC,6,0,MIC3,0,,1,,,,3,,,"The top floor of the library. Contains 6 computers running Windows, has printer access, and has 3 private study rooms."
+MIC 2nd Floor,2,MIC,32,0,MIC2,0,,1,,,,4,,,"The 2nd floor of the library. Contains 32 computers running Windows, has printer access, and has 4 private study rooms."
+MIC 1st Floor,1,MIC,8,0,MIC1,0,,1,,,,,1,,"The 1st floor of the library. Contains 8 computers running Windows, has printer and scanner access."
+MIC Stand,S,MIC,4,0,MICS,0,,1,,,,,,,"The main desk in the library. Contains 4 computers running Windows, has printer and scanner access."
+MIC Ground,0,MIC,6,0,MIC1,0,,1,,,,5,,,"The basement floor of the library. Contains 6 computers running Windows, has printer access, and has 5 private study rooms."
+MIC Kurzweil,K,MIC,1,0,MICK,0,,1,,,,,1,,The Kurzweil computer is located on the top floor of the library. It has printer an scanner access.
+MIC Vista Room,V,MIC,0,0,,0,,,1,,,,,,"A small, open room on the top floor of the library. Contains couches and desk areas for public study."
+CCM 001,001,CCM,24,0,CCM1,3,2,,,,1,,,,"A large lab space. Contains 24 computers running Windows with dual monitors, a podium and a computer with two projectors and 3 HD TVS."
+CCM 101,101,CCM,1,0,,0,,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+CCM 212,212,CCM,0,0,,1,,,1,,,,,,A small public room. Contains a large table with chairs and an HD TV.
+CCM 221,221,CCM,1,0,,1,,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+CCM 222,222,CCM,30,0,CCM1,0,,,,,,,,,"A large lab space. Contains 30 computers running Windows, a podium and a computer with a projector."
+CCM 224,224,CCM,25,0,CCM2,0,,,,,,,,,"A large lab space. Contains 25 computers running Windows, a podium and a computer with a projector."
+CCM 232,232,CCM,1,0,,2,1,,1,,,,,,An average sized classroom. Contains a podium and a computer with a projector and 2 HD TVS.
+CCM 233,233,CCM,1,0,,4,1,,1,,,,,,An average sized classroom. Contains a podium and a computer with a projector and 4 HD TVS.
+CCM 305,305,CCM,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+CCM 424,424,CCM,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+CCM 426,426,CCM,0,20,CCMM,0,1,,,,,,,,"A large lab space. Contains 20 computers running iOS 10, a podium and a computer with a projector."
+CCM 434,434,CCM,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+CCM 436,436,CCM,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+CCM 442,442,CCM,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+CCM 444,444,CCM,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+West 101,L,WEST,3,1,,0,,,,,1,,,,"A small lab space located on the first floor of West hall. Contains 3 computers running Windows with dual monitors, and 1 computer running iOS 10."
+Coolidge 300,300,COOL,4,0,,1,,,1,,,,,,"A small lab space located on the top floor of the tutoring building. Contains 4 computers running Windows, a TV and a whiteboard."
+Garden 1st Floor,1,GARD,2,0,,0,,,,,,,,,A small public area located in the career advisor building.
+Garden 103,103,GARD,8,0,,0,1,,,,,,,,"A small lab space. Contains 8 computers running Windows, a podium and a computer with a projector."
+Skiff 100,100,SKFA,28,0,SKIF1,0,1,,,,,,,,"An average sized lab space. Contains 28 computers running Windows, a podium and a computer with a projector."
+Skiff 102,102,SKFA,16,0,SKIF2,0,1,,,,,,,,"An average sized lab space. Contains 16 computers running Windows, a podium and a computer with a projector."
+Ireland 012,012,GBTC,0,26,IRELM,0,1,,,,,,,,"A large lab space. Contains 26 computers running iOS 10, a podium and a computer with a projector."
+Ireland 014,014,GBTC,0,25,IRELM,0,1,,,,,,,,"A large lab space. Contains 25 computers running iOS 10, a podium and a computer with a projector."
+Ireland 015,015,GBTC,0,19,IRELM,0,1,,,,,,,,"A large lab space. Contains 19 computers running iOS 10, a podium and a computer with a projector."
+Ireland 017,017,GBTC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Ireland 112,112,GBTC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Ireland 114,114,GBTC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Ireland 117,117,GBTC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Ireland 201,201,GBTC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Ireland 206,206,GBTC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Ireland 217,217,GBTC,1,0,,0,1,,,,,,,,"An average sized classroom. Contains several tables with 2-3 chairs each, a podium and a computer with a projector."
+Ireland Cart,C,GBTC,6,0,IRELC,0,,,,,,,,,A mobile cart containng 6 laptops running Windows.
+Studio Barn Lab,200,BARN,0,20,METZ,0,,,,,,,,,"A large lab space. Contains 20 computers running iOS 10, a podium and a computer with a projector."
+Freeman 102,102,FREE,0,0,,0,,,,,,,,,"An average sized classroom. Contains several tables with lab stations 3-4 chairs each, and a podium.
+"
+Freeman 105,105,FREE,0,0,,0,,,,,,,,,"An average sized classroom. Contains several tables with lab stations 3-4 chairs each, and a podium."
+Freeman 201,201,FREE,0,0,,0,,,,,,,,,"An average sized classroom. Contains several tables with lab stations 3-4 chairs each, and a podium."
+Freeman 203,203,FREE,0,0,,0,,,,,,,,,"An average sized classroom. Contains several tables with lab stations 3-4 chairs each, and a podium."
