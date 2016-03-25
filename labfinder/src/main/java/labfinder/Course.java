@@ -10,15 +10,15 @@ import java.util.List;
  */
 public class Course {
 
-    String Division;
-    String Section;
-    String Title;
-    List<String> Building;
-    List<String> RoomNum;
-    List<String> Room;
-    List<String> Days;
-    List<String> StartTime;
-    List<String> EndTime;
+    public String Division;
+    public String Section;
+    public String Title;
+    public List<String> Building;
+    public List<String> RoomNum;
+    public List<String> Room;
+    public List<String> Days;
+    public List<String> StartTime;
+    public List<String> EndTime;
 
 
     public Course(){

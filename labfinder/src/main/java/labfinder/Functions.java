@@ -119,6 +119,14 @@ public class Functions {
     }
 
 
+    // Returns a list of the software contained on the image used in the room
+    public static List<String> getSoftware(Room room){
+
+        List<String> software = new ArrayList<String>();
+
+        return software;
+    }
+
     public static String[] getSoftwareOptions(){
 
         String[] Options = new String[32];

@@ -10,9 +10,9 @@ import java.util.List;
  */
 public class Image {
 
-    String name;
-    List<String> software;
-    Object lastupdated;
+    public String name;
+    public List<String> software;
+    public Object lastupdated;
 
 
     public Image() {

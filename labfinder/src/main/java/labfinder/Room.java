@@ -24,6 +24,7 @@ public class Room {
     Object studyRoom;
     Object scanner;
     Object photoeq;
+    Object description;
 
 
     public Room(Document newD) {
@@ -44,6 +45,7 @@ public class Room {
         studyRoom = newD.get("Study_rooms", Object.class);
         scanner = newD.get("Scanner", Object.class);
         photoeq = newD.get("Photo_equipment", Object.class);
+        description = newD.get("Description", Object.class);
 
     }
 
@@ -93,7 +95,7 @@ public class Room {
 
         //ToDO make description
         s += "<p>";
-        s += "The description of the room. ";
+        s += description;
         s += "</p>";
 
         s += "</div>";

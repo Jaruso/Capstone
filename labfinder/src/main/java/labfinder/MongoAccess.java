@@ -312,7 +312,7 @@ public class MongoAccess {
         List<Document> newlist = new ArrayList<Document>();
 
 
-        String tmp1, tmp2, tmp3, tmp4, tmp5, tmp6, tmp7, tmp8, tmp9, tmp10, tmp11, tmp12, tmp13;
+        String tmp1, tmp2, tmp3, tmp4, tmp5, tmp6, tmp7, tmp8, tmp9, tmp10, tmp11, tmp12, tmp13, tmp14;
 
 
 
@@ -333,13 +333,15 @@ public class MongoAccess {
             tmp11 = doc.get("TVs", Object.class).toString();
             tmp12 = doc.get("Num_PC", Object.class).toString();
             tmp13 = doc.get("Num_mac", Object.class).toString();
+            tmp14 = doc.get("Description", Object.class).toString();
 
 
             tmpDoc.append("Room", (tmp2 + " " + tmp1))
                 .append("Number", tmp1)
                 .append("Building",tmp2)
                 .append("Image", doc.get("Image", Object.class).toString())
-                .append("TVs", tmp11);
+                .append("TVs", tmp11)
+                .append("Description", tmp14);
 
 
                 tmpDoc.append("NumPCs", tmp12);

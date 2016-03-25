@@ -140,8 +140,7 @@ public class Main {
                         //generate page content
 
                         thisMap.put("error", "");
-                       // thisMap.put("dayoptions", Functions.getDayOptions());
-                       // thisMap.put("timeoptions", Functions.getTimeOptions());
+                        //thisMap.put("timeoptions", Functions.getTimeOptions());
                         thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                         thisMap.put("hardwareoptions", Functions.getHardwareOptions());
                         thisMap.put("extraoptions", Functions.getExtraOptions());
