@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0e10d1e-b349-4eb9-95e6-38398b6e427a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/css/champlain.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/css/navbar-fixed-top.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/css/soft.css" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\Champlain_College_Burlington_Vermont_Logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\lab.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\macicon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\windowsicon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\target\classes\Champlain_College_Burlington_Vermont_Logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\target\classes\datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\target\classes\lab.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\target\classes\macicon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\target\classes\windowsicon.png" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\java\labfinder\main.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Functions.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Functions.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Main$1.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Main$2.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Main.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/MongoAccess.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/MongoAccess.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Room.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Room.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data/RoomList.ods" afterPath="$PROJECT_DIR$/../data/RoomList.ods" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/Thumbs.db" afterPath="$PROJECT_DIR$/src/main/resources/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Thumbs.db" afterPath="$PROJECT_DIR$/target/classes/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/labfinder-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/labfinder-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/labfinder-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/target/labfinder-jar-with-dependencies.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/labfinder/Functions.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/Functions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/labfinder/MongoAccess.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/MongoAccess.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/labfinder/Room.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/Room.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data/RoomList.csv" afterPath="$PROJECT_DIR$/../data/RoomList.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/RoomSearch.ftl" afterPath="$PROJECT_DIR$/src/main/resources/RoomSearch.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/RoomSearch.ftl" afterPath="$PROJECT_DIR$/target/classes/RoomSearch.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/labfinder.iml" afterPath="$PROJECT_DIR$/labfinder.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a0e10d1e-b349-4eb9-95e6-38398b6e427a" name="Default" comment="" />
     <ignored path="LabFinder.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,7 +27,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3967684">
+            <state vertical-scroll-proportion="0.94614005">
               <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
               <folding>
                 <element signature="e#658#1925#0" expanded="true" />
@@ -748,7 +708,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1155,7 +1115,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3967684">
+        <state vertical-scroll-proportion="0.94614005">
           <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
           <folding>
             <element signature="e#658#1925#0" expanded="true" />
