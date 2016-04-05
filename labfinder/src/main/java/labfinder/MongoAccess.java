@@ -69,7 +69,14 @@ public class MongoAccess {
 
         MongoCollection<Document> roomCol = db.getCollection("Rooms");
 
-        List<Document> all = roomCol.find(filter).into(new ArrayList<Document>());
+        List<Document> all;
+
+        try {
+            all = roomCol.find(filter).into(new ArrayList<Document>());
+        }catch (Exception e)
+        {
+            all = roomCol.find().into(new ArrayList<Document>());
+        }
 
         List<Room> rooms = new ArrayList<Room>();
 
@@ -151,7 +158,7 @@ public class MongoAccess {
 
     public static List<String> getRoomList(String time, String day){
 
-        if ((time == "")||(day == ""))
+        if ((time.equals(""))||(day.equals("")))
         {
             System.out.println("How did i get in here?");
             return null;
@@ -312,9 +319,8 @@ public class MongoAccess {
         List<Document> newlist = new ArrayList<Document>();
 
 
-        String tmp1, tmp2, tmp3, tmp4, tmp5, tmp6, tmp7, tmp8, tmp9, tmp10, tmp11, tmp12, tmp13, tmp14;
-
-
+        String tmp1, tmp2, tmp3, tmp4, tmp5, tmp6, tmp7, tmp8, tmp9, tmp10, tmp14, tmp15;
+        Integer tmp12, tmp13, tmp11;
 
         for(Document doc  : roomlist){
 
@@ -330,10 +336,11 @@ public class MongoAccess {
             tmp8 = doc.get("Study_rooms", Object.class).toString();
             tmp9 = doc.get("Scanner", Object.class).toString();
             tmp10 = doc.get("Photo_equipment", Object.class).toString();
-            tmp11 = doc.get("TVs", Object.class).toString();
-            tmp12 = doc.get("Num_PC", Object.class).toString();
-            tmp13 = doc.get("Num_mac", Object.class).toString();
+            tmp11 = doc.getInteger("TVs");
+            tmp12 = doc.getInteger("Num_PC");
+            tmp13 = doc.getInteger("Num_mac");
             tmp14 = doc.get("Description", Object.class).toString();
+            tmp15 = doc.get("Png", Object.class).toString();
 
 
             tmpDoc.append("Room", (tmp2 + " " + tmp1))
@@ -341,7 +348,8 @@ public class MongoAccess {
                 .append("Building",tmp2)
                 .append("Image", doc.get("Image", Object.class).toString())
                 .append("TVs", tmp11)
-                .append("Description", tmp14);
+                .append("Description", tmp14)
+                .append("Png", tmp15);
 
 
                 tmpDoc.append("NumPCs", tmp12);

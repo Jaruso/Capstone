@@ -26,9 +26,7 @@ public class Functions {
             or.add(tmpObj);
         }
 
-        BasicDBObject filter = new BasicDBObject("$nor", or);
-
-        return filter;
+        return new BasicDBObject("$nor", or);
     }
 
 
@@ -36,86 +34,54 @@ public class Functions {
     public static Bson combineFilter(List<Bson> list)
     {
         BasicDBList and = new BasicDBList();
-
-        for(Bson b : list){
-            and.add(b);
-        }
-
-        Bson filter = new BasicDBObject("$and", and);
-
-        return filter;
+        for(Bson b : list){ and.add(b); }
+        return new BasicDBObject("$and", and);
     }
 
 
     public static BasicDBObject generateImgFilter(List<String> list) {
-
         BasicDBList or = new BasicDBList();
-
-        BasicDBObject tmpObj;
-
-
-        for(String str : list){
-            tmpObj = new BasicDBObject("Image", str );
-            or.add(tmpObj);
-        }
-
-        BasicDBObject filter = new BasicDBObject("$or", or);
-
-        return filter;
+        for(String str : list){ or.add(new BasicDBObject("Image", str )); }
+        return new BasicDBObject("$or", or);
     }
 
     //TODO  fix hardware filter
-
     public static Bson generateHardfilter(ArrayList<String> list){
 
         BasicDBList and = new BasicDBList();
 
-        BasicDBObject tmpObj;
-
         for(String str : list){
 
             if(str.equals("Printer")){
-                tmpObj = new BasicDBObject("Printer", true );
-                and.add(tmpObj);
+                and.add(new BasicDBObject("Printer", new BasicDBObject("$exists", true) ));
             }
             else if(str.equals("Projector")){
-                tmpObj = new BasicDBObject("Projector", new BasicDBObject("$exists", true) );
-                and.add(tmpObj);
+                and.add(new BasicDBObject("Projector", new BasicDBObject("$exists", true) ));
             }
-            else if(str.equals("TVs")){ //TODO This will not work
-                tmpObj = new BasicDBObject("TVs", true );
-                and.add(tmpObj);
+            else if(str.equals("TVs")){ //TODO This might not work
+                and.add(new BasicDBObject("TVs", new BasicDBObject("$gt", 0) ));
             }
             else if(str.equals("Scanner")){
-                tmpObj = new BasicDBObject("Scanner", new BasicDBObject("$exists", true) );
-                and.add(tmpObj);
+                and.add(new BasicDBObject("Scanner", new BasicDBObject("$exists", true) ));
             }
             else if(str.equals("Dual Monitors")){
-                tmpObj = new BasicDBObject("Dual_monitors", new BasicDBObject("$exists", true) );
-                and.add(tmpObj);
+                and.add(new BasicDBObject("Dual_monitors", new BasicDBObject("$exists", true) ));
             }
             else if(str.equals("Sound Equipment")){
-                tmpObj = new BasicDBObject("Sound_equipment", new BasicDBObject("$exists", true) );
-                and.add(tmpObj);
+                and.add(new BasicDBObject("Sound_equipment", new BasicDBObject("$exists", true) ));
             }
             else if(str.equals("Photo Equipment")){
-                tmpObj = new BasicDBObject("Photo_equipment", new BasicDBObject("$exists", true) );
-                and.add(tmpObj);
+                and.add( new BasicDBObject("Photo_equipment", new BasicDBObject("$exists", true) ));
             }
             else if(str.equals("Windows")){
-                //TODO  ????
+                and.add(new BasicDBObject("Num_PC", new BasicDBObject("$gt", 0) ));
             }
             else if(str.equals("Apple")){
-                //TODO  ????
-            }
-            else if(str.equals("Chromebooks")){
-                //TODO  ????
+                and.add(new BasicDBObject("Num_mac", new BasicDBObject("$gt", 0) ));
             }
 
         }
-
-        BasicDBObject filter = new BasicDBObject("$and", and);
-        return filter;
+        return new BasicDBObject("$and", and);
     }
 
 
@@ -229,7 +195,7 @@ public class Functions {
 
     public static String convertDay(String date){
 
-        if(date =="")
+        if(date.equals(""))
             return "";
 
         Date d = null;
@@ -242,16 +208,18 @@ public class Functions {
         Calendar c = Calendar.getInstance();
         c.setTime(d);
         String[] Options = getDays();
-        System.out.println(c.get(Calendar.DAY_OF_WEEK));
         day = Options[c.get(Calendar.DAY_OF_WEEK)-1];// minus 1 since DAY_OF_WEEK starts at 1 not 0
 
         return day;
     }
 
     public static String convertTime(String timestr){
-        return getTimeOptions()[getTimes().indexOf(timestr)];
+        int index = getTimes().indexOf(timestr);
+        if(index==-1)
+            return "";
+        else
+            return getTimeOptions()[index];
     }
-
 
     public static List<String> getTimes(){
 

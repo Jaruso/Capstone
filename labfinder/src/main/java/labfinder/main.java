@@ -24,7 +24,9 @@ public class Main {
         final Configuration configuration = new Configuration();
         configuration.setClassForTemplateLoading( Main.class, "/");
 
-        Spark.get("/", new Route() {
+        Spark.staticFileLocation("/public");
+
+        Spark.get("/search", new Route() {
 
             public Object handle(final Request request, final Response response) {
 
@@ -32,15 +34,14 @@ public class Main {
                 try {
 
 
-                    Template thisTemplate = configuration.getTemplate("RoomSearch.ftl");
+                    Template thisTemplate = configuration.getTemplate("otherSearch.html");
                     Map<String, Object> thisMap = new HashMap<String, Object>();
 
                     //generate page content
                     List rooms = new ArrayList<String>();
 
                     thisMap.put("error", "");
-                    //thisMap.put("dayoptions", Functions.getDayOptions());
-                   // thisMap.put("timeoptions", Functions.getTimeOptions());
+                    thisMap.put("timeoptions", Functions.getTimes());
                     thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                     thisMap.put("hardwareoptions", Functions.getHardwareOptions());
                     thisMap.put("extraoptions", Functions.getExtraOptions());
@@ -61,47 +62,30 @@ public class Main {
         });
 
 
-        Spark.post("/", new Route() {
+
+        Spark.post("/search", new Route() {
 
             public Object handle(final Request request, final Response response) {
 
-                // search bar input
                 final String errstring = "Invalid input.";
-                final String searchstring = request.queryParams("search");
-
-
-                // Database manipulation functions
-
-              //  MongoAccess.setMongoRooms();
-              //  MongoAccess.setMongoDays();
-
-
-
 
                 // Request input to various filter items
                 final String dayString = Functions.convertDay(request.queryParams("dayFilter"));
-                System.out.println(dayString);
 
                 final String timeString = Functions.convertTime(request.queryParams("timeFilter"));
-                System.out.println(timeString);
+
 
                 final Collection<String> softstrings = new ArrayList<String>();
                 if (request.queryParamsValues("softwareFilter[]")!= null) {
-                    for (String str : request.queryParamsValues("softwareFilter[]")) {
-                        softstrings.add(str);
-                    }
+                    softstrings.addAll(Arrays.asList(request.queryParamsValues("softwareFilter[]")));
                 }
                 final ArrayList<String> hardstrings = new ArrayList<String>();
                 if (request.queryParamsValues("hardwareFilter[]") != null) {
-                    for (String str : request.queryParamsValues("hardwareFilter[]")) {
-                        hardstrings.add(str);
-                    }
+                    hardstrings.addAll(Arrays.asList(request.queryParamsValues("hardwareFilter[]")));
                 }
                 final ArrayList<String> extrastrings = new ArrayList<String>();
                 if (request.queryParamsValues("extraFilter[]") != null) {
-                    for (String str : request.queryParamsValues("extraFilter[]")) {
-                        extrastrings.add(str);
-                    }
+                    extrastrings.addAll(Arrays.asList(request.queryParamsValues("extraFilter[]")));
                 }
 
 
@@ -110,7 +94,7 @@ public class Main {
                 boolean search = false;
 
 
-                if((timeString != "")&&(dayString != "")){
+                if((!timeString.equals(""))&&(!dayString.equals(""))){
                     search = true;
                     filterlist.add(Functions.generateRoomFilter(MongoAccess.getRoomList(timeString, dayString)));
                 }
@@ -130,17 +114,16 @@ public class Main {
                     try {
 
                         //  specify the html and set up map
-                        Template thisTemplate = configuration.getTemplate("RoomSearch.ftl");
+                        Template thisTemplate = configuration.getTemplate("otherSearch.html");
                         Map<String, Object> thisMap = new HashMap<String, Object>();
 
                         // Query MongoDB for rooms
                         List<Room> rooms = MongoAccess.getSomeRooms(Functions.combineFilter(filterlist));
 
-
                         //generate page content
 
                         thisMap.put("error", "");
-                        //thisMap.put("timeoptions", Functions.getTimeOptions());
+                        thisMap.put("timeoptions", Functions.getTimes());
                         thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                         thisMap.put("hardwareoptions", Functions.getHardwareOptions());
                         thisMap.put("extraoptions", Functions.getExtraOptions());
@@ -163,15 +146,17 @@ public class Main {
                     try {
 
                         //  specify the html and set up map
-                        Template thisTemplate = configuration.getTemplate("RoomSearch.ftl");
+                        Template thisTemplate = configuration.getTemplate("otherSearch.html");
                         Map<String, Object> thisMap = new HashMap<String, Object>();
+
+
+
 
                         //generate page content
                         List rooms = new ArrayList<String>();
 
                         thisMap.put("error", errstring);
-                       // thisMap.put("dayoptions", Functions.getDayOptions());
-                      //  thisMap.put("timeoptions", Functions.getTimeOptions());
+                        thisMap.put("timeoptions", Functions.getTimes());
                         thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                         thisMap.put("hardwareoptions", Functions.getHardwareOptions());
                         thisMap.put("extraoptions", Functions.getExtraOptions());
@@ -192,7 +177,6 @@ public class Main {
             }
 
         });
-
     }
 
 
