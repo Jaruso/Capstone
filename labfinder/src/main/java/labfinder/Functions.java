@@ -58,26 +58,29 @@ public class Functions {
             else if(str.equals("Projector")){
                 and.add(new BasicDBObject("Projector", new BasicDBObject("$exists", true) ));
             }
-            else if(str.equals("TVs")){ //TODO This might not work
+            else if(str.equals("TVs")){
                 and.add(new BasicDBObject("TVs", new BasicDBObject("$gt", 0) ));
             }
             else if(str.equals("Scanner")){
                 and.add(new BasicDBObject("Scanner", new BasicDBObject("$exists", true) ));
             }
             else if(str.equals("Dual Monitors")){
-                and.add(new BasicDBObject("Dual_monitors", new BasicDBObject("$exists", true) ));
+                and.add(new BasicDBObject("Dual Monitors", new BasicDBObject("$exists", true) ));
             }
             else if(str.equals("Sound Equipment")){
-                and.add(new BasicDBObject("Sound_equipment", new BasicDBObject("$exists", true) ));
+                and.add(new BasicDBObject("Sound Equipment", new BasicDBObject("$exists", true) ));
             }
             else if(str.equals("Photo Equipment")){
-                and.add( new BasicDBObject("Photo_equipment", new BasicDBObject("$exists", true) ));
+                and.add( new BasicDBObject("Photo Equipment", new BasicDBObject("$exists", true) ));
             }
-            else if(str.equals("Windows")){
-                and.add(new BasicDBObject("Num_PC", new BasicDBObject("$gt", 0) ));
+            else if(str.equals("Windows lab")){
+                and.add(new BasicDBObject("NumPCs", new BasicDBObject("$gt", 1) ));
             }
-            else if(str.equals("Apple")){
-                and.add(new BasicDBObject("Num_mac", new BasicDBObject("$gt", 0) ));
+            else if(str.equals("Mac lab")){
+                and.add(new BasicDBObject("NumMacs", new BasicDBObject("$gt", 0) ));
+            }
+            else if(str.equals("Study Rooms")){
+                and.add(new BasicDBObject("StudyRooms",  new BasicDBObject("$gt", 0) ));
             }
 
         }
@@ -143,9 +146,9 @@ public class Functions {
         Options[4] = "Dual Monitors";
         Options[5] = "Sound Equipment";
         Options[6] = "Photo Equipment";
-        Options[7] = "Windows";
-        Options[8] = "Apple";
-        Options[9] = "Chromebooks";
+        Options[7] = "Windows lab";
+        Options[8] = "Mac lab";
+        Options[9] = "Study Rooms";
 
         return Options;
     }

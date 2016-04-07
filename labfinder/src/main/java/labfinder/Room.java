@@ -35,7 +35,11 @@ public class Room {
         num = newD.get("Number", Object.class);
         building = newD.getString("Building");
         numPC = newD.getInteger("NumPCs");
+        if(numPC==null)
+            numPC=0;
         numMAC = newD.getInteger("NumMacs");
+        if(numMAC==null)
+            numMAC=0;
         Image = newD.getString("Image");
         TVs = newD.getInteger("TVs");
         projector = newD.get("Projector", Object.class);
@@ -71,7 +75,7 @@ public class Room {
 
         str = "   <div class=\"panel-heading\">\n";
         str += "   <h4 class=\"panel-title\">\n";
-        str += "<a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#" + building + num +"\" style=\"font-size: x-large;\">" + name;
+        str += "<a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#" + building + num + "\" style=\"font-size: x-large;\">" + name;
         str += " <div class=\"icons\">";
         if(numPC > 1){
             str += " <img src=\"http://www.iconarchive.com/download/i45768/tatice/operating-systems/Windows.ico\" width=\"25\" height=\"25\">";
@@ -89,35 +93,13 @@ public class Room {
         str += "</a>\n";
         str += "</h4>\n";
         str += "</div>\n";
-        str += "<div id=\"" + building + num + "\" class=\"panel-collapse collapse in\">\n";
+        str += "<div id=\"" + building + num + "\" class=\"panel-collapse collapse\">\n";
         str += "<div class=\"panel-body\">";
         str += toFullString();
         str += "</div>\n   </div>\n";
 
         return str;
 
-        /*
-        String str = "<div class=\"panel panel-default\">\n";
-        str += name;
-        str += " <div class = \"icons\">";
-        if(numPC > 1){
-            str += " <img src=\"http://www.iconarchive.com/download/i45768/tatice/operating-systems/Windows.ico\" width=\"25\" height=\"25\">";
-        }
-        if(numMAC > 0){
-            str += " <img src=\"http://icons.iconarchive.com/icons/kyo-tux/phuzion/256/System-Mac-icon.png\" width=\"25\" height=\"25\">";
-        }
-        if(whiteboard!=null){
-        str += " <img src=\"http://icons.iconseeker.com/png/fullsize/battlestar-galactica-vol-3/lauras-whiteboard.png\" width=\"25\" height=\"25\">";
-        }
-        if(studyRoom!=null){
-            str += " <img src=\"http://library.tulane.edu/sites/library.tulane.edu/files/styles/thumbnail/public/sites/default/files/img/icons/icon_28130.png?itok=If_YflCC\" width=\"25\" height=\"25\">";
-        }
-        str += "</div>";
-        str += "</h3>";
-        str += toFullString();
-
-        return str;
-        */
     }
 
     public String toFullString() {

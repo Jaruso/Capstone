@@ -5,11 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+    <meta name="description" content="Search for classes">
+    <meta name="author" content="Joe Caruso">
+    <link rel="icon" href="https://www.champlain.edu/assets/prebuilt/img/favicon.png">
 
-    <title>Fixed Top Navbar Example for Bootstrap</title>
+    <title>Search for Space</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -60,9 +60,10 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="/search"><img id="logo" src="https://vtcolleges.org/images/color_logos/champlain_logo_color.png" title="Champlain" style="width:130px;"></a></li>
-                <!--    <li><a href="#about">About</a></li>
-                        <li><a href="#contact">Contact</a></li>     -->
+                <li><a href="http://www.champlain.edu/"><img id="logo" src="https://vtcolleges.org/images/color_logos/champlain_logo_color.png" title="Champlain" style="width:130px;"></a></li>
+                <li class="active"><a href="/search">Search</a></li>
+                <li><a href="/about">About</a></li>
+                <!-- <li><a href="#contact">Contact</a></li> -->
             </ul>
             <form action="/search" method="POST">
             <ul class="nav navbar-nav navbar-right">
@@ -73,32 +74,32 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Times <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <#list timeoptions as time>
-                                <li><label><input type="radio" name="timeFilter" value="${time}" autocomplete="off" >${time}</label></li>
+                                <li><label><input type="radio" name="timeFilter" value="${time}" autocomplete="off" />${time}</label></li>
                             </#list>
                         </ul>
 
                     </li>
-                    <li class="dropdown">
+                    <li class="dropdown" style="max-width: 280px;">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Software <span class="caret"></span></a>
-                        <ul id="soft" class="dropdown-menu" style="max-height: 1300%;overflow: scroll;overflow-y:scroll; ">
+                        <ul id="soft" class="dropdown-menu" style="max-height: 1300%;overflow: scroll;overflow-y:scroll; width:290px">
                             <#list softwareoptions as software>
-                                <li><label><input type="checkbox" name="softwareFilter[]" value="${software}" autocomplete="off" >${software}</label></li>
+                                <li >
+                                    <input  type="checkbox" id="${software}" name="softwareFilter[]" value="${software}" autocomplete="off"  title="${software}">
+                                    <label for="${software}">${software}
+                                    </label>
+                                </li>
                             </#list>
                         </ul>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hardware <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
+                        <ul id="hard" class="dropdown-menu" >
                             <#list hardwareoptions as hardware>
-                                <li><label><input type="checkbox" name="hardwareFilter[]" value="${hardware}" autocomplete="off" >${hardware}</label></li>
-                            </#list>
-                        </ul>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Extras <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <#list extraoptions as extra>
-                                <li><label><input type="checkbox" name="extraFilter[]" value="${extra}" autocomplete="off" >${extra}</label></li>
+                                <li class="squaredOne">
+                                    <input  type="checkbox" id="${hardware}" name="hardwareFilter[]" value="${hardware}" autocomplete="off"  style="opacity:0; position:absolute; left:9999px;" title="${hardware}">
+                                    <label for="${hardware}">${hardware}
+                                    </label>
+                                </li>
                             </#list>
                         </ul>
                     </li>
@@ -113,7 +114,7 @@
 
 <div class="container">
 
-    <!-- Main component for a primary marketing message or call to action -->
+    <!-- Main component for displaying rooms -->
     <div class="jumbotron" >
         <h1 style="margin: 20px;">
             Results

@@ -26,6 +26,58 @@ public class Main {
 
         Spark.staticFileLocation("/public");
 
+        Spark.get("/", new Route() {
+
+            public Object handle(final Request request, final Response response) {
+
+                StringWriter writer = new StringWriter();
+                try {
+
+
+                    Template thisTemplate = configuration.getTemplate("home.html");
+                    Map<String, Object> thisMap = new HashMap<String, Object>();
+
+                    try {
+                        thisTemplate.process(thisMap, writer);
+                    } catch (TemplateException e) {
+                        e.printStackTrace();
+                    }
+
+                } catch (IOException e) {
+                    // halt(500);
+                    e.printStackTrace();
+                }
+                return writer;
+            }
+        });
+
+        Spark.get("/about", new Route() {
+
+            public Object handle(final Request request, final Response response) {
+
+                StringWriter writer = new StringWriter();
+                try {
+
+
+                    Template thisTemplate = configuration.getTemplate("about.html");
+                    Map<String, Object> thisMap = new HashMap<String, Object>();
+
+
+                    try {
+                        thisTemplate.process(thisMap, writer);
+                    } catch (TemplateException e) {
+                        e.printStackTrace();
+                    }
+
+                } catch (IOException e) {
+                    // halt(500);
+                    e.printStackTrace();
+                }
+                return writer;
+            }
+        });
+
+
         Spark.get("/search", new Route() {
 
             public Object handle(final Request request, final Response response) {
@@ -44,7 +96,6 @@ public class Main {
                     thisMap.put("timeoptions", Functions.getTimes());
                     thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                     thisMap.put("hardwareoptions", Functions.getHardwareOptions());
-                    thisMap.put("extraoptions", Functions.getExtraOptions());
                     thisMap.put("rooms", rooms);
 
                     try {
@@ -67,8 +118,6 @@ public class Main {
 
             public Object handle(final Request request, final Response response) {
 
-                final String errstring = "Invalid input.";
-
                 // Request input to various filter items
                 final String dayString = Functions.convertDay(request.queryParams("dayFilter"));
 
@@ -82,10 +131,6 @@ public class Main {
                 final ArrayList<String> hardstrings = new ArrayList<String>();
                 if (request.queryParamsValues("hardwareFilter[]") != null) {
                     hardstrings.addAll(Arrays.asList(request.queryParamsValues("hardwareFilter[]")));
-                }
-                final ArrayList<String> extrastrings = new ArrayList<String>();
-                if (request.queryParamsValues("extraFilter[]") != null) {
-                    extrastrings.addAll(Arrays.asList(request.queryParamsValues("extraFilter[]")));
                 }
 
 
@@ -126,7 +171,6 @@ public class Main {
                         thisMap.put("timeoptions", Functions.getTimes());
                         thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                         thisMap.put("hardwareoptions", Functions.getHardwareOptions());
-                        thisMap.put("extraoptions", Functions.getExtraOptions());
                         thisMap.put("rooms", rooms);
 
 
@@ -155,11 +199,10 @@ public class Main {
                         //generate page content
                         List rooms = new ArrayList<String>();
 
-                        thisMap.put("error", errstring);
+                        thisMap.put("error", "Invalid input.");
                         thisMap.put("timeoptions", Functions.getTimes());
                         thisMap.put("softwareoptions", Functions.getSoftwareOptions());
                         thisMap.put("hardwareoptions", Functions.getHardwareOptions());
-                        thisMap.put("extraoptions", Functions.getExtraOptions());
                         thisMap.put("rooms", rooms);
 
                         try {

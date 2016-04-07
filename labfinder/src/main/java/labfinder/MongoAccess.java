@@ -319,8 +319,8 @@ public class MongoAccess {
         List<Document> newlist = new ArrayList<Document>();
 
 
-        String tmp1, tmp2, tmp3, tmp4, tmp5, tmp6, tmp7, tmp8, tmp9, tmp10, tmp14, tmp15;
-        Integer tmp12, tmp13, tmp11;
+        String tmp1, tmp2, tmp3, tmp4, tmp5, tmp6, tmp7, tmp9, tmp10, tmp14, tmp15;
+        Integer tmp12, tmp13, tmp11, tmp8;
 
         for(Document doc  : roomlist){
 
@@ -333,7 +333,7 @@ public class MongoAccess {
             tmp5 = doc.get("Whiteboard", Object.class).toString();
             tmp6 = doc.get("Sound_equipment", Object.class).toString();
             tmp7 = doc.get("Dual_monitors", Object.class).toString();
-            tmp8 = doc.get("Study_rooms", Object.class).toString();
+            tmp8 = doc.getInteger("Study_rooms");
             tmp9 = doc.get("Scanner", Object.class).toString();
             tmp10 = doc.get("Photo_equipment", Object.class).toString();
             tmp11 = doc.getInteger("TVs");
@@ -349,12 +349,10 @@ public class MongoAccess {
                 .append("Image", doc.get("Image", Object.class).toString())
                 .append("TVs", tmp11)
                 .append("Description", tmp14)
-                .append("Png", tmp15);
-
-
-                tmpDoc.append("NumPCs", tmp12);
-
-                tmpDoc.append("NumMacs", tmp13);
+                .append("Png", tmp15)
+                .append("NumPCs", tmp12)
+                .append("NumMacs", tmp13)
+                .append("StudyRooms", tmp8);
 
             if (tmp3.equals("1"))
             {    tmpDoc.append("Projector", true);   }
@@ -366,8 +364,6 @@ public class MongoAccess {
             {    tmpDoc.append("Sound Equipment", true);   }
             if (tmp7.equals("1"))
             {    tmpDoc.append("Dual Monitors", true);   }
-            if (!tmp8.equals(""))
-            {    tmpDoc.append("Study Rooms", tmp8);   }
             if (tmp9.equals("1"))
             {    tmpDoc.append("Scanner", true);   }
             if (tmp10.equals("1"))
