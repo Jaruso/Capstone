@@ -16,6 +16,7 @@ body {
     float: left;
     max-width: 48%;
     box-shadow: 2px 2px 12px 3px #BBBBBB;
+    margin-right: 5px;
 }
 
 .marketing{
