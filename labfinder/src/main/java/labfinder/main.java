@@ -26,6 +26,7 @@ public class Main {
 
         Spark.staticFileLocation("/public");
 
+
         Spark.get("/", new Route() {
 
             public Object handle(final Request request, final Response response) {

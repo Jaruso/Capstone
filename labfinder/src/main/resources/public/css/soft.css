@@ -1,12 +1,33 @@
 .dropdown-menu{
-    max-height:400px;
-    width:200px;
-    overflow:hidden;
+    max-height: 1500%;
+    overflow: scroll;
+    overflow-y: scroll;
+    font-family: monospace;
+    text-shadow: 1px 1px 5px #828282;
+    padding-left: 5px;
 }
 .icons{
         float: right;
 }
+body {
+    background: white url(../img/grass.jpg) repeat left top;
+}
+.map{
+    float: left;
+    max-width: 48%;
+    box-shadow: 2px 2px 12px 3px #BBBBBB;
+}
 
+.marketing{
+    background-color: #EEEEEE;
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 15px 6px rgba(0, 0, 0, 0.75);
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 1px solid #E0E0E0;
+    margin-top: 45px;
+
+}
 
 /* SQUARED ONE */
 .squaredOne {
@@ -85,4 +106,52 @@
 
 .squaredOne{
 left: -35%;
+}
+
+.main {
+font-family: Comic Sans, Verdana, Tahoma;
+margin-top: 5px;
+}
+.main h1 {
+    text-shadow: 3px 3px 8px #808080;
+}
+.main h2 {
+    margin-left: 38%;
+    color: #E02713;
+    text-shadow: 4px 4px 7px #BBBBBB;
+}
+.button {
+    margin-left: 5%;
+    margin-bottom: 2%;
+    margin-top: 4px;
+    display: inline-block;
+    padding: 3px 6px;
+    font-size: 18px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #EEEBFF;
+    text-shadow: 2px 2px #39803A;
+    background-color: #39ac39;
+    border-radius: 14px;
+    box-shadow: 0px 7px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 4px #666;
+  transform: translateY(3px);
+}
+.navbar-collapse logo{
+     padding-left: 30%;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #555;
+    background-color: rgba(88, 88, 88, 0.15);
+}
+.panel-group {
+    text-shadow: 2px 2px 5px #A1A1A2;
 }

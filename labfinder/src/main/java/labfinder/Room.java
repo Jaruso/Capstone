@@ -109,10 +109,7 @@ public class Room {
        // if (Image != null) {
        //     s = " <img src= \"" + Image + " width=\"25\" height=\"25\">";
        // } else {
-            s = "<div> <img src=\"img/" + png + ".png\" style=\"\n" +
-                    "    float: left;\n" +
-                    "    max-width: 48%;\n" +
-                    "\">";
+            s = "<div> <img class=\"map\" src=\"img/" + png + ".png\">";
       //  s += "<button id=\"opener\">View Building</button>";
 
               //      "<img src=\"img/" + png + ".png\" width=\"191\" height=\"191\">";
