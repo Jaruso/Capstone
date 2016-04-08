@@ -10,7 +10,7 @@
         float: right;
 }
 body {
-    background: white url(../img/grass.jpg) repeat left top;
+    background: white url(../img/grass.jpg) repeat right top;
 }
 .map{
     float: left;
