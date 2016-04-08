@@ -120,10 +120,7 @@ public class Room {
 
         // String str = "<label for=\"" + name + "\">" + name + "</label>" ;
 
-        s += "<p style=\"\n" +
-                "    max-width: 48%;\n" +
-                "    float: right;\n" +
-                "\">";
+        s += "<p>";
         s += "&nbsp &nbsp &nbsp";
         s += description;
         s += "</p>";
