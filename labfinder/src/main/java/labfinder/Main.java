@@ -52,7 +52,7 @@ public class Main {
             }
         });
 
-        Spark.get("/about", new Route() {
+        Spark.get("/abouts", new Route() {
 
             public Object handle(final Request request, final Response response) {
 
@@ -60,7 +60,7 @@ public class Main {
                 try {
 
 
-                    Template thisTemplate = configuration.getTemplate("about.html");
+                    Template thisTemplate = configuration.getTemplate("abouts.html");
                     Map<String, Object> thisMap = new HashMap<String, Object>();
 
 
