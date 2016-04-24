@@ -9,13 +9,34 @@
 .icons{
         float: right;
 }
+.navbar-default {
+    background-color: rgba(236, 236, 236, 0.94);
+    border-color: rgba(150, 150, 150, 0.75);
+}
 body {
     background: white url(../img/grass.jpg) repeat right top;
 }
+.softlist{
+float:right;
+}
+h3 {
+    font-size: 24px;
+    margin-left: 12%;
+}
+
+     .show {display: inline; text-decoration: none;}
+      .hide {display: none; text-decoration: none;}
+      #list {display: none;}
+      .show:focus + .hide {display: inline;}
+      .hide:focus + #list { display:none;}
+      .show:focus ~ #list { display:inline;}
+      .show:focus { display:none;}
+
 .map{
     float: left;
     max-width: 48%;
     box-shadow: 2px 2px 12px 3px #BBBBBB;
+    margin-right: 15px;
 }
 
 .marketing{
@@ -155,3 +176,7 @@ margin-top: 5px;
 .panel-group {
     text-shadow: 2px 2px 5px #A1A1A2;
 }
+.col-md-7{
+	margin-top:-10%;
+}
+

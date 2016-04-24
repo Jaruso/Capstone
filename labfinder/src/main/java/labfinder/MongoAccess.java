@@ -16,15 +16,22 @@ import static com.mongodb.client.model.Filters.or;
 
 /**
  * Created by Joe on 1/4/2016.
+ *
+ * A class containing functionality for Database access.
  */
 public class MongoAccess {
+
+    static MongoClientOptions options = MongoClientOptions.builder().connectionsPerHost(100).build();
+    static MongoClient client = new MongoClient(new ServerAddress(), options);
+
+    static MongoDatabase db = client.getDatabase("spring2016").withReadPreference(ReadPreference.secondary());
+
+    /**
+     * Get all classes in the Class collection.
+     * @return A List of of all Courses.
+     */
     public static List<Course> getAllClasses( )
     {
-        MongoClientOptions options = MongoClientOptions.builder().connectionsPerHost(100).build();
-        MongoClient client = new MongoClient(new ServerAddress(), options);
-
-        MongoDatabase db = client.getDatabase("test").withReadPreference(ReadPreference.secondary());
-
         MongoCollection<Document> classCol = db.getCollection("classes");
 
         List<Document> all = classCol.find().into(new ArrayList<Document>());
@@ -39,13 +46,12 @@ public class MongoAccess {
         return courses;
     }
 
+    /**
+     * Return all the rooms in the Rooms collection.
+     * @return A list of all the Rooms.
+     */
     public static List<Room> getAllRooms( )
     {
-        MongoClientOptions options = MongoClientOptions.builder().connectionsPerHost(100).build();
-        MongoClient client = new MongoClient(new ServerAddress(), options);
-
-        MongoDatabase db = client.getDatabase("spring2016").withReadPreference(ReadPreference.secondary());
-
         MongoCollection<Document> classCol = db.getCollection("Rooms");
 
         List<Document> all = classCol.find().into(new ArrayList<Document>());
@@ -60,13 +66,15 @@ public class MongoAccess {
         return rooms;
     }
 
+
+    /**
+     * Get all rooms with satisfy the filter criteria.
+     *
+     * @param filter A Bson filter stuctureto perform a query on the Rooms collection.
+     * @return A list of Room Objects.
+     */
     public static List<Room> getSomeRooms(Bson filter)
     {
-        MongoClientOptions options = MongoClientOptions.builder().connectionsPerHost(100).build();
-        MongoClient client = new MongoClient(new ServerAddress(), options);
-
-        MongoDatabase db = client.getDatabase("spring2016").withReadPreference(ReadPreference.secondary());
-
         MongoCollection<Document> roomCol = db.getCollection("Rooms");
 
         List<Document> all;
@@ -88,54 +96,32 @@ public class MongoAccess {
         return rooms;
     }
 
+    /**
+     * Get the software contian in anm Image document.
+     *
+     * @param image The name of the image to be queryed for.
+     * @return A list of software names.
+     */
+    public static List<String> getSoftList(String image)
+    {
+        MongoCollection<Document> imgCol = db.getCollection("Images");
 
+        Bson imgObj = new BasicDBObject("Image", image );
 
+        List<Document> img = imgCol.find(imgObj).into(new ArrayList<Document>());
 
-    public static List<Room> getSomeRoomwHardnImage(  Bson hardfilter, Bson imgfilter) {
-        MongoClientOptions options = MongoClientOptions.builder().connectionsPerHost(100).build();
-        MongoClient client = new MongoClient(new ServerAddress(), options);
+        Image tmp = new Image(img.get(0));
 
-        MongoDatabase db = client.getDatabase("spring2016").withReadPreference(ReadPreference.secondary());
-
-        MongoCollection<Document> roomCol = db.getCollection("Rooms");
-
-        List<Room> rooms = new ArrayList<Room>();
-
-
-        if (hardfilter != null) {
-            if (imgfilter != null) {
-                List<Document> all = roomCol.find(and(hardfilter, imgfilter)).into(new ArrayList<Document>());
-                for (Document doc : all) {
-                    rooms.add(new Room(doc));
-                }
-            }
-            else
-            {
-                List<Document> all = roomCol.find(hardfilter).into(new ArrayList<Document>());
-                for (Document doc : all) {
-                    rooms.add(new Room(doc));
-                }
-            }
-        }
-        else if (imgfilter != null){
-            List<Document> all = roomCol.find(imgfilter).into(new ArrayList<Document>());
-            for (Document doc : all) {
-                rooms.add(new Room(doc));
-            }
-        }
-
-        return rooms;
-
+        return tmp.software;
     }
 
-
+    /**
+     *  Return a list of Image names which contain all teh the software in a given collection.
+     * @param myCol A list of Software names.
+     * @return A list of Image names.
+     */
     public static List<String> getImgList(Collection<String> myCol)
     {
-        MongoClientOptions options = MongoClientOptions.builder().connectionsPerHost(100).build();
-        MongoClient client = new MongoClient(new ServerAddress(), options);
-
-        MongoDatabase db = client.getDatabase("spring2016").withReadPreference(ReadPreference.secondary());
-
         MongoCollection<Document> imgCol = db.getCollection("Images");
 
         List<Document> all = imgCol.find().into(new ArrayList<Document>());
@@ -143,7 +129,6 @@ public class MongoAccess {
         Image tmp = new Image();
 
         List<String> list = new ArrayList<String>();
-
 
         for(Document doc : all)
         {
@@ -156,6 +141,12 @@ public class MongoAccess {
         return list;
     }
 
+    /**
+     * Return a list of Rooms which are NOT available on a given day at a given time.
+     * @param time Desired time slot.
+     * @param day Desired day.
+     * @return A list of names of unavailable rooms.
+     */
     public static List<String> getRoomList(String time, String day){
 
         if ((time.equals(""))||(day.equals("")))
@@ -163,11 +154,6 @@ public class MongoAccess {
             System.out.println("How did i get in here?");
             return null;
         }
-
-        MongoClientOptions options = MongoClientOptions.builder().connectionsPerHost(100).build();
-        MongoClient client = new MongoClient(new ServerAddress(), options);
-
-        MongoDatabase db = client.getDatabase("spring2016").withReadPreference(ReadPreference.secondary());
 
         MongoCollection<Document> courseCol = db.getCollection("Classes");
 
@@ -207,13 +193,10 @@ public class MongoAccess {
         return list;
     }
 
+    /**
+     * Used for manipulating Class data after a data import.
+     */
     public static void setMongoDays(){
-
-        MongoClientOptions options = MongoClientOptions.builder().connectionsPerHost(100).build();
-        MongoClient client = new MongoClient(new ServerAddress(), options);
-
-        MongoDatabase db = client.getDatabase("spring2016").withReadPreference(ReadPreference.secondary());
-
         MongoCollection<Document> collection = db.getCollection("Classes");
 
         List<Document> classlist = collection.find().into(new ArrayList<Document>());
@@ -306,13 +289,10 @@ public class MongoAccess {
 
     }
 
+    /**
+     * Used to manipulate Room data after an import.
+     */
     public static void setMongoRooms(){
-
-        MongoClientOptions options = MongoClientOptions.builder().connectionsPerHost(100).build();
-        MongoClient client = new MongoClient(new ServerAddress(), options);
-
-        MongoDatabase db = client.getDatabase("spring2016").withReadPreference(ReadPreference.secondary());
-
         MongoCollection<Document> collection = db.getCollection("Rooms");
 
         List<Document> roomlist = collection.find().into(new ArrayList<Document>());

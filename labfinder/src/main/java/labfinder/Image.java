@@ -7,6 +7,8 @@ import java.util.List;
 
 /**
  * Created by Joe on 2/4/2016.
+ *
+ * Wrapper object for an Image Document.
  */
 public class Image {
 
@@ -14,13 +16,19 @@ public class Image {
     public List<String> software;
     public Object lastupdated;
 
-
+    /**
+     * Default Constructor.
+     */
     public Image() {
         name = "";
         software = null;
         lastupdated = "";
     }
 
+    /**
+     * Constructor for an existing image Document.
+     * @param newD Existing Image document.
+     */
     public Image(Document newD) {
 
         String tmp = newD.getString("Software");
@@ -35,6 +43,11 @@ public class Image {
 
     }
 
+
+    /**
+     * Assign Image class the values form an existing image Document.
+     * @param newD Existing Image document.
+     */
     public void copyFrom(Document newD){
 
         String tmp = newD.getString("Software");
@@ -49,6 +62,10 @@ public class Image {
 
     }
 
+    /**
+     * Create a Sting to display information about an Image. For debuggigng purposes.
+     * @return Image data as String.
+     */
     public String toString()
     {
         String s =   name + ", " + software + ", " + lastupdated + ".\n";

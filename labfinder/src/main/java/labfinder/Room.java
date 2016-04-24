@@ -2,9 +2,14 @@ package labfinder;
 
 import org.bson.Document;
 
+import java.util.List;
+
 
 /**
  * Created by Joe on 1/10/2016.
+ *
+ * This Class is designed to hold data about a room from the collection "Rooms" in the MongoDB instance.
+ *
  */
 public class Room {
 
@@ -27,7 +32,11 @@ public class Room {
     Object description;
     Object png;
 
-
+    /**
+     * Create a Room object from an already existing Document.
+     *
+     * @param newD A document from the "Rooms" collection.
+     */
     public Room(Document newD) {
 
         name = newD.getString("Name");
@@ -55,22 +64,22 @@ public class Room {
 
     }
 
-
-    public String toString() // toHtml, for freeMarker
+    /** Return the Room as a chunk of HTML code to be contained inside of a list item (li) inside of an unordered list (ul).
+     *
+     *  ie.
+     *  ul
+     *     li
+     *         someRoom.toString();
+     *     /li
+     *     li
+     *         anotherRoom.toString();
+     *     /li
+     *  /ul
+     *
+     * @return HTML code that represents the Room in the list item (li).
+     */
+    public String toString()
     {
-//        <div class="panel panel-default">
-//          <div class="panel-heading">
-//          <h4 class="panel-title">
-//          <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Collapsible Group 1</a>
-//          </h4>
-//        </div>
-//        <div id="collapse1" class="panel-collapse collapse in">
-//          <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-//              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-//              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
-//          </div>
-//        </div>
-
         String str;
 
         str = "   <div class=\"panel-heading\">\n";
@@ -95,21 +104,31 @@ public class Room {
         str += "</div>\n";
         str += "<div id=\"" + building + num + "\" class=\"panel-collapse collapse\">\n";
         str += "<div class=\"panel-body\">";
-        str += toFullString();
+        str += getBody();
         str += "</div>\n   </div>\n";
 
         return str;
 
     }
 
-    public String toFullString() {
+    /** Returns a list of the software contained on the image used in the room.
+     *
+     * @return List of the software.
+     */
+    public List<String> getSoftware(){
+        return MongoAccess.getSoftList(this.Image);
+    }
+
+    /** Return HTML code representing the contents of the body for the list item (li).
+     *
+     * @return HTML code as a string.
+     */
+    public String getBody() {
+
         String s;
 
 
-       // if (Image != null) {
-       //     s = " <img src= \"" + Image + " width=\"25\" height=\"25\">";
-       // } else {
-            s = "<div> <img class=\"map\" src=\"img/" + png + ".png\">";
+            s = "<div> <h3>"+ name.split(" ")[0] +" Location</h3><img class=\"map\" src=\"img/" + png + ".png\">";
       //  s += "<button id=\"opener\">View Building</button>";
 
               //      "<img src=\"img/" + png + ".png\" width=\"191\" height=\"191\">";
@@ -124,6 +143,22 @@ public class Room {
         s += "&nbsp &nbsp &nbsp";
         s += description;
         s += "</p>";
+
+        /**
+         * Will create a drop down list of the software in the room if the room is assigned an Image.
+         */
+        if(this.Image.length()>1){
+            s += "<div class=\"softlist\" >";
+            s += "<a href=\"#\" class=\"show\"><b>Software</b> &#x25BC</a>";
+            s += "<a href=\"#\" class=\"hide\">&#x25B2</a>";
+            s += "<ol id=\"list\">";
+            for(String str: this.getSoftware())
+            {
+                s+="<li>"+ str +"</li>";
+            }
+            s += "</ol>";
+            s += "</div>";
+        }
 
         s += "</div>";
      //   }

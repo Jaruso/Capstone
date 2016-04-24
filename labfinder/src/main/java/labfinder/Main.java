@@ -24,17 +24,22 @@ public class Main {
         final Configuration configuration = new Configuration();
         configuration.setClassForTemplateLoading( Main.class, "/");
 
+        /**
+         * Declare location of static files.
+         * Html, CSS, JS, Images, etc.
+         */
         Spark.staticFileLocation("/public");
 
 
+        /**
+         * Open Homepage.
+         */
         Spark.get("/", new Route() {
 
             public Object handle(final Request request, final Response response) {
 
                 StringWriter writer = new StringWriter();
                 try {
-
-
                     Template thisTemplate = configuration.getTemplate("home.html");
                     Map<String, Object> thisMap = new HashMap<String, Object>();
 
@@ -52,13 +57,15 @@ public class Main {
             }
         });
 
-        Spark.get("/abouts", new Route() {
+        /**
+         * Open the About page.
+         */
+        Spark.get("/about", new Route() {
 
             public Object handle(final Request request, final Response response) {
 
                 StringWriter writer = new StringWriter();
                 try {
-
 
                     Template thisTemplate = configuration.getTemplate("abouts.html");
                     Map<String, Object> thisMap = new HashMap<String, Object>();
@@ -78,7 +85,9 @@ public class Main {
             }
         });
 
-
+        /**
+         * Open the Search page.
+         */
         Spark.get("/search", new Route() {
 
             public Object handle(final Request request, final Response response) {
@@ -87,7 +96,7 @@ public class Main {
                 try {
 
 
-                    Template thisTemplate = configuration.getTemplate("otherSearch.html");
+                    Template thisTemplate = configuration.getTemplate("search.ftl");
                     Map<String, Object> thisMap = new HashMap<String, Object>();
 
                     //generate page content
@@ -114,7 +123,10 @@ public class Main {
         });
 
 
-
+        /**
+         * Post to the Search page.
+         *  i.e. Conduct search.
+         */
         Spark.post("/search", new Route() {
 
             public Object handle(final Request request, final Response response) {
@@ -128,6 +140,7 @@ public class Main {
                 final Collection<String> softstrings = new ArrayList<String>();
                 if (request.queryParamsValues("softwareFilter[]")!= null) {
                     softstrings.addAll(Arrays.asList(request.queryParamsValues("softwareFilter[]")));
+                    System.out.println(softstrings);
                 }
                 final ArrayList<String> hardstrings = new ArrayList<String>();
                 if (request.queryParamsValues("hardwareFilter[]") != null) {
@@ -160,7 +173,7 @@ public class Main {
                     try {
 
                         //  specify the html and set up map
-                        Template thisTemplate = configuration.getTemplate("otherSearch.html");
+                        Template thisTemplate = configuration.getTemplate("search.ftl");
                         Map<String, Object> thisMap = new HashMap<String, Object>();
 
                         // Query MongoDB for rooms
@@ -191,7 +204,7 @@ public class Main {
                     try {
 
                         //  specify the html and set up map
-                        Template thisTemplate = configuration.getTemplate("otherSearch.html");
+                        Template thisTemplate = configuration.getTemplate("search.ftl");
                         Map<String, Object> thisMap = new HashMap<String, Object>();
 
 

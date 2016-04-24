@@ -6,16 +6,23 @@ import org.bson.conversions.Bson;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
 
 /**
  * Created by Joe on 3/17/2016.
+ *
+ * Class for general logic for producing filters to query the mongoDB instance.
+ *
  */
 public class Functions {
 
+
+    /**
+     * Create a DBfilter object for querying the Rooms Collection based on a list unwanted room names.
+     *
+     * @return A DB object which is $nor query on a list of room names.
+     * @param list A list of Room names to NOT be included.
+     */
     public static BasicDBObject generateRoomFilter(List<String> list) {
 
         BasicDBList or = new BasicDBList();
@@ -30,22 +37,38 @@ public class Functions {
     }
 
 
-
+    /**
+     * Combine a list of Bson objects with an $and clause.
+     *
+     * @param list A list of Bson objects representing independent querys
+     * @return A DBObject for filtering the Rooms collection.
+     */
     public static Bson combineFilter(List<Bson> list)
     {
         BasicDBList and = new BasicDBList();
-        for(Bson b : list){ and.add(b); }
+            // If the Bson object is empty, skip.
+        for(Bson b : list){ if(!b.toString().equals("{ \"\" : \"\"}")){and.add(b);} }
         return new BasicDBObject("$and", and);
     }
 
-
+    /**
+     * With a given list of Image names, create a DBObject for filtering the Rooms Collection.
+     * @param list List of Image names.
+     * @return A DBObject for filtering the Rooms Collection.
+     */
     public static BasicDBObject generateImgFilter(List<String> list) {
         BasicDBList or = new BasicDBList();
-        for(String str : list){ or.add(new BasicDBObject("Image", str )); }
+        if(list.isEmpty())
+            return new BasicDBObject("", "");
+        for(String str : list){ or.add(new BasicDBObject("Image", str)); }
         return new BasicDBObject("$or", or);
     }
 
-    //TODO  fix hardware filter
+    /**
+     * Create a DbOBject for filtering Rooms based on a list of hardware.
+     * @param list A list of hardware
+     * @return A DBObject the combines an $and clause with a list of hardware.
+     */
     public static Bson generateHardfilter(ArrayList<String> list){
 
         BasicDBList and = new BasicDBList();
@@ -87,82 +110,79 @@ public class Functions {
         return new BasicDBObject("$and", and);
     }
 
+    /**
+     * Returns list of strings containing the names of all possible software options.
+     * @return A list of software names.
+     */
+    public static List<String> getSoftwareOptions(){
 
-    // Returns a list of the software contained on the image used in the room
-    public static List<String> getSoftware(Room room){
+        List<String> Options = new ArrayList<String>();
 
-        List<String> software = new ArrayList<String>();
+        Options.add("Adobe Creative Cloud");
+        Options.add("Adobe Web Premium");
+        Options.add("MATLAB");
+        Options.add("Quicken");
+        Options.add("Steam");
+        Options.add("IBM SPSS Statistics");
+        Options.add("Microsoft SQL Server 2008");
+        Options.add("Microsoft SQL Server 2012");
+        Options.add("Microsoft Office");
+        Options.add("Autodesk Infrastructure Design Suite");
+        Options.add("Microsoft Visual Studio 2010");
+        Options.add("Microsoft Visual Studio 2013");
+        Options.add("Microsoft Visual Studio 2015");
+        Options.add("Microsoft Visio");
+        Options.add("Unity 3d");
+        Options.add("GIMP");
+        Options.add("Maxon CINEMA 4D Broadcast");
+        Options.add("CrazyBump");
+        Options.add("FRAPS");
+        Options.add("InfraRecorder");
+        Options.add("Garageband");
+        Options.add("Microsoft Project");
+        Options.add("Numbers");
+        Options.add("Pages");
+        Options.add("Fontographer");
+        Options.add("Keynote");
+        Options.add("Wacom Tablet");
+        Options.add("Arduino");
+        Options.add("iBooks");
+        Options.add("iMovie");
+        Options.add("Logic Pro X");
+        Options.add("iTunes");
 
-        return software;
-    }
-
-    public static String[] getSoftwareOptions(){
-
-        String[] Options = new String[32];
-
-        Options[0] = "Adobe Creative Cloud";
-        Options[1] = "Adobe Web Premium";
-        Options[2] = "MATLAB";
-        Options[3] = "Quicken";
-        Options[4] = "Steam";
-        Options[5] = "IBM SPSS Statistics";
-        Options[6] = "Microsoft SQL Server 2008";
-        Options[7] = "Microsoft SQL Server 2012";
-        Options[8] = "Microsoft Office";
-        Options[9] = "Autodesk Infrastructure Design Suite";
-        Options[10] = "Microsoft Visual Studio 2010";
-        Options[11] = "Microsoft Visual Studio 2013";
-        Options[12] = "Microsoft Visual Studio 2015";
-        Options[13] = "Microsoft Visio";
-        Options[14] = "Unity 3d";
-        Options[15] = "GIMP";
-        Options[16] = "Maxon CINEMA 4D Broadcast";
-        Options[17] = "CrazyBump";
-        Options[18] = "FRAPS";
-        Options[19] = "InfraRecorder";
-        Options[20] = "Garageband";
-        Options[21] = "Microsoft Project";
-        Options[22] = "Numbers";
-        Options[23] = "Pages";
-        Options[24] = "Fontographer";
-        Options[25] = "Keynote";
-        Options[26] = "Wacom Tablet";
-        Options[27] = "Arduino";
-        Options[28] = "iBooks";
-        Options[29] = "iMovie";
-        Options[30] = "Logic Pro X";
-        Options[31] = "iTunes";
+        Collections.sort(Options);
 
         return Options;
     }
-    public static String[] getHardwareOptions(){
 
-        String[] Options = new String[10];
+    /**
+     * Create and return a list of all possible hardware options.
+     * @return List of hardware.
+     */
+    public static List<String> getHardwareOptions(){
 
-        Options[0] = "Printer";
-        Options[1] = "Projector";
-        Options[2] = "TVs";
-        Options[3] = "Scanner";
-        Options[4] = "Dual Monitors";
-        Options[5] = "Sound Equipment";
-        Options[6] = "Photo Equipment";
-        Options[7] = "Windows lab";
-        Options[8] = "Mac lab";
-        Options[9] = "Study Rooms";
+        List<String> Options = new ArrayList<String>();
 
-        return Options;
-    }
-    public static String[] getExtraOptions(){
-
-        String[] Options = new String[4];
-
-        Options[0] = "Whiteboard";
-        Options[1] = "Study Rooms";
-        Options[2] = "Couches";
-        Options[3] = "Building";
+        Options.add("Printer");
+        Options.add("Projector");
+        Options.add("TVs.add(");
+        Options.add("Scanner");
+        Options.add("Dual Monitors");
+        Options.add("Sound Equipment");
+        Options.add("Photo Equipment");
+        Options.add("Windows lab");
+        Options.add("Mac lab");
+        Options.add("Study Rooms");
 
         return Options;
     }
+
+
+    /**
+     * Reurn an array of strings representing the days of the week.
+     * @return an Array of day abbreviations.
+     */
     public static String[] getDays(){
 
         String[] Options = new String[7];
@@ -173,11 +193,16 @@ public class Functions {
         Options[3] = "W";
         Options[4] = "TH";
         Options[5] = "F";
-        Options[6] = "St";
+        Options[6] = "ST";
 
 
         return Options;
     }
+
+    /**
+     * Return an array of Strings representing the searchable time slots.
+     * @return an Array of time slot stings.
+     */
     public static String[] getTimeOptions(){
 
         String[] Options = new String[10];
@@ -196,6 +221,12 @@ public class Functions {
         return Options;
     }
 
+    /**
+     * Convert calendar date to a day of the week.
+     *  i.e. 4/15/2016 -> F.
+     * @param date A date in the format "mm/dd/yyyy".
+     * @return An abbreviation for a the day of the week (Friday = F).
+     */
     public static String convertDay(String date){
 
         if(date.equals(""))
@@ -216,6 +247,11 @@ public class Functions {
         return day;
     }
 
+    /**
+     * Covnert a search time into a value used to search the database.
+     * @param timestr  A time string taken from the search filter.
+     * @return A time string to be used to filter the database.
+     */
     public static String convertTime(String timestr){
         int index = getTimes().indexOf(timestr);
         if(index==-1)
@@ -224,6 +260,11 @@ public class Functions {
             return getTimeOptions()[index];
     }
 
+
+    /**
+     * Return a list of times for the interface.
+     * @return A list of time options.
+     */
     public static List<String> getTimes(){
 
         List<String> Options = new ArrayList<String>();

@@ -10,6 +10,9 @@
     <file url="file://$PROJECT_DIR$/src/main/resources/public/css/cover.css" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/resources/public/css/ie10-viewport-bug-workaround.css" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/resources/public/css/navbar-fixed-top.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/public/img/Octocat.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/public/img/logo.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/public/img/softwaremash.png" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/resources/public/js/vendor/jquery.min.js" charset="windows-1252" />
   </component>
 </project>

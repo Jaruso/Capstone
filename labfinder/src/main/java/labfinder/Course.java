@@ -7,6 +7,8 @@ import java.util.List;
 
 /**
  * Created by Joe on 1/10/2016.
+ *
+ * Object wrapper for the Class Document
  */
 public class Course {
 
@@ -21,6 +23,9 @@ public class Course {
     public List<String> EndTime;
 
 
+    /**
+     * Create a empty Course
+     */
     public Course(){
 
         Division = "";
@@ -35,6 +40,10 @@ public class Course {
     }
 
 
+    /**
+     * Create a Course from an existing document.
+     * @param newD An existing Class document.
+     */
     public Course(Document newD)
     {
 
@@ -61,7 +70,10 @@ public class Course {
 
     }
 
-
+    /**
+     * Set values of an existing class from an existing document.
+     * @param newD An existing Class document.
+     */
     public void setValues(Document newD)
     {
 
@@ -88,6 +100,11 @@ public class Course {
 
     }
 
+    /**Return a string of class information
+     * For purposes of debugging.
+     *
+     * @return A string of class values
+     */
     public String toString()
     {
         String s = Division + ", " + Section + ", " + Title + ", " + Room + ", " + Days + ", " + StartTime + ", " + EndTime + ", "
