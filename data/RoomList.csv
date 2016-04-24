@@ -39,7 +39,7 @@ Foster 104,104,FOST,25,0,FOST4,2,1,0,1,0,0,0,0,0,foster,"A large lab space. Cont
 Foster 200,200,FOST,10,0,FOST4,0,0,0,0,0,1,0,0,0,foster,"A small lab space. Contains 10 computers running Windows with dual monitors, some portable whiteboards, and printer access."
 Foster 2nd Floor,2,FOST,0,4,FOSTM,0,0,0,0,0,0,0,0,0,foster,A small lab space. This is the open area on the second floor of Foster. Contains 4 computers running iOS 10.
 MIC 308,308,MIC,27,0,MIC8,0,1,0,1,0,0,0,0,0,miller,"A large lab space. Contains 27 laptops with running Windows, a podium and a computer with a projector."
-MIC 305/306,305/306,MIC,1,0,MIC3,0,1,0,1,0,0,0,0,0,miller,"An average sized classroom. Contains one large table which seats around 20 people, a mobile whiteboard, a podium and a computer with a projector."
+MIC 305,305,MIC,1,0,,0,1,0,1,0,0,0,0,0,miller,"An average sized classroom. Contains one large table which seats around 20 people, a mobile whiteboard, a podium and a computer with a projector."
 MIC 3rd Floor,3,MIC,6,0,MIC3,0,0,1,0,0,0,3,0,0,miller,"The top floor of the library. Contains 6 computers running Windows, has printer access, and has 3 private study rooms."
 MIC 2nd Floor,2,MIC,32,0,MIC2,0,0,1,0,0,0,4,0,0,miller,"The 2nd floor of the library. Contains 32 computers running Windows, has printer access, and has 4 private study rooms."
 MIC 1st Floor,1,MIC,8,0,MIC1,0,0,1,0,0,0,0,1,0,miller,"The 1st floor of the library. Contains 8 computers running Windows, has printer and scanner access."

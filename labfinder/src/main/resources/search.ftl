@@ -120,7 +120,7 @@
             Results
         </h1>
         <h2>${error}</h2>
-        <div class="panel-group" id="accordion">
+        <div class="panel-group">
             <div class="panel panel-default">
                 <#list rooms as room>
                     ${room}

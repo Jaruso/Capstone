@@ -28,11 +28,16 @@ public class Functions {
         BasicDBList or = new BasicDBList();
         BasicDBObject tmpObj;
 
+
         for(String str : list){
             tmpObj = new BasicDBObject("Room", str );
             or.add(tmpObj);
         }
 
+        if(or.toString().equals("[ ]")) //get all rooms
+            return new BasicDBObject("$exists", "Room");
+
+        //else
         return new BasicDBObject("$nor", or);
     }
 
@@ -166,7 +171,7 @@ public class Functions {
 
         Options.add("Printer");
         Options.add("Projector");
-        Options.add("TVs.add(");
+        Options.add("TVs");
         Options.add("Scanner");
         Options.add("Dual Monitors");
         Options.add("Sound Equipment");

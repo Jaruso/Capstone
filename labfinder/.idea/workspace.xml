@@ -2,87 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0e10d1e-b349-4eb9-95e6-38398b6e427a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/img/Octocat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/img/softwaremash.png" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Apache License.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-Black.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-BlackItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-BoldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-LightItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-MediumItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-Thin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\Roboto-ThinItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\RobotoCondensed-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\RobotoCondensed-BoldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\RobotoCondensed-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\RobotoCondensed-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\RobotoCondensed-LightItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\public\fonts\RobotoCondensed-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\target\classes\about.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\target\classes\otherSearch.html" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Joe\Documents\College\CapstoneStuff\Capstone\labfinder\src\main\resources\otherSearch.html" afterPath="$PROJECT_DIR$/src/main/resources/search.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Course.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Course.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/DbManip.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/DbManip.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Functions.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Functions.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Image.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Image.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Main$1.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Main$2.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Main$3.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Main$4.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Main$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Main.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/MongoAccess.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/MongoAccess.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/labfinder/Room.class" afterPath="$PROJECT_DIR$/target/classes/labfinder/Room.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/labfinder-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/labfinder-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/labfinder-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/target/labfinder-jar-with-dependencies.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/Course.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/Course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/Course.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/Course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/labfinder/Course.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/Course.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/labfinder/DbManip.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/DbManip.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/Functions.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/Functions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/Functions.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/Functions.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/labfinder/Functions.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/Functions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/Image.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/Image.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/Image.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/Image.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/labfinder/Image.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/Image.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/Main.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/Main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/Main.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/Main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/labfinder/Main.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/MongoAccess.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/MongoAccess.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/MongoAccess.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/MongoAccess.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/labfinder/MongoAccess.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/MongoAccess.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/Room.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/Room.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/Room.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/class-use/Room.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/labfinder/Room.java" afterPath="$PROJECT_DIR$/src/main/java/labfinder/Room.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Testing.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Testing.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/Testing.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/Testing.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/public/css/about.css" afterPath="$PROJECT_DIR$/src/main/resources/public/css/about.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/css/about.css" afterPath="$PROJECT_DIR$/target/classes/public/css/about.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/abouts.html" afterPath="$PROJECT_DIR$/src/main/resources/abouts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/home.html" afterPath="$PROJECT_DIR$/src/main/resources/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/home.html" afterPath="$PROJECT_DIR$/target/classes/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/package-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/package-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/package-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/labfinder/package-use.html" afterPath="$PROJECT_DIR$/target/site/apidocs/labfinder/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/public/css/soft.css" afterPath="$PROJECT_DIR$/src/main/resources/public/css/soft.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/css/soft.css" afterPath="$PROJECT_DIR$/target/classes/public/css/soft.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/search.ftl" afterPath="$PROJECT_DIR$/src/main/resources/search.ftl" />
     </list>
     <ignored path="LabFinder.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -106,28 +29,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-33.24138">
-              <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.43948296">
+              <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
               <folding>
-                <element signature="e#811#1554#0" expanded="true" />
-                <element signature="e#1135#1151#0" expanded="true" />
-                <element signature="e#1553#1554#0" expanded="true" />
-                <element signature="e#1642#2389#0" expanded="true" />
-                <element signature="e#1969#1985#0" expanded="true" />
-                <element signature="e#2388#2389#0" expanded="true" />
-                <element signature="e#2479#3662#0" expanded="true" />
-                <element signature="e#2806#2822#0" expanded="true" />
-                <element signature="e#3661#3662#0" expanded="true" />
-                <element signature="e#3790#8135#0" expanded="true" />
-                <element signature="e#4214#4222#0" expanded="true" />
-                <element signature="e#4542#4550#0" expanded="true" />
-                <element signature="e#4859#4865#0" expanded="true" />
-                <element signature="e#5892#5908#0" expanded="true" />
-                <element signature="e#7179#7195#0" expanded="true" />
-                <element signature="e#8134#8135#0" expanded="true" />
+                <element signature="e#845#1588#0" expanded="true" />
+                <element signature="e#1169#1185#0" expanded="true" />
+                <element signature="e#1587#1588#0" expanded="true" />
+                <element signature="e#1676#2423#0" expanded="true" />
+                <element signature="e#2003#2019#0" expanded="true" />
+                <element signature="e#2422#2423#0" expanded="true" />
+                <element signature="e#2513#3696#0" expanded="true" />
+                <element signature="e#2840#2856#0" expanded="true" />
+                <element signature="e#3695#3696#0" expanded="true" />
+                <element signature="e#3824#8571#0" expanded="true" />
+                <element signature="e#4248#4256#0" expanded="true" />
+                <element signature="e#4523#4531#0" expanded="true" />
+                <element signature="e#4840#4846#0" expanded="true" />
+                <element signature="e#6062#6078#0" expanded="true" />
+                <element signature="e#7618#7634#0" expanded="true" />
+                <element signature="e#8570#8571#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,15 +66,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Functions.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Functions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Functions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5640423">
-              <caret line="120" column="44" selection-start-line="120" selection-start-column="44" selection-end-line="120" selection-end-column="44" />
+            <state vertical-scroll-proportion="-25.827587">
+              <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
               <folding>
-                <element signature="e#4168#4176#0" expanded="true" />
-                <element signature="e#5707#5715#0" expanded="true" />
-                <element signature="e#8488#8496#0" expanded="true" />
+                <element signature="e#4298#4306#0" expanded="true" />
+                <element signature="e#5837#5845#0" expanded="true" />
+                <element signature="e#8613#8621#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,8 +83,8 @@
       <file leaf-file-name="search.ftl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/search.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.346153">
-              <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+            <state vertical-scroll-proportion="-51.653847">
+              <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -170,16 +93,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="abouts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/abouts.html">
+      <file leaf-file-name="soft.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/public/css/soft.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -188,7 +107,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Room.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
               <folding>
                 <element signature="e#3829#3830#0" expanded="true" />
                 <element signature="e#3887#3888#0" expanded="true" />
@@ -223,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/DbManip.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -232,17 +151,17 @@
       <file leaf-file-name="MongoAccess.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/MongoAccess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.344828">
-              <caret line="143" column="7" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
+            <state vertical-scroll-proportion="-8.793103">
+              <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
               <folding>
                 <element signature="e#1175#1183#0" expanded="true" />
                 <element signature="e#1665#1671#0" expanded="true" />
-                <element signature="e#2405#2411#0" expanded="true" />
-                <element signature="e#3566#3574#0" expanded="true" />
-                <element signature="e#4571#4579#0" expanded="true" />
-                <element signature="e#5967#5977#0" expanded="true" />
-                <element signature="e#6197#6205#0" expanded="true" />
-                <element signature="e#9313#9323#0" expanded="true" />
+                <element signature="e#2453#2459#0" expanded="true" />
+                <element signature="e#3614#3622#0" expanded="true" />
+                <element signature="e#4619#4627#0" expanded="true" />
+                <element signature="e#6015#6025#0" expanded="true" />
+                <element signature="e#6245#6253#0" expanded="true" />
+                <element signature="e#9361#9371#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -314,14 +233,14 @@
         <option value="$PROJECT_DIR$/src/main/resources/public/css/soft.css" />
         <option value="$PROJECT_DIR$/src/main/resources/home.html" />
         <option value="$PROJECT_DIR$/src/main/resources/abouts.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/search.ftl" />
         <option value="$PROJECT_DIR$/src/main/java/labfinder/DbManip.java" />
-        <option value="$PROJECT_DIR$/src/main/java/labfinder/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/labfinder/Image.java" />
         <option value="$PROJECT_DIR$/src/main/java/labfinder/Room.java" />
         <option value="$PROJECT_DIR$/src/main/java/labfinder/Course.java" />
         <option value="$PROJECT_DIR$/src/main/java/labfinder/MongoAccess.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/search.ftl" />
         <option value="$PROJECT_DIR$/src/main/java/labfinder/Functions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/labfinder/Main.java" />
       </list>
     </option>
   </component>
@@ -351,8 +270,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="537" />
-    <option name="width" value="1383" />
+    <option name="x" value="769" />
+    <option name="width" value="1151" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -531,6 +450,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LabFinder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labfinder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -883,7 +832,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="537" y="0" width="1383" height="1040" extended-state="0" />
+    <frame x="769" y="0" width="1151" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -897,7 +846,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38986784" sideWeight="0.34168443" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.49740162" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1866969" sideWeight="0.8172043" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2263978" sideWeight="0.8172043" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17477657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -996,22 +945,22 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="121" column="0" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
           <folding>
-            <element signature="e#811#1554#0" expanded="true" />
-            <element signature="e#1135#1151#0" expanded="true" />
-            <element signature="e#1553#1554#0" expanded="true" />
-            <element signature="e#1642#2389#0" expanded="true" />
-            <element signature="e#1969#1985#0" expanded="true" />
-            <element signature="e#2388#2389#0" expanded="true" />
-            <element signature="e#2479#3662#0" expanded="true" />
-            <element signature="e#2806#2822#0" expanded="true" />
-            <element signature="e#3661#3662#0" expanded="true" />
-            <element signature="e#3790#8135#0" expanded="true" />
-            <element signature="e#4214#4222#0" expanded="true" />
-            <element signature="e#4542#4550#0" expanded="true" />
-            <element signature="e#4859#4865#0" expanded="true" />
-            <element signature="e#5892#5908#0" expanded="true" />
-            <element signature="e#7179#7195#0" expanded="true" />
-            <element signature="e#8134#8135#0" expanded="true" />
+            <element signature="e#845#1588#0" expanded="true" />
+            <element signature="e#1169#1185#0" expanded="true" />
+            <element signature="e#1587#1588#0" expanded="true" />
+            <element signature="e#1676#2423#0" expanded="true" />
+            <element signature="e#2003#2019#0" expanded="true" />
+            <element signature="e#2422#2423#0" expanded="true" />
+            <element signature="e#2513#3696#0" expanded="true" />
+            <element signature="e#2840#2856#0" expanded="true" />
+            <element signature="e#3695#3696#0" expanded="true" />
+            <element signature="e#3824#8571#0" expanded="true" />
+            <element signature="e#4248#4256#0" expanded="true" />
+            <element signature="e#4523#4531#0" expanded="true" />
+            <element signature="e#4840#4846#0" expanded="true" />
+            <element signature="e#6062#6078#0" expanded="true" />
+            <element signature="e#7618#7634#0" expanded="true" />
+            <element signature="e#8570#8571#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1224,13 +1173,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/css/soft.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="151" column="23" selection-start-line="151" selection-start-column="23" selection-end-line="151" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1267,17 +1209,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/search.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.346153">
-          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/abouts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.1923075">
@@ -1290,29 +1221,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <element signature="e#3829#3830#0" expanded="true" />
-            <element signature="e#3887#3888#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Image.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/DbManip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1337,54 +1249,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/MongoAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.344828">
-          <caret line="143" column="7" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
+        <state vertical-scroll-proportion="-8.793103">
+          <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
           <folding>
             <element signature="e#1175#1183#0" expanded="true" />
             <element signature="e#1665#1671#0" expanded="true" />
-            <element signature="e#2405#2411#0" expanded="true" />
-            <element signature="e#3566#3574#0" expanded="true" />
-            <element signature="e#4571#4579#0" expanded="true" />
-            <element signature="e#5967#5977#0" expanded="true" />
-            <element signature="e#6197#6205#0" expanded="true" />
-            <element signature="e#9313#9323#0" expanded="true" />
+            <element signature="e#2453#2459#0" expanded="true" />
+            <element signature="e#3614#3622#0" expanded="true" />
+            <element signature="e#4619#4627#0" expanded="true" />
+            <element signature="e#6015#6025#0" expanded="true" />
+            <element signature="e#6245#6253#0" expanded="true" />
+            <element signature="e#9361#9371#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/css/soft.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.24138">
-          <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/search.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-51.653847">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding>
-            <element signature="e#811#1554#0" expanded="true" />
-            <element signature="e#1135#1151#0" expanded="true" />
-            <element signature="e#1553#1554#0" expanded="true" />
-            <element signature="e#1642#2389#0" expanded="true" />
-            <element signature="e#1969#1985#0" expanded="true" />
-            <element signature="e#2388#2389#0" expanded="true" />
-            <element signature="e#2479#3662#0" expanded="true" />
-            <element signature="e#2806#2822#0" expanded="true" />
-            <element signature="e#3661#3662#0" expanded="true" />
-            <element signature="e#3790#8135#0" expanded="true" />
-            <element signature="e#4214#4222#0" expanded="true" />
-            <element signature="e#4542#4550#0" expanded="true" />
-            <element signature="e#4859#4865#0" expanded="true" />
-            <element signature="e#5892#5908#0" expanded="true" />
-            <element signature="e#7179#7195#0" expanded="true" />
-            <element signature="e#8134#8135#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Functions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5640423">
-          <caret line="120" column="44" selection-start-line="120" selection-start-column="44" selection-end-line="120" selection-end-column="44" />
+        <state vertical-scroll-proportion="-25.827587">
+          <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
           <folding>
-            <element signature="e#4168#4176#0" expanded="true" />
-            <element signature="e#5707#5715#0" expanded="true" />
-            <element signature="e#8488#8496#0" expanded="true" />
+            <element signature="e#4298#4306#0" expanded="true" />
+            <element signature="e#5837#5845#0" expanded="true" />
+            <element signature="e#8613#8621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <folding>
+            <element signature="e#3829#3830#0" expanded="true" />
+            <element signature="e#3887#3888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/DbManip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/labfinder/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43948296">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+          <folding>
+            <element signature="e#845#1588#0" expanded="true" />
+            <element signature="e#1169#1185#0" expanded="true" />
+            <element signature="e#1587#1588#0" expanded="true" />
+            <element signature="e#1676#2423#0" expanded="true" />
+            <element signature="e#2003#2019#0" expanded="true" />
+            <element signature="e#2422#2423#0" expanded="true" />
+            <element signature="e#2513#3696#0" expanded="true" />
+            <element signature="e#2840#2856#0" expanded="true" />
+            <element signature="e#3695#3696#0" expanded="true" />
+            <element signature="e#3824#8571#0" expanded="true" />
+            <element signature="e#4248#4256#0" expanded="true" />
+            <element signature="e#4523#4531#0" expanded="true" />
+            <element signature="e#4840#4846#0" expanded="true" />
+            <element signature="e#6062#6078#0" expanded="true" />
+            <element signature="e#7618#7634#0" expanded="true" />
+            <element signature="e#8570#8571#0" expanded="true" />
           </folding>
         </state>
       </provider>

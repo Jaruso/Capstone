@@ -4,6 +4,7 @@ package labfinder;
  * Created by Joe on 1/3/2016.
  */
 
+import com.mongodb.BasicDBObject;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
@@ -140,7 +141,6 @@ public class Main {
                 final Collection<String> softstrings = new ArrayList<String>();
                 if (request.queryParamsValues("softwareFilter[]")!= null) {
                     softstrings.addAll(Arrays.asList(request.queryParamsValues("softwareFilter[]")));
-                    System.out.println(softstrings);
                 }
                 final ArrayList<String> hardstrings = new ArrayList<String>();
                 if (request.queryParamsValues("hardwareFilter[]") != null) {
@@ -155,7 +155,11 @@ public class Main {
 
                 if((!timeString.equals(""))&&(!dayString.equals(""))){
                     search = true;
-                    filterlist.add(Functions.generateRoomFilter(MongoAccess.getRoomList(timeString, dayString)));
+                    BasicDBObject tmp = Functions.generateRoomFilter(MongoAccess.getRoomList(timeString, dayString));
+                    if(tmp.toString().equals("{ \"$exists\" : \"Room\"}"))
+                    {/* do nothing */ }
+                    else
+                    { filterlist.add(tmp); }
                 }
                 if(!softstrings.isEmpty()) {
                     search = true;
@@ -177,8 +181,14 @@ public class Main {
                         Map<String, Object> thisMap = new HashMap<String, Object>();
 
                         // Query MongoDB for rooms
-                        List<Room> rooms = MongoAccess.getSomeRooms(Functions.combineFilter(filterlist));
-
+                        List<Room> rooms;
+                        if(filterlist.toString().equals("[]"))
+                        {
+                            rooms = MongoAccess.getAllRooms();
+                        }
+                        else {
+                            rooms = MongoAccess.getSomeRooms(Functions.combineFilter(filterlist));
+                        }
                         //generate page content
 
                         thisMap.put("error", "");
@@ -206,9 +216,6 @@ public class Main {
                         //  specify the html and set up map
                         Template thisTemplate = configuration.getTemplate("search.ftl");
                         Map<String, Object> thisMap = new HashMap<String, Object>();
-
-
-
 
                         //generate page content
                         List rooms = new ArrayList<String>();

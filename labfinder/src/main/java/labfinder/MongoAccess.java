@@ -61,6 +61,7 @@ public class MongoAccess {
         for(Document doc : all)
         {
             rooms.add(new Room(doc));
+            System.out.println(doc.toString());
         }
 
         return rooms;
